@@ -1,10 +1,14 @@
 import unittest
+import json
 from limerick import LimerickDetector
 
 class TestSequenceFunctions(unittest.TestCase):
 
     def setUp(self):
         self.ld = LimerickDetector()
+
+        with open("sample_limericks.json") as infile:
+            self.limerick_tests = json.load(infile)
 
     def test_rhyme(self):
         self.assertEqual(self.ld.rhymes("dog", "bog"), True)
@@ -38,51 +42,8 @@ class TestSequenceFunctions(unittest.TestCase):
         self.assertEqual(self.ld.num_syllables("reluctant"), 3)
 
     def test_examples(self):
-
-        a = """
-a woman whose friends called a prude
-on a lark when bathing all nude
-saw a man come along
-and unless we are wrong
-you expected this line to be lewd
-        """
-
-        b = """while it's true all i've done is delay
-in defense of myself i must say
-today's payoff is great
-while the workers all wait
-"""
-
-        c = """
-this thing is supposed to rhyme
-but I simply don't got the time
-who cares if i miss,
-nobody will read this
-i'll end this here poem potato
-"""
-
-        d = """There was a young man named Wyatt
-whose voice was exceedingly quiet
-And then one day
-it faded away"""
-
-        e = """An exceedingly fat friend of mine,
-When asked at what hour he'd dine,
-Replied, "At eleven,
-At three, five, and seven,
-And eight and a quarter past nine"""
-
-        f = """A limerick fan from Australia
-regarded his work as a failure:
-his verses were fine
-until the fourth line"""
-
-        g = """There was a young lady one fall
-Who wore a newspaper dress to a ball.
-The dress caught fire
-And burned her entire
-Front page, sporting section and all."""
-
+        self.setUp()
+        a,b,c,d,e,f,g = ['\n'.join(test['lines']) for test in self.limerick_tests]
         self.assertEqual(self.ld.is_limerick(a), True)
         self.assertEqual(self.ld.is_limerick(b), False)
         self.assertEqual(self.ld.is_limerick(c), False)
