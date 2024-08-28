@@ -1,5 +1,5 @@
-# Author: YOUR NAME HERE
-# Date: DATE SUBMITTED
+# Author: Kavinda Kehelella
+# Date: 08/30/2024
 
 # Use word_tokenize to split raw text into words
 import nltk
@@ -44,7 +44,15 @@ class LimerickDetector:
         """
 
         # TODO: Complete this function
-        return 1
+        word = self._normalize(word)
+        if word not in self._pronunciations:
+            return 1  # If the word is not in the dictionary, assume 1 syllable
+    
+        # Get all pronunciations and calculate syllable counts
+        syllable_counts = [len(self._vowels(pron)) for pron in self._pronunciations[word]]
+    
+        return min(syllable_counts)  # Return the minimum syllable count
+        # return 1
     
     def after_stressed(self, word):
         """
@@ -54,11 +62,20 @@ class LimerickDetector:
         """
 
         # TODO: Complete this function
-        
+
         pronunciations = self._pronunciations.get(self._normalize(word), [])
         
         for pronunciation in pronunciations:
-                yield pronunciation
+            stressed_idx = -1
+            yield pronunciation
+
+            # Find the index of the last stressed vowel
+            for i, phoneme in enumerate(pronunciation):
+                if phoneme[-1] in '12':  # Primary (1) or secondary (2) stress
+                    stressed_idx = i
+            
+            if stressed_idx != -1:
+                yield pronunciation[stressed_idx:]  # Yield everything after the last stressed vowel
     
     def rhymes(self, a, b):
         """
@@ -76,8 +93,16 @@ class LimerickDetector:
         # TODO: Complete this function
         # Look up the pronunciations and get the prounciation after
         # the stressed vowel
-
-
+        a = self._normalize(a)
+        b = self._normalize(b)
+        
+        pronunciations_a = list(self.after_stressed(a))
+        pronunciations_b = list(self.after_stressed(b))
+        
+        for pron_a in pronunciations_a:
+            for pron_b in pronunciations_b:
+                if pron_a == pron_b:
+                    return True
 
         return False
 
@@ -86,7 +111,12 @@ class LimerickDetector:
         Given a list of lines in a list, return the last word in each line
         """
         # TODO: Complete this function
-        return None
+        words = []
+        for line in lines:
+            tokens = word_tokenize(line)
+            words.append(tokens[-1] if tokens else "")
+        return words
+        # return None
 
     def is_limerick(self, text):
         """
@@ -105,8 +135,19 @@ class LimerickDetector:
         lines = text.split('\n')
 
         # TODO: Complete this function
-
-
+        text = text.strip()
+        lines = text.split('\n')
+        
+        if len(lines) != 5:
+            return False  # A limerick must have exactly 5 lines
+        
+        last_words = self.last_words(lines)
+        
+        # Check the rhyme scheme AABBA
+        if self.rhymes(last_words[0], last_words[1]) and \
+        self.rhymes(last_words[0], last_words[4]) and \
+        self.rhymes(last_words[2], last_words[3]):
+            return True
 
         return False
 
