@@ -44,15 +44,14 @@ class LimerickDetector:
         """
 
         # TODO: Complete this function
+
         word = self._normalize(word)
         if word not in self._pronunciations:
-            return 1  # If the word is not in the dictionary, assume 1 syllable
+            return 1  # If there is no entry in the dictionary, return 1
     
-        # Get all pronunciations and calculate syllable counts
+        # Get all the pronunciations and then put syllables to a list
         syllable_counts = [len(self._vowels(pron)) for pron in self._pronunciations[word]]
-    
         return min(syllable_counts)  # Return the minimum syllable count
-        # return 1
     
     def after_stressed(self, word):
         """
@@ -67,7 +66,6 @@ class LimerickDetector:
         
         for pronunciation in pronunciations:
             stressed_idx = -1
-            yield pronunciation
 
             # Find the index of the last stressed vowel
             for i, phoneme in enumerate(pronunciation):
@@ -75,7 +73,7 @@ class LimerickDetector:
                     stressed_idx = i
             
             if stressed_idx != -1:
-                yield pronunciation[stressed_idx:]  # Yield everything after the last stressed vowel
+                yield pronunciation[stressed_idx:]  # Yield everything after the last stressed vowel including the vowel according to piazza response
     
     def rhymes(self, a, b):
         """
@@ -96,9 +94,11 @@ class LimerickDetector:
         a = self._normalize(a)
         b = self._normalize(b)
         
+        # Extract everything after the last stressed vowel including the vowel in each pronounciation
         pronunciations_a = list(self.after_stressed(a))
         pronunciations_b = list(self.after_stressed(b))
         
+        # Check for rhymes
         for pron_a in pronunciations_a:
             for pron_b in pronunciations_b:
                 if pron_a == pron_b:
@@ -111,12 +111,16 @@ class LimerickDetector:
         Given a list of lines in a list, return the last word in each line
         """
         # TODO: Complete this function
+
         words = []
         for line in lines:
-            tokens = word_tokenize(line)
+            tokens_puncts = word_tokenize(line)
+
+            # Filter out punctuation from the tokens
+            tokens = [token for token in tokens_puncts if token not in punctuation]
+
             words.append(tokens[-1] if tokens else "")
         return words
-        # return None
 
     def is_limerick(self, text):
         """
@@ -135,18 +139,15 @@ class LimerickDetector:
         lines = text.split('\n')
 
         # TODO: Complete this function
-        text = text.strip()
-        lines = text.split('\n')
         
         if len(lines) != 5:
             return False  # A limerick must have exactly 5 lines
         
         last_words = self.last_words(lines)
         
-        # Check the rhyme scheme AABBA
-        if self.rhymes(last_words[0], last_words[1]) and \
-        self.rhymes(last_words[0], last_words[4]) and \
-        self.rhymes(last_words[2], last_words[3]):
+        # Check for limerick AABBA
+        if self.rhymes(last_words[0], last_words[1]) and self.rhymes(last_words[0], last_words[4]) and self.rhymes(last_words[2], last_words[3]) and \
+        not self.rhymes(last_words[0], last_words[2]):
             return True
 
         return False
