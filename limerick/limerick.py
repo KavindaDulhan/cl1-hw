@@ -8,6 +8,7 @@ import json
 from nltk.tokenize import word_tokenize
 from string import punctuation, digits
 import re
+nltk.download('punkt_tab')
 
 class LimerickDetector:
     @staticmethod
@@ -151,6 +152,25 @@ class LimerickDetector:
             return True
 
         return False
+    
+    # Extra credit functions
+    def apostrophe_tokenize(self, text):
+        """
+        This function handles apostrophes in words correctly so that "can’t" would rhyme with "pant" as an example.
+        """
+        return re.findall(r"\b\w+'\w+|\w+\b", text)
+    
+    def guess_syllables(self, word):
+        """
+        This function guesses about the number of syllables in unknown words not found in the dictionary.
+        
+        Here, this counts number of groups of vowels in the word and return the count. If there are no vowels then return 1.
+
+        As an example "aehdsiopypapa" returns 3 since it finds the list of vowel groups as ['ae', 'io', 'y', 'a', 'a']
+        """
+        word = self._normalize(word)
+        return len(re.findall(r'[aeiouy]+', word))
+
 
 if __name__ == "__main__":
     ld = LimerickDetector()
