@@ -8,6 +8,7 @@ from numpy import mean
 import nltk
 from nltk import FreqDist
 from nltk.util import bigrams
+nltk.download('brown')
 
 kLM_ORDER = 2
 kUNK_CUTOFF = 3
@@ -15,6 +16,7 @@ kNEG_INF = -1e6
 
 kSTART = "<S>"
 kEND = "</S>"
+kUNK = "<UNK>"
 
 token = int | str
 
@@ -77,11 +79,14 @@ class BigramLanguageModel:
         self._training_counts = FreqDist()
 
         # Add your code here!        
-        # Bigram counts        
+        # Bigram counts
+        self._bigram_counts = FreqDist()        
 
         # Unigram counts
+        self._unigram_counts = FreqDist()
 
         # Prefix counts
+        self._prefix_counts = FreqDist()
 
     def train_seen(self, word: str, count: int=1):
         """
@@ -118,7 +123,7 @@ class BigramLanguageModel:
         if word in self._vocab:
             return word
         else:
-            return None
+            return kUNK
 
     def finalize(self):
         """
@@ -135,6 +140,7 @@ class BigramLanguageModel:
         # -------------------------------------------------------------------
         # You may want to add code here because it's at this point you know
         # the vocab size
+        self._vocab.add(kUNK)
         # -------------------------------------------------------------------
 
         assert self.vocab_lookup(kSTART) is not None, "Missing start"
@@ -175,7 +181,15 @@ class BigramLanguageModel:
 
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.        
-        return 0.0
+
+        # Count of the bigram
+        bigram_count = self._bigram_counts.get((context, word), 0)
+        unigram_count = self._unigram_counts.get(context, 0)
+
+        if bigram_count == 0:
+            return kNEG_INF
+        
+        return lg(bigram_count / unigram_count)
 
     def laplace(self, context: token, word: token):
         """
@@ -187,7 +201,10 @@ class BigramLanguageModel:
 
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.                    
-        return 0.0
+        bigram_count = self._bigram_counts.get((context, word), 0) + 1
+        unigram_count = self._unigram_counts.get(context, 0) + self.vocab_size()
+
+        return lg(bigram_count / unigram_count)
 
     def jelinek_mercer(self, context, word):
         """
@@ -201,7 +218,16 @@ class BigramLanguageModel:
 
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.                
-        return 0.0
+        bigram_count = self._bigram_counts.get((context, word), 0)
+        unigram_count_context = self._unigram_counts.get(context, 0)
+        unigram_count_word = self._unigram_counts.get(word, 0)
+
+        total_unigram_count = sum(self._unigram_counts.values())
+        
+        p_bigram = bigram_count/unigram_count_context
+        p_word = unigram_count_word/total_unigram_count
+
+        return lg(self._jm_lambda * p_word + (1 - self._jm_lambda) * p_bigram)
 
         
           
@@ -229,7 +255,10 @@ class BigramLanguageModel:
         """
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.
-        return 0.0
+        bigram_count = self._bigram_counts.get((context, word), 0) + self._dirichlet_alpha
+        unigram_count = self._unigram_counts.get(context, 0) + self.vocab_size() * self._dirichlet_alpha
+
+        return lg(bigram_count / unigram_count)
 
     def vocab_size(self) -> int:
         """
@@ -247,8 +276,10 @@ class BigramLanguageModel:
         # You'll need to complete this function, but here's a line of code that
         # will hopefully get you started.
         for context, word in bigrams(self.censor(sentence)):
-            None
-            # ---------------------------------------
+            self._bigram_counts[(context, word)] += 1
+            self._unigram_counts[context] += 1   
+            self._prefix_counts[context] += 1
+        self._unigram_counts[kEND] += 1
 
     def perplexity(self, sentence: str, method: typing.Callable) -> float:
         """
