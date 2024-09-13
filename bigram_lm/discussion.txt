@@ -1,0 +1,68 @@
+The source code to find the low perplexity sentences for each method can be found in the "bigram_lm.py" file lines 414 - 452.
+I have uploded all the required text files in the submission link as well as below google drive links.
+________________________________________________________________________________________________________________________________________________________________________________________
+MLE scheme
+
+You can find the sorted sentences based on perplexity in the attached file [mle.txt](https://drive.google.com/file/d/1oes2bAoWNeRfFtujyf_4mGbXGvUM7Uxt/view?usp=sharing)
+Below are some of the patterns I found.
+    1. Low perplexity sentences are very short. Those have 2 to 3 tokens. 
+        examples: "The Quadrant .", "he said .", "Sey ."
+    2. The sentences with the lowest perplexity have the pattern "the <noun> ." pattern and the all those sentences have perplexity: 6.376092122660
+        examples: "The Quadrant .", "The Hyena ." (lines 1 - 20 in mle.txt)
+    3. "An unknown word (it seems to me names) ." pattern sentences have low perplexity 8.985505948678
+        examples: "Sey .", "Talb ." (lines 57 - 1997 in mle.txt)
+    4. Common phrases like "he said .", "she said ." have low perplexity
+    5. Sentences with unknown words have lower perplexities even those that are not too short (like 4 - 5 tokens).
+        examples: "the DUODECIMO WHALE ." (7.989998514560), "Varrus , and Claudio ." (9.608780439171)
+    6. Sentences with only numbers or mostly punctuation marks have low perplexities.
+        examples: "550 , 000 lbs ." (11.867906742762), "he !-- Mr ."(12.092496788728)
+    7. Sentences with only "." have a bit higher perplexity(32.586068370576) in MLE estimate.
+________________________________________________________________________________________________________________________________________________________________________________________
+Laplace scheme
+
+You can find the sorted sentences based on perplexity in the attached file [laplace.txt](https://drive.google.com/file/d/1qN1VoGrc2ac1dqwou_Ie6Tf2NTU-E3T6/view?usp=sharing)
+Below are some of the patterns I found.
+    1. Low perplexity sentences are very short. Those have 2 to 3 tokens. 
+        examples: "The Quadrant .", "THE BRACELETS ."
+    2. The sentences with the lowest perplexity have the pattern "the <noun> ." pattern and the all those sentences have perplexity: 8.964141241969
+        examples: "The Quadrant .", "The Hyena ." (lines 1 - 20 in laplace.txt)
+    3. "An unknown word (it seems to me names) ." pattern sentences have low perplexity 12.981900873621
+        examples: "Sey .", "Talb ." (lines 28 - 1972 in laplace.txt)
+    4. Sentences with unknown words have lower perplexities even those that are not too short (like 4 - 5 tokens).
+        examples: "The Huzza Porpoise ." (11.477669637579), "Hoboyes , and Torches ." (14.319458718660)
+    5. Sentences with only numbers or mostly punctuation marks have low perplexities.
+        examples: "550 , 000 lbs ." (11.867906742762), "he !-- Mr ."(12.092496788728)
+    6. Sentences with only "." have a bit higher perplexity(44.828678606591) in Laplace scheme.
+________________________________________________________________________________________________________________________________________________________________________________________
+Dirichlet scheme
+
+You can find the sorted sentences based on perplexity in the attached file [dirichlet.txt](https://drive.google.com/file/d/1XwX3ubgbUD1SncXdtzvfqXlwLeZMAwpX/view?usp=sharing)
+Below are some of the patterns I found.
+    1. Low perplexity sentences are very short. Those have 2 to 3 tokens. 
+        examples: "The Quadrant .", "THE MIMIC .", "The Decanter ."
+    2. The sentences with the lowest perplexity have the pattern "the <noun> ." pattern and the all those sentences have perplexity: 6.636865655737
+        examples: "The Quadrant .", "The Hyena ." (lines 1 - 20 in dirichlet.txt)
+    3. "An unknown word (it seems to me names) ." pattern sentences have low perplexity 9.387299118348
+        examples: "Sey .", "Talb ." (lines 44 - 1988 in mle.txt)
+    4. Sentences with unknown words have lower perplexities even those that are not too short (like 4 - 5 tokens).
+        examples: "the DUODECIMO WHALE ." (8.341721277412), "Varrus , and Claudio ." (10.084630060650)
+    5. Sentences with only numbers or mostly punctuation marks have low perplexities.
+        examples: ""` Mr ." (11.455447491803), "550 , 000 lbs ."(12.426731856091)
+    6. Sentences with only "." have a bit higher perplexity(33.821219429959) in Dirichlet scheme.
+________________________________________________________________________________________________________________________________________________________________________________________
+Jelinek Mercer scheme
+
+You can find the sorted sentences based on perplexity in the attached file [jelinek_mercer.txt](https://drive.google.com/file/d/1JU1_D6v98QAKaBOc8y82hNXZkWoFGR9G/view?usp=sharing)
+Below are some of the patterns I found.
+    1. Sentences with only "." have the lowest probability in Jelinek Mercer scheme. Perplexity is 9.965729901828. 
+       Therefore, this scheme is bit different from all other schemes because in all other schemes "." had a bit higher perplexity.
+    2. Low perplexity sentences are very short. Those have 1 to 3 tokens. 
+        examples: ".", "The Quadrant .", "Patty ."
+    3. The sentences with the second lowest perplexity have the pattern "the <noun> ." pattern and the all those sentences have perplexity: 10.549339146129
+        examples: "The Quadrant .", "The Hyena ." (lines 45 - 64 in jelinek_mercer.txt)
+    4. "An unknown word (it seems to me names) ." pattern sentences have low perplexity 12.111455821623
+        examples: "Sey .", "Talb ." (lines 65 - 2009 in jelinek_mercer.txt)
+    5. Sentences with unknown words have lower perplexities even those thet are not too short (like 4 - 5 tokens).
+        examples: "The Huzza Porpoise ." (12.704875021228), "Varrus , and Claudio ." (14.442734364994)
+    6. Sentences with only numbers or mostly punctuation marks have low perplexities.
+        examples: ""` Mr ." (14.761653402239), "550 , 000 lbs ."(16.210314956646)

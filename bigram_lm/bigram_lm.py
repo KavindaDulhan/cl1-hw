@@ -8,7 +8,8 @@ from numpy import mean
 import nltk
 from nltk import FreqDist
 from nltk.util import bigrams
-nltk.download('brown')
+# nltk.download('brown')
+# nltk.download('gutenberg')
 
 kLM_ORDER = 2
 kUNK_CUTOFF = 3
@@ -121,7 +122,7 @@ class BigramLanguageModel:
             "Vocab must be finalized before looking up words"
 
         if word in self._vocab:
-            return word
+            return self._vocab. word
         else:
             return kUNK  # Return unknown token if the word is not in vocabulary
 
@@ -258,6 +259,7 @@ class BigramLanguageModel:
         unique_followings = []
         for (c, w) in self._bigram_counts:
             if c == context:
+                self._bigram_counts.get((c, w), 0)
                 T += self._bigram_counts.get((c, w), 0)
             if w == word:
                 c_yx_count += 1
@@ -377,6 +379,9 @@ if __name__ == "__main__":
     # Build the test corpus
     num_sentences = len(nltk.corpus.gutenberg.sents())
 
+    print("Test language model with %i sentences from Gutenberg corpus." % num_sentences)
+    args.test_limit = num_sentences
+
     if args.test_limit > 0:
         from random import sample
         sentence_indices = sample(range(num_sentences), args.test_limit)
@@ -385,7 +390,33 @@ if __name__ == "__main__":
         sentence_indices = list(range(num_sentences))
         shuffle(sentence_indices)        
     
-    for method_name in ['kneser_ney', 'mle', 'dirichlet', 'jelinek_mercer', 'laplace']:
+    # for method_name in ['kneser_ney', 'mle', 'dirichlet', 'jelinek_mercer', 'laplace']:
+    #     print("======================")
+    #     print("      %s" % method_name)
+    #     print("======================")        
+    #     sentence_count = 0
+    #     method = getattr(lm, method_name)
+
+    #     from random import shuffle
+    #     sentences = nltk.corpus.gutenberg.sents()
+
+    #     for sent_index in sentence_indices:
+    #         sent = sentences[sent_index]
+    #         original = list(sent)
+    #         censored = list(lm.censor(original))
+
+    #         for ii, jj, kk in zip([""] + original, censored, [0.0] + [method(censored[ii-1], censored[ii]) for ii in range(1, len(censored))]):
+    #             print("%10s\t%10s\t%03.4f" % (ii, jj, kk))
+    #         print("Perplexity: %0.4f" % lm.perplexity(original, method))
+    #         print("----------------")
+
+
+    ##########################################################################################################################################
+    # Exploration (10 points)
+    # Here I have modified the above for loop to get perplexities for each sentence and wrtie it to different text files based on the method
+    # Initialize a list to store sentence index and perplexities
+    
+    for method_name in ['mle', 'dirichlet', 'jelinek_mercer', 'laplace']:
         print("======================")
         print("      %s" % method_name)
         print("======================")        
@@ -395,12 +426,27 @@ if __name__ == "__main__":
         from random import shuffle
         sentences = nltk.corpus.gutenberg.sents()
 
+        perplexity_results = []
         for sent_index in sentence_indices:
             sent = sentences[sent_index]
             original = list(sent)
-            censored = list(lm.censor(original))
 
-            for ii, jj, kk in zip([""] + original, censored, [0.0] + [method(censored[ii-1], censored[ii]) for ii in range(1, len(censored))]):
-                print("%10s\t%10s\t%03.4f" % (ii, jj, kk))
-            print("Perplexity: %0.4f" % lm.perplexity(censored, method))
-            print("----------------")
+            perplexity = lm.perplexity(original, method)
+
+            # Store the result
+            perplexity_results.append({
+                'sentence': original,
+                'perplexity': perplexity
+            })
+
+        # Find sentences with low perplexities for each method
+        perplexity_results.sort(key=lambda x: x['perplexity'])
+        
+        # Write sorted sentences to separate files based on the method
+        print("%s writing started" % method_name)
+        file = open(f"{method_name}.txt", "w")
+        for result in perplexity_results:
+            file.write(f"Perplexity: {result['perplexity']:.12f}  Original Sentence: {' '.join(result['sentence'])}\n")
+        file.close()
+        print("%s writing end" % method_name)
+        print("======================")   
