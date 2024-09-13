@@ -16,7 +16,7 @@ kNEG_INF = -1e6
 
 kSTART = "<S>"
 kEND = "</S>"
-kUNK = "<UNK>"
+kUNK = "<UNK>"      # Define unknown token
 
 token = int | str
 
@@ -123,7 +123,7 @@ class BigramLanguageModel:
         if word in self._vocab:
             return word
         else:
-            return kUNK
+            return kUNK  # Return unknown token if the word is not in vocabulary
 
     def finalize(self):
         """
@@ -140,7 +140,7 @@ class BigramLanguageModel:
         # -------------------------------------------------------------------
         # You may want to add code here because it's at this point you know
         # the vocab size
-        self._vocab.add(kUNK)
+        self._vocab.add(kUNK)  # Add unknown token to the vocabulary
         # -------------------------------------------------------------------
 
         assert self.vocab_lookup(kSTART) is not None, "Missing start"
@@ -182,12 +182,12 @@ class BigramLanguageModel:
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.        
 
-        # Count of the bigram
+        # Count of the bigrams and unigrams
         bigram_count = self._bigram_counts.get((context, word), 0)
         unigram_count = self._unigram_counts.get(context, 0)
 
         if bigram_count == 0:
-            return kNEG_INF
+            return kNEG_INF     # Return kNEG_INF for lg(0)
         
         return lg(bigram_count / unigram_count)
 
@@ -200,7 +200,8 @@ class BigramLanguageModel:
         """
 
         # This initially return 0.0, ignoring the word and context.
-        # Modify this code to return the correct value.                    
+        # Modify this code to return the correct value. 
+        # Laplace smoothing                   
         bigram_count = self._bigram_counts.get((context, word), 0) + 1
         unigram_count = self._unigram_counts.get(context, 0) + self.vocab_size()
 
@@ -224,8 +225,8 @@ class BigramLanguageModel:
 
         total_unigram_count = sum(self._unigram_counts.values())
         
-        p_bigram = bigram_count/unigram_count_context
-        p_word = unigram_count_word/total_unigram_count
+        p_bigram = bigram_count/unigram_count_context       # Probability of the word given the context
+        p_word = unigram_count_word/total_unigram_count     # Probability of the word
 
         return lg(self._jm_lambda * p_word + (1 - self._jm_lambda) * p_bigram)
 
@@ -242,8 +243,33 @@ class BigramLanguageModel:
         """
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.
-        return 0.0
+        # Note that all the notations I have used here were taken by slide set "Language Models"
 
+        c_ux = self._bigram_counts.get((context, word), 0)  # Bigram count for the word followed by the context
+        c_u = self._unigram_counts.get(context, 0)          # Unigram count for the context
+
+        delta = self._kn_discount                           # Discount constant
+        theta = self._kn_concentration                      # Concentration constant
+
+        T = 0                                   # Sum of the bigram counts with any token followed by the context (Number of tokens in context Restaurent)
+        c_yx_count = 0                          # Number of unique bigrams of the word followed by any token (Count of the word in Unigram Restaurent)
+        c_pq_count = len(self._bigram_counts)   # Number of unique bigrams (Number of tokens in the unigram restaurent)
+        V = len(self._unigram_counts)           # Vocabulary length
+        unique_followings = []
+        for (c, w) in self._bigram_counts:
+            if c == context:
+                T += self._bigram_counts.get((c, w), 0)
+            if w == word:
+                c_yx_count += 1
+            if w not in unique_followings:
+                unique_followings.append(w)
+
+        c_w_count = len(unique_followings)      # Number of unique tokens in the unigram restaurent
+
+        # Backoff context probability
+        backoff_cotext_prob = ((c_yx_count - delta)/(theta + c_pq_count)) + (((theta + c_w_count * delta)/(theta + c_pq_count)) * (1/V))
+
+        return lg(max(c_ux - delta, 0) / (theta + c_u) + ((theta + T * delta)/(theta + c_u)) * backoff_cotext_prob)
     
     def dirichlet(self, context: token, word: token) -> float:
         """
@@ -255,6 +281,7 @@ class BigramLanguageModel:
         """
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.
+        # Dirichle smoothing
         bigram_count = self._bigram_counts.get((context, word), 0) + self._dirichlet_alpha
         unigram_count = self._unigram_counts.get(context, 0) + self.vocab_size() * self._dirichlet_alpha
 
@@ -276,10 +303,10 @@ class BigramLanguageModel:
         # You'll need to complete this function, but here's a line of code that
         # will hopefully get you started.
         for context, word in bigrams(self.censor(sentence)):
-            self._bigram_counts[(context, word)] += 1
-            self._unigram_counts[context] += 1   
-            self._prefix_counts[context] += 1
-        self._unigram_counts[kEND] += 1
+            self._bigram_counts[(context, word)] += 1   # Bigram count for the word followed by the context
+            self._unigram_counts[context] += 1          # Unigram count for the context
+            self._prefix_counts[context] += 1           # Prefix count for the context
+        self._unigram_counts[kEND] += 1                 # Add last token kEND to the unigram count
 
     def perplexity(self, sentence: str, method: typing.Callable) -> float:
         """
