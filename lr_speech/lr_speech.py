@@ -81,45 +81,23 @@ def create_dataset(soundfile_dict, vowels, num_mfccs):
     # (0 for the first element of 'vowels', 1 for the second) and the next
     # num_features elements in each row are z-scored MFCCs.
 
-
-    mfcc = {}
-
     row = 0
-    for i, vowel in enumerate(vowels):
+    for vowel in vowels:
         for filename in soundfile_dict[vowel]:
             utterance, _ = librosa.load(filename,sr=16000)
-            print(utterance.shape)
             mfccs = librosa.feature.mfcc(y=utterance, sr=16000, n_mfcc=num_mfccs, n_fft=512, win_length=400, hop_length=160)
-            print(mfccs.shape)
-            print((mfccs.shape[1]-1) // 2)
-            # Take the midpoint frame of the MFCCs
-            midpoint_frame = mfccs[:, (mfccs.shape[1]-1) // 2]
-            print(midpoint_frame.shape)
-            mfcc[i] = midpoint_frame
-            dataset[row, 0] = i  # Label: 0 for first vowel, 1 for second vowel
-            dataset[row, 1:] = midpoint_frame  # Store the MFCC features
-            row += 1
-        # means = np.mean(dataset[i, 1:], axis=0)
-        # stds = np.std(dataset[i, 1:], axis=0)
-        # dataset[i, 1:] = (dataset[i, 1:] - means) / stds
             
+            # To use the midpoint frame
+            midpoint_frame = mfccs[:, (mfccs.shape[1]) // 2]
 
-    # print(mfcc)
+            dataset[row, 0] = vowels.index(vowel)  # 0 for the first element of 'vowels', 1 for the second using index
+            dataset[row, 1:] = midpoint_frame  # Add midpoint frame to the dataset
+            row += 1    
 
-    # # # To use the midpoint frame
-    # # dataset = np.array(mfcc)
-    # mfccs_array = np.array(mfccs_list)
-    # labels_array = np.array(labels).reshape(-1, 1)
-    # dataset[:, 0] = labels_array[:, 0]
-    # dataset[:, 1:] = mfccs_array
-
-    # # z-score your dataset
+    # z-score of the dataset using the column mean and the column st. dev
     means = np.mean(dataset[:, 1:], axis=0)
-    print(means)
     stds = np.std(dataset[:, 1:], axis=0)
     dataset[:, 1:] = (dataset[:, 1:] - means) / stds
-    print(dataset)
-    # print(mfcc)
 
     return dataset
 
@@ -165,9 +143,17 @@ def step(epoch, ex, model, optimizer, criterion, inputs, labels):
 
     # You should:
     # A) get predictions
+    outputs = model(inputs)
+
     # B) compute the loss from that prediction
+    loss = criterion(outputs, labels)
+
     # C) backprop
+    optimizer.zero_grad()
+    loss.backward()
+    
     # D) update the parameters
+    optimizer.step()
 
     # There's additional code to print updates (for good software
     # engineering practices, this should probably be logging, but
