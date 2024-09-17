@@ -8,6 +8,8 @@ from numpy import mean
 import nltk
 from nltk import FreqDist
 from nltk.util import bigrams
+# nltk.download('brown')
+# nltk.download('gutenberg')
 
 kLM_ORDER = 2
 kUNK_CUTOFF = 3
@@ -15,6 +17,7 @@ kNEG_INF = -1e6
 
 kSTART = "<S>"
 kEND = "</S>"
+kUNK = "<UNK>"      # Define unknown token
 
 token = int | str
 
@@ -77,11 +80,14 @@ class BigramLanguageModel:
         self._training_counts = FreqDist()
 
         # Add your code here!        
-        # Bigram counts        
+        # Bigram counts
+        self._bigram_counts = FreqDist()        
 
         # Unigram counts
+        self._unigram_counts = FreqDist()
 
         # Prefix counts
+        self._prefix_counts = FreqDist()
 
     def train_seen(self, word: str, count: int=1):
         """
@@ -116,9 +122,9 @@ class BigramLanguageModel:
             "Vocab must be finalized before looking up words"
 
         if word in self._vocab:
-            return word
+            return self._vocab. word
         else:
-            return None
+            return kUNK  # Return unknown token if the word is not in vocabulary
 
     def finalize(self):
         """
@@ -135,6 +141,7 @@ class BigramLanguageModel:
         # -------------------------------------------------------------------
         # You may want to add code here because it's at this point you know
         # the vocab size
+        self._vocab.add(kUNK)  # Add unknown token to the vocabulary
         # -------------------------------------------------------------------
 
         assert self.vocab_lookup(kSTART) is not None, "Missing start"
@@ -175,7 +182,15 @@ class BigramLanguageModel:
 
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.        
-        return 0.0
+
+        # Count of the bigrams and unigrams
+        bigram_count = self._bigram_counts.get((context, word), 0)
+        unigram_count = self._unigram_counts.get(context, 0)
+
+        if bigram_count == 0:
+            return kNEG_INF     # Return kNEG_INF for lg(0)
+        
+        return lg(bigram_count / unigram_count)
 
     def laplace(self, context: token, word: token):
         """
@@ -186,8 +201,12 @@ class BigramLanguageModel:
         """
 
         # This initially return 0.0, ignoring the word and context.
-        # Modify this code to return the correct value.                    
-        return 0.0
+        # Modify this code to return the correct value. 
+        # Laplace smoothing                   
+        bigram_count = self._bigram_counts.get((context, word), 0) + 1
+        unigram_count = self._unigram_counts.get(context, 0) + self.vocab_size()
+
+        return lg(bigram_count / unigram_count)
 
     def jelinek_mercer(self, context, word):
         """
@@ -201,7 +220,16 @@ class BigramLanguageModel:
 
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.                
-        return 0.0
+        bigram_count = self._bigram_counts.get((context, word), 0)
+        unigram_count_context = self._unigram_counts.get(context, 0)
+        unigram_count_word = self._unigram_counts.get(word, 0)
+
+        total_unigram_count = sum(self._unigram_counts.values())
+        
+        p_bigram = bigram_count/unigram_count_context       # Probability of the word given the context
+        p_word = unigram_count_word/total_unigram_count     # Probability of the word
+
+        return lg(self._jm_lambda * p_word + (1 - self._jm_lambda) * p_bigram)
 
         
           
@@ -216,8 +244,34 @@ class BigramLanguageModel:
         """
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.
-        return 0.0
+        # Note that all the notations I have used here were taken by slide set "Language Models"
 
+        c_ux = self._bigram_counts.get((context, word), 0)  # Bigram count for the word followed by the context
+        c_u = self._unigram_counts.get(context, 0)          # Unigram count for the context
+
+        delta = self._kn_discount                           # Discount constant
+        theta = self._kn_concentration                      # Concentration constant
+
+        T = 0                                   # Sum of the bigram counts with any token followed by the context (Number of tokens in context Restaurent)
+        c_yx_count = 0                          # Number of unique bigrams of the word followed by any token (Count of the word in Unigram Restaurent)
+        c_pq_count = len(self._bigram_counts)   # Number of unique bigrams (Number of tokens in the unigram restaurent)
+        V = len(self._unigram_counts)           # Vocabulary length
+        unique_followings = []
+        for (c, w) in self._bigram_counts:
+            if c == context:
+                self._bigram_counts.get((c, w), 0)
+                T += self._bigram_counts.get((c, w), 0)
+            if w == word:
+                c_yx_count += 1
+            if w not in unique_followings:
+                unique_followings.append(w)
+
+        c_w_count = len(unique_followings)      # Number of unique tokens in the unigram restaurent
+
+        # Backoff context probability
+        backoff_cotext_prob = ((c_yx_count - delta)/(theta + c_pq_count)) + (((theta + c_w_count * delta)/(theta + c_pq_count)) * (1/V))
+
+        return lg(max(c_ux - delta, 0) / (theta + c_u) + ((theta + T * delta)/(theta + c_u)) * backoff_cotext_prob)
     
     def dirichlet(self, context: token, word: token) -> float:
         """
@@ -229,7 +283,11 @@ class BigramLanguageModel:
         """
         # This initially return 0.0, ignoring the word and context.
         # Modify this code to return the correct value.
-        return 0.0
+        # Dirichle smoothing
+        bigram_count = self._bigram_counts.get((context, word), 0) + self._dirichlet_alpha
+        unigram_count = self._unigram_counts.get(context, 0) + self.vocab_size() * self._dirichlet_alpha
+
+        return lg(bigram_count / unigram_count)
 
     def vocab_size(self) -> int:
         """
@@ -247,8 +305,10 @@ class BigramLanguageModel:
         # You'll need to complete this function, but here's a line of code that
         # will hopefully get you started.
         for context, word in bigrams(self.censor(sentence)):
-            None
-            # ---------------------------------------
+            self._bigram_counts[(context, word)] += 1   # Bigram count for the word followed by the context
+            self._unigram_counts[context] += 1          # Unigram count for the context
+            self._prefix_counts[context] += 1           # Prefix count for the context
+        self._unigram_counts[kEND] += 1                 # Add last token kEND to the unigram count
 
     def perplexity(self, sentence: str, method: typing.Callable) -> float:
         """
@@ -319,6 +379,9 @@ if __name__ == "__main__":
     # Build the test corpus
     num_sentences = len(nltk.corpus.gutenberg.sents())
 
+    print("Test language model with %i sentences from Gutenberg corpus." % num_sentences)
+    args.test_limit = num_sentences
+
     if args.test_limit > 0:
         from random import sample
         sentence_indices = sample(range(num_sentences), args.test_limit)
@@ -327,7 +390,33 @@ if __name__ == "__main__":
         sentence_indices = list(range(num_sentences))
         shuffle(sentence_indices)        
     
-    for method_name in ['kneser_ney', 'mle', 'dirichlet', 'jelinek_mercer', 'laplace']:
+    # for method_name in ['kneser_ney', 'mle', 'dirichlet', 'jelinek_mercer', 'laplace']:
+    #     print("======================")
+    #     print("      %s" % method_name)
+    #     print("======================")        
+    #     sentence_count = 0
+    #     method = getattr(lm, method_name)
+
+    #     from random import shuffle
+    #     sentences = nltk.corpus.gutenberg.sents()
+
+    #     for sent_index in sentence_indices:
+    #         sent = sentences[sent_index]
+    #         original = list(sent)
+    #         censored = list(lm.censor(original))
+
+    #         for ii, jj, kk in zip([""] + original, censored, [0.0] + [method(censored[ii-1], censored[ii]) for ii in range(1, len(censored))]):
+    #             print("%10s\t%10s\t%03.4f" % (ii, jj, kk))
+    #         print("Perplexity: %0.4f" % lm.perplexity(original, method))
+    #         print("----------------")
+
+
+    ##########################################################################################################################################
+    # Exploration (10 points)
+    # Here I have modified the above for loop to get perplexities for each sentence and wrtie it to different text files based on the method
+    # Initialize a list to store sentence index and perplexities
+    
+    for method_name in ['mle', 'dirichlet', 'jelinek_mercer', 'laplace']:
         print("======================")
         print("      %s" % method_name)
         print("======================")        
@@ -337,12 +426,27 @@ if __name__ == "__main__":
         from random import shuffle
         sentences = nltk.corpus.gutenberg.sents()
 
+        perplexity_results = []
         for sent_index in sentence_indices:
             sent = sentences[sent_index]
             original = list(sent)
-            censored = list(lm.censor(original))
 
-            for ii, jj, kk in zip([""] + original, censored, [0.0] + [method(censored[ii-1], censored[ii]) for ii in range(1, len(censored))]):
-                print("%10s\t%10s\t%03.4f" % (ii, jj, kk))
-            print("Perplexity: %0.4f" % lm.perplexity(censored, method))
-            print("----------------")
+            perplexity = lm.perplexity(original, method)
+
+            # Store the result
+            perplexity_results.append({
+                'sentence': original,
+                'perplexity': perplexity
+            })
+
+        # Find sentences with low perplexities for each method
+        perplexity_results.sort(key=lambda x: x['perplexity'])
+        
+        # Write sorted sentences to separate files based on the method
+        print("%s writing started" % method_name)
+        file = open(f"{method_name}.txt", "w")
+        for result in perplexity_results:
+            file.write(f"Perplexity: {result['perplexity']:.12f}  Original Sentence: {' '.join(result['sentence'])}\n")
+        file.close()
+        print("%s writing end" % method_name)
+        print("======================")   
