@@ -40,6 +40,13 @@ def list_files(directory, vowels):
     for vowel in vowels:
         soundfile_dict[vowel] = glob.glob(directory+'/*/*'+vowel+'.wav')
 
+    # Debugging: Print soundfile_dict to check if it contains the correct vowel keys and files
+    for vowel, files in soundfile_dict.items():
+        if len(files) == 0:
+            print(f"Warning: No files found for vowel '{vowel}'")
+        else:
+            print(f"Found {len(files)} files for vowel '{vowel}'")
+
     return soundfile_dict
 
 def create_dataset(soundfile_dict, vowels, num_mfccs):
@@ -77,13 +84,42 @@ def create_dataset(soundfile_dict, vowels, num_mfccs):
 
     mfcc = {}
 
-    for vowel in vowels:
+    row = 0
+    for i, vowel in enumerate(vowels):
         for filename in soundfile_dict[vowel]:
             utterance, _ = librosa.load(filename,sr=16000)
+            print(utterance.shape)
+            mfccs = librosa.feature.mfcc(y=utterance, sr=16000, n_mfcc=num_mfccs, n_fft=512, win_length=400, hop_length=160)
+            print(mfccs.shape)
+            print((mfccs.shape[1]-1) // 2)
+            # Take the midpoint frame of the MFCCs
+            midpoint_frame = mfccs[:, (mfccs.shape[1]-1) // 2]
+            print(midpoint_frame.shape)
+            mfcc[i] = midpoint_frame
+            dataset[row, 0] = i  # Label: 0 for first vowel, 1 for second vowel
+            dataset[row, 1:] = midpoint_frame  # Store the MFCC features
+            row += 1
+        # means = np.mean(dataset[i, 1:], axis=0)
+        # stds = np.std(dataset[i, 1:], axis=0)
+        # dataset[i, 1:] = (dataset[i, 1:] - means) / stds
+            
 
-    # To use the midpoint frame
+    # print(mfcc)
 
-    # z-score your dataset
+    # # # To use the midpoint frame
+    # # dataset = np.array(mfcc)
+    # mfccs_array = np.array(mfccs_list)
+    # labels_array = np.array(labels).reshape(-1, 1)
+    # dataset[:, 0] = labels_array[:, 0]
+    # dataset[:, 1:] = mfccs_array
+
+    # # z-score your dataset
+    means = np.mean(dataset[:, 1:], axis=0)
+    print(means)
+    stds = np.std(dataset[:, 1:], axis=0)
+    dataset[:, 1:] = (dataset[:, 1:] - means) / stds
+    print(dataset)
+    # print(mfcc)
 
     return dataset
 
@@ -97,7 +133,7 @@ class SimpleLogreg(nn.Module):
         """
         super(SimpleLogreg, self).__init__()
         # TODO: Replace this with a real nn.Module
-        self.linear = None
+        self.linear = nn.Linear(num_features, 1)
 
     def forward(self, x):
         """
@@ -106,7 +142,7 @@ class SimpleLogreg(nn.Module):
         :param x: Example to evaluate
         """
         # TODO: Complete this function
-        return 0.5
+        return torch.sigmoid(self.linear(x))
 
     def evaluate(self, data):
         with torch.no_grad():
