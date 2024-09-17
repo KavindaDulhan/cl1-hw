@@ -11,6 +11,9 @@ from math import exp, log
 from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 
+from torch.nn import BCELoss as Loss
+from torch.optim import SGD as Opt
+
 import argparse
 
 torch.manual_seed(1701)
@@ -213,8 +216,8 @@ if __name__ == "__main__":
     total_samples = len(train)
 
     # Replace these with the correct loss and optimizer
-    criterion = None
-    optimizer = None
+    criterion = Loss()
+    optimizer = Opt(logreg.parameters(), lr=0.1)
 
     train_loader = DataLoader(dataset=train,
                               batch_size=batch,
