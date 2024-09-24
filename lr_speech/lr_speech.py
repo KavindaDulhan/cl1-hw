@@ -76,7 +76,7 @@ def create_dataset(soundfile_dict, vowels, num_mfccs):
     # appropriate data structure
     #
     # 2. Take the midpoint frame from the MFCC matrix.  If there are an even
-    # number of frames in an utterance, take the first of the two midpoint frames.
+    # number of frames in an utterance, take the second of the two midpoint frames.
     #
     # 3. z-score each feature, using the column mean and the column st. dev.
     #
@@ -240,13 +240,6 @@ if __name__ == "__main__":
     # ae, ah, aw, eh, ei, er, ih, iy, oa, oo, uh, uw
     files = list_files(directory, vowels)
     speechdata = create_dataset(files, vowels, num_mfccs)
-
-## # This is for debugging the speech part without needing pytorch
-##    X = speechdata[0:,1:]
-##    y = speechdata[0:,0]
-##
-##    model = LogisticRegression(random_state=0, max_iter=1000).fit(X,y)
-##    model.score(X,y)
 
     train_np, test_np = train_test_split(speechdata, test_size=0.15, random_state=1234)
     train, test = SpeechDataset(train_np), SpeechDataset(test_np)

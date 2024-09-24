@@ -1,7 +1,9 @@
 Feature Engineering
 =
 
-Before, you built a logistic regression classifier from scratch.  Now, we're going to *improve* a logistic regression classifier, using a pre-made system for learning the weights from data.
+Before, you built a logistic regression classifier from scratch.  Now, we're
+going to *improve* a logistic regression classifier, using a pre-made system
+for learning the weights from data.
 
 In this homework, you're going to continue to improve the accuracy of such a
 system by creating new features (but as we'll talk about in a moment,
@@ -41,9 +43,10 @@ It may seem straightforward, but do not start this at the last minute. There
 are often many things that go wrong in testing out features, and you'll want
 to make sure your features work well once you've found them.
 
-Likewise, because this homework is not going to tell you exactly what
-you need to do, you'll need to have understood many of the concepts
-we've covered in the class: classification obviously, but also tokens or using linguistic concepts to generate interesting/useful features.
+Likewise, because this homework is not going to tell you exactly what you need
+to do, you'll need to have understood many of the concepts we've covered in
+the class: classification obviously, but also tokens or using linguistic
+concepts to generate interesting/useful features.
 
 Getting Started
 -
@@ -67,8 +70,35 @@ But before you get started, you need to understand the overall structure of the 
  * The guesser generates a "guess" that _could_ be an answer to the question
  * The buzzer then needs to determine if that guess is correct or not.  This is a classifier.  You're going to make that better by providing the buzzer with new features.
 
-You will need to be creative here!  To get a sense of how you might want to go through the process, review the lecture on feature engineering here:
+You will need to be creative here!  To get a sense of how you might want to go
+through the process, review a lecture on feature engineering for this task here:
 https://www.youtube.com/watch?v=IzKFgigocAg
+
+While the guesses you're using are coming from OpenAI's GPT, you won't need to
+use the API, we've cached all of the guesses for you.  Many students sometimes
+have trouble using those cached guesses, so a good sanity check is to make
+sure you have access to all of the cached guesses.
+
+If this working correctly, you should be able to run this and see:
+
+
+   > ./venv/bin/python3 gpr_guesser.py --fold=buzztrain
+      ...
+    Loaded 1152 question
+    Generating runs of length 100
+    100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1152/1152 [00:00<00:00, 35838.38it/s]
+   ---------------------
+    1.0
+    INFO:root:Hit ratio: 1.000000
+    Saving to models/buzztrain_gpr_cache
+    INFO:root:Made 0 new queries, saving to models/buzztrain_gpr_cache [cf: models/buzztrain_gpr_cache / queries: False]
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 441/441 [00:00<00:00, 894.84it/s]
+    100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████|
+    441/441 [00:00<00:00, 1036.50it/s]
+
+If you don't see a 1.00 hit rate, something is wrong and everything else won't
+work after this.  Note that you won't be able to ask it for *new* guesses that
+are not in the cache, as that would require an API call.
 
 How to add a feature?
 -
@@ -80,7 +110,7 @@ look at your predictions on the dev set and see where they're going wrong.
 in ``features.py``.  This is important so that you can try out different
 features by turning them on and off with the command line.
 
-2.  Add code to instantiate the feature in ``params.py``.
+2.  Add code to instantiate the feature in ``parameters.py``.
 
 3.  (Optionally) Change the API to feed in more information into the feature
 generation process.  This would be necessary to capture temporal dynamics or
@@ -91,22 +121,28 @@ To walk you through the process, let's create a new feature that encodes how
 often the guess appeared in the training set.  The first step is to define the
 class in ``features.py``.
 
-	class FrequencyFeature:
-	    def __init__(self, name):
-		from eval import normalize_answer
-		self.name = name
-		self.counts = Counter()
-		self.normalize = normalize_answer
 
-	    def add_training(self, question_source):
-		import json
-		with gzip.open(question_source) as infile:
-			questions = json.load(infile)
-			for ii in questions:
-			    self.counts[self.normalize(ii["page"])] += 1
+    class FrequencyFeature(Feature):
+       def __init__(self, name):
+          from eval import normalize_answer
+          self.name = name
+          self.counts = Counter()
+          self.normalize = normalize_answer
 
-	    def __call__(self, question, run, guess):
-		   yield ("guess", log(1 + self.counts[self.normalize(guess)]))
+      def add_training(self, question_source):                                
+          import json                                                         
+          import gzip                                                         
+          if 'json.gz' in question_source:                                    
+              with gzip.open(question_source) as infile:                      
+                  questions = json.load(infile)                               
+          else:                                                               
+              with open(question_source) as infile:                           
+                  questions = json.load(infile)                               
+          for ii in questions:                                                
+              self.counts[self.normalize(ii["page"])] += 1                    
+
+      def __call__(self, question, run, guess, guess_history, other_guesses=None):                
+          yield ("guess", log(1 + self.counts[self.normalize(guess)]))        
 
 
 Pay attention to the ``call`` function.  If you're not familiar with
@@ -121,7 +157,7 @@ is the feature name, the second element of the tuple is the feature
 value (look at the ``featurize`` function in buzzer.py).
 
 Now that you have a feature class, it needs to be loaded when you run
-your code.  This happens in ``params.py``.  Now you can
+your code.  This happens in ``parameters.py``.  Now you can
 add the feature name to the command line to turn it on.
 
     for ff in flags.features:
@@ -141,10 +177,10 @@ be turned into a "pickle" file and stored in the models directory.  So
 let's train the classifier *without* that new feature.
 
     mkdir -p models
-    python3 buzzer.py --guesser_type=Gpr --limit=50 \
-      --GprGuesser_filename=../models/buzztrain_gpr_cache \
-      --questions=../data/qanta.buzztrain.json.gz --buzzer_guessers Gpr \
-      --LogisticBuzzer_filename=models/no_length --features ""
+    ./venv/bin/python3 buzzer.py --guesser_type=gpr --limit=50 \
+      --gpr_guesser_filename=../models/buzztrain_gpr_cache   \
+      --questions=../data/qanta.buzztrain.json.gz --buzzer_guessers gpr \
+      --logistic_buzzer_filename=models/no_length --features ""
     Setting up logging
     INFO:root:Using device 'cuda' (cuda flag=False)
     INFO:root:Initializing guesser of type Gpr
@@ -159,7 +195,7 @@ let's train the classifier *without* that new feature.
     INFO:root:Adding Gpr to Buzzer (total guessers=1)
     Initializing features: ['']
     dataset: ../data/qanta.buzztrain.json.gz
-    ERROR:root:1 features on command line (['']), but only added 0 (set()).  Did you add code to params.py's load_buzzer to actually add the feature to the buzzer?  Or did you forget to increment features_added in that function?
+    ERROR:root:1 features on command line (['']), but only added 0 (set()).  Did you add code to parameters.py's load_buzzer to actually add the feature to the buzzer?  Or did you forget to increment features_added in that function?
     INFO:root:Read 50 questions
     100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 118416.26it/s]
     INFO:root:Building guesses from dict_keys(['Gpr'])
@@ -172,10 +208,10 @@ let's train the classifier *without* that new feature.
 
 If you get a warning about convergence, it is okay; hopefully it will converge better with more features!  Likewise, don't worry about the warning about the features, I just wanted to be sure it didn't add the length feature.  Because we want to do that next: train a model *with* that new feature.  Note that we're naming the model something different:
 
-    python3 buzzer.py --guesser_type=Gpr --limit=50 \
-      --GprGuesser_filename=../models/buzztrain_gpr_cache \
-      --questions=../data/qanta.buzztrain.json.gz --buzzer_guessers Gpr \
-      --LogisticBuzzer_filename=models/with_length --features Length
+    ./venv/bin/python3 buzzer.py --guesser_type=gpr --limit=5\
+    --gpr_guesser_filename=../models/buzztrain_gpr_cache   \
+    --questions=../data/qanta.buzztrain.json.gz --buzzer_guessers gpr \
+	--logistic_buzzer_filename=models/with_length --features Length
     Setting up logging
     INFO:root:Using device 'cuda' (cuda flag=False)
     INFO:root:Initializing guesser of type Gpr
@@ -211,23 +247,25 @@ Now you need to evaluate the classifier.  The script eval.py will run the classi
 
 Let's compare with the Length:
 
-    python3 buzzer.py --guesser_type=Gpr --limit=50 \
-    --GprGuesser_filename=../models/buzztrain_gpr_cache \
-    --questions=../data/qanta.buzztrain.json.gz --buzzer_guessers Gpr \
-    --features Length Frequency
+    .venv/bin/python3  eval.py --guesser_type=gpr   --limit=25   \
+    --questions=../data/qanta.buzzdev.json.gz --buzzer_guessers gpr \
+	--gpr_guesser_filename=../models/buzzdev_gpr_cache    \
+	--logistic_buzzer_filename=models/with_length --features Length
 
 compared to without it:
 
-    .venv/bin/python3  eval.py --guesser_type=Gpr \
-    --TfidfGuesser_filename=models/TfidfGuesser --limit=25 \
-     --questions=../data/qanta.buzzdev.json.gz --buzzer_guessers Gpr \
-     --GprGuesser_filename=../models/buzzdev_gpr_cache  \
-     --LogisticBuzzer_filename=models/no_length --features ""
+    .venv/bin/python3  eval.py --guesser_type=gpr   --limit=25   \
+    --questions=../data/qanta.buzzdev.json.gz --buzzer_guessers gpr \
+	--gpr_guesser_filename=../models/buzzdev_gpr_cache    \
+	--logistic_buzzer_filename=models/no_length --features ""
 
-You'll see quite a bit of output, so I'm just going to walk through it bit by
-    bit, comparing the salient components.
+You'll see quite a bit of output, so we're just going to walk through it
+bit by bit, comparing the salient components.
 
- Now, both "best" and "waiting" are *correct*, but obviously "best" is best.  It's important to know what kind of examples contribute to each of these outcomes, so eval samples a subset for each of these and prints them and their features out.
+ Now, both "best" and "waiting" are *correct*, but obviously "best" is
+ best.  It's important to know what kind of examples contribute to
+ each of these outcomes, so eval samples a subset for each of these
+ and prints them and their features out.
 
     =================
     aggressive 0.22
@@ -279,7 +317,7 @@ What Can You Do?
 -
 
 You can:
-* Add features (e.g., to params.py)
+* Add features (e.g., to parameters.py)
 * Change feature representations (e.g., features.py)
 * Exclude data
 * Add data
@@ -335,7 +373,7 @@ approach to feature engineering.
 How to Turn in Your System
 -
 * ``features.py``: This file includes an implementation of your new features.
-* ``params.py``: This instantiates your new features.  Modify this so that the
+* ``parameters.py``: This instantiates your new features.  Modify this so that the
 set of your best features runs by *default*.
 * **Custom Training Data** (If you used additional training data beyond the Wikipedia pages, upload that as well
     * (OR) If either any of your files are >100MB, please submit a shell
@@ -350,31 +388,11 @@ Turn in the above files as usual via Gradescope, where we'll be using the
 leaderboard as before.  However, the position on the leaderboard will count
 for more of your grade.
 
-Checking the Cache
------------------
-
-If things aren't working well, you might have missing cache elements.  You can check if your cache "hits" enough by running this command:
-
-    jbg:GPT3QA jordan$ .venv/bin/python3 gpr_guesser.py --cache=models/buzztrain_gpr_cache --source_jsongz=data/qanta.buzztrain.json.gz
-    INFO:root:Loading 609173 questions and 609173 answers
-    Loaded 18460 question
-    Generating runs of length 100
-    100%|███████████████████████████████| 18460/18460 [00:00<00:00, 42508.31it/s]
-    ---------------------
-    0.9840390879478828
-    INFO:root:Hit ratio: 0.984039
-
-It won't be 100 because OpenAI refuses to answer some of the questions, but it should be above 0.975.  Anything else is likely a problem and will likely result in lower accuracy.
-
 FAQ
 -----------------
 **Q.: How can I improve the "waiting" category.**
 
 **A.:** That's the neat thing, you don't.  If the guesser is wrong, then there's nothing you can do to make it correct (future homeworks won't have that problem).  What you can do is to convert "timid" to "best" and convert "aggressive" to "waiting".  
-
-**Q. I get a ``No such file or directory: '../data/qanta.buzztrain.json.gz'`` when I run the code on Gradescope.**
-
-*A.* Since the data directory is below where the code runs on Gradescope, Change the path to ``'./data/qanta.buzztrain.json.gz'`` in the ``features.add_training`` line.  If you find this annoying, you can use the following workarounds: (i) putting this into a try/except framework to work with either place, (ii) creating a symlink so so that ./data points to ../data on your development computer, (3) [first checking which path exists](https://docs.python.org/3/library/os.path.html) and then using the correct one.
 
 **Q. Eval only shows me what the questions I'm getting right and wrong
 are.  How do I know what the features look like?**
@@ -382,9 +400,16 @@ are.  How do I know what the features look like?**
 **A.** Use ``features.py`` to investigate this.  This is how we
 generated the JSON files for the logistic regression homework.
 
-    python3 features.py --json_guess_output=../data/inspect.jsonl --buzzer_guessers 'Gpr' --questions=../data/qanta.buzztrain.json.gz --limit=1000
+    ./venv/bin/python3 features.py \
+	--json_guess_output=../data/inspect.jsonl --buzzer_guessers 'gpr' \
+	--questions=../data/qanta.buzzdev.json.gz --limit=1000 \
+	--guesser_type=gpr \
+	--gpr_guesser_filename=../models/buzzdev_gpr_cache \
+	--features Length Frequency
 
-Make sure that you've enabled all of the features that you want to use.
+Make sure that you've enabled all of the features that you want to
+use, and you can see how the examples look like to the classifier by
+inspecting `../data/inspect.json`.
 
 **Q. Why can't I use ``['page']`` or ``['answer']`` when creating
 features?  Can I use it during training?**
@@ -410,6 +435,32 @@ But that's the exception, usually the only way you would use the real
 'page' during training on the buzzdev fold is as the label to the classifier: is this
 guess correct becomes a positive example, is this guess incorrect
 becomes a negative example.
+
+**Q: Is the Length feature complete?  How can I get the length of the
+  question being asked so far?**
+
+**A:** When a feature is constructed, you have access to the the
+  ``guess`` string.  From this, you can ask the number of characters,
+  the number of words (e.g., by splitting it).  The provided code:
+
+    def __call__(self, question, run, guess, guess_history, other_guesses=None):
+        # How many characters long is the question?
+
+        guess_length = 0
+        guess_length = log(1 + len(guess))
+
+        # How many words long is the question?
+
+
+        # How many characters long is the guess?
+        if guess is None or guess=="":
+            yield ("guess", -1)
+        else:
+            yield ("guess", guess_length)
+
+Only gives you the raw length in the number of characters.  You may
+want to improve this feature by (for example) subtracting the mean and
+dividing by the standard deviation.
 
 **Q: Can I modify buzzer.py so that I can use the history of guesses in a
  question?**
