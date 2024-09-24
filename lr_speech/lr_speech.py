@@ -168,7 +168,52 @@ def step(epoch, ex, model, optimizer, criterion, inputs, labels):
       acc_test = model.evaluate(test)
       print(f'Epoch: {epoch+1}/{num_epochs}, Example {ex}, loss = {loss.item():.4f}, train_acc = {acc_train.item():.4f} test_acc = {acc_test.item():.4f}')
 
+# Extra credit
+def create_alt_dataset(soundfile_dict, vowels, num_mfccs):
+    """
+    MFCCs computed at the midpoint frame may not be the best way of 
+    classifying vowels.  Here I have taken the mean across all frames as an
+    alternative feature extractor method, this gets better classification performance on the
+    pairs of vowels that weren't already at ceiling.
 
+    :param soundfile_dict: A dictionary that, for each vowel V, contains a list of file
+
+    paths corresponding to recordings of the utterance 'hVd'
+
+    :param vowels: The set of vowels to be used in the logistic regression
+
+    :param num_mfccs: The number of MFCCs to include as features
+
+    Run the main function to check how test accuracy have improved. 
+    I have added evaluation part at the end of the main function.
+
+    """
+
+    dataset = zeros((len(soundfile_dict[vowels[0]])+len(soundfile_dict[vowels[1]]),num_mfccs+1))
+
+    row = 0
+    for vowel in vowels:
+        for filename in soundfile_dict[vowel]:
+            utterance, _ = librosa.load(filename,sr=16000)
+            mfccs = librosa.feature.mfcc(y=utterance, sr=16000, n_mfcc=num_mfccs, n_fft=512, win_length=400, hop_length=160)
+            
+            # Use a compute the mean of MFCCs across all frames
+            start_frame = 0
+            end_frame = mfccs.shape[1]
+            
+            # Compute the mean MFCCs across the all frames
+            mean_mfccs = np.mean(mfccs[:, start_frame:end_frame], axis=1)
+
+            dataset[row, 0] = vowels.index(vowel)  # 0 for the first element of 'vowels', 1 for the second using index
+            dataset[row, 1:] = mean_mfccs  # Add mean mfcc frame to the dataset
+            row += 1    
+
+    # z-score of the dataset using the column mean and the column st. dev
+    means = np.mean(dataset[:, 1:], axis=0)
+    stds = np.std(dataset[:, 1:], axis=0)
+    dataset[:, 1:] = (dataset[:, 1:] - means) / stds
+
+    return dataset
 
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
@@ -202,6 +247,41 @@ if __name__ == "__main__":
 ##
 ##    model = LogisticRegression(random_state=0, max_iter=1000).fit(X,y)
 ##    model.score(X,y)
+
+    train_np, test_np = train_test_split(speechdata, test_size=0.15, random_state=1234)
+    train, test = SpeechDataset(train_np), SpeechDataset(test_np)
+
+    print("Read in %i train and %i test" % (len(train), len(test)))
+
+    # Initialize model
+    logreg = SimpleLogreg(train.n_features)
+
+    num_epochs = args.passes
+    batch = args.batch
+    total_samples = len(train)
+
+    # Replace these with the correct loss and optimizer
+    criterion = Loss()
+    optimizer = Opt(logreg.parameters(), lr=0.1)
+
+    train_loader = DataLoader(dataset=train,
+                              batch_size=batch,
+                              shuffle=True,
+                              num_workers=0)
+    dataiter = iter(train_loader)
+
+    # Iterations
+    for epoch in range(num_epochs):
+      for ex, (inputs, labels) in enumerate(train_loader):
+        # Run your training process
+        step(epoch, ex, logreg, optimizer, criterion, inputs, labels)
+
+
+    ################################################################################
+    # create_alt_dataset method evaluation
+    print("create_alt_dataset method evaluation")
+
+    speechdata = create_alt_dataset(files, vowels, num_mfccs)
 
     train_np, test_np = train_test_split(speechdata, test_size=0.15, random_state=1234)
     train, test = SpeechDataset(train_np), SpeechDataset(test_np)
