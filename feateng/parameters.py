@@ -216,6 +216,11 @@ def load_buzzer(flags, guesser_params, load=False):
             feature = LengthFeature(ff)
             buzzer.add_feature(feature)
             features_added.add(ff)
+        if ff == "Frequency":
+            from features import FrequencyFeature
+            feature = FrequencyFeature(ff)
+            feature.add_training("../../../data/qanta.buzztrain.json.gz")
+            buzzer.add_feature(feature)
 
     if len(flags.features) != len(features_added):
         error_message = "%i features on command line (%s), but only added %i (%s).  "
