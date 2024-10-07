@@ -1,0 +1,133 @@
+{
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time": {
+    "guess": "Dirac sea",
+    "confidence": [
+      [
+        "Dir",
+        -1.3973875
+      ],
+      [
+        "ac",
+        -0.0055947993
+      ],
+      [
+        " sea",
+        -0.034626354
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his namesake algebra and underlie one of his most prominent contributions, a wave equation consistent with": {
+    "guess": "Oskar Klein",
+    "confidence": [
+      [
+        "O",
+        -0.3800136
+      ],
+      [
+        "sk",
+        -0.0051883394
+      ],
+      [
+        "ar",
+        -9.2457245e-05
+      ],
+      [
+        " Klein",
+        -0.0014943844
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum.": {
+    "guess": "Oskar Klein",
+    "confidence": [
+      [
+        "O",
+        -0.551554
+      ],
+      [
+        "sk",
+        -0.0036835705
+      ],
+      [
+        "ar",
+        -4.1318875e-05
+      ],
+      [
+        " Klein",
+        -0.003437919
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his namesake algebra and underlie one of his most prominent contributions, a wave equation consistent with special relativity that describes the behavior of fermions. For 10 points, name this pyhsicist who predicted the existence of antimatter.": {
+    "guess": "Paul Dirac",
+    "confidence": [
+      [
+        "Paul",
+        -0.116322696
+      ],
+      [
+        " Dir",
+        -8.75699e-05
+      ],
+      [
+        "ac",
+        -5.080963e-06
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his namesake algebra and underlie one of his most prominent contributions, a wave equation consistent with special relativity that describes the behavior of fermions. For 10 points, name this pyhsicist who": {
+    "guess": "Oskar Klein",
+    "confidence": [
+      [
+        "O",
+        -0.14975043
+      ],
+      [
+        "sk",
+        -0.0013007113
+      ],
+      [
+        "ar",
+        -9.436451e-05
+      ],
+      [
+        " Klein",
+        -0.0014266638
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve": {
+    "guess": "Klein paradox",
+    "confidence": [
+      [
+        "K",
+        -0.029755808
+      ],
+      [
+        "lein",
+        -0.00041113084
+      ],
+      [
+        " paradox",
+        -0.3101303
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his": {
+    "guess": "Dirac equation",
+    "confidence": [
+      [
+        "Dir",
+        -0.8803007
+      ],
+      [
+        "ac",
+        -1.7239736e-05
+      ],
+      [
+        " equation",
+        -0.5964447
+      ]
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt": {
+    "guess": "Jesus in art",
+    "confidence": [
+      [
+        "Jesus",
+        -1.057375
+      ],
+      [
+        " in",
+        -0.36169013
+      ],
+      [
+        " art",
+        -0.28550646
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include Zane Grey and Theodore Roosevelt. Otherwise, it is accessibly by boat from Lake Powell near Glen": {
+    "guess": "Rainbow Bridge National Monument",
+    "confidence": [
+      [
+        "Rain",
+        -0.018489841
+      ],
+      [
+        "bow",
+        -0.0017810913
+      ],
+      [
+        " Bridge",
+        -0.0008161776
+      ],
+      [
+        " National",
+        -0.33838743
+      ],
+      [
+        " Monument",
+        -0.00019614976
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include Zane Grey and Theodore Roosevelt. Otherwise, it is accessibly by boat from Lake Powell near Glen Canyon. It is made of salmon-pink sandstone that spans 275 feet in an arc over Bridge Canyon. FTP,": {
+    "guess": "Rainbow Bridge National Monument",
+    "confidence": [
+      [
+        "Rain",
+        -0.012289241
+      ],
+      [
+        "bow",
+        -0.00018863993
+      ],
+      [
+        " Bridge",
+        -0.0016535212
+      ],
+      [
+        " National",
+        -0.9298113
+      ],
+      [
+        " Monument",
+        -0.00014716439
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno, this sculpture contains miniatures of the sculptor's other works, including Fugit Amor in the center, and The Thinker near the top. FTP, identify this work by Rodin that depicts the portal to eternal": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.025983833
+      ],
+      [
+        " Gates",
+        -0.002925638
+      ],
+      [
+        " of",
+        -6.062987e-05
+      ],
+      [
+        " Hell",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno,": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.9303615
+      ],
+      [
+        " Gates",
+        -0.15720113
+      ],
+      [
+        " of",
+        -6.4444386e-05
+      ],
+      [
+        " Hell",
+        -3.5358695e-05
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno, this sculpture contains miniatures of the sculptor's other works, including Fugit Amor in the": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.34406513
+      ],
+      [
+        " Gates",
+        -0.0052261716
+      ],
+      [
+        " of",
+        -1.7239736e-05
+      ],
+      [
+        " Hell",
+        -8.180258e-06
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt to lift this man while he is attached to another object. For ten points, identify this long-haired": {
+    "guess": "Jesus Christ in art",
+    "confidence": [
+      [
+        "Jesus",
+        -1.2415239
+      ],
+      [
+        " Christ",
+        -0.5588932
+      ],
+      [
+        " in",
+        -0.3402579
+      ],
+      [
+        " art",
+        -0.037300892
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include Zane Grey and Theodore Roosevelt. Otherwise, it is accessibly by boat from Lake Powell near Glen Canyon. It is made of salmon-pink sandstone that spans 275 feet in an arc over Bridge Canyon. FTP, identify this landform, the world's largest natural bridge located in southern Utah.": {
+    "guess": "Rainbow Bridge",
+    "confidence": [
+      [
+        "Rain",
+        -0.009352981
+      ],
+      [
+        "bow",
+        -0.0003304593
+      ],
+      [
+        " Bridge",
+        -0.0021060058
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos": {
+    "guess": "The answer is: The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.90764624
+      ],
+      [
+        " answer",
+        -0.62249845
+      ],
+      [
+        " is",
+        -0.013357507
+      ],
+      [
+        ":",
+        -0.011400172
+      ],
+      [
+        " The",
+        -0.8989664
+      ],
+      [
+        " Gates",
+        -0.6535004
+      ],
+      [
+        " of",
+        -0.00015562419
+      ],
+      [
+        " Hell",
+        -0.0004294772
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown": {
+    "guess": "Andrea Mantegna",
+    "confidence": [
+      [
+        "And",
+        -0.48663527
+      ],
+      [
+        "rea",
+        -0.0044742697
+      ],
+      [
+        " Mant",
+        -0.001490104
+      ],
+      [
+        "eg",
+        -0.0005311102
+      ],
+      [
+        "na",
+        -8.7450695e-05
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt to lift this man while he is attached to another object. For ten points, identify this long-haired man who appears often in artwork like the Pieta, where his body is held by his mother, the Virgin": {
+    "guess": "Jesus in art",
+    "confidence": [
+      [
+        "Jesus",
+        -0.009081664
+      ],
+      [
+        " in",
+        -0.4463265
+      ],
+      [
+        " art",
+        -0.080440946
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture": {
+    "guess": "The answer is: The Burghers of Calais",
+    "confidence": [
+      [
+        "The",
+        -0.6672803
+      ],
+      [
+        " answer",
+        -1.0582786
+      ],
+      [
+        " is",
+        -0.017536575
+      ],
+      [
+        ":",
+        -0.0022787193
+      ],
+      [
+        " The",
+        -1.0239445
+      ],
+      [
+        " Bur",
+        -0.63255507
+      ],
+      [
+        "gh",
+        -1.504853e-06
+      ],
+      [
+        "ers",
+        -0.0006020034
+      ],
+      [
+        " of",
+        -7.338466e-05
+      ],
+      [
+        " Cal",
+        -0.0002738522
+      ],
+      [
+        "ais",
+        -0.0002609782
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include": {
+    "guess": "Rainbow Bridge National Monument",
+    "confidence": [
+      [
+        "Rain",
+        -0.82776415
+      ],
+      [
+        "bow",
+        -0.0030221564
+      ],
+      [
+        " Bridge",
+        -0.0016154385
+      ],
+      [
+        " National",
+        -0.6033996
+      ],
+      [
+        " Monument",
+        -0.00015324011
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as": {
+    "guess": "Andrea Mantegna",
+    "confidence": [
+      [
+        "And",
+        -0.16207637
+      ],
+      [
+        "rea",
+        -0.00046594252
+      ],
+      [
+        " Mant",
+        -0.00081641605
+      ],
+      [
+        "eg",
+        -0.0006571544
+      ],
+      [
+        "na",
+        -3.8577193e-05
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt to lift this man while he is attached to another object. For ten points, identify this long-haired man who appears often in artwork like the Pieta, where his body is held by his mother, the Virgin Mary.": {
+    "guess": "Jesus in art",
+    "confidence": [
+      [
+        "Jesus",
+        -0.0070903115
+      ],
+      [
+        " in",
+        -0.47643882
+      ],
+      [
+        " art",
+        -0.06678459
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno, this sculpture contains miniatures of the sculptor's other works, including Fugit Amor in the center, and The Thinker near the top. FTP, identify this work by Rodin that depicts the portal to eternal damnation.": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.02840731
+      ],
+      [
+        " Gates",
+        -0.002058904
+      ],
+      [
+        " of",
+        -7.3742274e-05
+      ],
+      [
+        " Hell",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only": {
+    "guess": "Devils Tower",
+    "confidence": [
+      [
+        "Dev",
+        -0.9413026
+      ],
+      [
+        "ils",
+        -0.182755
+      ],
+      [
+        " Tower",
+        -0.011112781
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna.": {
+    "guess": "Foreshortening",
+    "confidence": [
+      [
+        "Fo",
+        -0.918807
+      ],
+      [
+        "resh",
+        -6.704273e-07
+      ],
+      [
+        "ort",
+        -5.3193703e-06
+      ],
+      [
+        "ening",
+        -0.020751504
+      ]
+    ]
+  }
+}

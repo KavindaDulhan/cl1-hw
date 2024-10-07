@@ -1,0 +1,67 @@
+{
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model. They are stained by Golgi's method. They can be afferent, efferent, or inter. Regions include the hillock and soma. Voltage gated channels in them allow for the propagation of action potentials. They": {
+    "guess": "Neuron",
+    "confidence": [
+      [
+        "Ne",
+        -0.016662132
+      ],
+      [
+        "uron",
+        -0.20057997
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation": {
+    "guess": "Neuron",
+    "confidence": [
+      [
+        "Ne",
+        -0.6086947
+      ],
+      [
+        "uron",
+        -0.21228467
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model. They are stained by Golgi's method. They can be afferent, efferent, or inter. Regions include the": {
+    "guess": "Neuron",
+    "confidence": [
+      [
+        "Ne",
+        -0.23212792
+      ],
+      [
+        "uron",
+        -0.12768109
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model. They are stained by Golgi's method. They can be afferent, efferent, or inter. Regions include the hillock and soma. Voltage gated channels in them allow for the propagation of action potentials. They contain dendrites and axons. For 10 points, name these cells of the nervous system.": {
+    "guess": "Neuron",
+    "confidence": [
+      [
+        "Ne",
+        -0.0016736338
+      ],
+      [
+        "uron",
+        -0.0004724987
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model.": {
+    "guess": "Neuron",
+    "confidence": [
+      [
+        "Ne",
+        -0.053471528
+      ],
+      [
+        "uron",
+        -0.30068892
+      ]
+    ]
+  }
+}

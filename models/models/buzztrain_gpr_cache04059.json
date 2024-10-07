@@ -1,0 +1,176 @@
+{
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and \"Tauberian Theorems\". His most important work stemmed from his WWII research on gunfire control, which": {
+    "guess": "Andrey Kolmogorov",
+    "confidence": [
+      [
+        "And",
+        -0.5463939
+      ],
+      [
+        "rey",
+        -0.0029352678
+      ],
+      [
+        " Kol",
+        -0.057586286
+      ],
+      [
+        "m",
+        -0.00022833108
+      ],
+      [
+        "og",
+        -0.000100205485
+      ],
+      [
+        "or",
+        -0.00012546933
+      ],
+      [
+        "ov",
+        -0.00011760922
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series.": {
+    "guess": "Andrey Kolmogorov",
+    "confidence": [
+      [
+        "And",
+        -0.30748218
+      ],
+      [
+        "rey",
+        -0.0073104575
+      ],
+      [
+        " Kol",
+        -0.41847882
+      ],
+      [
+        "m",
+        -9.376849e-05
+      ],
+      [
+        "og",
+        -3.0113732e-05
+      ],
+      [
+        "or",
+        -8.339777e-05
+      ],
+      [
+        "ov",
+        -3.6431527e-05
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and \"Tauberian Theorems\". His most important work stemmed from his WWII research on gunfire control, which led to a work subtitled Control and Communication in the Animal and the Machine. FTP, who is this man who founded a new field with his 1948 book Cybernetics?": {
+    "guess": "Norbert Wiener",
+    "confidence": [
+      [
+        "Nor",
+        -0.007212818
+      ],
+      [
+        "bert",
+        -0.00010747691
+      ],
+      [
+        " Wi",
+        -0.00038956228
+      ],
+      [
+        "ener",
+        -0.000101874335
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and": {
+    "guess": "Andrey Kolmogorov",
+    "confidence": [
+      [
+        "And",
+        -0.18697332
+      ],
+      [
+        "rey",
+        -0.00976081
+      ],
+      [
+        " Kol",
+        -0.032879595
+      ],
+      [
+        "m",
+        -0.000121662146
+      ],
+      [
+        "og",
+        -4.477578e-05
+      ],
+      [
+        "or",
+        -5.8603408e-05
+      ],
+      [
+        "ov",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian": {
+    "guess": "Andrey Kolmogorov",
+    "confidence": [
+      [
+        "And",
+        -0.40084565
+      ],
+      [
+        "rey",
+        -0.0062759635
+      ],
+      [
+        " Kol",
+        -0.042813275
+      ],
+      [
+        "m",
+        -0.00011236426
+      ],
+      [
+        "og",
+        -4.5371802e-05
+      ],
+      [
+        "or",
+        -6.706687e-05
+      ],
+      [
+        "ov",
+        -4.596782e-05
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and \"Tauberian Theorems\". His most important work stemmed from his WWII research on gunfire control, which led to a work subtitled Control and Communication in the Animal and the Machine. FTP, who is this": {
+    "guess": "Norbert Wiener",
+    "confidence": [
+      [
+        "Nor",
+        -0.014282565
+      ],
+      [
+        "bert",
+        -5.347765e-05
+      ],
+      [
+        " Wi",
+        -2.677603e-05
+      ],
+      [
+        "ener",
+        -5.9795446e-05
+      ]
+    ]
+  }
+}

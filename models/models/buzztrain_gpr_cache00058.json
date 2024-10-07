@@ -1,0 +1,98 @@
+{
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva, Udmurtia, Khakassia, Tatarstan, Karelia, Dagestan, North Ossetia and Chechnya. For ten points  these are some of the twenty-one constituent republics which make up this country and which have been  given": {
+    "guess": "Republics of Russia",
+    "confidence": [
+      [
+        "Republic",
+        -0.8972405
+      ],
+      [
+        "s",
+        -0.00037955286
+      ],
+      [
+        " of",
+        -0.001816075
+      ],
+      [
+        " Russia",
+        -0.037294228
+      ]
+    ]
+  },
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva,": {
+    "guess": "Federal subjects of Russia",
+    "confidence": [
+      [
+        "Federal",
+        -0.67172664
+      ],
+      [
+        " subjects",
+        -0.0030736178
+      ],
+      [
+        " of",
+        -0.0004549831
+      ],
+      [
+        " Russia",
+        -7.421909e-05
+      ]
+    ]
+  },
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva, Udmurtia, Khakassia, Tatarstan, Karelia, Dagestan, North Ossetia and Chechnya. For ten points  these": {
+    "guess": "Federal subjects of Russia",
+    "confidence": [
+      [
+        "Federal",
+        -0.4853483
+      ],
+      [
+        " subjects",
+        -0.0227211
+      ],
+      [
+        " of",
+        -0.0001726703
+      ],
+      [
+        " Russia",
+        -7.755679e-05
+      ]
+    ]
+  },
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva, Udmurtia, Khakassia, Tatarstan, Karelia, Dagestan, North Ossetia and Chechnya. For ten points  these are some of the twenty-one constituent republics which make up this country and which have been  given special rights under a 1993 constitution.": {
+    "guess": "Constituent republics of Russia",
+    "confidence": [
+      [
+        "Con",
+        -0.4470934
+      ],
+      [
+        "stit",
+        -0.093267955
+      ],
+      [
+        "uent",
+        -3.2140193e-05
+      ],
+      [
+        " republic",
+        -0.2126044
+      ],
+      [
+        "s",
+        -0.00918963
+      ],
+      [
+        " of",
+        -0.0006121211
+      ],
+      [
+        " Russia",
+        -0.09538634
+      ]
+    ]
+  }
+}

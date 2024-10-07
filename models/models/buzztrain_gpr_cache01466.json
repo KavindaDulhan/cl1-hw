@@ -1,0 +1,93 @@
+{
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped depending on the sign of the dominant charge carrier, and common examples of these materials include gallium arsenide and silicon. For 10 points, name these materials with properties between those": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.00047726318
+      ],
+      [
+        "iconductor",
+        -0.0057607424
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.024802672
+      ],
+      [
+        "iconductor",
+        -0.00055827404
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped depending on the sign of the dominant charge carrier, and common examples of these materials include gallium arsenide and silicon. For 10 points, name these materials with properties between those of insulators and conductors.": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0005573204
+      ],
+      [
+        "iconductor",
+        -0.0013854742
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.03268359
+      ],
+      [
+        "iconductor",
+        -0.025546078
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped depending on the sign of the dominant charge carrier, and common examples of these materials include": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0017086136
+      ],
+      [
+        "iconductor",
+        -0.00025239922
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.005299454
+      ],
+      [
+        "iconductor",
+        -4.036525e-05
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.14652288
+      ],
+      [
+        "iconductor",
+        -7.4695905e-05
+      ]
+    ]
+  }
+}

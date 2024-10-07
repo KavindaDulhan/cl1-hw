@@ -1,0 +1,62 @@
+{
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson; Ray Porter; Jonas Nightingale; Harris Telemacher; Gil Buckman; Lucky Day; Rigby Reardon; Orrin Scrivello, D.D.S.; Freddy Benson; Dr. Michael Hfuhruhrr; George Banks. FTP, these are all roles played": {
+    "guess": "Steve Martin",
+    "confidence": [
+      [
+        "Steve",
+        -0.07455414
+      ],
+      [
+        " Martin",
+        -0.00028243123
+      ]
+    ]
+  },
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson; Ray Porter; Jonas Nightingale; Harris Telemacher; Gil Buckman; Lucky Day; Rigby Reardon; Orrin Scrivello, D.D.S.; Freddy Benson; Dr. Michael Hfuhruhrr; George Banks. FTP, these are all roles played by what comedian, best known for his \"Two Wild and Crazy Guys\" skit alongside Dan Aykroyd?": {
+    "guess": "Steve Martin",
+    "confidence": [
+      [
+        "Steve",
+        -0.006717975
+      ],
+      [
+        " Martin",
+        -0.0002454854
+      ]
+    ]
+  },
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson;": {
+    "guess": "Dr. Dolittle",
+    "confidence": [
+      [
+        "Dr",
+        -1.2043536
+      ],
+      [
+        ".",
+        -0.008033382
+      ],
+      [
+        " Dol",
+        -0.7843134
+      ],
+      [
+        "ittle",
+        -9.877504e-05
+      ]
+    ]
+  },
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson; Ray Porter; Jonas Nightingale; Harris Telemacher; Gil Buckman; Lucky Day; Rigby Reardon; Orrin": {
+    "guess": "Steve Martin",
+    "confidence": [
+      [
+        "Steve",
+        -0.7378715
+      ],
+      [
+        " Martin",
+        -0.00029685118
+      ]
+    ]
+  }
+}

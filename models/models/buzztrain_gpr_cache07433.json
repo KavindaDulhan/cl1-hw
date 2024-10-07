@@ -1,0 +1,131 @@
+{
+  "This tiny 1767 work is officially entitled \"The Happy Hazards of\" the title object.  It was commissioned by the Baron de-Saint Julien, who asked to be painted in a position to see his mistress' legs, \"and": {
+    "guess": "The Happy Hazards of the Swing",
+    "confidence": [
+      [
+        "The",
+        -0.03374159
+      ],
+      [
+        " Happy",
+        -0.07369675
+      ],
+      [
+        " Haz",
+        -0.44270548
+      ],
+      [
+        "ards",
+        -8.180258e-06
+      ],
+      [
+        " of",
+        -0.0019105503
+      ],
+      [
+        " the",
+        -0.020898154
+      ],
+      [
+        " Swing",
+        -0.012526601
+      ]
+    ]
+  },
+  "This tiny 1767 work is officially entitled \"The Happy Hazards of\" the title object.  It was commissioned by the Baron de-Saint Julien, who asked to be painted in a position to see his mistress' legs, \"and even more of her if you wish to enliven your picture.\"  The mistress is at center, kicking off her left shoe and being pushed by a smiling bishop.  FTP name this rococo garden scene, a masterpiece of Jean-Honore Fragonard.": {
+    "guess": "The Swing",
+    "confidence": [
+      [
+        "The",
+        -0.019498907
+      ],
+      [
+        " Swing",
+        -0.027891213
+      ]
+    ]
+  },
+  "This tiny 1767 work is officially entitled \"The Happy Hazards of\" the title object.  It was commissioned": {
+    "guess": "The Happy Hazards of Gilbert and Sullivan",
+    "confidence": [
+      [
+        "The",
+        -0.28454643
+      ],
+      [
+        " Happy",
+        -0.023766324
+      ],
+      [
+        " Haz",
+        -0.08621958
+      ],
+      [
+        "ards",
+        -2.677603e-05
+      ],
+      [
+        " of",
+        -0.023652462
+      ],
+      [
+        " Gilbert",
+        -0.9034152
+      ],
+      [
+        " and",
+        -0.032474507
+      ],
+      [
+        " Sullivan",
+        -0.0008887103
+      ]
+    ]
+  },
+  "This tiny 1767 work is officially entitled \"The Happy Hazards of\" the title object.  It was commissioned by the Baron de-Saint Julien, who asked to be painted in a position to see his mistress' legs, \"and even more of her if you wish to enliven your picture.\"  The mistress is at center, kicking off her": {
+    "guess": "The Swing",
+    "confidence": [
+      [
+        "The",
+        -0.09038914
+      ],
+      [
+        " Swing",
+        -0.70379335
+      ]
+    ]
+  },
+  "This tiny 1767 work is officially entitled \"The Happy Hazards of\" the title object.  It was commissioned by the Baron de-Saint Julien, who asked to be painted in a position to see his mistress' legs, \"and even more of her if you wish to enliven your picture.\"  The mistress is at center, kicking off her left shoe and being pushed by a smiling bishop.  FTP name this rococo garden scene, a masterpiece": {
+    "guess": "The Happy Accidents of the Swing",
+    "confidence": [
+      [
+        "The",
+        -0.017310359
+      ],
+      [
+        " Happy",
+        -0.58869976
+      ],
+      [
+        " Acc",
+        -0.33568123
+      ],
+      [
+        "idents",
+        -1.2233183e-05
+      ],
+      [
+        " of",
+        -1.8431772e-05
+      ],
+      [
+        " the",
+        -0.00049059937
+      ],
+      [
+        " Swing",
+        -3.523949e-05
+      ]
+    ]
+  }
+}

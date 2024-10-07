@@ -1,0 +1,138 @@
+{
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18": {
+    "guess": "Aptamer",
+    "confidence": [
+      [
+        "A",
+        -1.0365728
+      ],
+      [
+        "pt",
+        -0.036778323
+      ],
+      [
+        "amer",
+        -0.004660215
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3 gene has an associated one of these that resembles a construct from hepatitis d. One type has invariant residues of C3, G5, G8, and G12 and a U-shaped turn with a namesake (*) shape. That example is found in plant virons and is called hammerhead. Group 2 introns also are these. Many of them can catalyze their own phosphodiester bonds and these molecules form the basis of the RNA world hypothesis.": {
+    "guess": "Ribozyme",
+    "confidence": [
+      [
+        "Rib",
+        -0.0093119955
+      ],
+      [
+        "oz",
+        -3.9769227e-05
+      ],
+      [
+        "yme",
+        -0.0024380928
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3 gene has an associated one of these that resembles a construct from hepatitis d. One type has invariant residues of C3, G5, G8, and G12 and a U-shaped turn with a namesake (*) shape. That example is found in plant virons and is called hammerhead. Group 2 introns also are these. Many of them can catalyze their own phosphodiester bonds and these molecules form the basis of the RNA world hypothesis. They are responsible for linking amino acids in the ribosome. For 10 points, name these RNA molecules": {
+    "guess": "Ribozyme",
+    "confidence": [
+      [
+        "Rib",
+        -0.0020491474
+      ],
+      [
+        "oz",
+        -0.0129969185
+      ],
+      [
+        "yme",
+        -0.050636657
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3 gene has an associated one of these that resembles a construct from hepatitis d. One type has invariant residues of C3, G5, G8, and G12 and a U-shaped turn with a namesake (*) shape. That example is found": {
+    "guess": "Aptamer",
+    "confidence": [
+      [
+        "A",
+        -0.7482042
+      ],
+      [
+        "pt",
+        -0.0015674727
+      ],
+      [
+        "amer",
+        -0.018279647
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3 gene has an associated one of these that resembles a construct from hepatitis d. One type has invariant residues of C3, G5, G8, and G12 and a U-shaped turn with a namesake (*) shape. That example is found in plant virons and is called hammerhead. Group 2 introns also are these. Many of them can catalyze their own phosphodiester bonds and these molecules form the basis of the RNA world hypothesis. They are responsible for linking amino acids in the ribosome. For 10 points, name these RNA molecules that have catalytic abilities.": {
+    "guess": "Ribozyme",
+    "confidence": [
+      [
+        "Rib",
+        -0.0015727103
+      ],
+      [
+        "oz",
+        -0.0022160346
+      ],
+      [
+        "yme",
+        -0.009819013
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3 gene has an associated one of these that resembles a construct from hepatitis d. One type has invariant": {
+    "guess": "RNA aptamer",
+    "confidence": [
+      [
+        "RNA",
+        -1.1301146
+      ],
+      [
+        " apt",
+        -0.6903983
+      ],
+      [
+        "amer",
+        -0.058539923
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3 gene has an associated one of these that resembles a construct from hepatitis d. One type has invariant residues of C3, G5, G8, and G12 and a U-shaped turn with a namesake (*) shape. That example is found in plant virons and is called hammerhead. Group 2 introns also are these. Many of them can catalyze": {
+    "guess": "Ribozyme",
+    "confidence": [
+      [
+        "Rib",
+        -0.009320501
+      ],
+      [
+        "oz",
+        -0.0001787497
+      ],
+      [
+        "yme",
+        -0.0019080507
+      ]
+    ]
+  },
+  "B6.61 is an example of one of these molecules created by selection experiments to improve on the Round-18 one. Another type of these molecules has an undocked, intermediate, and docked form. The CPEB3": {
+    "guess": "RNA aptamer",
+    "confidence": [
+      [
+        "RNA",
+        -1.1173774
+      ],
+      [
+        " apt",
+        -0.8855325
+      ],
+      [
+        "amer",
+        -0.07299355
+      ]
+    ]
+  }
+}

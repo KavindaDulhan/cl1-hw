@@ -1,0 +1,84 @@
+{
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has a hypotenuse of twenty-five. George Miller posited people remember this number of chunks, plus or minus two, in their short term memory. A problem proved impossible by Euler involved crossing this number of bridges. For 10 points, name this number of sides on a heptagon.": {
+    "guess": "7",
+    "confidence": [
+      [
+        "7",
+        -0.37917447
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen": {
+    "guess": "Alpha helix",
+    "confidence": [
+      [
+        "Alpha",
+        -0.25691426
+      ],
+      [
+        " hel",
+        -0.017297246
+      ],
+      [
+        "ix",
+        -0.0047842073
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and": {
+    "guess": "Cervical vertebrae",
+    "confidence": [
+      [
+        "C",
+        -0.44717816
+      ],
+      [
+        "erv",
+        -0.17102641
+      ],
+      [
+        "ical",
+        -5.3239244e-05
+      ],
+      [
+        " vert",
+        -0.04603756
+      ],
+      [
+        "ebra",
+        -0.00018482542
+      ],
+      [
+        "e",
+        -0.0039792624
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has a hypotenuse of twenty-five. George Miller posited people remember this number of chunks, plus or": {
+    "guess": "Seven",
+    "confidence": [
+      [
+        "Seven",
+        -0.16774702
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has a hypotenuse of twenty-five. George Miller posited people remember this number of chunks, plus or minus two, in their short term memory. A problem proved impossible by Euler involved crossing this number": {
+    "guess": "Seven",
+    "confidence": [
+      [
+        "Seven",
+        -0.3708983
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has": {
+    "guess": "Seven",
+    "confidence": [
+      [
+        "Seven",
+        -0.036754306
+      ]
+    ]
+  }
+}

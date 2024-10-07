@@ -1,0 +1,107 @@
+{
+  "The E\u00f6tv\u00f6s effect is the vertical component of this phenomenon. It becomes negligible when the dimenstionless": {
+    "guess": "Coriolis force",
+    "confidence": [
+      [
+        "Cor",
+        -0.0009292103
+      ],
+      [
+        "iol",
+        -7.5411124e-05
+      ],
+      [
+        "is",
+        -1.5213274e-05
+      ],
+      [
+        " force",
+        -0.0031882864
+      ]
+    ]
+  },
+  "The E\u00f6tv\u00f6s effect is the vertical component of this phenomenon. It becomes negligible when the dimenstionless quantity also known as the Kibel number, the Rossby number, is large. Its strength is proportional to the velocity of an objects and the angular velocity of the frame. For 10 points, what effect, which accounts for atmospheric and oceanic current, occurs when a rotating frame of reference creates a fictitious force that causes projectiles to appear deflected?": {
+    "guess": "Coriolis force",
+    "confidence": [
+      [
+        "Cor",
+        -0.0047444683
+      ],
+      [
+        "iol",
+        -7.398068e-05
+      ],
+      [
+        "is",
+        -1.1994775e-05
+      ],
+      [
+        " force",
+        -0.053456496
+      ]
+    ]
+  },
+  "The E\u00f6tv\u00f6s effect is the vertical component of this phenomenon. It becomes negligible when the dimenstionless quantity also known as the Kibel number, the Rossby number, is large. Its strength is proportional to the velocity of an objects and the angular velocity of the frame. For 10 points, what effect,": {
+    "guess": "Coriolis force",
+    "confidence": [
+      [
+        "Cor",
+        -0.003576907
+      ],
+      [
+        "iol",
+        -8.792751e-05
+      ],
+      [
+        "is",
+        -1.4378848e-05
+      ],
+      [
+        " force",
+        -0.016424118
+      ]
+    ]
+  },
+  "The E\u00f6tv\u00f6s effect is the vertical component of this phenomenon. It becomes negligible when the dimenstionless quantity also known as the Kibel number, the Rossby number, is large. Its strength is proportional to the velocity of an objects and the angular velocity of the frame. For 10 points, what effect, which accounts for atmospheric and oceanic current, occurs when a rotating frame of reference creates": {
+    "guess": "Coriolis force",
+    "confidence": [
+      [
+        "Cor",
+        -0.002463883
+      ],
+      [
+        "iol",
+        -9.5914154e-05
+      ],
+      [
+        "is",
+        -1.867018e-05
+      ],
+      [
+        " force",
+        -0.017770004
+      ]
+    ]
+  },
+  "The E\u00f6tv\u00f6s effect is the vertical component of this phenomenon. It becomes negligible when the dimenstionless quantity also known as the Kibel number, the Rossby number, is large. Its strength is proportional": {
+    "guess": "Coriolis force",
+    "confidence": [
+      [
+        "Cor",
+        -0.02381801
+      ],
+      [
+        "iol",
+        -7.13582e-05
+      ],
+      [
+        "is",
+        -9.4914985e-06
+      ],
+      [
+        " force",
+        -0.0043354104
+      ]
+    ]
+  }
+}

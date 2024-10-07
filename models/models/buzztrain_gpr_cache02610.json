@@ -1,0 +1,108 @@
+{
+  "The Gummel-Poon model describes one of these devices that is subject to the Early effect. Two of these objects can be used to create a Darlington pair, and an \"ion sensitive\" variety can measure ion concentrations in solution. Electric field controls the drainage voltage in field effect types of these": {
+    "guess": "Transistor",
+    "confidence": [
+      [
+        "Trans",
+        -0.085694514
+      ],
+      [
+        "istor",
+        -0.42444238
+      ]
+    ]
+  },
+  "The Gummel-Poon model describes one of these devices that is subject to the Early effect. Two of these objects can be used to create a Darlington pair, and an \"ion sensitive\" variety can measure ion concentrations in solution. Electric field controls the drainage voltage in field effect types of these devices, which include MOSFETs, and bipolar types of them come in PNP and NPN types. These electrical": {
+    "guess": "Transistor",
+    "confidence": [
+      [
+        "Trans",
+        -0.0033936102
+      ],
+      [
+        "istor",
+        -0.0054484974
+      ]
+    ]
+  },
+  "The Gummel-Poon model describes one of these devices that is subject to the Early effect. Two of these objects can be used to create a Darlington pair, and an \"ion sensitive\" variety can measure ion concentrations in solution. Electric field controls the drainage voltage in field effect types of these devices, which include MOSFETs, and bipolar types of them come in PNP and NPN types. These electrical components were introduced by a team from Bell Labs and are useful in amplifying signals. For 10 points, name these circuit components that replaced vacuum tubes in computers and are useful as switches.": {
+    "guess": "Transistor",
+    "confidence": [
+      [
+        "Trans",
+        -0.00025680976
+      ],
+      [
+        "istor",
+        -0.037313182
+      ]
+    ]
+  },
+  "The Gummel-Poon model describes one of these devices that is subject to the Early effect. Two of these": {
+    "guess": "Bipolar Junction Transistor",
+    "confidence": [
+      [
+        "B",
+        -0.13392554
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "olar",
+        0.0
+      ],
+      [
+        " Junction",
+        -0.054208603
+      ],
+      [
+        " Trans",
+        -0.00010258956
+      ],
+      [
+        "istor",
+        -0.34329936
+      ]
+    ]
+  },
+  "The Gummel-Poon model describes one of these devices that is subject to the Early effect. Two of these objects can be used to create a Darlington pair, and an \"ion sensitive\" variety can measure ion concentrations": {
+    "guess": "Bipolar junction transistor",
+    "confidence": [
+      [
+        "B",
+        -0.23955141
+      ],
+      [
+        "ip",
+        -3.1281633e-07
+      ],
+      [
+        "olar",
+        -1.1398757e-05
+      ],
+      [
+        " junction",
+        -0.44508922
+      ],
+      [
+        " transistor",
+        -0.005428581
+      ]
+    ]
+  },
+  "The Gummel-Poon model describes one of these devices that is subject to the Early effect. Two of these objects can be used to create a Darlington pair, and an \"ion sensitive\" variety can measure ion concentrations in solution. Electric field controls the drainage voltage in field effect types of these devices, which include MOSFETs, and bipolar types of them come in PNP and NPN types. These electrical components were introduced by a team from Bell Labs and are useful in amplifying signals. For 10": {
+    "guess": "Transistor",
+    "confidence": [
+      [
+        "Trans",
+        -0.0021340793
+      ],
+      [
+        "istor",
+        -0.024634032
+      ]
+    ]
+  }
+}

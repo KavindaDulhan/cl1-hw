@@ -1,0 +1,488 @@
+{
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis": {
+    "guess": "Chebyshev polynomial",
+    "confidence": [
+      [
+        "Che",
+        -0.0287676
+      ],
+      [
+        "b",
+        -0.017768713
+      ],
+      [
+        "ys",
+        -9.603336e-05
+      ],
+      [
+        "hev",
+        -4.143808e-05
+      ],
+      [
+        " polynomial",
+        -0.36326775
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately honor ancestors from a past best forgotten. The climatic scene can be described thusly : After an exorcism of a plantation owner's ghost fails, Bernice sings the names carved onto a piano and": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0064650094
+      ],
+      [
+        " Piano",
+        -0.00067097833
+      ],
+      [
+        " Lesson",
+        -2.355753e-05
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma of the mean is less than one over k squared according to this man. That statement can be proven by": {
+    "guess": "Chebyshev",
+    "confidence": [
+      [
+        "Che",
+        -0.10172596
+      ],
+      [
+        "b",
+        -0.0013817827
+      ],
+      [
+        "ys",
+        -1.4378848e-05
+      ],
+      [
+        "hev",
+        -1.6286107e-05
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma": {
+    "guess": "Chebyshev polynomial",
+    "confidence": [
+      [
+        "Che",
+        -0.2330598
+      ],
+      [
+        "b",
+        -0.0004007601
+      ],
+      [
+        "ys",
+        -9.0883464e-07
+      ],
+      [
+        "hev",
+        -3.2929079e-06
+      ],
+      [
+        " polynomial",
+        -0.17813481
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "In",
+        -0.7388602
+      ],
+      [
+        "k",
+        -0.3917906
+      ],
+      [
+        "atha",
+        -0.00037597676
+      ],
+      [
+        " Freedom",
+        -9.400689e-05
+      ],
+      [
+        " Party",
+        -6.384837e-05
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation": {
+    "guess": "Chebyshev polynomial",
+    "confidence": [
+      [
+        "Che",
+        -0.19465892
+      ],
+      [
+        "b",
+        -0.00062737183
+      ],
+      [
+        "ys",
+        -2.4584822e-06
+      ],
+      [
+        "hev",
+        -1.1279553e-05
+      ],
+      [
+        " polynomial",
+        -0.33855084
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma of the mean is less than one over k squared according to this man. That statement can be proven by using Markov's inequality. For 10 points, name this Russian mathematician whose namesake inequality gives an upper bound on the number of data points at some distance from the mean.": {
+    "guess": "Chebyshev's inequality",
+    "confidence": [
+      [
+        "Che",
+        -0.77600795
+      ],
+      [
+        "b",
+        -0.0013728497
+      ],
+      [
+        "ys",
+        -9.372295e-06
+      ],
+      [
+        "hev",
+        -2.9352968e-06
+      ],
+      [
+        "'s",
+        -0.3434313
+      ],
+      [
+        " inequality",
+        -0.33769614
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately honor ancestors from a past best forgotten. The climatic scene can be described thusly :": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0033669928
+      ],
+      [
+        " Piano",
+        -0.013065292
+      ],
+      [
+        " Lesson",
+        -2.057744e-05
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three?": {
+    "guess": "Cubic function",
+    "confidence": [
+      [
+        "C",
+        -0.033413764
+      ],
+      [
+        "ubic",
+        -0.035287343
+      ],
+      [
+        " function",
+        -0.039816175
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election campaign symbol features three elephants and the slogans: \"Caring, Capable, and Clean\" and \"Real Development Now\" criticizing the ANC inaction on certain issues. It won nine percent of the vote in the December 2000 elections. For 10 points--name this party led by Mangosuthu Buthelezi.": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "In",
+        -0.030868504
+      ],
+      [
+        "k",
+        -0.0006314247
+      ],
+      [
+        "atha",
+        -0.00047928968
+      ],
+      [
+        " Freedom",
+        -1.9504607e-05
+      ],
+      [
+        " Party",
+        -7.910644e-05
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma of the mean is less than one over k squared according to this man. That statement can be proven by using Markov's inequality. For 10 points, name this Russian mathematician whose namesake inequality": {
+    "guess": "Andrey Markov",
+    "confidence": [
+      [
+        "And",
+        -0.58549225
+      ],
+      [
+        "rey",
+        -0.010934034
+      ],
+      [
+        " Mark",
+        -0.1278951
+      ],
+      [
+        "ov",
+        -7.266944e-05
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election campaign symbol features three elephants and the slogans: \"Caring, Capable, and Clean\" and \"Real": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "In",
+        -0.48402745
+      ],
+      [
+        "k",
+        -0.021934198
+      ],
+      [
+        "atha",
+        -0.00079843093
+      ],
+      [
+        " Freedom",
+        -7.3861476e-05
+      ],
+      [
+        " Party",
+        -0.00016206119
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a root. Synthetic division will then yield a quadratic that can be easily factored. FTP, what are the roots of the expression quantity x minus one, close quantity, times quantity x squared minus two x minus three?": {
+    "guess": "Quadratic equation",
+    "confidence": [
+      [
+        "Qu",
+        -0.4509209
+      ],
+      [
+        "adratic",
+        -0.00024763108
+      ],
+      [
+        " equation",
+        -0.43304417
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a": {
+    "guess": "Remez algorithm",
+    "confidence": [
+      [
+        "R",
+        -0.99006516
+      ],
+      [
+        "eme",
+        -0.24035911
+      ],
+      [
+        "z",
+        -8.3874584e-05
+      ],
+      [
+        " algorithm",
+        -0.911818
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a root. Synthetic division": {
+    "guess": "Rational root theorem",
+    "confidence": [
+      [
+        "R",
+        -0.7804827
+      ],
+      [
+        "ational",
+        -0.000112960275
+      ],
+      [
+        " root",
+        -0.095334545
+      ],
+      [
+        " theorem",
+        -0.0002707529
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes": {
+    "guess": "The Price (play)",
+    "confidence": [
+      [
+        "The",
+        -0.0034368464
+      ],
+      [
+        " Price",
+        -0.0007263714
+      ],
+      [
+        " (",
+        -0.18792322
+      ],
+      [
+        "play",
+        -7.648396e-05
+      ],
+      [
+        ")",
+        -1.8431772e-05
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4": {
+    "guess": "Chebyshev polynomial",
+    "confidence": [
+      [
+        "Che",
+        -0.014200172
+      ],
+      [
+        "b",
+        -0.0015936499
+      ],
+      [
+        "ys",
+        -3.4285862e-05
+      ],
+      [
+        "hev",
+        -1.962381e-05
+      ],
+      [
+        " polynomial",
+        -0.7487411
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation": {
+    "guess": "National Liberation Front of Corsica",
+    "confidence": [
+      [
+        "National",
+        -1.1534151
+      ],
+      [
+        " Liberation",
+        -0.7658054
+      ],
+      [
+        " Front",
+        -0.33291355
+      ],
+      [
+        " of",
+        -0.066572934
+      ],
+      [
+        " Cors",
+        -0.33203146
+      ],
+      [
+        "ica",
+        -9.603336e-05
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately honor ancestors from a past best forgotten. The climatic scene can be described thusly : After an exorcism of a plantation owner's ghost fails, Bernice sings the names carved onto a piano and brings peace to the room. FTP name this Pulitzer Prize winning play by August Wilson.": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0042784344
+      ],
+      [
+        " Piano",
+        -0.009074813
+      ],
+      [
+        " Lesson",
+        -1.8193366e-05
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a root. Synthetic division will then yield a quadratic that can be easily factored. FTP, what are the roots of the expression quantity": {
+    "guess": "Cubic function",
+    "confidence": [
+      [
+        "C",
+        -0.2618827
+      ],
+      [
+        "ubic",
+        -0.03465883
+      ],
+      [
+        " function",
+        -0.050783057
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0024952795
+      ],
+      [
+        " Piano",
+        -0.0152591085
+      ],
+      [
+        " Lesson",
+        -3.750436e-05
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election campaign symbol features three elephants and the slogans: \"Caring, Capable, and Clean\" and \"Real Development Now\" criticizing the ANC inaction on certain issues. It won nine percent of the vote in": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "In",
+        -0.5993389
+      ],
+      [
+        "k",
+        -0.012309849
+      ],
+      [
+        "atha",
+        -9.317247e-05
+      ],
+      [
+        " Freedom",
+        -1.7120534e-05
+      ],
+      [
+        " Party",
+        -0.00012320446
+      ]
+    ]
+  }
+}

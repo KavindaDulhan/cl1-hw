@@ -1,0 +1,144 @@
+{
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating": {
+    "guess": "x87 FPU",
+    "confidence": [
+      [
+        "x",
+        -0.836159
+      ],
+      [
+        "87",
+        -0.014068307
+      ],
+      [
+        " F",
+        -0.15562183
+      ],
+      [
+        "PU",
+        -0.00028111998
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap registers, although it may still encounter its namesake (*) \"overflows\" common to flat registers. One method to inspect but not modify these structures is the peek operation, although they fundamentally run by push and pop from the top. For ten points, identify these last-in-first-out data structures.": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.059473764
+      ],
+      [
+        " (",
+        -0.023213563
+      ],
+      [
+        "abstract",
+        -0.021356618
+      ],
+      [
+        " data",
+        -0.0002419203
+      ],
+      [
+        " type",
+        -0.00024275472
+      ],
+      [
+        ")",
+        -0.000102827966
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.25919762
+      ],
+      [
+        " (",
+        -0.9093887
+      ],
+      [
+        "abstract",
+        -0.013470424
+      ],
+      [
+        " data",
+        -2.749125e-05
+      ],
+      [
+        " type",
+        -0.00047094907
+      ],
+      [
+        ")",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap registers, although it may still encounter its namesake (*) \"overflows\" common to flat registers.": {
+    "guess": "Stack machine",
+    "confidence": [
+      [
+        "Stack",
+        -0.39001077
+      ],
+      [
+        " machine",
+        -0.7305327
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap registers, although it may still encounter its namesake (*) \"overflows\" common to flat registers. One method to inspect but not modify these structures is the peek operation, although they fundamentally": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.15351248
+      ],
+      [
+        " (",
+        -1.03587
+      ],
+      [
+        "abstract",
+        -0.007038351
+      ],
+      [
+        " data",
+        -0.000119874094
+      ],
+      [
+        " type",
+        -0.00016623331
+      ],
+      [
+        ")",
+        -3.094816e-05
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap": {
+    "guess": "x87 FPU",
+    "confidence": [
+      [
+        "x",
+        -0.104147285
+      ],
+      [
+        "87",
+        -0.008565048
+      ],
+      [
+        " F",
+        -0.038106438
+      ],
+      [
+        "PU",
+        -2.9875326e-05
+      ]
+    ]
+  }
+}

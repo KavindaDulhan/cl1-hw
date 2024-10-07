@@ -1,0 +1,80 @@
+{
+  "The Suzuki coupling reacts an aryl halide with a substituted acid of this element, while another of its acids is considered the safest pesticide, since this element is highly toxic to insects but not mammals. This element's effectiveness at absorbing neutrons makes its carbide an ideal material for nuclear": {
+    "guess": "Boron",
+    "confidence": [
+      [
+        "B",
+        -0.0050435252
+      ],
+      [
+        "oron",
+        -0.009461507
+      ]
+    ]
+  },
+  "The Suzuki coupling reacts an aryl halide with a substituted acid of this element, while another of its acids is considered the safest pesticide, since this element is highly toxic to insects but not mammals. This element's effectiveness at absorbing neutrons makes its carbide an ideal material for nuclear reactor control rods, it forms trivalent compounds that (*) violate the octet rule, and its silicate is used to make Pyrex laboratory glassware. Name this metalloid element with atomic number 5": {
+    "guess": "Boron",
+    "confidence": [
+      [
+        "B",
+        -0.013514652
+      ],
+      [
+        "oron",
+        -0.00014871404
+      ]
+    ]
+  },
+  "The Suzuki coupling reacts an aryl halide with a substituted acid of this element, while another of its": {
+    "guess": "Boron",
+    "confidence": [
+      [
+        "B",
+        -0.23396362
+      ],
+      [
+        "oron",
+        -0.21781297
+      ]
+    ]
+  },
+  "The Suzuki coupling reacts an aryl halide with a substituted acid of this element, while another of its acids is considered the safest pesticide, since this element is highly toxic to insects but not mammals. This element's effectiveness at absorbing neutrons makes its carbide an ideal material for nuclear reactor control rods, it forms trivalent compounds that (*) violate the octet rule, and its silicate": {
+    "guess": "Boron",
+    "confidence": [
+      [
+        "B",
+        -0.017804777
+      ],
+      [
+        "oron",
+        -0.0012615446
+      ]
+    ]
+  },
+  "The Suzuki coupling reacts an aryl halide with a substituted acid of this element, while another of its acids is considered the safest pesticide, since this element is highly toxic to insects but not mammals. This element's effectiveness at absorbing neutrons makes its carbide an ideal material for nuclear reactor control rods, it forms trivalent compounds that (*) violate the octet rule, and its silicate is used to make Pyrex laboratory glassware. Name this metalloid element with atomic number 5 and symbol B.": {
+    "guess": "Boron",
+    "confidence": [
+      [
+        "B",
+        -0.060432296
+      ],
+      [
+        "oron",
+        -8.11329e-05
+      ]
+    ]
+  },
+  "The Suzuki coupling reacts an aryl halide with a substituted acid of this element, while another of its acids is considered the safest pesticide, since this element is highly toxic to insects but not mammals.": {
+    "guess": "Boron",
+    "confidence": [
+      [
+        "B",
+        -0.06569366
+      ],
+      [
+        "oron",
+        -0.20119724
+      ]
+    ]
+  }
+}

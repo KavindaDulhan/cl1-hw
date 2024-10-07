@@ -1,0 +1,142 @@
+{
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one important technique associated with it is known as compensation. One type of this technique was developed by Leonard Herzenberg, and its acronym is trademarked by Becton Dickinson, a leading producer of devices used in it. This technique is based on the concept of hydrodynamic focusing, which produces a single file of droplets, and a photodiode detects forward and backward scatter caused by fluorescently-labeled": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.03478307
+      ],
+      [
+        " cyt",
+        -0.12713891
+      ],
+      [
+        "ometry",
+        -0.00023309923
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.05951329
+      ],
+      [
+        " cyt",
+        -0.033327524
+      ],
+      [
+        "ometry",
+        -0.00023715216
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one important technique associated with it is known as compensation. One type of this technique was developed by Leonard Herzenberg, and its acronym is trademarked by Becton Dickinson, a leading producer": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.0631579
+      ],
+      [
+        " cyt",
+        -0.06849669
+      ],
+      [
+        "ometry",
+        -0.00013345598
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.08411358
+      ],
+      [
+        "ac",
+        -0.0011610541
+      ],
+      [
+        "it",
+        -0.098856
+      ],
+      [
+        "ance",
+        -9.865584e-05
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one important technique associated with it is known as compensation. One type of this technique was developed by Leonard Herzenberg, and its acronym is trademarked by Becton Dickinson, a leading producer of devices used in it. This technique is based on the concept of hydrodynamic focusing, which produces a single file of droplets, and a photodiode detects forward and backward scatter caused by fluorescently-labeled objects inside the droplets. For 10 points, name this technique most often used to": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.02805825
+      ],
+      [
+        " cyt",
+        -0.0702554
+      ],
+      [
+        "ometry",
+        -1.2233183e-05
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one important technique associated with it is known as compensation. One type of this technique was developed": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.012638074
+      ],
+      [
+        " cyt",
+        -0.02080894
+      ],
+      [
+        "ometry",
+        -5.800739e-05
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one important technique associated with it is known as compensation. One type of this technique was developed by Leonard Herzenberg, and its acronym is trademarked by Becton Dickinson, a leading producer of devices used in it. This technique is based on the concept of hydrodynamic focusing, which produces a single file of droplets, and a photodiode detects forward and backward scatter caused by fluorescently-labeled objects inside the droplets. For 10 points, name this technique most often used to sort cells based on physical characteristics.": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.23870566
+      ],
+      [
+        " cyt",
+        -0.07660179
+      ],
+      [
+        "ometry",
+        -0.00015026369
+      ]
+    ]
+  },
+  "In 2000, Sohn et al. described a variant of this technique that uses capacitance as an alternative to more traditional measurements. This technique often uses propidium iodide and Hoechst dyes, and one important technique associated with it is known as compensation. One type of this technique was developed by Leonard Herzenberg, and its acronym is trademarked by Becton Dickinson, a leading producer of devices used in it. This technique is based on the concept of hydrodynamic focusing, which produces": {
+    "guess": "Flow cytometry",
+    "confidence": [
+      [
+        "Flow",
+        -0.0793744
+      ],
+      [
+        " cyt",
+        -0.031115936
+      ],
+      [
+        "ometry",
+        -4.561021e-05
+      ]
+    ]
+  }
+}

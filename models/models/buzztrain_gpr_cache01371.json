@@ -1,0 +1,248 @@
+{
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles;": {
+    "guess": "Law of Cosines",
+    "confidence": [
+      [
+        "Law",
+        -0.039129406
+      ],
+      [
+        " of",
+        -5.955704e-05
+      ],
+      [
+        " Cos",
+        -0.5587383
+      ],
+      [
+        "ines",
+        -0.0003240223
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. (*) For 10 points, name this trigonometric ratio commonly calculated as \"adjacent over hypotenuse\" in right": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.564373
+      ],
+      [
+        "ine",
+        -0.00050430046
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four.  [1] The eldest brother, he is haunted by sin throughout the book, though his act of ditching his fianc\u00e9e probably didn't help his standing with God. He didn't commit the murder he's accused of, though,": {
+    "guess": "Dmitri Karamazov",
+    "confidence": [
+      [
+        "D",
+        -0.025921227
+      ],
+      [
+        "mit",
+        -0.040995643
+      ],
+      [
+        "ri",
+        -0.022250192
+      ],
+      [
+        " K",
+        -0.001534501
+      ],
+      [
+        "aram",
+        -6.921253e-05
+      ],
+      [
+        "az",
+        -0.00029589757
+      ],
+      [
+        "ov",
+        -2.0815847e-05
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between": {
+    "guess": "Law of cosines",
+    "confidence": [
+      [
+        "Law",
+        -0.58540964
+      ],
+      [
+        " of",
+        -0.0005266997
+      ],
+      [
+        " cos",
+        -0.15287825
+      ],
+      [
+        "ines",
+        -4.406056e-05
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four.  [1] The eldest brother, he is haunted by sin throughout the book, though his act of ditching his fianc\u00e9e probably didn't help his standing with God. He didn't commit the murder he's accused of, though, so that's good.": {
+    "guess": "Dmitri Karamazov",
+    "confidence": [
+      [
+        "D",
+        -0.08024722
+      ],
+      [
+        "mit",
+        -0.039273713
+      ],
+      [
+        "ri",
+        -0.0053376434
+      ],
+      [
+        " K",
+        -0.0004653465
+      ],
+      [
+        "aram",
+        -4.465658e-05
+      ],
+      [
+        "az",
+        -0.0001439459
+      ],
+      [
+        "ov",
+        -1.0802739e-05
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four. ": {
+    "guess": "The Brothers Karamazov",
+    "confidence": [
+      [
+        "The",
+        -0.09653284
+      ],
+      [
+        " Brothers",
+        -0.0020012
+      ],
+      [
+        " K",
+        -9.388769e-05
+      ],
+      [
+        "aram",
+        -1.1517961e-05
+      ],
+      [
+        "az",
+        -0.00010342398
+      ],
+      [
+        "ov",
+        -1.4378848e-05
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four.  [1] The eldest brother, he is haunted by sin throughout the book, though his act of ditching his fianc\u00e9e": {
+    "guess": "Dmitri Karamazov",
+    "confidence": [
+      [
+        "D",
+        -0.025498774
+      ],
+      [
+        "mit",
+        -0.03284256
+      ],
+      [
+        "ri",
+        -0.016098656
+      ],
+      [
+        " K",
+        -0.0010098268
+      ],
+      [
+        "aram",
+        -6.635165e-05
+      ],
+      [
+        "az",
+        -0.00017588881
+      ],
+      [
+        "ov",
+        -1.1041146e-05
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. (*) For 10 points, name this trigonometric ratio commonly calculated as \"adjacent over hypotenuse\" in right triangles.": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.39007518
+      ],
+      [
+        "ine",
+        -0.002446639
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. (*) For": {
+    "guess": "Law of cosines",
+    "confidence": [
+      [
+        "Law",
+        -0.010082692
+      ],
+      [
+        " of",
+        -7.827201e-05
+      ],
+      [
+        " cos",
+        -0.13659401
+      ],
+      [
+        "ines",
+        -3.059055e-05
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given": {
+    "guess": "The Brothers Karamazov",
+    "confidence": [
+      [
+        "The",
+        -0.046481673
+      ],
+      [
+        " Brothers",
+        -0.0017879904
+      ],
+      [
+        " K",
+        -3.4405064e-05
+      ],
+      [
+        "aram",
+        -1.8193366e-05
+      ],
+      [
+        "az",
+        -3.5358695e-05
+      ],
+      [
+        "ov",
+        -4.4849444e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and PIN is a protein used in a type of \"polar transport\" named after these compounds. They activate expansins that break down the cell wall and allow the cell to expand, according to the acid growth hypothesis. These hormones regulate gravitropism and (*) phototropism in addition to delaying fruit ripening. Most plants use one called indole-acetic acid, and they were the first plant hormones discovered. For ten points, name these plant hormones, which, like gibberellins, promote stem elongation and root growth.": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.00035393506
+      ],
+      [
+        "in",
+        -0.01701941
+      ]
+    ]
+  },
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and PIN is a protein used in a type of \"polar transport\" named after these compounds. They activate expansins that break down the cell wall and allow the cell to expand, according to the acid growth hypothesis. These hormones regulate gravitropism and (*) phototropism in addition to delaying fruit ripening.": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0028414913
+      ],
+      [
+        "in",
+        -0.007229982
+      ]
+    ]
+  },
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0033039048
+      ],
+      [
+        "in",
+        -0.0015606892
+      ]
+    ]
+  },
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and PIN is a protein used in a type of \"polar transport\" named after these compounds. They activate expansins that break down the cell wall and allow the cell to expand, according to the acid growth hypothesis. These hormones regulate gravitropism and (*) phototropism in addition to delaying fruit ripening. Most plants use one called indole-acetic acid, and they were the first plant hormones discovered. For ten points, name these plant hormones, which, like gibberellins, promote stem elongation and": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0026393915
+      ],
+      [
+        "in",
+        -0.0144330915
+      ]
+    ]
+  },
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and PIN is a protein used in a type of \"polar transport\" named after these compounds. They activate expansins that break down the cell wall and allow the cell to expand, according to the acid growth hypothesis. These hormones regulate gravitropism and (*) phototropism in addition to delaying fruit ripening. Most plants use one called indole-acetic acid, and they were the first plant hormones discovered.": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0014049944
+      ],
+      [
+        "in",
+        -0.014524854
+      ]
+    ]
+  },
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and PIN is a protein used in a type of \"polar transport\" named after these compounds. They activate expansins that break down the cell wall and allow the cell to expand, according to the acid growth hypothesis.": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0016463838
+      ],
+      [
+        "in",
+        -0.00039075434
+      ]
+    ]
+  },
+  "In the ubiquitin ligase complex SCF, the F-box protein TIP acts as a receptor to these compounds, and PIN is a protein used in a type of \"polar transport\" named after these compounds. They activate expansins": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.004013934
+      ],
+      [
+        "in",
+        -0.0055570975
+      ]
+    ]
+  }
+}

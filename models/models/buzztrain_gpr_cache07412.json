@@ -1,0 +1,164 @@
+{
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into battle when George II fought at Dettingen. This war gave the territory of (*) Silesia to Prussia through": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.1223028
+      ],
+      [
+        " of",
+        -0.0002577634
+      ],
+      [
+        " the",
+        -0.2066775
+      ],
+      [
+        " Austrian",
+        -0.0009911301
+      ],
+      [
+        " Success",
+        -0.0018196474
+      ],
+      [
+        "ion",
+        -8.299462e-06
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.06539713
+      ],
+      [
+        " of",
+        -0.00013047588
+      ],
+      [
+        " the",
+        -0.11260247
+      ],
+      [
+        " Austrian",
+        -0.021837045
+      ],
+      [
+        " Success",
+        -0.00052896456
+      ],
+      [
+        "ion",
+        -2.9756122e-05
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into battle when George II fought at Dettingen. This war gave the territory of (*) Silesia to Prussia through the treaty of Aix-la-Chapelle. For 10 points, name this war caused by the Pragmatic Sanction, which pitted Frederick the Great against the recently ascended Maria Theresa.": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.0023888526
+      ],
+      [
+        " of",
+        -4.3941356e-05
+      ],
+      [
+        " the",
+        -0.017062537
+      ],
+      [
+        " Austrian",
+        -5.5146502e-05
+      ],
+      [
+        " Success",
+        -0.00056721066
+      ],
+      [
+        "ion",
+        -3.464347e-05
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into battle when George II fought at Dettingen. This war gave the territory of (*) Silesia to Prussia through the treaty of Aix-la-Chapelle. For 10 points, name this war caused by the Pragmatic Sanction,": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.039567783
+      ],
+      [
+        " of",
+        -0.00012987986
+      ],
+      [
+        " the",
+        -0.12876946
+      ],
+      [
+        " Austrian",
+        -0.00041267683
+      ],
+      [
+        " Success",
+        -0.00095195614
+      ],
+      [
+        "ion",
+        -4.274932e-05
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of": {
+    "guess": "English Civil War",
+    "confidence": [
+      [
+        "English",
+        -0.80636424
+      ],
+      [
+        " Civil",
+        -0.0120375715
+      ],
+      [
+        " War",
+        -0.0022078317
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.013240234
+      ],
+      [
+        " of",
+        -0.00023989384
+      ],
+      [
+        " the",
+        -0.4122199
+      ],
+      [
+        " Austrian",
+        -0.0073990957
+      ],
+      [
+        " Success",
+        -0.0023686318
+      ],
+      [
+        "ion",
+        -8.776276e-06
+      ]
+    ]
+  }
+}

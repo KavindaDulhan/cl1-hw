@@ -1,0 +1,84 @@
+{
+  "LSD, ecstasy, and other hallucinogens work by blocking transporters of this molecule. It is also known as 5-hydroxytryptophan (five hi-DROX-ee-TRIP-tow-fan). This molecule stimulates motility of the gastrointestinal tract. Although ninety percent of the amount of this substance in the body is in the": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.0020286848
+      ],
+      [
+        "otonin",
+        -0.00012546933
+      ]
+    ]
+  },
+  "LSD, ecstasy, and other hallucinogens work by blocking transporters of this molecule. It is also known as 5-hydroxytryptophan (five hi-DROX-ee-TRIP-tow-fan). This molecule stimulates motility of the gastrointestinal tract. Although ninety percent of the amount of this substance in the body is in the enteric nervous system, irregularities in its function can lead to obsessive-compulsive disorder. Its reuptake is selectively inhibited to relieve depression. For 10 points, name this neurotransmitter": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.0016226952
+      ],
+      [
+        "otonin",
+        -0.00013727049
+      ]
+    ]
+  },
+  "LSD, ecstasy, and other hallucinogens work by blocking transporters of this molecule. It is also known as 5-hydroxytryptophan (five hi-DROX-ee-TRIP-tow-fan). This molecule stimulates motility of the gastrointestinal": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.0034541916
+      ],
+      [
+        "otonin",
+        -0.00027790148
+      ]
+    ]
+  },
+  "LSD, ecstasy, and other hallucinogens work by blocking transporters of this molecule. It is also known as 5-hydroxytryptophan (five hi-DROX-ee-TRIP-tow-fan). This molecule stimulates motility of the gastrointestinal tract. Although ninety percent of the amount of this substance in the body is in the enteric nervous system, irregularities in its function can lead to obsessive-compulsive disorder. Its reuptake is selectively inhibited to relieve depression. For 10 points, name this neurotransmitter thought to affect mood.": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.002739374
+      ],
+      [
+        "otonin",
+        -0.0001472836
+      ]
+    ]
+  },
+  "LSD, ecstasy, and other hallucinogens work by blocking transporters of this molecule. It is also known": {
+    "guess": "Serotonin transporter",
+    "confidence": [
+      [
+        "Ser",
+        -0.19494715
+      ],
+      [
+        "otonin",
+        -0.00076936727
+      ],
+      [
+        " transporter",
+        -0.031466234
+      ]
+    ]
+  },
+  "LSD, ecstasy, and other hallucinogens work by blocking transporters of this molecule. It is also known as 5-hydroxytryptophan (five hi-DROX-ee-TRIP-tow-fan). This molecule stimulates motility of the gastrointestinal tract. Although ninety percent of the amount of this substance in the body is in the enteric nervous system, irregularities in its function can lead to obsessive-compulsive disorder. Its": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.003763382
+      ],
+      [
+        "otonin",
+        -6.563642e-05
+      ]
+    ]
+  }
+}

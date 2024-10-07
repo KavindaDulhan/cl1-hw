@@ -1,0 +1,71 @@
+{
+  "As a sophomore at Marquette University, this man was disqualified from the election for student body president after violating campaign rules. He defeated mayor Tom Barrett in a 2010 gubernatorial election,": {
+    "guess": "Scott Walker",
+    "confidence": [
+      [
+        "Scott",
+        -0.03570602
+      ],
+      [
+        " Walker",
+        -0.0036319077
+      ]
+    ]
+  },
+  "As a sophomore at Marquette University, this man was disqualified from the election for student body president after violating campaign rules. He defeated mayor Tom Barrett in a 2010 gubernatorial election, and gained national attention just a month into his term after pushing a bill to strip(*) public workers' unions of the right to collective bargaining, a move that led opponents to petition for a recall election. For 10 points, name this governor of Wisconsin, who in June 2012 survived that recall.": {
+    "guess": "Scott Walker",
+    "confidence": [
+      [
+        "Scott",
+        -0.063439205
+      ],
+      [
+        " Walker",
+        -0.0027264173
+      ]
+    ]
+  },
+  "As a sophomore at Marquette University, this man was disqualified from the election for student body president after violating campaign rules. He defeated mayor Tom Barrett in a 2010 gubernatorial election, and gained national attention just a month into his term after pushing a bill to strip(*) public workers' unions of the right to collective bargaining, a move that led opponents to petition for": {
+    "guess": "Scott Walker",
+    "confidence": [
+      [
+        "Scott",
+        -0.1803073
+      ],
+      [
+        " Walker",
+        -0.029677358
+      ]
+    ]
+  },
+  "As a sophomore at Marquette University, this man was disqualified from the election for student body": {
+    "guess": "Marquette University",
+    "confidence": [
+      [
+        "Mar",
+        -0.456884
+      ],
+      [
+        "quette",
+        -0.012654204
+      ],
+      [
+        " University",
+        -0.02662363
+      ]
+    ]
+  },
+  "As a sophomore at Marquette University, this man was disqualified from the election for student body president after violating campaign rules. He defeated mayor Tom Barrett in a 2010 gubernatorial election, and gained national attention just a month into his term after pushing a bill to strip(*) public": {
+    "guess": "Scott Walker",
+    "confidence": [
+      [
+        "Scott",
+        -0.124781184
+      ],
+      [
+        " Walker",
+        -0.005909596
+      ]
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and diffusion coefficient of excess carriers in this kind of material can be measured by the Haynes-Shockley": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0057763928
+      ],
+      [
+        "iconductor",
+        -0.0002226093
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and diffusion coefficient of excess carriers in this kind of material can be measured by the Haynes-Shockley experiment, while Anderson's rule is used to construct diagrams of the heterojunction between two materials of this type. Whether these materials contain a negative or positively charged current carrier distinguishes the N- and P-types, while adding impurities to their crystal lattices is known as doping. FTP, name these materials which are often found in diodes and transistors and have electrical": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.00063773885
+      ],
+      [
+        "iconductor",
+        -0.0021008947
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and diffusion coefficient of excess carriers in this kind of material can be measured by the Haynes-Shockley experiment, while Anderson's rule is used to construct diagrams of the heterojunction between two materials of this type. Whether these materials contain a negative or positively charged current carrier distinguishes the N- and P-types, while adding impurities to their crystal lattices is known": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0026209662
+      ],
+      [
+        "iconductor",
+        -0.00018125297
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and diffusion coefficient of excess carriers in this kind of material can be measured by the Haynes-Shockley experiment, while Anderson's rule is used to construct diagrams of the heterojunction between two materials of this type. Whether these materials contain a negative or positively charged current carrier distinguishes the N- and P-types, while adding impurities to their crystal lattices is known as doping. FTP, name these materials which are often found in diodes and transistors and have electrical conductivities between that of insulators and conductors.": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.000804149
+      ],
+      [
+        "iconductor",
+        -0.0018871112
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and": {
+    "guess": "Semiconductor physics",
+    "confidence": [
+      [
+        "Sem",
+        -0.033011436
+      ],
+      [
+        "iconductor",
+        -0.055545814
+      ],
+      [
+        " physics",
+        -0.7193148
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.030312348
+      ],
+      [
+        "iconductor",
+        -0.0012590414
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and diffusion coefficient of excess carriers in this kind of material can be measured by the Haynes-Shockley experiment, while Anderson's rule is used to construct diagrams of the heterojunction between two materials of this type. Whether these materials contain a negative or positively charged current": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0039542057
+      ],
+      [
+        "iconductor",
+        -0.00010032469
+      ]
+    ]
+  },
+  "The Czochralski process can be used to obtain very small parts of these materials, while various recombination processes for them include photon exchange and one named after Auger. The drift mobility and diffusion coefficient of excess carriers in this kind of material can be measured by the Haynes-Shockley experiment, while Anderson's rule is used to construct diagrams of the heterojunction between": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0012705894
+      ],
+      [
+        "iconductor",
+        -0.001541523
+      ]
+    ]
+  }
+}

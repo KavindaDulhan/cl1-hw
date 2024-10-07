@@ -1,0 +1,91 @@
+{
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse of conductance, and in AC circuits, this quantity, together with (*) reactance, gives the impedance. This quantity is equal to potential difference divided by current, according to Ohm's Law. For 10 points, name this quantity, the measure of an object's ability to oppose the flow of a current.": {
+    "guess": "R\u00e9sistance",
+    "confidence": [
+      [
+        "R",
+        -1.1708372
+      ],
+      [
+        "\u00e9s",
+        -9.388769e-05
+      ],
+      [
+        "istance",
+        -0.00032831362
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse": {
+    "guess": "Electrical resistance",
+    "confidence": [
+      [
+        "Elect",
+        -0.2950559
+      ],
+      [
+        "rical",
+        -0.0014942652
+      ],
+      [
+        " resistance",
+        -0.290311
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse of conductance, and in AC circuits, this quantity, together with (*) reactance, gives the impedance.": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.65723157
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse of conductance, and in AC circuits, this quantity, together with (*) reactance, gives the impedance. This quantity is equal to potential difference divided by current, according to Ohm's Law. For 10": {
+    "guess": "R\u00e9sistance",
+    "confidence": [
+      [
+        "R",
+        -0.6149126
+      ],
+      [
+        "\u00e9s",
+        -2.2484697e-05
+      ],
+      [
+        "istance",
+        -0.00014823723
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for": {
+    "guess": "Joule's first law",
+    "confidence": [
+      [
+        "J",
+        -0.38716555
+      ],
+      [
+        "ou",
+        -6.0153056e-05
+      ],
+      [
+        "le",
+        -0.009320501
+      ],
+      [
+        "'s",
+        -0.4602642
+      ],
+      [
+        " first",
+        -0.8706768
+      ],
+      [
+        " law",
+        -0.003915019
+      ]
+    ]
+  }
+}

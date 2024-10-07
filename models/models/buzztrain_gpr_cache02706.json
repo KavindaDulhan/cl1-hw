@@ -1,0 +1,109 @@
+{
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this property, an increase of which is proportional to decreasing particle size as described by the Hall-Petch": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.10774029
+      ],
+      [
+        "ness",
+        -0.00044342037
+      ]
+    ]
+  },
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this property, an increase of which is proportional to decreasing particle size as described by the Hall-Petch effect. It can be measured for polymers by use of a durometer, which was invented by Albert Shore, while the Vickers test uses the force to surface area ratio to calculate its value. A sclerometer is used for minerals, of which talc and diamond are often assigned the lowest and highest values,": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.030560613
+      ],
+      [
+        "ness",
+        -4.7994283e-05
+      ]
+    ]
+  },
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this property, an increase of which is proportional to decreasing particle size as described by the Hall-Petch effect. It can be measured for polymers by use of a durometer, which was invented by Albert Shore,": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.7751504
+      ],
+      [
+        "ness",
+        -7.183501e-05
+      ]
+    ]
+  },
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this property, an increase of which is proportional to decreasing particle size as described by the Hall-Petch effect. It can be measured for polymers by use of a durometer, which was invented by Albert Shore, while the Vickers test uses the force to surface area ratio to calculate its value. A sclerometer is used for minerals, of which talc and diamond are often assigned the lowest and highest values, respectively. FTP, name this characteristic of a material which represents its resistance to plastic deformation, one scale for which is the Mohs scale.": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.0072119916
+      ],
+      [
+        "ness",
+        -3.2140193e-05
+      ]
+    ]
+  },
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this property, an increase of which is proportional to decreasing particle size as described by the Hall-Petch effect. It can be measured for polymers by use of a durometer, which was invented by Albert Shore, while the Vickers test uses the force to surface area ratio to calculate its value. A sclerometer is used for minerals, of which talc and diamond are often assigned the lowest and highest values, respectively. FTP, name this characteristic of a material which represents its resistance to plastic": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.012013774
+      ],
+      [
+        "ness",
+        -4.6444635e-05
+      ]
+    ]
+  },
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this property, an increase of which is proportional to decreasing particle size as described by the Hall-Petch effect. It can be measured for polymers by use of a durometer, which was invented by Albert Shore, while the Vickers test uses the force to surface area ratio to calculate its value. A sclerometer": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.08619235
+      ],
+      [
+        "ness",
+        -0.00011927807
+      ]
+    ]
+  },
+  "The Hays-Kendall approach can provide an explanation for an effect that results when testing for this": {
+    "guess": "Hays-Kendall effect",
+    "confidence": [
+      [
+        "H",
+        -0.37171355
+      ],
+      [
+        "ays",
+        -0.81965846
+      ],
+      [
+        "-K",
+        -0.41892865
+      ],
+      [
+        "end",
+        -0.00047893205
+      ],
+      [
+        "all",
+        -0.00010831134
+      ],
+      [
+        " effect",
+        -1.2639967
+      ]
+    ]
+  }
+}

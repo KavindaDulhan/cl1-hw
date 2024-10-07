@@ -1,0 +1,176 @@
+{
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule contains several Damino acids and is made of beta-(1,4)-linked N-acetylglucosamine and N-acetylmuramic acid. It comprises 90% of the dry mass of Gram-positive bacteria. For 10 points, name this molecule that forms most of the bacterial cell wall.": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -0.009068427
+      ],
+      [
+        "pt",
+        -7.862962e-05
+      ],
+      [
+        "id",
+        -0.00033856148
+      ],
+      [
+        "og",
+        -0.0007585271
+      ],
+      [
+        "ly",
+        -0.00023202639
+      ],
+      [
+        "can",
+        -0.00014168103
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing": {
+    "guess": "Chymotrypsin",
+    "confidence": [
+      [
+        "Ch",
+        -1.355594
+      ],
+      [
+        "ym",
+        -0.0644234
+      ],
+      [
+        "ot",
+        -0.003295586
+      ],
+      [
+        "ry",
+        -0.00014549555
+      ],
+      [
+        "ps",
+        -0.00025311444
+      ],
+      [
+        "in",
+        -0.00015765065
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule contains several Damino acids and is made of beta-(1,4)-linked N-acetylglucosamine and N-acetylmuramic acid. It comprises 90% of the dry mass of Gram-positive bacteria. For 10 points, name this molecule": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -0.021597676
+      ],
+      [
+        "pt",
+        -0.00012964146
+      ],
+      [
+        "id",
+        -0.0005096646
+      ],
+      [
+        "og",
+        -0.001024951
+      ],
+      [
+        "ly",
+        -0.0003236647
+      ],
+      [
+        "can",
+        -0.0001789881
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -0.06598866
+      ],
+      [
+        "pt",
+        -1.18755715e-05
+      ],
+      [
+        "id",
+        -0.00024001303
+      ],
+      [
+        "og",
+        -0.00030590701
+      ],
+      [
+        "ly",
+        -0.00018530223
+      ],
+      [
+        "can",
+        -0.00044092073
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule contains several Damino acids and is made of beta-(1,4)-linked N-acetylglucosamine and N-acetylmuramic": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -0.053644292
+      ],
+      [
+        "pt",
+        -0.00019853383
+      ],
+      [
+        "id",
+        -0.00042304752
+      ],
+      [
+        "og",
+        -0.00079009397
+      ],
+      [
+        "ly",
+        -0.00030781425
+      ],
+      [
+        "can",
+        -0.00033832307
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -0.053102277
+      ],
+      [
+        "pt",
+        -0.00014144262
+      ],
+      [
+        "id",
+        -0.0003211614
+      ],
+      [
+        "og",
+        -0.00041148844
+      ],
+      [
+        "ly",
+        -0.00037836083
+      ],
+      [
+        "can",
+        -0.00037025497
+      ]
+    ]
+  }
+}

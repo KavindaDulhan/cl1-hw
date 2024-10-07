@@ -1,0 +1,111 @@
+{
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized": {
+    "guess": "Histiocytosis X",
+    "confidence": [
+      [
+        "H",
+        -0.5074963
+      ],
+      [
+        "isti",
+        -1.998142e-05
+      ],
+      [
+        "oc",
+        -5.1331983e-05
+      ],
+      [
+        "yt",
+        -7.703444e-06
+      ],
+      [
+        "osis",
+        0.0
+      ],
+      [
+        " X",
+        -0.6969671
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type here is a part of a disk receptor and are attached to slowly adapting mechanorecptors. Containing the Langerhans and Merkel cells, the Malphigian layer refers to the basal and spinosum sublayers of it. Consisting primarily of keratinocytes, for 10 points, name this outermost layer of the skin.": {
+    "guess": "Epidermis",
+    "confidence": [
+      [
+        "Ep",
+        -0.21109487
+      ],
+      [
+        "ider",
+        -0.00019376569
+      ],
+      [
+        "mis",
+        -2.3795938e-05
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type here is a part of a disk receptor and are attached to slowly adapting mechanorecptors. Containing the Langerhans and Merkel cells, the Malphigian layer refers to the basal and spinosum sublayers of": {
+    "guess": "The Skin",
+    "confidence": [
+      [
+        "The",
+        -0.47795483
+      ],
+      [
+        " Skin",
+        -0.0126732765
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type": {
+    "guess": "Langerhans cell",
+    "confidence": [
+      [
+        "L",
+        -0.19459787
+      ],
+      [
+        "anger",
+        -0.01800911
+      ],
+      [
+        "h",
+        -0.00047023385
+      ],
+      [
+        "ans",
+        -1.2233183e-05
+      ],
+      [
+        " cell",
+        -0.14691095
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type here is a part of a disk receptor and are attached to slowly adapting mechanorecptors. Containing": {
+    "guess": "Langerhans cell",
+    "confidence": [
+      [
+        "L",
+        -0.23202622
+      ],
+      [
+        "anger",
+        -0.04617768
+      ],
+      [
+        "h",
+        -0.0008165352
+      ],
+      [
+        "ans",
+        -1.962381e-05
+      ],
+      [
+        " cell",
+        -0.111855306
+      ]
+    ]
+  }
+}

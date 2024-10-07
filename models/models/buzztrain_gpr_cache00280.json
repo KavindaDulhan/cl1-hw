@@ -1,0 +1,117 @@
+{
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves on one which involves scanning repeatedly for the next element; those are the \"heap\" and \"selection\"": {
+    "guess": "Sorting",
+    "confidence": [
+      [
+        "Sorting",
+        -0.1834134
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain": {
+    "guess": "Integer factorization",
+    "confidence": [
+      [
+        "Integer",
+        -1.4781898
+      ],
+      [
+        " factor",
+        -0.014073829
+      ],
+      [
+        "ization",
+        -3.7742768e-05
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves on one which involves scanning repeatedly for the next element; those are the \"heap\" and \"selection\" varieties. Exemplified by algorithms like \"insertion\", \"merge\", \"quick\", and \"bubble\", for 10 points, name this task in computer programming in which a list is put in order.": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.015258998
+      ],
+      [
+        " algorithm",
+        -0.18153955
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.30497763
+      ],
+      [
+        " algorithm",
+        -0.59918004
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -1.2385654
+      ],
+      [
+        " algorithm",
+        -0.06489497
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi,": {
+    "guess": "Sieve of Eratosthenes",
+    "confidence": [
+      [
+        "S",
+        -0.50337034
+      ],
+      [
+        "ieve",
+        -0.010597458
+      ],
+      [
+        " of",
+        -0.03475071
+      ],
+      [
+        " Er",
+        -0.003942214
+      ],
+      [
+        "at",
+        -0.0012145216
+      ],
+      [
+        "ost",
+        -4.8425554e-06
+      ],
+      [
+        "hen",
+        -0.0013823787
+      ],
+      [
+        "es",
+        -0.00019865304
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves on one which involves scanning repeatedly for the next element; those are the \"heap\" and \"selection\" varieties. Exemplified by algorithms like \"insertion\", \"merge\", \"quick\", and \"bubble\", for 10": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.44758892
+      ],
+      [
+        " algorithm",
+        -0.10975243
+      ]
+    ]
+  }
+}

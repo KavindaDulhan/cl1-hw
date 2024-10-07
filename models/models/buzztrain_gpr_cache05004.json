@@ -1,0 +1,113 @@
+{
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.019890592
+      ],
+      [
+        "employment",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this rate increases. Excluding changes from business cycles yields the natural rate of this phenomenon, and William Phillips observed a correlation between an increase in wages with a decrease in this. For 10 points, name phenomena in which willing people are unable to find jobs.": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.016332882
+      ],
+      [
+        "employment",
+        -2.4153549e-05
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.7537723
+      ],
+      [
+        "employment",
+        -1.2352386e-05
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this": {
+    "guess": "Unemployment in the United States",
+    "confidence": [
+      [
+        "Un",
+        -0.14909112
+      ],
+      [
+        "employment",
+        -7.9418505e-06
+      ],
+      [
+        " in",
+        -0.5902488
+      ],
+      [
+        " the",
+        -0.14137487
+      ],
+      [
+        " United",
+        -0.0011757015
+      ],
+      [
+        " States",
+        -0.00047738242
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes": {
+    "guess": "NAIRU",
+    "confidence": [
+      [
+        "NA",
+        -0.6429459
+      ],
+      [
+        "IR",
+        -1.1279553e-05
+      ],
+      [
+        "U",
+        -2.8206474e-05
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this rate increases. Excluding changes from business cycles yields the natural rate of this phenomenon,": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.33964747
+      ],
+      [
+        "employment",
+        -0.00013357517
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this rate increases. Excluding changes from business cycles yields the natural rate of this phenomenon, and William Phillips observed a correlation between an increase in wages with a decrease in this. For": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.0074958852
+      ],
+      [
+        "employment",
+        -4.0007635e-05
+      ]
+    ]
+  }
+}

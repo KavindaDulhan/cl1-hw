@@ -219,10 +219,10 @@ if __name__ == "__main__":
     parser.add_argument('--limit', type=int, default=-1)
     flags = parser.parse_args()
     
-    gg = GprGuesser(cache_filename="../../../models/%s_gpr_cache" % flags.fold)
+    gg = GprGuesser(cache_filename="../models/%s_gpr_cache" % flags.fold)
     gg.load()
 
-    with gzip.open("../../../data/qanta.%s.json.gz" % flags.fold) as infile:
+    with gzip.open("../data/qanta.%s.json.gz" % flags.fold) as infile:
         questions = json.load(infile)
 
     print("Loaded %i question" % len(questions))

@@ -1,0 +1,430 @@
+{
+  "A Wheatstone bridge can be used to determine an unknown value for this quantity, which equals the real": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -1.2649643
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a compound with this functional group. Dithianes and dithiolanes can be used to protect this functional group, which can be then be restored with the Corey-Seebach reaction, although a more common approach to protection uses alcohols and an acid catalyst to create hemiacetals and acetals. An oxygen atom can be added adjacent to this functional group via Baeyer-Villiger oxidation, resulting in esters and lactones. For 10 points, name this functional group found in carboxylic acids, ketones, and aldehydes, a carbon atom double bonded to an oxygen atom.": {
+    "guess": "Carbonyl group",
+    "confidence": [
+      [
+        "Car",
+        -1.0020348
+      ],
+      [
+        "b",
+        -0.0007604343
+      ],
+      [
+        "ony",
+        0.0
+      ],
+      [
+        "l",
+        -4.310693e-05
+      ],
+      [
+        " group",
+        -0.06771973
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a compound with this functional group. Dithianes and dithiolanes can be used to protect this functional group, which can be then be restored with the Corey-Seebach reaction, although a more common approach to protection uses alcohols and an acid catalyst to create hemiacetals and acetals. An oxygen atom": {
+    "guess": "Carbonyl group",
+    "confidence": [
+      [
+        "Car",
+        -0.2898736
+      ],
+      [
+        "b",
+        -0.15890075
+      ],
+      [
+        "ony",
+        -1.2664457e-06
+      ],
+      [
+        "l",
+        -0.00013333677
+      ],
+      [
+        " group",
+        -0.024778824
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a compound with this functional group. Dithianes and dithiolanes can be used to protect this functional group, which can be then be restored with the Corey-Seebach reaction, although a more common approach to protection uses alcohols and an acid catalyst to create hemiacetals and acetals. An oxygen atom can be added adjacent to this functional group via Baeyer-Villiger oxidation, resulting in esters": {
+    "guess": "Ketone",
+    "confidence": [
+      [
+        "K",
+        -0.84165055
+      ],
+      [
+        "et",
+        -6.289474e-05
+      ],
+      [
+        "one",
+        -0.029483275
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an eigenenergy with respect to a parameter, and he showed that Bose-Einstein condensation occurs in superfluid liquid helium. He developed the path integral formulation of quantum mechanics, and with Schwinger or Tomonaga, this physicist was rewarded the 1965 Nobel Prize in Physics for his work on quantum electrodynamics. Straight lines represent fermions and wavy lines represent bosons in this man's namesake diagrams depicting particle interactions. For 10 points, name this physicist, a longtime Caltech": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.0026695922
+      ],
+      [
+        " Fey",
+        -0.00014454192
+      ],
+      [
+        "n",
+        -8.292095e-05
+      ],
+      [
+        "man",
+        -2.0339032e-05
+      ]
+    ]
+  },
+  "A Wheatstone bridge can be used to determine an unknown value for this quantity, which equals the real part of the impedance. This quantity is multiplied by the square of current to find power. It is multiplied by capacitance to find the time constant for one kind of DC circuit. If circuit elements generating this quantity are connected in series, an equivalent value of it is the sum of individual values. For 10 points, name this quantity that, by Ohm's Law, equals voltage divided by current.": {
+    "guess": "Electrical resistance and conductance",
+    "confidence": [
+      [
+        "Elect",
+        -0.7125415
+      ],
+      [
+        "rical",
+        -7.302705e-05
+      ],
+      [
+        " resistance",
+        -0.19636567
+      ],
+      [
+        " and",
+        -0.6966124
+      ],
+      [
+        " conduct",
+        -0.0057383403
+      ],
+      [
+        "ance",
+        -0.00013917775
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an eigenenergy with respect to a parameter, and he showed that Bose-Einstein condensation occurs in superfluid liquid helium. He developed the path integral formulation of quantum mechanics, and with Schwinger or Tomonaga, this physicist was rewarded the 1965 Nobel Prize in Physics for his work on quantum electrodynamics. Straight lines represent fermions and wavy lines represent bosons in this man's namesake diagrams depicting particle interactions. For 10 points, name this physicist, a longtime Caltech professor well known for his lectures.": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.0004586711
+      ],
+      [
+        " Fey",
+        -1.3544423e-05
+      ],
+      [
+        "n",
+        -3.22594e-05
+      ],
+      [
+        "man",
+        -1.2829201e-05
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a compound with this functional group. Dithianes and dithiolanes can be used to protect this functional": {
+    "guess": "Carbonyl group",
+    "confidence": [
+      [
+        "Car",
+        -0.26755887
+      ],
+      [
+        "b",
+        -6.337155e-05
+      ],
+      [
+        "ony",
+        -6.704273e-07
+      ],
+      [
+        "l",
+        -0.00042876197
+      ],
+      [
+        " group",
+        -0.11726276
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a": {
+    "guess": "Ketone",
+    "confidence": [
+      [
+        "K",
+        -0.23179726
+      ],
+      [
+        "et",
+        -0.0006838413
+      ],
+      [
+        "one",
+        -0.0007244678
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an eigenenergy with respect to a parameter, and he showed that Bose-Einstein condensation occurs in superfluid liquid helium. He developed the path integral formulation of quantum mechanics, and with Schwinger": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.2738753
+      ],
+      [
+        " Fey",
+        -0.0046386225
+      ],
+      [
+        "n",
+        -4.0722858e-05
+      ],
+      [
+        "man",
+        -1.9743013e-05
+      ]
+    ]
+  },
+  "A Wheatstone bridge can be used to determine an unknown value for this quantity, which equals the real part of the impedance. This quantity is multiplied by the square of current to find power. It is multiplied by capacitance to find the time constant for one kind of DC circuit. If circuit elements generating": {
+    "guess": "Impedance",
+    "confidence": [
+      [
+        "Imp",
+        -0.4047389
+      ],
+      [
+        "ed",
+        -1.2590794e-05
+      ],
+      [
+        "ance",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a compound with this functional group. Dithianes and dithiolanes can be used to protect this functional group, which can be then be restored with the Corey-Seebach reaction, although a more common approach to protection uses alcohols and an acid catalyst to create hemiacetals and acetals. An oxygen atom can be added adjacent to this functional group via Baeyer-Villiger oxidation, resulting in esters and lactones. For 10 points, name this functional group found in carboxylic acids, ketones, and aldehydes,": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Al",
+        -0.22970235
+      ],
+      [
+        "cohol",
+        -0.07070745
+      ]
+    ]
+  },
+  "A Wheatstone bridge can be used to determine an unknown value for this quantity, which equals the real part of the impedance. This quantity is multiplied by the square of current to find power. It is multiplied": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.5815637
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.75504804
+      ],
+      [
+        " Fey",
+        -0.00025657137
+      ],
+      [
+        "n",
+        -1.998142e-05
+      ],
+      [
+        "man",
+        -1.2829201e-05
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric": {
+    "guess": "Feynman-Wheeler absorber theory",
+    "confidence": [
+      [
+        "F",
+        -0.92309463
+      ],
+      [
+        "ey",
+        -0.00037943368
+      ],
+      [
+        "n",
+        -0.00015240935
+      ],
+      [
+        "man",
+        -3.619312e-05
+      ],
+      [
+        "-W",
+        -0.057152025
+      ],
+      [
+        "he",
+        -9.849109e-06
+      ],
+      [
+        "eler",
+        -7.076218e-05
+      ],
+      [
+        " absor",
+        -0.050053548
+      ],
+      [
+        "ber",
+        -3.5313153e-06
+      ],
+      [
+        " theory",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an eigenenergy with respect to a parameter, and he showed that Bose-Einstein condensation occurs in superfluid liquid helium. He developed the path integral formulation of quantum mechanics, and with Schwinger or Tomonaga, this physicist was rewarded the 1965 Nobel Prize in Physics for his work on quantum electrodynamics. Straight lines represent fermions and wavy lines represent bosons in this man's": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.2510615
+      ],
+      [
+        " Fey",
+        -0.0007470945
+      ],
+      [
+        "n",
+        -6.122589e-05
+      ],
+      [
+        "man",
+        -1.4378848e-05
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an eigenenergy with respect to a parameter, and he showed that Bose-Einstein condensation occurs in superfluid liquid helium. He developed the path integral formulation of quantum mechanics, and with Schwinger or Tomonaga, this physicist was rewarded the 1965 Nobel Prize in Physics for his work on quantum": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.0025051478
+      ],
+      [
+        " Fey",
+        -0.00020497083
+      ],
+      [
+        "n",
+        -5.7530575e-05
+      ],
+      [
+        "man",
+        -1.50940705e-05
+      ]
+    ]
+  },
+  "With Wheeler, this scientist names an absorber theory that resolves causality issues in time-symmetric electromagnetism. With Hellmann, he names a theorem giving an expression for the derivative of an eigenenergy with respect to a parameter, and he showed that Bose-Einstein condensation occurs in superfluid": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.7498185
+      ],
+      [
+        " Fey",
+        -0.003643311
+      ],
+      [
+        "n",
+        -3.7265952e-05
+      ],
+      [
+        "man",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "Whereas the Meerwein-Ponndorf-Verley reduction produces an alcohol, Oppenauer oxidation results in a compound with this functional group. Dithianes and dithiolanes can be used to protect this functional group, which can be then be restored with the Corey-Seebach reaction, although a more common approach": {
+    "guess": "Carbonyl group",
+    "confidence": [
+      [
+        "Car",
+        -0.34459388
+      ],
+      [
+        "b",
+        -0.3122315
+      ],
+      [
+        "ony",
+        -6.253713e-05
+      ],
+      [
+        "l",
+        -0.0008762086
+      ],
+      [
+        " group",
+        -0.13119115
+      ]
+    ]
+  },
+  "A Wheatstone bridge can be used to determine an unknown value for this quantity, which equals the real part of the impedance. This quantity is multiplied by the square of current to find power. It is multiplied by capacitance to find the time constant for one kind of DC circuit. If circuit elements generating this quantity are connected in series, an equivalent value of it is the sum of individual": {
+    "guess": "Electrical Impedance",
+    "confidence": [
+      [
+        "Elect",
+        -0.58746856
+      ],
+      [
+        "rical",
+        -0.0006237994
+      ],
+      [
+        " Imp",
+        -1.0234795
+      ],
+      [
+        "ed",
+        -0.00019686499
+      ],
+      [
+        "ance",
+        -4.9067115e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each unacceptable to the drafters' opponents. After new elections brought Free Soilers to power in the legislature, it was voted on and rejected, but nevertheless Buchanan recommended statehood be granted": {
+    "guess": "Wyoming Constitution",
+    "confidence": [
+      [
+        "Wy",
+        -0.9293878
+      ],
+      [
+        "oming",
+        -0.0235372
+      ],
+      [
+        " Constitution",
+        -0.6778939
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters": {
+    "guess": "Constitution of California",
+    "confidence": [
+      [
+        "Con",
+        -1.4869914
+      ],
+      [
+        "stitution",
+        -0.0007525706
+      ],
+      [
+        " of",
+        -0.044091042
+      ],
+      [
+        " California",
+        -1.6506325
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum": {
+    "guess": "United States constitutional amendment",
+    "confidence": [
+      [
+        "United",
+        -1.3159626
+      ],
+      [
+        " States",
+        -0.18475199
+      ],
+      [
+        " constitutional",
+        -1.6995975
+      ],
+      [
+        " amendment",
+        -0.3014508
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each unacceptable to the drafters' opponents. After new elections brought Free Soilers to power in the legislature, it was voted on and rejected, but nevertheless Buchanan recommended statehood be granted under its terms. FTP, what was this 1857 pro-slavery proposal for the constitution of Kansas?": {
+    "guess": "Lecompton Constitution",
+    "confidence": [
+      [
+        "L",
+        -0.041665234
+      ],
+      [
+        "ecom",
+        -5.5122365e-07
+      ],
+      [
+        "pton",
+        -0.00029553997
+      ],
+      [
+        " Constitution",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each": {
+    "guess": "United States Constitution",
+    "confidence": [
+      [
+        "United",
+        -1.1747772
+      ],
+      [
+        " States",
+        -0.018481998
+      ],
+      [
+        " Constitution",
+        -0.05388345
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each unacceptable to the drafters' opponents. After new elections brought Free Soilers to power in the": {
+    "guess": "Wyoming Constitution",
+    "confidence": [
+      [
+        "Wy",
+        -1.609483
+      ],
+      [
+        "oming",
+        -0.04851322
+      ],
+      [
+        " Constitution",
+        -0.28626347
+      ]
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "Vitamin B12 or folate deficiency lead to the megaloblastic (MAY-guh-lo-BLAST-ic) type of this disease.": {
+    "guess": "Megaloblastic anemia",
+    "confidence": [
+      [
+        "M",
+        -0.09748371
+      ],
+      [
+        "egal",
+        -2.3080716e-05
+      ],
+      [
+        "ob",
+        -0.0007402999
+      ],
+      [
+        "lastic",
+        -0.0011990397
+      ],
+      [
+        " an",
+        -0.037122753
+      ],
+      [
+        "emia",
+        -0.00020830853
+      ]
+    ]
+  },
+  "Vitamin B12 or folate deficiency lead to the megaloblastic (MAY-guh-lo-BLAST-ic) type of this disease. Some genetic diseases cause overactivity of the spleen and so lead to this disorder. Misshapen red blood cells lead one variety of this disorder, and low iron intake leads to its most common definition.": {
+    "guess": "Anemia",
+    "confidence": [
+      [
+        "An",
+        -0.06755326
+      ],
+      [
+        "emia",
+        -0.0007033761
+      ]
+    ]
+  },
+  "In vitro, a deficiency of this compound causes reduced acetylcholine synthesis.  In the body it requires": {
+    "guess": "Choline",
+    "confidence": [
+      [
+        "Ch",
+        -0.032583553
+      ],
+      [
+        "oline",
+        -0.0046744538
+      ]
+    ]
+  },
+  "This vitamin enhances iron absorption and is crucial for the synthesis of collagen. Pneumonia as well as colds can supposedly be treated with megadoses of this anti-oxidant vitamin. Deficiency of this": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "V",
+        -0.006140546
+      ],
+      [
+        "itamin",
+        -1.1279553e-05
+      ],
+      [
+        " C",
+        -0.0012532078
+      ]
+    ]
+  },
+  "Vitamin B12 or folate deficiency lead to the megaloblastic (MAY-guh-lo-BLAST-ic) type of this disease. Some genetic diseases cause overactivity of the spleen and so lead to this disorder. Misshapen red": {
+    "guess": "Anemia",
+    "confidence": [
+      [
+        "An",
+        -0.5458533
+      ],
+      [
+        "emia",
+        -0.0042600385
+      ]
+    ]
+  },
+  "This vitamin enhances iron absorption and is crucial for the synthesis of collagen. Pneumonia as well as colds can supposedly be treated with megadoses of this anti-oxidant vitamin. Deficiency of this vitamin leads to a disease characterized by fragile skin and bleeding gums, scurvy. For 10 points, name this vitamin also called ascorbic (ass-KOR-bic) acid and found in citrus fruits like oranges.": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "V",
+        -0.00094945286
+      ],
+      [
+        "itamin",
+        -1.2352386e-05
+      ],
+      [
+        " C",
+        -0.00018840152
+      ]
+    ]
+  },
+  "In vitro, a deficiency of this compound causes reduced acetylcholine synthesis.  In the body it requires lipoic acid for the reactions which it participates in, thus people with liver disease show a deficiency in this vitamin.  It serves as a coenzyme for the decarboxylation of pyruvate and the oxidation of alpha keto-glutamic acid.  The coenzyme for its namesake pyrophosphatase, FTP, identify this vitamin, a lack of which can cause beriberi.": {
+    "guess": "Thiamine",
+    "confidence": [
+      [
+        "Th",
+        -0.07261803
+      ],
+      [
+        "iam",
+        -6.6232446e-05
+      ],
+      [
+        "ine",
+        -0.0006186736
+      ]
+    ]
+  },
+  "In vitro, a deficiency of this compound causes reduced acetylcholine synthesis.  In the body it requires lipoic acid for the reactions which it participates in, thus people with liver disease show a deficiency in this vitamin.  It serves as a coenzyme for the decarboxylation of pyruvate and the oxidation of alpha keto-glutamic acid.  The coenzyme for its namesake pyrophosphatase, FTP, identify this": {
+    "guess": "Thiamine",
+    "confidence": [
+      [
+        "Th",
+        -0.062303428
+      ],
+      [
+        "iam",
+        -0.00015562419
+      ],
+      [
+        "ine",
+        -0.0007612687
+      ]
+    ]
+  },
+  "The visuals are based very much on the paintings of Kandinsky and the trance music becomes more layered and complex as the player advances. Instead of focusing on game-play, SEGA* marketed the game as promoting synaesthesia. A \"Special Package\" version, released only in Japan, featured a small device, a trance vibrator, which vibrated with the beat of the music during the game and which many believe could not have been designed as anything more than a sexual toy. FTP, what is this game, originally released for the Dreamcast and later for the PS2?": {
+    "guess": "Rez",
+    "confidence": [
+      [
+        "Re",
+        -0.079636544
+      ],
+      [
+        "z",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This vitamin enhances iron absorption and is crucial for the synthesis of collagen. Pneumonia as well as colds can supposedly be treated with megadoses of this anti-oxidant vitamin. Deficiency of this vitamin leads to a disease characterized by fragile skin and bleeding gums, scurvy. For 10 points, name": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "V",
+        -0.0027107229
+      ],
+      [
+        "itamin",
+        -9.253091e-06
+      ],
+      [
+        " C",
+        -4.6206227e-05
+      ]
+    ]
+  },
+  "This vitamin enhances iron absorption and is crucial for the synthesis of collagen. Pneumonia as well": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "V",
+        -0.0014465451
+      ],
+      [
+        "itamin",
+        -6.704273e-07
+      ],
+      [
+        " C",
+        -0.00052586896
+      ]
+    ]
+  },
+  "The visuals are based very much on the paintings of Kandinsky and the trance music becomes more layered": {
+    "guess": "Wassily Kandinsky",
+    "confidence": [
+      [
+        "W",
+        -0.6982366
+      ],
+      [
+        "ass",
+        -0.006555144
+      ],
+      [
+        "ily",
+        -5.5623317e-05
+      ],
+      [
+        " K",
+        -0.0034240163
+      ],
+      [
+        "and",
+        -6.2729996e-06
+      ],
+      [
+        "insky",
+        -0.00014561474
+      ]
+    ]
+  },
+  "In vitro, a deficiency of this compound causes reduced acetylcholine synthesis.  In the body it requires lipoic acid for the reactions which it participates in, thus people with liver disease show a deficiency": {
+    "guess": "Thiamine",
+    "confidence": [
+      [
+        "Th",
+        -0.14643484
+      ],
+      [
+        "iam",
+        -0.00012701898
+      ],
+      [
+        "ine",
+        -0.00039301923
+      ]
+    ]
+  },
+  "The visuals are based very much on the paintings of Kandinsky and the trance music becomes more layered and complex as the player advances. Instead of focusing on game-play, SEGA* marketed the game as promoting synaesthesia. A \"Special Package\" version, released only in Japan, featured a small device, a trance vibrator, which vibrated with the beat of the music during the game and which many believe could not have been designed as anything more than a sexual toy. FTP, what is this game, originally": {
+    "guess": "Rez",
+    "confidence": [
+      [
+        "Re",
+        -0.1863958
+      ],
+      [
+        "z",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The visuals are based very much on the paintings of Kandinsky and the trance music becomes more layered and complex as the player advances. Instead of focusing on game-play, SEGA* marketed the game as": {
+    "guess": "Rez",
+    "confidence": [
+      [
+        "Re",
+        -0.15535867
+      ],
+      [
+        "z",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "The visuals are based very much on the paintings of Kandinsky and the trance music becomes more layered and complex as the player advances. Instead of focusing on game-play, SEGA* marketed the game as promoting synaesthesia. A \"Special Package\" version, released only in Japan, featured a small device, a trance vibrator, which vibrated with the beat of the music during the game and which many believe": {
+    "guess": "Rez",
+    "confidence": [
+      [
+        "Re",
+        -0.43293878
+      ],
+      [
+        "z",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The visuals are based very much on the paintings of Kandinsky and the trance music becomes more layered and complex as the player advances. Instead of focusing on game-play, SEGA* marketed the game as promoting synaesthesia. A \"Special Package\" version, released only in Japan, featured a small device,": {
+    "guess": "Rez",
+    "confidence": [
+      [
+        "Re",
+        -0.22942604
+      ],
+      [
+        "z",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "In vitro, a deficiency of this compound causes reduced acetylcholine synthesis.  In the body it requires lipoic acid for the reactions which it participates in, thus people with liver disease show a deficiency in this vitamin.  It serves as a coenzyme for the decarboxylation of pyruvate and the oxidation": {
+    "guess": "Thiamine",
+    "confidence": [
+      [
+        "Th",
+        -0.06863983
+      ],
+      [
+        "iam",
+        -4.6802244e-05
+      ],
+      [
+        "ine",
+        -0.00042852355
+      ]
+    ]
+  },
+  "Vitamin B12 or folate deficiency lead to the megaloblastic (MAY-guh-lo-BLAST-ic) type of this disease. Some genetic diseases cause overactivity of the spleen and so lead to this disorder. Misshapen red blood cells lead one variety of this disorder, and low iron intake leads to its most common definition. For 10 points, name this illness, generally defined as a decrease in levels of hemoglobin or of": {
+    "guess": "Anemia",
+    "confidence": [
+      [
+        "An",
+        -0.017203502
+      ],
+      [
+        "emia",
+        -0.0003000697
+      ]
+    ]
+  },
+  "Vitamin B12 or folate deficiency lead to the megaloblastic (MAY-guh-lo-BLAST-ic) type of this disease. Some genetic diseases cause overactivity of the spleen and so lead to this disorder. Misshapen red blood cells lead one variety of this disorder, and low iron intake leads to its most common definition. For 10 points, name this illness, generally defined as a decrease in levels of hemoglobin or of red blood cells.": {
+    "guess": "Anemia",
+    "confidence": [
+      [
+        "An",
+        -0.0048570535
+      ],
+      [
+        "emia",
+        -0.00013667447
+      ]
+    ]
+  }
+}

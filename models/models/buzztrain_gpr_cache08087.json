@@ -1,0 +1,78 @@
+{
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type is a full-body portrait. The Athenaeum type is very frequently reproduced even though the bottom third of his canvas was left blank. FTP, name this artist best known for his three portraits of George": {
+    "guess": "Gilbert Stuart",
+    "confidence": [
+      [
+        "Gil",
+        -0.009904592
+      ],
+      [
+        "bert",
+        -0.00022773506
+      ],
+      [
+        " Stuart",
+        -0.009620556
+      ]
+    ]
+  },
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type is a full-body portrait. The Athenaeum type is very frequently reproduced even though the bottom third of his canvas was left blank. FTP, name this artist best known for his three portraits of George Washington.": {
+    "guess": "Gilbert Stuart",
+    "confidence": [
+      [
+        "Gil",
+        -0.0058950223
+      ],
+      [
+        "bert",
+        -0.0001277342
+      ],
+      [
+        " Stuart",
+        -0.0018446251
+      ]
+    ]
+  },
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type": {
+    "guess": "The Lansdowne type",
+    "confidence": [
+      [
+        "The",
+        -1.7532195
+      ],
+      [
+        " Lans",
+        -1.3778651
+      ],
+      [
+        "down",
+        -1.2352386e-05
+      ],
+      [
+        "e",
+        -0.0006192696
+      ],
+      [
+        " type",
+        -0.54501504
+      ]
+    ]
+  },
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type is a full-body portrait. The Athenaeum type is very frequently reproduced even though the bottom third": {
+    "guess": "Gilbert Stuart",
+    "confidence": [
+      [
+        "Gil",
+        -0.8536626
+      ],
+      [
+        "bert",
+        -0.00040588586
+      ],
+      [
+        " Stuart",
+        -0.0058420645
+      ]
+    ]
+  }
+}

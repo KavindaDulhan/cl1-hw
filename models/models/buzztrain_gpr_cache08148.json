@@ -1,0 +1,82 @@
+{
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what is now Fenny Stratford. During the absence of Sueotonius Paulinus, (*) Verulamium and  Camulodunum were among the cities burned by this widow of Prasutagus, who avenged the annexation of the Iceni kingdom.": {
+    "guess": "Boudica",
+    "confidence": [
+      [
+        "B",
+        -0.01086895
+      ],
+      [
+        "oud",
+        -4.2391708e-05
+      ],
+      [
+        "ica",
+        -0.00065322436
+      ]
+    ]
+  },
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what": {
+    "guess": "Julius Caesar",
+    "confidence": [
+      [
+        "Jul",
+        -1.1548935
+      ],
+      [
+        "ius",
+        -0.0044996697
+      ],
+      [
+        " Caesar",
+        -0.0033885026
+      ]
+    ]
+  },
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what is now Fenny Stratford. During the absence of Sueotonius Paulinus, (*) Verulamium and  Camulodunum": {
+    "guess": "Boudica's Revolt",
+    "confidence": [
+      [
+        "B",
+        -0.015390112
+      ],
+      [
+        "oud",
+        -3.7265952e-05
+      ],
+      [
+        "ica",
+        -0.0006940855
+      ],
+      [
+        "'s",
+        -0.17983398
+      ],
+      [
+        " Rev",
+        -0.06511134
+      ],
+      [
+        "olt",
+        -0.00018971277
+      ]
+    ]
+  },
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what is now Fenny Stratford. During the absence of Sueotonius Paulinus, (*) Verulamium and  Camulodunum were among the cities burned by this widow of Prasutagus, who avenged the annexation of the Iceni kingdom. For 10 points\u2014 name this woman who revolted against Roman rule in Britain.": {
+    "guess": "Boudica",
+    "confidence": [
+      [
+        "B",
+        -0.004444124
+      ],
+      [
+        "oud",
+        -9.014684e-06
+      ],
+      [
+        "ica",
+        -8.10137e-05
+      ]
+    ]
+  }
+}

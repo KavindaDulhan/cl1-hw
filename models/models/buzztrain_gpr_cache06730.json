@@ -1,0 +1,103 @@
+{
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis": {
+    "guess": "RNA-Seq",
+    "confidence": [
+      [
+        "RNA",
+        -0.96556437
+      ],
+      [
+        "-",
+        -0.42416286
+      ],
+      [
+        "Seq",
+        -0.22701548
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis and transferred to a nitrocellulose filter to which the extended denatured RNA's adhere. The filter is then exposed to a labeled DNA probe and subjected to autoradiography. FTP, name this blotting": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.005975958
+      ],
+      [
+        " blot",
+        -0.0011915372
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis and transferred to a nitrocellulose filter to which the extended denatured RNA's adhere. The filter": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.0098742535
+      ],
+      [
+        " blot",
+        -0.0013052374
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded,": {
+    "guess": "Formaldehyde agarose gel electrophoresis",
+    "confidence": [
+      [
+        "Form",
+        -0.49914494
+      ],
+      [
+        "al",
+        -0.064230576
+      ],
+      [
+        "dehyde",
+        -0.0010798489
+      ],
+      [
+        " agar",
+        -1.1804233
+      ],
+      [
+        "ose",
+        -0.0002551409
+      ],
+      [
+        " gel",
+        -0.00024417418
+      ],
+      [
+        " elect",
+        -6.086828e-05
+      ],
+      [
+        "roph",
+        -0.0002487039
+      ],
+      [
+        "ores",
+        -0.00020377879
+      ],
+      [
+        "is",
+        -0.0007796078
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis and transferred to a nitrocellulose filter to which the extended denatured RNA's adhere. The filter is then exposed to a labeled DNA probe and subjected to autoradiography. FTP, name this blotting technique in which the amount of specific RNA in a sample can be estimated.": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.0033517824
+      ],
+      [
+        " blot",
+        -0.0013899967
+      ]
+    ]
+  }
+}

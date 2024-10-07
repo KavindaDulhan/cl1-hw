@@ -1,0 +1,125 @@
+{
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience vortex shedding. The Richardson number provides a measure of the strength of this process, and its onset is governed by the ratio of inertial to viscous forces. FTP, identify this type of chaotic": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.0013234536
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -0.0009706564
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.37065437
+      ],
+      [
+        "urb",
+        -2.1008714e-06
+      ],
+      [
+        "ulence",
+        -0.04580076
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.031825647
+      ],
+      [
+        "urb",
+        -2.8160932e-06
+      ],
+      [
+        "ulence",
+        -0.06482436
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience vortex shedding. The Richardson number provides a measure of the strength of this process, and its onset is governed by the ratio of inertial to viscous forces. FTP, identify this type of chaotic flow which occurs at high Reynolds numbers and which is contrasted with laminar flow.": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.0019087658
+      ],
+      [
+        "urb",
+        -1.9361265e-07
+      ],
+      [
+        "ulence",
+        -0.009985443
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience vortex shedding. The Richardson number provides a measure of the strength of this process,": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.0010769917
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -0.00038205247
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience": {
+    "guess": "Turbulence modeling",
+    "confidence": [
+      [
+        "T",
+        -0.025673654
+      ],
+      [
+        "urb",
+        -1.9361265e-07
+      ],
+      [
+        "ulence",
+        -0.10657615
+      ],
+      [
+        " modeling",
+        -0.0057731923
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.02355897
+      ],
+      [
+        "urb",
+        -1.9361265e-07
+      ],
+      [
+        "ulence",
+        -0.30874684
+      ]
+    ]
+  }
+}

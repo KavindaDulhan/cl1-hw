@@ -1,0 +1,128 @@
+{
+  "Pliny the Elder states that this man received the Corona Graminea for outstanding service during the Social War; though, he goes on to cast some doubt on this accomplishment. Unlike many of his rivals, he died peacefully while retiring with his lover Metrobius. While quaestor, he journeyed to Numidia and with the help of a local king, Bocchus, performed the acutal capture of Jugurtha. His appointment": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.3650281
+      ],
+      [
+        "ulla",
+        -0.0011468872
+      ]
+    ]
+  },
+  "Pliny the Elder states that this man received the Corona Graminea for outstanding service during the Social War; though, he goes on to cast some doubt on this accomplishment. Unlike many of his rivals, he died peacefully while retiring with his lover Metrobius. While quaestor, he journeyed to Numidia and with the help of a local king, Bocchus, performed the acutal capture of Jugurtha. His appointment as dictator in 88 BCE marked end of the anti-artistocratic reforms implemented by his former commander and rival. For 10 points, name this Roman who undid the work of Gaius Marius.": {
+    "guess": "Lucius Cornelius Sulla",
+    "confidence": [
+      [
+        "Luc",
+        -0.14716153
+      ],
+      [
+        "ius",
+        -3.0471343e-05
+      ],
+      [
+        " Cornel",
+        -9.531814e-05
+      ],
+      [
+        "ius",
+        -6.849731e-05
+      ],
+      [
+        " S",
+        -0.00037836083
+      ],
+      [
+        "ulla",
+        -0.00015514737
+      ]
+    ]
+  },
+  "Pliny the Elder states that this man received the Corona Graminea for outstanding service during the Social War; though, he goes on to cast some doubt on this accomplishment. Unlike many of his rivals, he died peacefully while retiring with his lover Metrobius. While quaestor, he journeyed to Numidia and with the help of a local king, Bocchus, performed the acutal capture of Jugurtha. His appointment as dictator in 88 BCE marked end of the anti-artistocratic reforms implemented by his former commander": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.73025346
+      ],
+      [
+        "ulla",
+        -0.0004187562
+      ]
+    ]
+  },
+  "Pliny the Elder states that this man received the Corona Graminea for outstanding service during the": {
+    "guess": "Corona Graminea",
+    "confidence": [
+      [
+        "Cor",
+        -0.16212738
+      ],
+      [
+        "ona",
+        -0.009147929
+      ],
+      [
+        " Gram",
+        -0.01922017
+      ],
+      [
+        "inea",
+        -0.00038300612
+      ]
+    ]
+  },
+  "Pliny the Elder states that this man received the Corona Graminea for outstanding service during the Social War; though, he goes on to cast some doubt on this accomplishment. Unlike many of his rivals, he died peacefully while retiring with his lover Metrobius. While quaestor, he journeyed to Numidia": {
+    "guess": "Gaius Marius",
+    "confidence": [
+      [
+        "G",
+        -0.6007089
+      ],
+      [
+        "ai",
+        -0.14544648
+      ],
+      [
+        "us",
+        -1.7954959e-05
+      ],
+      [
+        " Mari",
+        -0.06343261
+      ],
+      [
+        "us",
+        -5.383526e-05
+      ]
+    ]
+  },
+  "Pliny the Elder states that this man received the Corona Graminea for outstanding service during the Social War; though, he goes on to cast some doubt on this accomplishment. Unlike many of his rivals,": {
+    "guess": "Gaius Marius",
+    "confidence": [
+      [
+        "G",
+        -0.6447457
+      ],
+      [
+        "ai",
+        -0.13373931
+      ],
+      [
+        "us",
+        -7.0285365e-05
+      ],
+      [
+        " Mari",
+        -0.036636632
+      ],
+      [
+        "us",
+        -0.00012391969
+      ]
+    ]
+  }
+}

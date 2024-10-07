@@ -1,0 +1,178 @@
+{
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents it reacts at low temperature. This chemical consists of two five membered aromatic rings bound to a square planar bridge consisting of a chloride ion, aluminum ion with two alkyl groups attached, and a titanium ion. For 10 points, name this organometallic compound used to methylenate carbonyls.": {
+    "guess": "Schrock carbene",
+    "confidence": [
+      [
+        "Sch",
+        -0.32046413
+      ],
+      [
+        "rock",
+        -0.0025894542
+      ],
+      [
+        " carb",
+        -0.28639597
+      ],
+      [
+        "ene",
+        -0.0024912376
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically": {
+    "guess": "Alkyl lithium",
+    "confidence": [
+      [
+        "Al",
+        -1.7798555
+      ],
+      [
+        "k",
+        -1.2198503
+      ],
+      [
+        "yl",
+        -0.39072964
+      ],
+      [
+        " lithium",
+        -0.4086993
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents it reacts at low temperature. This chemical consists of two five membered aromatic rings bound to a square planar bridge consisting of a chloride ion, aluminum ion with two alkyl groups attached,": {
+    "guess": "Schrock carbene",
+    "confidence": [
+      [
+        "Sch",
+        -0.6445655
+      ],
+      [
+        "rock",
+        -0.018877117
+      ],
+      [
+        " carb",
+        -0.042673692
+      ],
+      [
+        "ene",
+        -0.00075221295
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as": {
+    "guess": "Olefin metathesis",
+    "confidence": [
+      [
+        "O",
+        -0.7047116
+      ],
+      [
+        "le",
+        -0.016137125
+      ],
+      [
+        "fin",
+        -6.511407e-06
+      ],
+      [
+        " met",
+        -0.06725115
+      ],
+      [
+        "ath",
+        -6.9882217e-06
+      ],
+      [
+        "esis",
+        -6.3490756e-05
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using": {
+    "guess": "C-glycosides",
+    "confidence": [
+      [
+        "C",
+        -1.4183406
+      ],
+      [
+        "-g",
+        -0.345387
+      ],
+      [
+        "ly",
+        -2.677603e-05
+      ],
+      [
+        "cos",
+        -0.0001311911
+      ],
+      [
+        "ides",
+        -0.8354011
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative": {
+    "guess": "Schrock carbene",
+    "confidence": [
+      [
+        "Sch",
+        -0.9830929
+      ],
+      [
+        "rock",
+        -0.12053646
+      ],
+      [
+        " carb",
+        -0.091112226
+      ],
+      [
+        "ene",
+        -0.0012426133
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents": {
+    "guess": "Schrock carbene",
+    "confidence": [
+      [
+        "Sch",
+        -1.23671
+      ],
+      [
+        "rock",
+        -0.09581809
+      ],
+      [
+        " carb",
+        -0.05559949
+      ],
+      [
+        "ene",
+        -0.0017105208
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents it reacts at low temperature. This chemical consists of two five membered aromatic rings bound": {
+    "guess": "Methylene bridge",
+    "confidence": [
+      [
+        "M",
+        -1.1336312
+      ],
+      [
+        "ethylene",
+        -0.5504836
+      ],
+      [
+        " bridge",
+        -1.1387689
+      ]
+    ]
+  }
+}

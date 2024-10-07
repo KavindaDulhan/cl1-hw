@@ -1,0 +1,93 @@
+{
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools. Thomas Blanton and Bobby Frank Cherry were convicted in 2002 of the 1964 bombings of this city's 16th": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.0017646669
+      ],
+      [
+        "irmingham",
+        -9.627177e-05
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools.": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.0024178687
+      ],
+      [
+        "irmingham",
+        -7.8033605e-05
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools. Thomas Blanton and Bobby Frank Cherry were convicted in 2002 of the 1964 bombings of this city's 16th Street Baptist Church. For 10 points, name this city from whose city jail Martin Luther King wrote": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.00096601114
+      ],
+      [
+        "irmingham",
+        -6.8616515e-05
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools. Thomas Blanton and Bobby Frank Cherry were convicted in 2002 of the 1964 bombings of this city's 16th Street Baptist Church. For 10 points, name this city from whose city jail Martin Luther King wrote a famous letter, and which is the largest city in Alabama.": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.0007420879
+      ],
+      [
+        "irmingham",
+        -3.9292416e-05
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.0016403081
+      ],
+      [
+        "irmingham",
+        -3.3451433e-05
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.0026083563
+      ],
+      [
+        "irmingham",
+        -7.231183e-05
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.008845957
+      ],
+      [
+        "irmingham",
+        -9.2457245e-05
+      ]
+    ]
+  }
+}

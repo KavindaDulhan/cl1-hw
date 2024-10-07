@@ -1,0 +1,108 @@
+{
+  "The dried lava fields of Craters of the Moon are located in the southeastern corner of this state, which is also the home of the Payette and Salmon Rivers. Those rivers' headwaters form in this state's Sawtooth Range, considered the birthplace of Sacajawea.  Both the Treasure and Magic Valleys are features": {
+    "guess": "Idaho",
+    "confidence": [
+      [
+        "Id",
+        -0.01161724
+      ],
+      [
+        "aho",
+        -7.076218e-05
+      ]
+    ]
+  },
+  "The dried lava fields of Craters of the Moon are located in the southeastern corner of this state, which": {
+    "guess": "Craters of the Moon National Monument and Preserve",
+    "confidence": [
+      [
+        "Cr",
+        -0.24251121
+      ],
+      [
+        "aters",
+        -0.00025561772
+      ],
+      [
+        " of",
+        -0.0002450086
+      ],
+      [
+        " the",
+        -4.5848617e-05
+      ],
+      [
+        " Moon",
+        -0.00036715568
+      ],
+      [
+        " National",
+        -0.00033748866
+      ],
+      [
+        " Monument",
+        -0.00013512482
+      ],
+      [
+        " and",
+        -0.0014304746
+      ],
+      [
+        " Preserve",
+        -0.00010688089
+      ]
+    ]
+  },
+  "The dried lava fields of Craters of the Moon are located in the southeastern corner of this state, which is also the home of the Payette and Salmon Rivers. Those rivers' headwaters form in this state's Sawtooth Range, considered the birthplace of Sacajawea.  Both the Treasure and Magic Valleys are features of its landscape, along with the Snake River Canyon with nearby Shoshone Falls. French names": {
+    "guess": "Idaho",
+    "confidence": [
+      [
+        "Id",
+        -0.033162855
+      ],
+      [
+        "aho",
+        -5.0020742e-05
+      ]
+    ]
+  },
+  "The dried lava fields of Craters of the Moon are located in the southeastern corner of this state, which is also the home of the Payette and Salmon Rivers. Those rivers' headwaters form in this state's Sawtooth Range, considered the birthplace of Sacajawea.  Both the Treasure and Magic Valleys are features of its landscape, along with the Snake River Canyon with nearby Shoshone Falls. French names adorn both its capital and the populous city of Coeur d'Alene, located in this state's northern panhandle. FTP, bordered by Wyoming and Montana to its east, what is this state with capital at Boise?": {
+    "guess": "Idaho",
+    "confidence": [
+      [
+        "Id",
+        -0.00059699686
+      ],
+      [
+        "aho",
+        -4.9067115e-05
+      ]
+    ]
+  },
+  "The dried lava fields of Craters of the Moon are located in the southeastern corner of this state, which is also the home of the Payette and Salmon Rivers. Those rivers' headwaters form in this state's Sawtooth Range, considered the birthplace of Sacajawea.  Both the Treasure and Magic Valleys are features of its landscape, along with the Snake River Canyon with nearby Shoshone Falls. French names adorn both its capital and the populous city of Coeur d'Alene, located in this state's northern panhandle.": {
+    "guess": "Idaho",
+    "confidence": [
+      [
+        "Id",
+        -0.0005147867
+      ],
+      [
+        "aho",
+        -8.506662e-05
+      ]
+    ]
+  },
+  "The dried lava fields of Craters of the Moon are located in the southeastern corner of this state, which is also the home of the Payette and Salmon Rivers. Those rivers' headwaters form in this state's": {
+    "guess": "Idaho",
+    "confidence": [
+      [
+        "Id",
+        -0.10422216
+      ],
+      [
+        "aho",
+        -3.619312e-05
+      ]
+    ]
+  }
+}

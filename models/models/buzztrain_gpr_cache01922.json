@@ -1,0 +1,101 @@
+{
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits.": {
+    "guess": "Higher-order derivative",
+    "confidence": [
+      [
+        "Higher",
+        -0.5264341
+      ],
+      [
+        "-order",
+        -0.2795847
+      ],
+      [
+        " derivative",
+        -0.9257388
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h' minus 'f of x', all over h.\" For 10 points, name this basic operation of calculus, the inverse of the": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.031681877
+      ],
+      [
+        "ivative",
+        -0.0011624845
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h' minus 'f of x', all over h.\" For 10 points, name this basic operation of calculus, the inverse of the integral.": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.027988119
+      ],
+      [
+        "ivative",
+        -0.0004393711
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.660917
+      ],
+      [
+        "ivative",
+        -0.016957993
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.1242664
+      ],
+      [
+        "ivative",
+        -0.0013520222
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h'": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.0045868917
+      ],
+      [
+        "ivative",
+        -0.0006727591
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type": {
+    "guess": "Higher-order derivatives",
+    "confidence": [
+      [
+        "Higher",
+        -0.35509112
+      ],
+      [
+        "-order",
+        -0.42501992
+      ],
+      [
+        " derivatives",
+        -0.47185665
+      ]
+    ]
+  }
+}

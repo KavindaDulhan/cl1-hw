@@ -1,0 +1,1419 @@
+{
+  "Measured in joules or British Thermal Units (BTUs), mathematically it is identified as U + PV, where U is internal energy, P is pressure, and V is volume. In a simple temperature change, the change in this quantity with each degree is the heat capacity of the system at constant pressure, while in a phase change, the change in the system is the latent heat of vaporization. For ten points, what is the": {
+    "guess": "Enthalpy",
+    "confidence": [
+      [
+        "En",
+        -0.03179285
+      ],
+      [
+        "thal",
+        -2.129266e-05
+      ],
+      [
+        "py",
+        -3.4047454e-05
+      ]
+    ]
+  },
+  "Measured in joules or British Thermal Units (BTUs), mathematically it is identified as U + PV, where U is internal energy, P is pressure, and V is volume. In a simple temperature change, the change in this quantity with each degree is the heat capacity of the system at constant pressure, while in a phase change, the change in the system is the latent heat of vaporization. For ten points, what is the term for the amount of energy possessed by a thermodynamic system for transfer between itself and its environment, often expressed with a capital \"H\"?": {
+    "guess": "Enthalpy",
+    "confidence": [
+      [
+        "En",
+        -0.023079842
+      ],
+      [
+        "thal",
+        -1.5809293e-05
+      ],
+      [
+        "py",
+        -2.8921695e-05
+      ]
+    ]
+  },
+  "Measurements can be transformed in this theory using Lorentz transformations. This theory was proposed in a 1905 paper, the same year in which its formulator proposed theories to explain capillary action and Brownian motion. The underlying principle of this theory is that the speed of (*) light is the same for all reference frames, allowing one to derive that energy equals mass times the speed of light squared. For 10 points, name this theory proposed by Einstein that is contrasted with a \"general\"": {
+    "guess": "Special relativity",
+    "confidence": [
+      [
+        "Special",
+        -0.0022312596
+      ],
+      [
+        " rel",
+        -0.0046883454
+      ],
+      [
+        "ativity",
+        -1.8074163e-05
+      ]
+    ]
+  },
+  "Measured in joules or British Thermal Units (BTUs), mathematically it is identified as U + PV, where U is internal energy, P is pressure, and V is volume. In a simple temperature change, the change in this quantity with each degree is the heat capacity of the system at constant pressure, while in a phase change, the change in the system is the latent heat of vaporization. For ten points, what is the term for the amount of energy possessed by a thermodynamic system for transfer between itself and": {
+    "guess": "Internal Energy",
+    "confidence": [
+      [
+        "Internal",
+        -0.0554504
+      ],
+      [
+        " Energy",
+        -0.67268705
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant": {
+    "guess": "Johnson-Nyquist noise",
+    "confidence": [
+      [
+        "Johnson",
+        -0.85732573
+      ],
+      [
+        "-N",
+        -0.5722231
+      ],
+      [
+        "y",
+        -3.4405064e-05
+      ],
+      [
+        "quist",
+        -9.484132e-05
+      ],
+      [
+        " noise",
+        -0.028480304
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic density should lead to different values of this for observed microwave photons. Stellar masses have": {
+    "guess": "Gravitational Time Dilation",
+    "confidence": [
+      [
+        "Gr",
+        -0.42139742
+      ],
+      [
+        "avit",
+        -0.0006651374
+      ],
+      [
+        "ational",
+        -0.00012118533
+      ],
+      [
+        " Time",
+        -1.1618851
+      ],
+      [
+        " D",
+        -0.00042316676
+      ],
+      [
+        "ilation",
+        -0.00015776986
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5 parts per million by volume. Observations for it are taken at the Mauna Loa Observatory in Hawaii. Initially it showed a concentration of about 315 ppmv, but the newest points on the curve are above 390 ppmv. The main cause of this rising trend is the burning of fossil fuels. It is discussed in An Inconvenient Truth as evidence for global warming. For 10 points, what is this graph, named for a scientist": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.007540127
+      ],
+      [
+        "eling",
+        -2.8160932e-06
+      ],
+      [
+        " Curve",
+        -0.00010473523
+      ]
+    ]
+  },
+  "This can be measured on the Allen scale. One method of calculating this quantity defines it as the average": {
+    "guess": "Gene expression",
+    "confidence": [
+      [
+        "Gene",
+        -1.5575136
+      ],
+      [
+        " expression",
+        -0.0059026075
+      ]
+    ]
+  },
+  "Measured in terms of the HOMO and LUMO energy levels, this concept was first postulated in the 1939 book The Nature of the Chemical Bond, and the Structure of Molecules and Crystals.  Its creator, a Cal Tech physicist who was rewarded with the Nobel Prize in Chemistry in 1954 for its discovery, was Linus Pauling.  FTP, give the term for the tendency for atoms in a molecule to attract electrons.": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.0020972067
+      ],
+      [
+        "rone",
+        -0.0011690335
+      ],
+      [
+        "g",
+        -2.939851e-05
+      ],
+      [
+        "ativity",
+        -3.6669935e-05
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.03266478
+      ],
+      [
+        "eling",
+        -2.2842309e-05
+      ],
+      [
+        " Curve",
+        -0.0001756504
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic field. Compounds of cadmium and group 16 nonmetals like sulfur or selenium generally exhibit a decrease in this quantity when they absorb photons and are thus used in (*) photocells. For a wire, this quantity equals rho times length divided by its cross-sectional area. This quantity is zero for an ideal ammeter, and it is the inverse of conductance. The generalization of this quantity to AC circuits is denoted Z and called impedance. For 10 points, identify this quantity which, according to Ohm's": {
+    "guess": "Electrical resistance",
+    "confidence": [
+      [
+        "Elect",
+        -0.80143464
+      ],
+      [
+        "rical",
+        -1.18755715e-05
+      ],
+      [
+        " resistance",
+        -0.12962198
+      ]
+    ]
+  },
+  "A measure to deter price gouging during this time period known as the General Maximum was an extension of an operating document regulating tribunals known as the Law of Suspects. Two victims of this period were Jacques Hebert, the leader of the sansculottes, and Georges Danton. Those men opposed this period's governing body, the (*) Committee of Public Safety. Ending during the Thermidorean reaction with the overthrow of Maximilian Robespierre, for 10 points, name this period of bloodshed during": {
+    "guess": "Reign of Terror",
+    "confidence": [
+      [
+        "Re",
+        -0.059197403
+      ],
+      [
+        "ign",
+        -2.4584822e-06
+      ],
+      [
+        " of",
+        -0.0011330706
+      ],
+      [
+        " Terror",
+        -0.00075495464
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5 parts per million by volume. Observations for it are taken at the Mauna Loa Observatory in Hawaii. Initially it showed a concentration of about 315 ppmv, but the newest points on the curve are above 390 ppmv. The main cause of this rising trend is the burning of fossil fuels. It is discussed in An Inconvenient": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.006686718
+      ],
+      [
+        "eling",
+        -8.537869e-06
+      ],
+      [
+        " Curve",
+        -0.00025907462
+      ]
+    ]
+  },
+  "Measured in terms of the HOMO and LUMO energy levels, this concept was first postulated in the 1939 book The Nature of the Chemical Bond, and the Structure of Molecules and Crystals.  Its creator, a Cal": {
+    "guess": "Frontier molecular orbital theory",
+    "confidence": [
+      [
+        "Front",
+        -1.0649486
+      ],
+      [
+        "ier",
+        -0.005730283
+      ],
+      [
+        " molecular",
+        -0.12712748
+      ],
+      [
+        " orbital",
+        -0.014280329
+      ],
+      [
+        " theory",
+        -0.001908289
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic density should lead to different values of this for observed microwave photons. Stellar masses have attempted to be deduced through measurements of it, but adjustments for pressure shifts and proper application of the Doppler Effect create large uncertainties. The M\u00f6ssbauer effect on iron-57 gamma rays provided high enough resolution for R. V. Pound and G. A. Rebka to confirm it in the 1960 Harvard Tower Experiment. For 10 points, identify this phenomenon that is the shift of spectral lines toward": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.20634848
+      ],
+      [
+        "avit",
+        -0.00069837685
+      ],
+      [
+        "ational",
+        -6.4325184e-05
+      ],
+      [
+        " red",
+        -0.058472343
+      ],
+      [
+        "shift",
+        -0.00046713458
+      ]
+    ]
+  },
+  "The measurement of this phenomenon was the goal of the Ulysses spacecraft. Its primary cause is the 2/7 power temperature decrease as compared to the inverse square decrease of gravity, and the co-rotating interaction regions associated with it cause (*) geomagnetic storms on Earth. Moving slower over streamers than over the coronal holes, it experiences a bow shock at the heliopause. For 10 points\u2014": {
+    "guess": "Solar Wind",
+    "confidence": [
+      [
+        "Solar",
+        -0.020466909
+      ],
+      [
+        " Wind",
+        -0.10679312
+      ]
+    ]
+  },
+  "One measure of activity in this organ is the QRS complex, which is larger than the P wave because of the mass disparity between the sub-sections of this organ that are connected to a \"semilunar\" structure and ones that receive the \"superior\" and \"inferior\" vena cava. A systolic and diastolic pressure": {
+    "guess": "Heart",
+    "confidence": [
+      [
+        "Heart",
+        -0.09738703
+      ]
+    ]
+  },
+  "Measurements can be transformed in this theory using Lorentz transformations. This theory was proposed in a 1905 paper, the same year in which its formulator proposed theories to explain capillary action and Brownian motion. The underlying principle of this theory is that the speed of (*) light is the same for all reference frames, allowing one to derive that energy equals mass times the speed of light squared. For 10 points, name this theory proposed by Einstein that is contrasted with a \"general\" counterpart.": {
+    "guess": "Special relativity",
+    "confidence": [
+      [
+        "Special",
+        -0.0066221775
+      ],
+      [
+        " rel",
+        -0.0068420605
+      ],
+      [
+        "ativity",
+        -1.5332478e-05
+      ]
+    ]
+  },
+  "A measure to deter price gouging during this time period known as the General Maximum was an extension of an operating document regulating tribunals known as the Law of Suspects. Two victims of this period were Jacques Hebert, the leader of the sansculottes, and Georges Danton. Those men opposed this period's governing body, the (*) Committee of Public Safety. Ending during the Thermidorean reaction": {
+    "guess": "Reign of Terror",
+    "confidence": [
+      [
+        "Re",
+        -0.41216558
+      ],
+      [
+        "ign",
+        -1.6240566e-06
+      ],
+      [
+        " of",
+        -0.0011734403
+      ],
+      [
+        " Terror",
+        -0.0022389933
+      ]
+    ]
+  },
+  "This can be measured on the Allen scale. One method of calculating this quantity defines it as the average of ionization energy and electron affinity. On the periodic table, it increases as one goes up and to the (*) right, so that cesium has the lowest value for this quantity and fluorine the highest. For 10 points, name this quantity which can also be described by the Mulliken and Pauling scales and describes an atom's ability to attract electrons.": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.008548264
+      ],
+      [
+        "rone",
+        -0.0022537452
+      ],
+      [
+        "g",
+        -2.3438328e-05
+      ],
+      [
+        "ativity",
+        -1.1994775e-05
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.025789024
+      ],
+      [
+        "eling",
+        -1.8789384e-05
+      ],
+      [
+        " Curve",
+        -0.00030852947
+      ]
+    ]
+  },
+  "One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of a signal. A rank-order version coefficient for this is named for Spearman, though a statistic introduced": {
+    "guess": "Correlation coefficient",
+    "confidence": [
+      [
+        "Cor",
+        -0.53430134
+      ],
+      [
+        "relation",
+        -9.4914985e-06
+      ],
+      [
+        " coefficient",
+        -0.17116703
+      ]
+    ]
+  },
+  "One measure of activity in this organ is the QRS complex, which is larger than the P wave because of": {
+    "guess": "Heart",
+    "confidence": [
+      [
+        "Heart",
+        -0.04132421
+      ]
+    ]
+  },
+  "The measurement of this phenomenon was the goal of the Ulysses spacecraft. Its primary cause is the 2/7": {
+    "guess": "Solar wind",
+    "confidence": [
+      [
+        "Solar",
+        -0.03974148
+      ],
+      [
+        " wind",
+        -0.49588582
+      ]
+    ]
+  },
+  "This can be measured on the Allen scale. One method of calculating this quantity defines it as the average of ionization energy and electron affinity. On the periodic table, it increases as one goes up": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.0071156523
+      ],
+      [
+        "rone",
+        -0.00037836083
+      ],
+      [
+        "g",
+        -2.0458236e-05
+      ],
+      [
+        "ativity",
+        -0.00014299227
+      ]
+    ]
+  },
+  "It means 'broom sprig' and was the nickname of Count Geoffrey of Anjou, who once placed a sprig in his hat during a pilgrimage as a sign of humility. As used today, however, this name is something of an anachronism, as none of Geoffrey's immediate descendants went by it. FTP, give this name for the family": {
+    "guess": "House of Plantagenet",
+    "confidence": [
+      [
+        "House",
+        -0.32763684
+      ],
+      [
+        " of",
+        -0.006175502
+      ],
+      [
+        " Plant",
+        -0.041255232
+      ],
+      [
+        "agen",
+        -0.0005750744
+      ],
+      [
+        "et",
+        -0.00060224184
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic field. Compounds of cadmium and group 16 nonmetals like sulfur or selenium generally exhibit a decrease": {
+    "guess": "Electrical resistivity",
+    "confidence": [
+      [
+        "Elect",
+        -0.72372097
+      ],
+      [
+        "rical",
+        -0.04981993
+      ],
+      [
+        " resist",
+        -0.7339766
+      ],
+      [
+        "ivity",
+        -0.0003211614
+      ]
+    ]
+  },
+  "Measurements can be transformed in this theory using Lorentz transformations. This theory was proposed in a 1905 paper, the same year in which its formulator proposed theories to explain capillary action and Brownian motion. The underlying principle of this theory is that the speed of (*) light is the": {
+    "guess": "Special relativity",
+    "confidence": [
+      [
+        "Special",
+        -0.005887437
+      ],
+      [
+        " rel",
+        -0.0051233424
+      ],
+      [
+        "ativity",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "It means 'broom sprig' and was the nickname of Count Geoffrey of Anjou, who once placed a sprig in his hat during a pilgrimage as a sign of humility. As used today, however, this name is something of an anachronism, as none of Geoffrey's immediate descendants went by it. FTP, give this name for the family which produced eight kings from Henry II to Richard II and was England's longest-lasting royal dynasty.": {
+    "guess": "House of Plantagenet",
+    "confidence": [
+      [
+        "House",
+        -0.36001295
+      ],
+      [
+        " of",
+        -0.0006465526
+      ],
+      [
+        " Plant",
+        -0.025260517
+      ],
+      [
+        "agen",
+        -0.000555536
+      ],
+      [
+        "et",
+        -0.00045986313
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic density should lead to different values of this for observed microwave photons. Stellar masses have attempted to be deduced through measurements of it, but adjustments for pressure shifts and proper application of the Doppler Effect create large uncertainties. The M\u00f6ssbauer effect on iron-57 gamma": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.5077178
+      ],
+      [
+        "avit",
+        -0.0005119258
+      ],
+      [
+        "ational",
+        -0.0001135563
+      ],
+      [
+        " red",
+        -0.51056665
+      ],
+      [
+        "shift",
+        -0.00016814057
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5 parts per million by volume. Observations for it are taken at the Mauna Loa Observatory in Hawaii. Initially it showed a concentration of about 315 ppmv, but the newest points on the curve are above 390 ppmv. The main cause of this rising trend is the burning of fossil fuels. It is discussed in An Inconvenient Truth as evidence for global warming. For 10 points, what is this graph, named for a scientist from the Scripps Institution of Oceanography, that shows atmospheric concentration of carbon dioxide?": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.0018110794
+      ],
+      [
+        "eling",
+        -4.334534e-05
+      ],
+      [
+        " Curve",
+        -0.00041398805
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5 parts per million by volume. Observations for it are taken at the Mauna Loa Observatory in Hawaii. Initially": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.33238667
+      ],
+      [
+        "eling",
+        -2.4034345e-05
+      ],
+      [
+        " Curve",
+        -0.0054444666
+      ]
+    ]
+  },
+  "This can be measured on the Allen scale. One method of calculating this quantity defines it as the average of ionization energy and electron affinity. On the periodic table, it increases as one goes up and to the (*) right, so that cesium has the lowest value for this quantity and fluorine the highest. For 10 points, name this quantity which can also be described by the Mulliken and Pauling scales": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.01159225
+      ],
+      [
+        "rone",
+        -0.001180466
+      ],
+      [
+        "g",
+        -2.9636918e-05
+      ],
+      [
+        "ativity",
+        -3.1782583e-05
+      ]
+    ]
+  },
+  "One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of a signal. A rank-order version coefficient for this is named for Spearman, though a statistic introduced by Francis Galton, Pearson's r coefficient, is the most widely used. When r equals negative one,": {
+    "guess": "Correlation coefficient",
+    "confidence": [
+      [
+        "Cor",
+        -0.13476568
+      ],
+      [
+        "relation",
+        -4.0246043e-05
+      ],
+      [
+        " coefficient",
+        -0.12818709
+      ]
+    ]
+  },
+  "One measure of activity in this organ is the QRS complex, which is larger than the P wave because of the mass disparity between the sub-sections of this organ that are connected to a \"semilunar\" structure and ones that receive the \"superior\" and \"inferior\" vena cava. A systolic and diastolic pressure are associated with this organ, which contains the bundles of His, the tricuspid valve, and a region known as the pacemaker. For 10 points, two ventricles and atria are located in the human version of which organ that pumps blood to the body?": {
+    "guess": "Heart",
+    "confidence": [
+      [
+        "Heart",
+        -0.0064333947
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one": {
+    "guess": "Tests of general relativity",
+    "confidence": [
+      [
+        "Tests",
+        -0.08724682
+      ],
+      [
+        " of",
+        -1.2113979e-05
+      ],
+      [
+        " general",
+        -0.01126285
+      ],
+      [
+        " rel",
+        -2.451116e-05
+      ],
+      [
+        "ativity",
+        -5.8722613e-05
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic field. Compounds of cadmium and group 16 nonmetals like sulfur or selenium generally exhibit a decrease in this quantity when they absorb photons and are thus used in (*) photocells. For a wire, this quantity equals rho times length divided by its cross-sectional area. This quantity is zero for an ideal ammeter, and it is the inverse of conductance. The generalization of this quantity to AC circuits is denoted Z and called impedance. For 10 points, identify this quantity which, according to Ohm's Law, is equal to voltage divided by current.": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.8575414
+      ]
+    ]
+  },
+  "One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of": {
+    "guess": "Rank correlation",
+    "confidence": [
+      [
+        "Rank",
+        -0.76290035
+      ],
+      [
+        " correlation",
+        -0.12478445
+      ]
+    ]
+  },
+  "Measured in joules or British Thermal Units (BTUs), mathematically it is identified as U + PV, where U is internal energy, P is pressure, and V is volume. In a simple temperature change, the change in": {
+    "guess": "Enthalpy",
+    "confidence": [
+      [
+        "En",
+        -0.0021011333
+      ],
+      [
+        "thal",
+        -1.3186812e-05
+      ],
+      [
+        "py",
+        -4.5848617e-05
+      ]
+    ]
+  },
+  "Measured in terms of the HOMO and LUMO energy levels, this concept was first postulated in the 1939 book The Nature of the Chemical Bond, and the Structure of Molecules and Crystals.  Its creator, a Cal Tech physicist who was rewarded with the Nobel Prize in Chemistry in 1954 for its discovery, was Linus": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.32843715
+      ],
+      [
+        "rone",
+        -0.0013147627
+      ],
+      [
+        "g",
+        -6.062987e-05
+      ],
+      [
+        "ativity",
+        -0.00017123987
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic density should lead to different values of this for observed microwave photons. Stellar masses have attempted to be deduced through measurements of it, but adjustments for pressure shifts and proper application of the Doppler Effect create large uncertainties. The M\u00f6ssbauer effect on iron-57 gamma rays provided high enough resolution for R. V. Pound and G. A. Rebka to confirm it in the 1960 Harvard": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.1241289
+      ],
+      [
+        "avit",
+        -0.00035941842
+      ],
+      [
+        "ational",
+        -5.9795446e-05
+      ],
+      [
+        " red",
+        -0.43796504
+      ],
+      [
+        "shift",
+        -0.0002540681
+      ]
+    ]
+  },
+  "A measure to deter price gouging during this time period known as the General Maximum was an extension of an operating document regulating tribunals known as the Law of Suspects. Two victims of this period were Jacques Hebert, the leader of the sansculottes, and Georges Danton. Those men opposed this": {
+    "guess": "Reign of Terror",
+    "confidence": [
+      [
+        "Re",
+        -0.03536698
+      ],
+      [
+        "ign",
+        -1.147242e-06
+      ],
+      [
+        " of",
+        -0.000107238506
+      ],
+      [
+        " Terror",
+        -2.546479e-05
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity,": {
+    "guess": "Electrical resistivity",
+    "confidence": [
+      [
+        "Elect",
+        -0.6115513
+      ],
+      [
+        "rical",
+        -0.0057633533
+      ],
+      [
+        " resist",
+        -0.8956608
+      ],
+      [
+        "ivity",
+        -0.0002108118
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic density should lead to different values of this for observed microwave photons. Stellar masses have attempted to be deduced through measurements of it, but adjustments for pressure shifts and proper": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.4939754
+      ],
+      [
+        "avit",
+        -0.00036965898
+      ],
+      [
+        "ational",
+        -8.75699e-05
+      ],
+      [
+        " red",
+        -0.60945606
+      ],
+      [
+        "shift",
+        -9.317247e-05
+      ]
+    ]
+  },
+  "Measured in joules or British Thermal Units (BTUs), mathematically it is identified as U + PV, where": {
+    "guess": "Internal energy",
+    "confidence": [
+      [
+        "Internal",
+        -0.011621476
+      ],
+      [
+        " energy",
+        -0.3054617
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic field. Compounds of cadmium and group 16 nonmetals like sulfur or selenium generally exhibit a decrease in this quantity when they absorb photons and are thus used in (*) photocells. For a wire, this quantity equals rho times length divided by its cross-sectional area. This quantity is zero for an": {
+    "guess": "Electrical resistivity",
+    "confidence": [
+      [
+        "Elect",
+        -0.23545395
+      ],
+      [
+        "rical",
+        -0.00032021143
+      ],
+      [
+        " resist",
+        -0.08053961
+      ],
+      [
+        "ivity",
+        -0.0001755312
+      ]
+    ]
+  },
+  "One measure of activity in this organ is the QRS complex, which is larger than the P wave because of the mass disparity between the sub-sections of this organ that are connected to a \"semilunar\" structure and ones that receive the \"superior\" and \"inferior\" vena cava. A systolic and diastolic pressure are associated with this organ, which contains the bundles of His, the tricuspid valve, and a region": {
+    "guess": "Heart",
+    "confidence": [
+      [
+        "Heart",
+        -0.013868343
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5 parts per million by volume. Observations for it are taken at the Mauna Loa Observatory in Hawaii. Initially it showed a concentration of about 315 ppmv, but the newest points on the curve are above 390": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.026552709
+      ],
+      [
+        "eling",
+        -6.392203e-06
+      ],
+      [
+        " Curve",
+        -0.00018172979
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic field. Compounds of cadmium and group 16 nonmetals like sulfur or selenium generally exhibit a decrease in this quantity when they absorb photons and are thus used in (*) photocells. For a wire, this": {
+    "guess": "Band gap",
+    "confidence": [
+      [
+        "Band",
+        -1.296495
+      ],
+      [
+        " gap",
+        -0.08780896
+      ]
+    ]
+  },
+  "It means 'broom sprig' and was the nickname of Count Geoffrey of Anjou, who once placed a sprig in his": {
+    "guess": "Plantagenet",
+    "confidence": [
+      [
+        "Plant",
+        -0.9946921
+      ],
+      [
+        "agen",
+        -0.028770035
+      ],
+      [
+        "et",
+        -0.013572161
+      ]
+    ]
+  },
+  "A measure to deter price gouging during this time period known as the General Maximum was an extension of an operating document regulating tribunals known as the Law of Suspects. Two victims of this period were Jacques Hebert, the leader of the sansculottes, and Georges Danton. Those men opposed this period's governing body, the (*) Committee of Public Safety. Ending during the Thermidorean reaction with the overthrow of Maximilian Robespierre, for 10 points, name this period of bloodshed during the first years of the French Revolution.": {
+    "guess": "Reign of Terror",
+    "confidence": [
+      [
+        "Re",
+        -0.0020161904
+      ],
+      [
+        "ign",
+        -1.7432603e-06
+      ],
+      [
+        " of",
+        -0.00092944864
+      ],
+      [
+        " Terror",
+        -0.0005063269
+      ]
+    ]
+  },
+  "One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of a signal. A rank-order version coefficient for this is named for Spearman, though a statistic introduced by Francis Galton, Pearson's r coefficient, is the most widely used. When r equals negative one, this is said to be completely negative; this is completely positive when r equals one. For 10 points, name this measure of association between two variables, which often implies but does not equal causation.": {
+    "guess": "Correlation",
+    "confidence": [
+      [
+        "Cor",
+        -0.02153432
+      ],
+      [
+        "relation",
+        -5.288163e-05
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.8766888
+      ],
+      [
+        " dioxide",
+        -0.41493136
+      ]
+    ]
+  },
+  "Measured in joules or British Thermal Units (BTUs), mathematically it is identified as U + PV, where U is internal energy, P is pressure, and V is volume. In a simple temperature change, the change in this quantity with each degree is the heat capacity of the system at constant pressure, while in a phase": {
+    "guess": "Enthalpy",
+    "confidence": [
+      [
+        "En",
+        -0.0019621782
+      ],
+      [
+        "thal",
+        -1.9504607e-05
+      ],
+      [
+        "py",
+        -7.1238996e-05
+      ]
+    ]
+  },
+  "Measurements can be transformed in this theory using Lorentz transformations. This theory was proposed": {
+    "guess": "Special relativity",
+    "confidence": [
+      [
+        "Special",
+        -0.0005898483
+      ],
+      [
+        " rel",
+        -0.00026813045
+      ],
+      [
+        "ativity",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "The measurement of this phenomenon was the goal of the Ulysses spacecraft. Its primary cause is the 2/7 power temperature decrease as compared to the inverse square decrease of gravity, and the co-rotating interaction regions associated with it cause (*) geomagnetic storms on Earth. Moving slower over streamers than over the coronal holes, it experiences a bow shock at the heliopause. For 10 points\u2014  identify this stream of charged particles being continuously ejected in an envelope from the sun.": {
+    "guess": "Solar wind",
+    "confidence": [
+      [
+        "Solar",
+        -0.007059177
+      ],
+      [
+        " wind",
+        -0.20453665
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius": {
+    "guess": "Mass-radius relation",
+    "confidence": [
+      [
+        "Mass",
+        -0.94615203
+      ],
+      [
+        "-radius",
+        -0.7901471
+      ],
+      [
+        " relation",
+        -0.118095875
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic density should lead to different values of this for observed microwave photons. Stellar masses have attempted to be deduced through measurements of it, but adjustments for pressure shifts and proper application of the Doppler Effect create large uncertainties. The M\u00f6ssbauer effect on iron-57 gamma rays provided high enough resolution for R. V. Pound and G. A. Rebka to confirm it in the 1960 Harvard Tower Experiment. For 10 points, identify this phenomenon that is the shift of spectral lines toward longer wavelengths by atoms emitted in a strong gravitational field.": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.0115475925
+      ],
+      [
+        "avit",
+        -8.776276e-06
+      ],
+      [
+        "ational",
+        -2.3676734e-05
+      ],
+      [
+        " red",
+        -0.15630266
+      ],
+      [
+        "shift",
+        -0.000112960275
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic field. Compounds of cadmium and group 16 nonmetals like sulfur or selenium generally exhibit a decrease in this quantity when they absorb photons and are thus used in (*) photocells. For a wire, this quantity equals rho times length divided by its cross-sectional area. This quantity is zero for an ideal ammeter, and it is the inverse of conductance. The generalization of this quantity to AC circuits": {
+    "guess": "Electrical resistivity",
+    "confidence": [
+      [
+        "Elect",
+        -0.2074495
+      ],
+      [
+        "rical",
+        -8.5543434e-05
+      ],
+      [
+        " resist",
+        -0.14894795
+      ],
+      [
+        "ivity",
+        -0.00026288547
+      ]
+    ]
+  },
+  "It means 'broom sprig' and was the nickname of Count Geoffrey of Anjou, who once placed a sprig in his hat during a pilgrimage as a sign of humility. As used today, however, this name is something of an": {
+    "guess": "Sprig of Broom",
+    "confidence": [
+      [
+        "Spr",
+        -0.07515716
+      ],
+      [
+        "ig",
+        -0.15671745
+      ],
+      [
+        " of",
+        -0.018162936
+      ],
+      [
+        " B",
+        -0.14973955
+      ],
+      [
+        "room",
+        -4.739826e-05
+      ]
+    ]
+  },
+  "Measured in terms of the HOMO and LUMO energy levels, this concept was first postulated in the 1939 book": {
+    "guess": "Frontier molecular orbital theory",
+    "confidence": [
+      [
+        "Front",
+        -0.46885842
+      ],
+      [
+        "ier",
+        -0.0004243588
+      ],
+      [
+        " molecular",
+        -0.17968257
+      ],
+      [
+        " orbital",
+        -0.0055331467
+      ],
+      [
+        " theory",
+        -0.0004362718
+      ]
+    ]
+  },
+  "Measurements can be transformed in this theory using Lorentz transformations. This theory was proposed in a 1905 paper, the same year in which its formulator proposed theories to explain capillary action and Brownian motion. The underlying principle of this theory is that the speed of (*) light is the same for all reference frames, allowing one to derive that energy equals mass times the speed of light": {
+    "guess": "Special relativity",
+    "confidence": [
+      [
+        "Special",
+        -0.0023455615
+      ],
+      [
+        " rel",
+        -0.0013954728
+      ],
+      [
+        "ativity",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "The measurement of this phenomenon was the goal of the Ulysses spacecraft. Its primary cause is the 2/7 power temperature decrease as compared to the inverse square decrease of gravity, and the co-rotating": {
+    "guess": "Solar wind",
+    "confidence": [
+      [
+        "Solar",
+        -0.030151468
+      ],
+      [
+        " wind",
+        -0.2520578
+      ]
+    ]
+  },
+  "One measure of activity in this organ is the QRS complex, which is larger than the P wave because of the mass disparity between the sub-sections of this organ that are connected to a \"semilunar\" structure and ones that receive the \"superior\" and \"inferior\" vena cava. A systolic and diastolic pressure are associated with this organ, which contains the bundles of His, the tricuspid valve, and a region known as the pacemaker. For 10 points, two ventricles and atria are located in the human version of": {
+    "guess": "Heart",
+    "confidence": [
+      [
+        "Heart",
+        -0.010485514
+      ]
+    ]
+  },
+  "The mean square Johnson-Nyquist voltage noise is proportional to the square root of Boltzmann's constant times temperature times this quantity. At the boundaries of materials with a low value of this quantity, Andreev reflection will occur, and those materials will have little to no internal magnetic": {
+    "guess": "Electrical resistance and conductance",
+    "confidence": [
+      [
+        "Elect",
+        -0.3220974
+      ],
+      [
+        "rical",
+        -0.028664164
+      ],
+      [
+        " resistance",
+        -0.5859577
+      ],
+      [
+        " and",
+        -0.64327496
+      ],
+      [
+        " conduct",
+        -0.0010731808
+      ],
+      [
+        "ance",
+        -6.194111e-05
+      ]
+    ]
+  },
+  "This can be measured on the Allen scale. One method of calculating this quantity defines it as the average of ionization energy and electron affinity. On the periodic table, it increases as one goes up and to the (*) right, so that cesium has the lowest value for this quantity and fluorine the highest.": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.011089793
+      ],
+      [
+        "rone",
+        -0.0003309361
+      ],
+      [
+        "g",
+        -2.3915141e-05
+      ],
+      [
+        "ativity",
+        -2.6895234e-05
+      ]
+    ]
+  },
+  "One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of a signal. A rank-order version coefficient for this is named for Spearman, though a statistic introduced by Francis Galton, Pearson's r coefficient, is the most widely used. When r equals negative one, this is said to be completely negative; this is completely positive when r equals one. For 10 points, name this measure of association between two variables, which often implies but does not equal": {
+    "guess": "Correlation",
+    "confidence": [
+      [
+        "Cor",
+        -0.08739428
+      ],
+      [
+        "relation",
+        -0.00012523093
+      ]
+    ]
+  },
+  "One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of a signal. A rank-order version coefficient for this is named for Spearman, though a statistic introduced by Francis Galton, Pearson's r coefficient, is the most widely used. When r equals negative one, this is said to be completely negative; this is completely positive when r equals one. For 10 points,": {
+    "guess": "Correlation coefficient",
+    "confidence": [
+      [
+        "Cor",
+        -0.25990474
+      ],
+      [
+        "relation",
+        -1.2948405e-05
+      ],
+      [
+        " coefficient",
+        -0.18875289
+      ]
+    ]
+  },
+  "A measure to deter price gouging during this time period known as the General Maximum was an extension of an operating document regulating tribunals known as the Law of Suspects. Two victims of this period": {
+    "guess": "Reign of Terror",
+    "confidence": [
+      [
+        "Re",
+        -0.41713005
+      ],
+      [
+        "ign",
+        -1.6240566e-06
+      ],
+      [
+        " of",
+        -6.49212e-05
+      ],
+      [
+        " Terror",
+        -2.4987974e-05
+      ]
+    ]
+  },
+  "One measure of activity in this organ is the QRS complex, which is larger than the P wave because of the mass disparity between the sub-sections of this organ that are connected to a \"semilunar\" structure": {
+    "guess": "Heart",
+    "confidence": [
+      [
+        "Heart",
+        -0.03404283
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon.": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.88567525
+      ],
+      [
+        "avit",
+        -0.0028645433
+      ],
+      [
+        "ational",
+        -0.00047368708
+      ],
+      [
+        " red",
+        -0.09070502
+      ],
+      [
+        "shift",
+        -7.886803e-05
+      ]
+    ]
+  },
+  "The measurement of this phenomenon was the goal of the Ulysses spacecraft. Its primary cause is the 2/7 power temperature decrease as compared to the inverse square decrease of gravity, and the co-rotating interaction regions associated with it cause (*) geomagnetic storms on Earth. Moving slower over": {
+    "guess": "Solar wind",
+    "confidence": [
+      [
+        "Solar",
+        -0.0109663475
+      ],
+      [
+        " wind",
+        -0.31271687
+      ]
+    ]
+  },
+  "A measure to deter price gouging during this time period known as the General Maximum was an extension": {
+    "guess": "Price controls during World War I",
+    "confidence": [
+      [
+        "Price",
+        -0.13091855
+      ],
+      [
+        " controls",
+        -0.07941316
+      ],
+      [
+        " during",
+        -0.21322277
+      ],
+      [
+        " World",
+        -0.18233944
+      ],
+      [
+        " War",
+        -0.00037240062
+      ],
+      [
+        " I",
+        -0.057400815
+      ]
+    ]
+  },
+  "Measurements of this phenomenon allow one to calculate the mass of a white dwarf without the mass-radius relation. The Galileo spacecraft used an ultrastable crystal oscillator to detect this phenomenon. R. F. C. Vessot measured it using a rocket-bound hydrogen maser and confirmed predictions by one part in ten thousand. R. K. (*) Sachs and A. M. Wolfe showed that large- scale fluctuations in cosmic": {
+    "guess": "Gravitational redshift",
+    "confidence": [
+      [
+        "Gr",
+        -0.41431522
+      ],
+      [
+        "avit",
+        -0.00060474145
+      ],
+      [
+        "ational",
+        -0.00013166793
+      ],
+      [
+        " red",
+        -0.42777467
+      ],
+      [
+        "shift",
+        -0.00038300612
+      ]
+    ]
+  },
+  "Measurements can be transformed in this theory using Lorentz transformations. This theory was proposed in a 1905 paper, the same year in which its formulator proposed theories to explain capillary action": {
+    "guess": "Special relativity",
+    "confidence": [
+      [
+        "Special",
+        -0.0016604242
+      ],
+      [
+        " rel",
+        -0.00093885476
+      ],
+      [
+        "ativity",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "The measurements for it use a nondispersive infrared gas analyzer. Short-term measurements preceding it were taken in Pasadena and Big Sur, but this curve gives continuous observations since 1958. It shows a dip each year in summer, due to drawdown by photosynthesis, with annual variation of about 5 parts per million by volume. Observations for it are taken at the Mauna Loa Observatory in Hawaii. Initially it showed a concentration of about 315 ppmv, but the newest points on the curve are above 390 ppmv. The main cause of this rising trend is the burning of fossil fuels. It is discussed in An Inconvenient Truth as evidence for global warming. For 10 points, what is this graph, named for a scientist from the Scripps Institution of Oceanography, that shows atmospheric concentration of carbon": {
+    "guess": "Keeling Curve",
+    "confidence": [
+      [
+        "Ke",
+        -0.0013645238
+      ],
+      [
+        "eling",
+        -3.261701e-05
+      ],
+      [
+        " Curve",
+        -0.00053968927
+      ]
+    ]
+  },
+  "It means 'broom sprig' and was the nickname of Count Geoffrey of Anjou, who once placed a sprig in his hat during a pilgrimage as a sign of humility. As used today, however, this name is something of an anachronism, as none of Geoffrey's immediate descendants went by it. FTP, give this name for the family which produced eight kings from Henry II to Richard II and was England's longest-lasting royal": {
+    "guess": "House of Plantagenet",
+    "confidence": [
+      [
+        "House",
+        -0.1406635
+      ],
+      [
+        " of",
+        -0.00023846338
+      ],
+      [
+        " Plant",
+        -0.0060783452
+      ],
+      [
+        "agen",
+        -0.00050775736
+      ],
+      [
+        "et",
+        -0.00020783172
+      ]
+    ]
+  }
+}

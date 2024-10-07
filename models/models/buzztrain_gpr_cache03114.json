@@ -1,0 +1,128 @@
+{
+  "Iconography was a series of portraits that was posthumously completed based on his preliminary sketches.  His painting career began in the workshop of Hendrick van Balen in his native Antwerp.  Soon after graduating his apprenticeship, he traveled to Genoa, where he did a series of famous Baroque portraits of the Genoese aristocracy.  His most influential teacher was Peter Paul Rubens, with whom he studied for two years before settling in London in 1632.  FTP, name this Flemish painter, whose masterpiece is a portrait of his patron entitled Charles I in Hunting Dress.": {
+    "guess": "Anthony van Dyck",
+    "confidence": [
+      [
+        "Anthony",
+        -0.0033311145
+      ],
+      [
+        " van",
+        -0.0003392767
+      ],
+      [
+        " Dy",
+        -3.1737043e-06
+      ],
+      [
+        "ck",
+        -6.945094e-05
+      ]
+    ]
+  },
+  "Iconography was a series of portraits that was posthumously completed based on his preliminary sketches.": {
+    "guess": "Anthony van Dyck",
+    "confidence": [
+      [
+        "Anthony",
+        -0.552863
+      ],
+      [
+        " van",
+        -0.0007669832
+      ],
+      [
+        " Dy",
+        -7.703444e-06
+      ],
+      [
+        "ck",
+        -0.00015383612
+      ]
+    ]
+  },
+  "Iconography was a series of portraits that was posthumously completed based on his preliminary sketches.  His painting career began in the workshop of Hendrick van Balen in his native Antwerp.  Soon after graduating his apprenticeship, he traveled to Genoa, where he did a series of famous Baroque portraits of the Genoese aristocracy.  His most influential teacher was Peter Paul Rubens, with whom he studied for two years before settling in London in 1632.  FTP, name this Flemish painter, whose masterpiece": {
+    "guess": "Anthony van Dyck",
+    "confidence": [
+      [
+        "Anthony",
+        -0.11828261
+      ],
+      [
+        " van",
+        -0.0016035328
+      ],
+      [
+        " Dy",
+        -1.7120534e-05
+      ],
+      [
+        "ck",
+        -7.1954215e-05
+      ]
+    ]
+  },
+  "Iconography was a series of portraits that was posthumously completed based on his preliminary sketches.  His painting career began in the workshop of Hendrick van Balen in his native Antwerp.  Soon after graduating his apprenticeship, he traveled to Genoa, where he did a series of famous Baroque portraits": {
+    "guess": "Peter Paul Rubens",
+    "confidence": [
+      [
+        "Peter",
+        -0.35437623
+      ],
+      [
+        " Paul",
+        -0.0006841989
+      ],
+      [
+        " Rub",
+        -7.2073424e-05
+      ],
+      [
+        "ens",
+        -0.0003034074
+      ]
+    ]
+  },
+  "Iconography was a series of portraits that was posthumously completed based on his preliminary sketches.  His painting career began in the workshop of Hendrick van Balen in his native Antwerp.  Soon after graduating his apprenticeship, he traveled to Genoa, where he did a series of famous Baroque portraits of the Genoese aristocracy.  His most influential teacher was Peter Paul Rubens, with whom he": {
+    "guess": "Anthony van Dyck",
+    "confidence": [
+      [
+        "Anthony",
+        -0.054365322
+      ],
+      [
+        " van",
+        -0.0032820483
+      ],
+      [
+        " Dy",
+        -1.60477e-05
+      ],
+      [
+        "ck",
+        -6.5994034e-05
+      ]
+    ]
+  },
+  "Iconography was a series of portraits that was posthumously completed based on his preliminary sketches.  His painting career began in the workshop of Hendrick van Balen in his native Antwerp.  Soon after": {
+    "guess": "Anthony van Dyck",
+    "confidence": [
+      [
+        "Anthony",
+        -0.044803686
+      ],
+      [
+        " van",
+        -0.00020187153
+      ],
+      [
+        " Dy",
+        -1.3306016e-05
+      ],
+      [
+        "ck",
+        -1.8193366e-05
+      ]
+    ]
+  }
+}

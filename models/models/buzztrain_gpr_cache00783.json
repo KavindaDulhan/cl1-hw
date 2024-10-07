@@ -1,0 +1,96 @@
+{
+  "The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and the Gaussian integers are a subset of them. Their algebraic closure is a consequence of the fundamental": {
+    "guess": "Quaternion",
+    "confidence": [
+      [
+        "Quaternion",
+        -1.7058734
+      ]
+    ]
+  },
+  "The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and the Gaussian integers are a subset of them. Their algebraic closure is a consequence of the fundamental theorem of algebra. Uniquely determined by their absolute value and argument, they can be plotted on an Argand diagram. When expressed in polar form as \"r cis theta,\" they can be multiplied using de Moivre's identity. Each of these numbers has a conjugate, found by reversing the sign of its imaginary part. For 10 points, name these numbers of the form a+bi.": {
+    "guess": "Complex Numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.0012852332
+      ],
+      [
+        " Numbers",
+        -0.01041686
+      ]
+    ]
+  },
+  "The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and the Gaussian integers are a subset of them. Their algebraic closure is a consequence of the fundamental theorem of algebra. Uniquely determined by their absolute value and argument, they can be plotted on an Argand diagram. When expressed in polar form as \"r cis theta,\" they can be multiplied using": {
+    "guess": "Complex Numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.0024797006
+      ],
+      [
+        " Numbers",
+        -0.010914121
+      ]
+    ]
+  },
+  "The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and the Gaussian integers are a subset of them. Their algebraic closure is a consequence of the fundamental theorem of algebra. Uniquely determined by their absolute value and argument, they can be plotted on an Argand diagram. When expressed in polar form as \"r cis theta,\" they can be multiplied using de Moivre's identity. Each of these numbers has a conjugate, found by reversing the sign of its imaginary": {
+    "guess": "Complex Numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.0008202305
+      ],
+      [
+        " Numbers",
+        -0.0046381494
+      ]
+    ]
+  },
+  "The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and the Gaussian integers are a subset of them. Their algebraic closure is a consequence of the fundamental theorem of algebra. Uniquely determined by their absolute value and argument, they can be plotted": {
+    "guess": "Complex Numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.001047816
+      ],
+      [
+        " Numbers",
+        -0.012617247
+      ]
+    ]
+  },
+  "The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and": {
+    "guess": "Cayley-Dickson construction",
+    "confidence": [
+      [
+        "C",
+        -0.95556384
+      ],
+      [
+        "ay",
+        -0.000754001
+      ],
+      [
+        "ley",
+        -0.00033868066
+      ],
+      [
+        "-D",
+        -0.07692173
+      ],
+      [
+        "ick",
+        -9.960947e-05
+      ],
+      [
+        "son",
+        -6.921253e-05
+      ],
+      [
+        " construction",
+        -0.06387389
+      ]
+    ]
+  }
+}

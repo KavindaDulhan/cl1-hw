@@ -1,0 +1,184 @@
+{
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these events because of their ability to recognize 8-oxo-guanine. The \"hotspot arginines\" of p53 are affected by these events in lung cancer due to o-quinones and other polycyclic aromatic hydrocarbons. The": {
+    "guess": "Mutation",
+    "confidence": [
+      [
+        "Mutation",
+        -0.43564308
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these events because of their ability to recognize 8-oxo-guanine. The \"hotspot arginines\" of p53 are affected": {
+    "guess": "Oxidative DNA damage",
+    "confidence": [
+      [
+        "O",
+        -1.1343824
+      ],
+      [
+        "x",
+        -0.002409662
+      ],
+      [
+        "id",
+        -2.6299214e-05
+      ],
+      [
+        "ative",
+        -0.003070641
+      ],
+      [
+        " DNA",
+        -0.17526253
+      ],
+      [
+        " damage",
+        -0.42248538
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these events because of their ability to recognize 8-oxo-guanine. The \"hotspot arginines\" of p53 are affected by these events in lung cancer due to o-quinones and other polycyclic aromatic hydrocarbons. The missense mutation that causes sickle-cell anemia is also this type of mutation. Aflatoxin B1 causes these mutations because it creates abasic sites at guanines, which are most often filled in with adenine. For 10 points, name this less-common type of nucleotide substitution in which a pyrimidine is mutated to a purine or vice versa.": {
+    "guess": "Transversion",
+    "confidence": [
+      [
+        "Trans",
+        -0.053041458
+      ],
+      [
+        "version",
+        -0.077877626
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these events because of their ability to recognize 8-oxo-guanine. The \"hotspot arginines\" of p53 are affected by these events in lung cancer due to o-quinones and other polycyclic aromatic hydrocarbons. The missense mutation that causes sickle-cell anemia is also this type of mutation. Aflatoxin B1 causes": {
+    "guess": "Point mutation",
+    "confidence": [
+      [
+        "Point",
+        -1.0378419
+      ],
+      [
+        " mutation",
+        -0.59164494
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy": {
+    "guess": "Phylogenetic comparative methods",
+    "confidence": [
+      [
+        "Ph",
+        -0.6925766
+      ],
+      [
+        "y",
+        -0.022928407
+      ],
+      [
+        "logen",
+        -0.003965367
+      ],
+      [
+        "etic",
+        -0.38822055
+      ],
+      [
+        " comparative",
+        -1.5645382
+      ],
+      [
+        " methods",
+        -0.040205475
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model": {
+    "guess": "Phylogenetic comparative methods",
+    "confidence": [
+      [
+        "Ph",
+        -0.43572888
+      ],
+      [
+        "y",
+        -0.0017783532
+      ],
+      [
+        "logen",
+        -0.001488912
+      ],
+      [
+        "etic",
+        -0.25993326
+      ],
+      [
+        " comparative",
+        -1.058096
+      ],
+      [
+        " methods",
+        -0.26415578
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these": {
+    "guess": "Mutation",
+    "confidence": [
+      [
+        "Mutation",
+        -1.2561216
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of": {
+    "guess": "Phylogenetic analysis",
+    "confidence": [
+      [
+        "Ph",
+        -0.9002898
+      ],
+      [
+        "y",
+        -0.0015227181
+      ],
+      [
+        "logen",
+        -0.0052785845
+      ],
+      [
+        "etic",
+        -0.45352012
+      ],
+      [
+        " analysis",
+        -1.4216912
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these events because of their ability to recognize 8-oxo-guanine. The \"hotspot arginines\" of p53 are affected by these events in lung cancer due to o-quinones and other polycyclic aromatic hydrocarbons. The missense mutation that causes sickle-cell anemia is also this type of mutation. Aflatoxin B1 causes these mutations because it creates abasic sites at guanines, which are most often filled in with adenine. For 10 points, name this less-common type of nucleotide substitution in which a pyrimidine is": {
+    "guess": "Transversion",
+    "confidence": [
+      [
+        "Trans",
+        -0.28753635
+      ],
+      [
+        "version",
+        -0.28479725
+      ]
+    ]
+  },
+  "Swofford and Olsen described the use of parsimony analysis based on these events to provide a less noisy alternative to standard parsimony analysis for distantly related taxa. Kimura's two-parameter model improved on the Jukes-Cantor model by introducing a term to account for the unexpected rarity of these events. In E. coli, the mutY, mutM, and mutT gene products are required for to prevent these events because of their ability to recognize 8-oxo-guanine. The \"hotspot arginines\" of p53 are affected by these events in lung cancer due to o-quinones and other polycyclic aromatic hydrocarbons. The missense mutation that causes sickle-cell anemia is also this type of mutation. Aflatoxin B1 causes these mutations because it creates abasic sites at guanines, which are most often filled in with adenine.": {
+    "guess": "Point mutation",
+    "confidence": [
+      [
+        "Point",
+        -1.1865373
+      ],
+      [
+        " mutation",
+        -0.3468643
+      ]
+    ]
+  }
+}

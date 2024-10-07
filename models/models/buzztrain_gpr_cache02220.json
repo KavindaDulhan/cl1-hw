@@ -1,0 +1,79 @@
+{
+  "\"Fucked by a dahlia!\" Bernard yells in scene seven of this play, having just been ridiculed by learning that Ezra Chater was not killed by Lord Byron in a duel, but rather journeyed to Martinique in 1810, described a dwarf dahlia, and died there from a monkey bite. The play moves between April 1809 and the modern day, and a table onstage accumulates an inventory of objects from both periods. FTP, name this 1993 play by Tom Stoppard.": {
+    "guess": "ARCADIA",
+    "confidence": [
+      [
+        "ARC",
+        -0.026592178
+      ],
+      [
+        "AD",
+        -3.5358695e-05
+      ],
+      [
+        "IA",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "\"Fucked by a dahlia!\" Bernard yells in scene seven of this play, having just been ridiculed by learning that Ezra Chater was not killed by Lord Byron in a duel, but rather journeyed to Martinique in 1810, described a dwarf dahlia, and died there from a monkey bite. The play moves between April 1809 and": {
+    "guess": "Arcadia",
+    "confidence": [
+      [
+        "Arc",
+        -0.27416125
+      ],
+      [
+        "adia",
+        -0.00010413921
+      ]
+    ]
+  },
+  "\"Fucked by a dahlia!\" Bernard yells in scene seven of this play, having just been ridiculed by learning that Ezra Chater was not killed by Lord Byron in a duel, but rather journeyed to Martinique in 1810,": {
+    "guess": "ARCADIA",
+    "confidence": [
+      [
+        "ARC",
+        -0.54114175
+      ],
+      [
+        "AD",
+        -8.792751e-05
+      ],
+      [
+        "IA",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "\"Fucked by a dahlia!\" Bernard yells in scene seven of this play, having just been ridiculed by learning": {
+    "guess": "The Real Thing",
+    "confidence": [
+      [
+        "The",
+        -0.75966895
+      ],
+      [
+        " Real",
+        -1.8054732
+      ],
+      [
+        " Thing",
+        -0.35898012
+      ]
+    ]
+  },
+  "\"Fucked by a dahlia!\" Bernard yells in scene seven of this play, having just been ridiculed by learning that Ezra Chater was not killed by Lord Byron in a duel, but rather journeyed to Martinique in 1810, described a dwarf dahlia, and died there from a monkey bite. The play moves between April 1809 and the modern day, and a table onstage accumulates an inventory of objects from both periods. FTP, name": {
+    "guess": "Arcadia",
+    "confidence": [
+      [
+        "Arc",
+        -0.05201034
+      ],
+      [
+        "adia",
+        -4.6563837e-05
+      ]
+    ]
+  }
+}

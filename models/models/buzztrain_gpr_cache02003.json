@@ -1,0 +1,104 @@
+{
+  "F.S Flint was the lesser-known co-author of this literary movement's manifesto. Influenced by the theories of T.E. Hulme, they advocated a free choice of subject matter, often dealing with single, concentrated moments of experience, executed using what they called the \"musical phrase\". Including such": {
+    "guess": "Imagism",
+    "confidence": [
+      [
+        "Im",
+        -0.056725565
+      ],
+      [
+        "ag",
+        -4.246537e-06
+      ],
+      [
+        "ism",
+        -0.04276291
+      ]
+    ]
+  },
+  "F.S Flint was the lesser-known co-author of this literary movement's manifesto. Influenced by the theories": {
+    "guess": "Vorticism",
+    "confidence": [
+      [
+        "V",
+        -0.51272947
+      ],
+      [
+        "ort",
+        -0.5296372
+      ],
+      [
+        "icism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "F.S Flint was the lesser-known co-author of this literary movement's manifesto. Influenced by the theories of T.E. Hulme, they advocated a free choice of subject matter, often dealing with single, concentrated moments of experience, executed using what they called the \"musical phrase\". Including such poets as John Gould Fletcher, Richard Aldington, and Hilda Doolittle, its most characteristic feature": {
+    "guess": "Imagism",
+    "confidence": [
+      [
+        "Im",
+        -0.0034231893
+      ],
+      [
+        "ag",
+        -1.9816675e-06
+      ],
+      [
+        "ism",
+        -0.04638597
+      ]
+    ]
+  },
+  "F.S Flint was the lesser-known co-author of this literary movement's manifesto. Influenced by the theories of T.E. Hulme, they advocated a free choice of subject matter, often dealing with single, concentrated moments of experience, executed using what they called the \"musical phrase\". Including such poets as John Gould Fletcher, Richard Aldington, and Hilda Doolittle, its most characteristic feature was the use of concrete symbolism. FTP, what was this early 20th century poetry movement led by Ezra": {
+    "guess": "Vorticism",
+    "confidence": [
+      [
+        "V",
+        -0.28296667
+      ],
+      [
+        "ort",
+        -0.26743492
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "F.S Flint was the lesser-known co-author of this literary movement's manifesto. Influenced by the theories of T.E. Hulme, they advocated a free choice of subject matter, often dealing with single, concentrated": {
+    "guess": "Vorticism",
+    "confidence": [
+      [
+        "V",
+        -0.6091639
+      ],
+      [
+        "ort",
+        -0.28289834
+      ],
+      [
+        "icism",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "F.S Flint was the lesser-known co-author of this literary movement's manifesto. Influenced by the theories of T.E. Hulme, they advocated a free choice of subject matter, often dealing with single, concentrated moments of experience, executed using what they called the \"musical phrase\". Including such poets as John Gould Fletcher, Richard Aldington, and Hilda Doolittle, its most characteristic feature was the use of concrete symbolism. FTP, what was this early 20th century poetry movement led by Ezra Pound and Amy Lowell?": {
+    "guess": "Imagism",
+    "confidence": [
+      [
+        "Im",
+        -0.5661295
+      ],
+      [
+        "ag",
+        -4.8351892e-05
+      ],
+      [
+        "ism",
+        -0.0064785182
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that it was known as \"The Monster.\" The smallest example of one is the alternating group of even permutations": {
+    "guess": "Monster group",
+    "confidence": [
+      [
+        "Monster",
+        -0.7846021
+      ],
+      [
+        " group",
+        -0.08510841
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that": {
+    "guess": "Finite simple groups",
+    "confidence": [
+      [
+        "Finite",
+        -1.2242314
+      ],
+      [
+        " simple",
+        -0.059765864
+      ],
+      [
+        " groups",
+        -0.19492401
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that it was known as \"The Monster.\" The smallest example of one is the alternating group of even permutations of 5 objects. FTP, name this type of group, which is defined as one that has no non-trivial normal": {
+    "guess": "Finite simple group",
+    "confidence": [
+      [
+        "Finite",
+        -0.36408487
+      ],
+      [
+        " simple",
+        -0.27941525
+      ],
+      [
+        " group",
+        -0.10294475
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that it was known as \"The Monster.\" The smallest example of one is the alternating group of even permutations of 5 objects. FTP, name this type of group, which is defined as one that has no non-trivial normal subgroups.": {
+    "guess": "Simple group",
+    "confidence": [
+      [
+        "Simple",
+        -0.558534
+      ],
+      [
+        " group",
+        -0.39521
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind": {
+    "guess": "Classification of finite simple groups",
+    "confidence": [
+      [
+        "Classification",
+        -0.024645312
+      ],
+      [
+        " of",
+        -0.025206113
+      ],
+      [
+        " finite",
+        -0.0056373547
+      ],
+      [
+        " simple",
+        -0.00017624642
+      ],
+      [
+        " groups",
+        -0.0015211685
+      ]
+    ]
+  }
+}

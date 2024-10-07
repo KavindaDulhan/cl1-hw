@@ -1,0 +1,107 @@
+{
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle": {
+    "guess": "The Celtic Twilight",
+    "confidence": [
+      [
+        "The",
+        -0.468303
+      ],
+      [
+        " Celtic",
+        -0.7782941
+      ],
+      [
+        " Twilight",
+        -0.0011960632
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns": {
+    "guess": "The Song of Wandering Aengus",
+    "confidence": [
+      [
+        "The",
+        -0.7148539
+      ],
+      [
+        " Song",
+        -1.4349142
+      ],
+      [
+        " of",
+        -0.0036664677
+      ],
+      [
+        " W",
+        -0.25623414
+      ],
+      [
+        "andering",
+        -1.9816675e-06
+      ],
+      [
+        " A",
+        -0.0012584454
+      ],
+      [
+        "eng",
+        -0.00041613373
+      ],
+      [
+        "us",
+        -2.4987974e-05
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.\" Sections of it include Solitude, Economy, and Where I Lived & What I Lived For. FTP, name this Transcendalist reflection on life in the woods written by Henry David Thoreau.": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "W",
+        -0.0015971032
+      ],
+      [
+        "ald",
+        -0.0004898841
+      ],
+      [
+        "en",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.\" Sections of it include Solitude, Economy, and Where I Lived & What I Lived For. FTP, name this Transcendalist reflection": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "W",
+        -0.0011484332
+      ],
+      [
+        "ald",
+        -0.00024358915
+      ],
+      [
+        "en",
+        -8.776276e-06
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.\" Sections of it": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "W",
+        -0.005180628
+      ],
+      [
+        "ald",
+        -0.0005321831
+      ],
+      [
+        "en",
+        -8.299462e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes": {
+    "guess": "Common Lisp",
+    "confidence": [
+      [
+        "Common",
+        -0.5764621
+      ],
+      [
+        " Lisp",
+        -0.0047049494
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development": {
+    "guess": "Scheme (programming language)",
+    "confidence": [
+      [
+        "Scheme",
+        -0.05673424
+      ],
+      [
+        " (",
+        -0.46869326
+      ],
+      [
+        "programming",
+        -0.0011509365
+      ],
+      [
+        " language",
+        -0.00039528406
+      ],
+      [
+        ")",
+        -3.2736214e-05
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability to manipulate information contained in parentheses, including other programs, leading to its": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.0077462215
+      ],
+      [
+        "isp",
+        -0.13588497
+      ],
+      [
+        " (",
+        -0.69380534
+      ],
+      [
+        "programming",
+        -0.08684296
+      ],
+      [
+        " language",
+        -0.002993632
+      ],
+      [
+        ")",
+        -6.6113236e-05
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.0060131685
+      ],
+      [
+        "isp",
+        -0.10851449
+      ],
+      [
+        " (",
+        -0.5349005
+      ],
+      [
+        "programming",
+        -0.1186455
+      ],
+      [
+        " language",
+        -0.004027703
+      ],
+      [
+        ")",
+        -9.317247e-05
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability to manipulate information contained in parentheses, including other programs, leading to its extensive use in the field of artificial intelligence. FTP, what is this programming language whose": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.0022345937
+      ],
+      [
+        "isp",
+        -0.0010175677
+      ],
+      [
+        " (",
+        -0.0004388943
+      ],
+      [
+        "programming",
+        -0.00030709905
+      ],
+      [
+        " language",
+        -0.00013345598
+      ],
+      [
+        ")",
+        -9.610702e-06
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability to manipulate information contained in parentheses, including other programs, leading to its extensive use in the field of artificial intelligence. FTP, what is this programming language whose name is short for \"list processing\"?": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.0050964262
+      ],
+      [
+        "isp",
+        -0.00087703933
+      ],
+      [
+        " (",
+        -0.0009446957
+      ],
+      [
+        "programming",
+        -0.00063761964
+      ],
+      [
+        " language",
+        -0.00029112943
+      ],
+      [
+        ")",
+        -7.58424e-06
+      ]
+    ]
+  }
+}

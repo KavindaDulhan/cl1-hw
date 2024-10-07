@@ -1,0 +1,149 @@
+{
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.025529921
+      ],
+      [
+        "op",
+        -1.4259645e-05
+      ],
+      [
+        "pler",
+        -2.3080716e-05
+      ],
+      [
+        " effect",
+        -0.0063446616
+      ]
+    ]
+  },
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can describe the broadening of spectral lines and it can be used with spectral lines to estimate the temperature": {
+    "guess": "Doppler broadening",
+    "confidence": [
+      [
+        "D",
+        -0.044566803
+      ],
+      [
+        "op",
+        -3.7697225e-06
+      ],
+      [
+        "pler",
+        -4.3202e-07
+      ],
+      [
+        " broad",
+        -0.26325706
+      ],
+      [
+        "ening",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can describe the broadening of spectral lines and it can be used with spectral lines to estimate the temperature of distant stars. It was first discussed in the treatise \"On the coloured light of the binary": {
+    "guess": "Doppler broadening",
+    "confidence": [
+      [
+        "D",
+        -0.36426532
+      ],
+      [
+        "op",
+        -9.41261e-05
+      ],
+      [
+        "pler",
+        -1.0280384e-06
+      ],
+      [
+        " broad",
+        -0.6393126
+      ],
+      [
+        "ening",
+        -4.334534e-05
+      ]
+    ]
+  },
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can describe the broadening of spectral lines and it can be used with spectral lines to estimate the temperature of distant stars. It was first discussed in the treatise \"On the coloured light of the binary stars and some other stars of the heavens\" and was tested in one form by Buys Ballot. Red shift": {
+    "guess": "Red shift",
+    "confidence": [
+      [
+        "Red",
+        -0.6328058
+      ],
+      [
+        " shift",
+        -0.35325146
+      ]
+    ]
+  },
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can describe the broadening of spectral lines and it can be used with spectral lines to estimate the temperature of distant stars. It was first discussed in the treatise \"On the coloured light of the binary stars and some other stars of the heavens\" and was tested in one form by Buys Ballot. Red shift can be described using the relativistic form of this effect, which is typically employed to determine": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.0036243082
+      ],
+      [
+        "op",
+        -3.1281633e-07
+      ],
+      [
+        "pler",
+        -1.6240566e-06
+      ],
+      [
+        " effect",
+        -0.016397499
+      ]
+    ]
+  },
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can describe the broadening of spectral lines and it can be used with spectral lines to estimate the temperature of distant stars. It was first discussed in the treatise \"On the coloured light of the binary stars and some other stars of the heavens\" and was tested in one form by Buys Ballot. Red shift can be described using the relativistic form of this effect, which is typically employed to determine the speed of a submarine using sonar techniques. FTP, identify this effect that describes the change": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.004953851
+      ],
+      [
+        "op",
+        -5.5122365e-07
+      ],
+      [
+        "pler",
+        -5.5577775e-06
+      ],
+      [
+        " effect",
+        -0.016201409
+      ]
+    ]
+  },
+  "The Ives-Stillwell experiment saw the first detection of its transverse type. In atomic physics it can describe the broadening of spectral lines and it can be used with spectral lines to estimate the temperature of distant stars. It was first discussed in the treatise \"On the coloured light of the binary stars and some other stars of the heavens\" and was tested in one form by Buys Ballot. Red shift can be described using the relativistic form of this effect, which is typically employed to determine the speed of a submarine using sonar techniques. FTP, identify this effect that describes the change in frequency of a wave as it moves relative to an observer, typically observed in sound.": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.0021720284
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "pler",
+        -7.58424e-06
+      ],
+      [
+        " effect",
+        -0.0146761555
+      ]
+    ]
+  }
+}

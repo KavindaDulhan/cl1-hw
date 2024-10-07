@@ -1,0 +1,3366 @@
+{
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central, and Preserving Harmony. Rem Koolhaas designed a government building in this city that looks like a folded square with an open center and is nicknamed the \"big boxer shorts.\" The Dongcheng and Xicheng Districts are located in this city, whose namesake district is surrounded by Hebei Province. The CCTV Tower is found in this city, which contains a mausoleum thought to contain a wax sculpture of a leader who died in 1976. For 10 points, name this city that contains the Forbidden City, Mao's mausoleum, and Tiananmen Square, the capital of China.": {
+    "guess": "Beijing",
+    "confidence": [
+      [
+        "Be",
+        -0.00011939728
+      ],
+      [
+        "ijing",
+        -3.1782583e-05
+      ]
+    ]
+  },
+  "It is located among mountains whose name translates as \"Blood of Christ,\" and was re-settled by Diego": {
+    "guess": "Santa Fe, New Mexico",
+    "confidence": [
+      [
+        "Santa",
+        -0.25175282
+      ],
+      [
+        " Fe",
+        -0.00047845521
+      ],
+      [
+        ",",
+        -0.016129972
+      ],
+      [
+        " New",
+        -0.0015996064
+      ],
+      [
+        " Mexico",
+        -3.4047454e-05
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is situated on Hope Bay. This region is bordered by bodies of water like the D'Urville Sea and the Mawson Sea. Deception Island lies off the coast of this region, as does Alexander Island, the largest landform off its coast. Other features located here include the volcano Erebus and a peak named for a long-serving Georgia Congressman. Exploration in this home of Queen Maud Land and the Ross Ice Shelf was pioneered by Ernest Shackleton and Roald Amundsen. For 10 points, name this icy landmass that constitutes the world's southernmost continent.": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.00020532844
+      ],
+      [
+        "ar",
+        -2.486877e-05
+      ],
+      [
+        "ctica",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "Located in the La Gran Sabro region on the Churun River, a tributary of the Caroni, it is found on Auyan Tepui.  First reported in 1937 when their discoverer crashed his plane on a nearby mountain, its main cataract drops 3,212 feet.  For 10 points-name this Venezuelan waterfall, the highest in the world.": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.005047322
+      ],
+      [
+        " Falls",
+        -0.0008171312
+      ]
+    ]
+  },
+  "Located at about 8 hours 25 minutes right ascension and 20 degrees north declination, it contains a loose": {
+    "guess": "Messier 44",
+    "confidence": [
+      [
+        "Mess",
+        -1.1400485
+      ],
+      [
+        "ier",
+        -8.089449e-05
+      ],
+      [
+        " ",
+        -0.00094290765
+      ],
+      [
+        "44",
+        -1.0539296
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is situated on Hope Bay. This region is bordered by bodies of water like the D'Urville Sea and the Mawson": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.0007886636
+      ],
+      [
+        "ar",
+        -2.1054253e-05
+      ],
+      [
+        "ctica",
+        -2.4749568e-05
+      ]
+    ]
+  },
+  "Located within the Canaima National Park, its base spans 150 meters wide and it is nested on the Auy\u00e1n-Tepu\u00ed plateau, a land feature sometimes referred to as Devil's Mountain. It is powered by the Chur\u00fan (*) River and remains only accessible by air. It was named for its American discover who crash landed his plane in 1937 in a mesa located near it. Dropping some 979 meters, FTP, identify this highest freefalling waterfall in the world, which is located in Venezuela.": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.0074709207
+      ],
+      [
+        " Falls",
+        -0.0010130416
+      ]
+    ]
+  },
+  "It is the location of the Escondida Mine, the largest open-pit copper mine in the world, and is the world's largest supply of sodium nitrate. The isolation and clarity of its skies make it home to a number of telescopic observatories including the Paranal Observatory. Its barren spaces and \u2018Mars' or": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Ch",
+        -0.7525915
+      ],
+      [
+        "ile",
+        -0.00016218038
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based economy was called \"The Original Affluent Society\" by Marshall Sahlins. The remains of Lake Makgadikgadi are an endorheic basin in this desert, formed by the same processes that created the swampy delta of the (*) Okavango river. A long-term project to study meerkats is based in this desert,": {
+    "guess": "Kalahari Desert",
+    "confidence": [
+      [
+        "K",
+        -0.026593104
+      ],
+      [
+        "alah",
+        -4.4894987e-05
+      ],
+      [
+        "ari",
+        -8.947716e-05
+      ],
+      [
+        " Desert",
+        -0.0046306727
+      ]
+    ]
+  },
+  "This location was founded around and named for a large cenote [suh-NOH-tee] that was excavated by Edward Herbert Thompson. This location's Temple of the Warriors is structurally similar to a pyramid complex at Tula. This location was once part of a league with neighboring Uxmal [oosh-MAHL]. This location": {
+    "guess": "Chichen Itza",
+    "confidence": [
+      [
+        "Ch",
+        -0.0038884345
+      ],
+      [
+        "ichen",
+        -0.00048000488
+      ],
+      [
+        " It",
+        -0.000109622575
+      ],
+      [
+        "za",
+        -7.660316e-05
+      ]
+    ]
+  },
+  "Located within the Canaima National Park, its base spans 150 meters wide and it is nested on the Auy\u00e1n-Tepu\u00ed plateau, a land feature sometimes referred to as Devil's Mountain. It is powered by the Chur\u00fan (*) River and remains only accessible by air. It was named for its American discover who crash landed": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.006673932
+      ],
+      [
+        " Falls",
+        -5.967624e-05
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully painted buses built from cars which are known as colectivos. Its largest art museum is known as the MBNA and is located in its cultural center Recoleta. This site of Ezeiza International Airport has a downtown area which is dominated by a massive obelisk designed by Alberto Prebisch. Residents": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.00044365876
+      ],
+      [
+        "uen",
+        -4.723352e-06
+      ],
+      [
+        "os",
+        -4.429897e-05
+      ],
+      [
+        " Aires",
+        -6.8616515e-05
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the": {
+    "guess": "Arkansas River",
+    "confidence": [
+      [
+        "Ark",
+        -0.037244163
+      ],
+      [
+        "ansas",
+        -6.8616515e-05
+      ],
+      [
+        " River",
+        -0.00043543737
+      ]
+    ]
+  },
+  "Located in the western hills of this city is the archaeological dig known as the Afrasiab, on top of remains of the Sogdian culture. Three Islamic schools are found in the older part of this city, one being led by the astronomer Ulugh Beg. This city is also home to the Bibi-Khanym Mosque, built by its most famous resident in 1399 after he sacked Delhi. Located due east of Bukhara and southwest of Tashkent,": {
+    "guess": "Samarkand",
+    "confidence": [
+      [
+        "Sam",
+        -0.0015141465
+      ],
+      [
+        "ark",
+        -7.7079974e-05
+      ],
+      [
+        "and",
+        -8.45898e-05
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based economy was called \"The Original Affluent Society\" by Marshall Sahlins. The remains of Lake Makgadikgadi are an endorheic basin in this desert, formed by the same processes that created the swampy delta of the (*) Okavango river. A long-term project to study meerkats is based in this desert, which comprises most of the area of the former Bechuanaland. The discovery of a Coca-Cola bottle by a San tribe in this desert opens the film The Gods Must Be Crazy. For 10 points, name this large desert that encompasses most of Botswana and is the home of the bushmen.": {
+    "guess": "Kalahari Desert",
+    "confidence": [
+      [
+        "K",
+        -0.0103033595
+      ],
+      [
+        "alah",
+        -0.0001170132
+      ],
+      [
+        "ari",
+        -6.5278815e-05
+      ],
+      [
+        " Desert",
+        -0.0014445223
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.002637011
+      ],
+      [
+        "oral",
+        -9.0883464e-07
+      ],
+      [
+        " Castle",
+        -2.9517714e-05
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal, John Walter and the Times revealed that residents at one of these places in Andover were eating": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.23144625
+      ],
+      [
+        "house",
+        -0.009219752
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being studied for treating cancer and hypertension. Charles Wyville Thomson first recorded this place's existence when he was aboard the ship for which its deepest part is named; that section is Challenger": {
+    "guess": "Marianas Trench",
+    "confidence": [
+      [
+        "M",
+        -0.15046827
+      ],
+      [
+        "arian",
+        -0.00021986762
+      ],
+      [
+        "as",
+        -0.1368077
+      ],
+      [
+        " T",
+        -3.4121115e-06
+      ],
+      [
+        "rench",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus)": {
+    "guess": "Mariana Trench",
+    "confidence": [
+      [
+        "M",
+        -0.5737457
+      ],
+      [
+        "arian",
+        -6.2729996e-06
+      ],
+      [
+        "a",
+        -0.0018872303
+      ],
+      [
+        " T",
+        -1.18755715e-05
+      ],
+      [
+        "rench",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal,": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.31468564
+      ],
+      [
+        "house",
+        -0.00620145
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal, John Walter and the Times revealed that residents at one of these places in Andover were eating marrow from horse, dog, and cattle bones. These locations were officially abolished with 1948's National": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.11071015
+      ],
+      [
+        "house",
+        -0.031727254
+      ]
+    ]
+  },
+  "Located at about 8 hours 25 minutes right ascension and 20 degrees north declination, it contains a loose cluster of more than 300 faint stars known as Praesepe or the Beehive. The ancient Greeks discovered": {
+    "guess": "Cancer (constellation)",
+    "confidence": [
+      [
+        "C",
+        -0.0424235
+      ],
+      [
+        "ancer",
+        -1.4140442e-05
+      ],
+      [
+        " (",
+        -0.0005122834
+      ],
+      [
+        "const",
+        -0.00037383108
+      ],
+      [
+        "ellation",
+        -3.1424974e-05
+      ],
+      [
+        ")",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "It is located among mountains whose name translates as \"Blood of Christ,\" and was re-settled by Diego de Vargas in 1692 after the Pueblo Revolt had driven out the Spanish. A trail there from Independence, Mo. was started by William Becknell in 1821 and its major tourist attractions include a cathedral whose construction was the inspiration for Willa Cather's \"Death Comes for the Archbishop.\" For 10": {
+    "guess": "Santa Fe, New Mexico",
+    "confidence": [
+      [
+        "Santa",
+        -0.05723162
+      ],
+      [
+        " Fe",
+        -6.2775536e-05
+      ],
+      [
+        ",",
+        -0.028578443
+      ],
+      [
+        " New",
+        -0.00010986099
+      ],
+      [
+        " Mexico",
+        -0.00019340808
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and McLeod's Bay in the north and Christie's Bay [*] in the south. It is connected with Artillery Lake,": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.0130973
+      ],
+      [
+        " Slave",
+        -0.009992876
+      ],
+      [
+        " Lake",
+        -0.00020663968
+      ]
+    ]
+  },
+  "This location is where a \"hysterical bride\" moans about being made and \"sends out for the doctor\" in Bob Dylan's \"Tombstone Blues.\" In reality, a chain of them became the foundation of what is now Loews theaters. William Bryans invented many of the machines commonly found at them, from ball shooters": {
+    "guess": "Nickelodeon",
+    "confidence": [
+      [
+        "Nick",
+        -1.18304
+      ],
+      [
+        "el",
+        -0.0029462052
+      ],
+      [
+        "ode",
+        -0.01221611
+      ],
+      [
+        "on",
+        -0.050888546
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to build, and was done solely by the work of Edward Leedskalnin himself, having claimed to constructed it using magnetic currents and a \"perpetual motion holder\". The locale itself contains more than 1,000 tons of limestone quarried in South Florida, and built just outside of Florida City. FTP name this": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -5.0378356e-05
+      ],
+      [
+        "oral",
+        -1.2664457e-06
+      ],
+      [
+        " Castle",
+        -3.8219583e-05
+      ]
+    ]
+  },
+  "This location was founded around and named for a large cenote [suh-NOH-tee] that was excavated by Edward Herbert Thompson. This location's Temple of the Warriors is structurally similar to a pyramid complex at Tula. This location was once part of a league with neighboring Uxmal [oosh-MAHL]. This location is home to an observatory known as the Caracol, as well as a pyramid dedicated to Kukulcan, known as El Castillo. Home to the largest ballcourt in Mesoamerica, for 10 points, this is what Mayan site located on the Yucatan Peninsula?": {
+    "guess": "Chichen Itza",
+    "confidence": [
+      [
+        "Ch",
+        -0.0015724719
+      ],
+      [
+        "ichen",
+        -0.00050180085
+      ],
+      [
+        " It",
+        -4.7755875e-05
+      ],
+      [
+        "za",
+        -1.4259645e-05
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location] meet,\" and Countee Cullen's poem \"Heritage\" asks \"What is [this location] to me?\" Derek Walcott wrote \"a wind is ruffling the tawny pelt\" of this location in his poem \"A Far Cry From\" this place, and Bird fantasizes about traveling here in A Personal Matter. Ernest Hemingway wrote \"All modern American literature comes from one book by Mark Twain called Huckleberry Finn\" in a book named for the \"Green Hills\" of this location. FTP, name this location that titles an epic poem about the Battle": {
+    "guess": "Troy",
+    "confidence": [
+      [
+        "T",
+        -1.0755479
+      ],
+      [
+        "roy",
+        -0.17125896
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal, John Walter and the Times revealed that residents at one of these places in Andover were eating marrow from horse, dog, and cattle bones. These locations were officially abolished with 1948's National (*) Assistance Act. In a novel, Mr. Bumble removes a character from a baby farm to make him pick": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.051680844
+      ],
+      [
+        "house",
+        -0.0020907808
+      ]
+    ]
+  },
+  "This location is where a \"hysterical bride\" moans about being made and \"sends out for the doctor\" in Bob Dylan's \"Tombstone Blues.\" In reality, a chain of them became the foundation of what is now Loews theaters. William Bryans invented many of the machines commonly found at them, from ball shooters to simple slot machines, although those never entertained Twisp and Catsby, Gabe, or Tycho. For 10 points,": {
+    "guess": "Arcade (architecture)",
+    "confidence": [
+      [
+        "Arc",
+        -0.45553693
+      ],
+      [
+        "ade",
+        -0.008044618
+      ],
+      [
+        " (",
+        -1.4383566
+      ],
+      [
+        "architecture",
+        -0.052411217
+      ],
+      [
+        ")",
+        -0.0015950804
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta exteriors and gargoyles that made it a pioneer of the Gothic Revival style. Alfred Mullett's downtown post office building once stood across from this structure, which nows faces City Hall Park. Specifically ordered to surpass the height of the Metropolitan Life Tower, it became known as the \"Cathedral": {
+    "guess": "Park Row Building",
+    "confidence": [
+      [
+        "Park",
+        -0.74656963
+      ],
+      [
+        " Row",
+        -0.0023898024
+      ],
+      [
+        " Building",
+        -0.00046153198
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.109941274
+      ],
+      [
+        " Slave",
+        -0.018682681
+      ],
+      [
+        " Lake",
+        -0.0006364276
+      ]
+    ]
+  },
+  "It is located far to the North, and takes four years to reach. Travelers are often aided by cremated dogs, or the psychopomp Xolotl, lord of lightning, who together with Quetzalcoatl traveled here to retrieve the bones of those who had perished in the great flood. Only warriors who fall in battle and": {
+    "guess": "Mictlan",
+    "confidence": [
+      [
+        "M",
+        -1.4239397
+      ],
+      [
+        "ict",
+        -0.028967265
+      ],
+      [
+        "lan",
+        -0.0049945326
+      ]
+    ]
+  },
+  "This location is where a \"hysterical bride\" moans about being made and \"sends out for the doctor\" in Bob Dylan's \"Tombstone Blues.\" In reality, a chain of them became the foundation of what is now Loews": {
+    "guess": "Loews Cineplex Entertainment",
+    "confidence": [
+      [
+        "Lo",
+        -0.9520826
+      ],
+      [
+        "ews",
+        -0.11342998
+      ],
+      [
+        " C",
+        -1.1559397
+      ],
+      [
+        "ine",
+        -0.00010473523
+      ],
+      [
+        "plex",
+        -2.4987974e-05
+      ],
+      [
+        " Entertainment",
+        -0.07669885
+      ]
+    ]
+  },
+  "Located at about 8 hours 25 minutes right ascension and 20 degrees north declination, it contains a loose cluster of more than 300 faint stars known as Praesepe or the Beehive. The ancient Greeks discovered that the sun entered it at the summer solstice, but as a result of precession the sun's most northerly position has now moved westward to the border of Gemini and Taurus. FTP, identify this constellation": {
+    "guess": "Cancer (constellation)",
+    "confidence": [
+      [
+        "C",
+        -0.011764748
+      ],
+      [
+        "ancer",
+        -0.00010854974
+      ],
+      [
+        " (",
+        -0.0066164886
+      ],
+      [
+        "const",
+        -0.004158653
+      ],
+      [
+        "ellation",
+        -0.00011820524
+      ],
+      [
+        ")",
+        -0.00011725161
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.001505694
+      ],
+      [
+        "oral",
+        -4.334534e-05
+      ],
+      [
+        " Castle",
+        -4.441817e-05
+      ]
+    ]
+  },
+  "This location is where a \"hysterical bride\" moans about being made and \"sends out for the doctor\" in Bob Dylan's \"Tombstone Blues.\" In reality, a chain of them became the foundation of what is now Loews theaters. William Bryans invented many of the machines commonly found at them, from ball shooters to simple slot machines, although those never entertained Twisp and Catsby, Gabe, or Tycho. For 10 points, what were these pre-electronic entertainment halls, now the namesake of a popular online comic": {
+    "guess": "Penny arcade",
+    "confidence": [
+      [
+        "P",
+        -0.63926375
+      ],
+      [
+        "enny",
+        -5.2643223e-05
+      ],
+      [
+        " arcade",
+        -0.028874518
+      ]
+    ]
+  },
+  "Located in the Long Island Sound, an island with this name was once called Little Pea Island. One city with this name is home to the main campus of the University of Missouri, and the Yakima, Spokane, and Snake Rivers are tributaries of a river with this name. That same river also forms the border between (*) Oregon and Washington, and this word names an Ivy League university in New York City. For": {
+    "guess": "Columbia (disambiguation)",
+    "confidence": [
+      [
+        "C",
+        -0.012010839
+      ],
+      [
+        "olumbia",
+        -2.6968896e-06
+      ],
+      [
+        " (",
+        -1.0159295
+      ],
+      [
+        "dis",
+        -1.4205979
+      ],
+      [
+        "amb",
+        -8.792751e-05
+      ],
+      [
+        "ig",
+        -3.357064e-05
+      ],
+      [
+        "uation",
+        -2.1411865e-05
+      ],
+      [
+        ")",
+        -0.0014966491
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location]": {
+    "guess": "As I Walked Out One Evening",
+    "confidence": [
+      [
+        "As",
+        -2.6652973
+      ],
+      [
+        " I",
+        -0.15644121
+      ],
+      [
+        " Walk",
+        -0.15036018
+      ],
+      [
+        "ed",
+        -0.0045332504
+      ],
+      [
+        " Out",
+        -0.0028798804
+      ],
+      [
+        " One",
+        -0.0033321874
+      ],
+      [
+        " Evening",
+        -0.059582375
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully painted buses built from cars which are known as colectivos. Its largest art museum is known as the MBNA and is located in its cultural center Recoleta. This site of Ezeiza International Airport has a downtown area which is dominated by a massive obelisk designed by Alberto Prebisch. Residents of this city are widely known as Porte\u00f1os, and the tango was invented in its slums. It is located at the northeastern edge of the Pampas, where the Parana River widens into the Rio de la Plata estuary.": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.00039742238
+      ],
+      [
+        "uen",
+        -4.4849444e-06
+      ],
+      [
+        "os",
+        -3.4166656e-05
+      ],
+      [
+        " Aires",
+        -9.126521e-05
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based economy was called \"The Original Affluent Society\" by Marshall Sahlins. The remains of Lake": {
+    "guess": "Kalahari Desert",
+    "confidence": [
+      [
+        "K",
+        -0.06622846
+      ],
+      [
+        "alah",
+        -2.4153549e-05
+      ],
+      [
+        "ari",
+        -5.3000836e-05
+      ],
+      [
+        " Desert",
+        -8.470901e-05
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being studied for treating cancer and hypertension. Charles Wyville Thomson first recorded this place's": {
+    "guess": "Mariana Trench",
+    "confidence": [
+      [
+        "M",
+        -0.96270585
+      ],
+      [
+        "arian",
+        -0.00062332256
+      ],
+      [
+        "a",
+        -0.000492149
+      ],
+      [
+        " T",
+        -6.456359e-05
+      ],
+      [
+        "rench",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "Located in the Long Island Sound, an island with this name was once called Little Pea Island. One city with this name is home to the main campus of the University of Missouri, and the Yakima, Spokane,": {
+    "guess": "Columbia",
+    "confidence": [
+      [
+        "C",
+        -0.5249627
+      ],
+      [
+        "olumbia",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.0019136423
+      ],
+      [
+        "oral",
+        -7.89631e-07
+      ],
+      [
+        " Castle",
+        -3.070975e-05
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition": {
+    "guess": "Locally compact group",
+    "confidence": [
+      [
+        "Loc",
+        -0.44648808
+      ],
+      [
+        "ally",
+        -0.0001005631
+      ],
+      [
+        " compact",
+        -0.008403934
+      ],
+      [
+        " group",
+        -0.1207444
+      ]
+    ]
+  },
+  "This location, chosen by Edward Wingfield, was bolstered by Lord De La Warr\u201fs reinforcements at the end of the \"starving time.\" This location was the site of a peace treaty with the Powhatan confederation, and saw experiments with tobacco plants done by John (*) Rolfe. Led by John Smith and assisted by Pocahontas, for 10 points, name this former capital of Virginia, the first permanent English settlement in the Americas.": {
+    "guess": "Jamestown, Virginia",
+    "confidence": [
+      [
+        "J",
+        -0.00672508
+      ],
+      [
+        "ame",
+        -3.888926e-06
+      ],
+      [
+        "stown",
+        -1.9816675e-06
+      ],
+      [
+        ",",
+        -0.4130548
+      ],
+      [
+        " Virginia",
+        -0.00016527968
+      ]
+    ]
+  },
+  "Located in the Long Island Sound, an island with this name was once called Little Pea Island. One city": {
+    "guess": "City Island",
+    "confidence": [
+      [
+        "City",
+        -0.7905107
+      ],
+      [
+        " Island",
+        -0.0009905342
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal, John Walter and the Times revealed that residents at one of these places in Andover were eating marrow from horse, dog, and cattle bones. These locations were officially abolished with 1948's National (*) Assistance Act. In a novel, Mr. Bumble removes a character from a baby farm to make him pick oakum here. Many people entered these locations after they were denied relief under the New Poor Law of 1834. For 10 points, name these English institutions where people who could not support themselves": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.033701256
+      ],
+      [
+        "house",
+        -0.014179967
+      ]
+    ]
+  },
+  "Located in the Long Island Sound, an island with this name was once called Little Pea Island. One city with this name is home to the main campus of the University of Missouri, and the Yakima, Spokane, and Snake Rivers are tributaries of a river with this name. That same river also forms the border between (*) Oregon and Washington, and this word names an Ivy League university in New York City. For 10 points, identify this word that names the capital of South Carolina, as well as the federal district": {
+    "guess": "Columbia",
+    "confidence": [
+      [
+        "C",
+        -0.017488899
+      ],
+      [
+        "olumbia",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "Locations set up for this action included the Tanforan and Manzanar centers. One case about this action said it did not apply to \"a loyal and law-abiding citizen.\" In another case about this action, Hugo Black argued it was necessary when \"our shores are threatened by hostile forces.\" This action focused": {
+    "guess": "Internment of Japanese Americans",
+    "confidence": [
+      [
+        "Intern",
+        -0.6610472
+      ],
+      [
+        "ment",
+        -0.00073185476
+      ],
+      [
+        " of",
+        -0.0056916387
+      ],
+      [
+        " Japanese",
+        -0.0005577972
+      ],
+      [
+        " Americans",
+        -0.0022211531
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is situated on Hope Bay. This region is bordered by bodies of water like the D'Urville Sea and the Mawson Sea. Deception Island lies off the coast of this region, as does Alexander Island, the largest landform off its coast. Other features located here include the volcano Erebus and a peak named for a": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.0013371473
+      ],
+      [
+        "ar",
+        -9.133887e-06
+      ],
+      [
+        "ctica",
+        -0.00044032474
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.0004886921
+      ],
+      [
+        "oral",
+        -5.6769813e-06
+      ],
+      [
+        " Castle",
+        -4.048445e-05
+      ]
+    ]
+  },
+  "It is located on its namesake island in the Hochelaga Archipelago. When residents of this city say north, they are actually referring to west- northwest, and east is really north-northeast. The heart of its nightlife lies on Rue Sainte-Catherine, which lies adjacent to the city's central business district, the Golden Square Mile. Divided into English and French portions, this Canadian city contains": {
+    "guess": "Montreal",
+    "confidence": [
+      [
+        "Mont",
+        -0.003991254
+      ],
+      [
+        "real",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based economy was called \"The Original Affluent Society\" by Marshall Sahlins. The remains of Lake Makgadikgadi are an endorheic basin in this desert, formed by the same processes that created the swampy delta of the (*) Okavango river. A long-term project to study meerkats is based in this desert, which comprises most of the area of the former Bechuanaland. The discovery of a Coca-Cola bottle": {
+    "guess": "Kalahari Desert",
+    "confidence": [
+      [
+        "K",
+        -0.033001054
+      ],
+      [
+        "alah",
+        -0.00012082772
+      ],
+      [
+        "ari",
+        -6.945094e-05
+      ],
+      [
+        " Desert",
+        -0.00048238898
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save penguins in Antarctica. This location's rival is called the St. Mark, which employs the Caroline Rhea played Ilsa Schikelgrubermeiger. Some characters at this location would later reappear in another": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3251024
+      ]
+    ]
+  },
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central, and Preserving Harmony. Rem Koolhaas designed a government building in this city that looks like a folded square with an open center and is nicknamed the \"big boxer shorts.\" The Dongcheng and Xicheng Districts are located in this city, whose namesake district is surrounded by Hebei Province. The CCTV Tower is found in this city, which contains a mausoleum thought to contain a wax sculpture of": {
+    "guess": "Beijing",
+    "confidence": [
+      [
+        "Be",
+        -0.002417511
+      ],
+      [
+        "ijing",
+        -0.00013202553
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location] meet,\" and Countee Cullen's poem \"Heritage\" asks \"What is [this location] to me?\" Derek Walcott": {
+    "guess": "China",
+    "confidence": [
+      [
+        "China",
+        -1.417896
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save": {
+    "guess": "Chicken pox",
+    "confidence": [
+      [
+        "Chicken",
+        -1.0085934
+      ],
+      [
+        " po",
+        -1.3554877
+      ],
+      [
+        "x",
+        -0.0013739226
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave": {
+    "guess": "Naples",
+    "confidence": [
+      [
+        "N",
+        -0.5669566
+      ],
+      [
+        "ap",
+        -0.005111611
+      ],
+      [
+        "les",
+        -0.0046478766
+      ]
+    ]
+  },
+  "Located in the western hills of this city is the archaeological dig known as the Afrasiab, on top of remains of the Sogdian culture. Three Islamic schools are found in the older part of this city, one being led by the astronomer Ulugh Beg. This city is also home to the Bibi-Khanym Mosque, built by its most famous resident in 1399 after he sacked Delhi. Located due east of Bukhara and southwest of Tashkent, the capital of its nation, for 10 points, what is this ancient city of Uzbekistan once ruled by Tamerlane?": {
+    "guess": "Samarkand",
+    "confidence": [
+      [
+        "Sam",
+        -0.00074280315
+      ],
+      [
+        "ark",
+        -8.017927e-05
+      ],
+      [
+        "and",
+        -3.4762674e-05
+      ]
+    ]
+  },
+  "Located at about 8 hours 25 minutes right ascension and 20 degrees north declination, it contains a loose cluster of more than 300 faint stars known as Praesepe or the Beehive. The ancient Greeks discovered that the sun entered it at the summer solstice, but as a result of precession the sun's most northerly": {
+    "guess": "Messier 44",
+    "confidence": [
+      [
+        "Mess",
+        -0.67564803
+      ],
+      [
+        "ier",
+        -9.829823e-05
+      ],
+      [
+        " ",
+        -0.0031116456
+      ],
+      [
+        "44",
+        -0.003358324
+      ]
+    ]
+  },
+  "It is located among mountains whose name translates as \"Blood of Christ,\" and was re-settled by Diego de Vargas in 1692 after the Pueblo Revolt had driven out the Spanish. A trail there from Independence, Mo. was started by William Becknell in 1821 and its major tourist attractions include a cathedral whose construction was the inspiration for Willa Cather's \"Death Comes for the Archbishop.\" For 10 points, name this capital of New Mexico.": {
+    "guess": "Santa Fe, New Mexico",
+    "confidence": [
+      [
+        "Santa",
+        -0.015576173
+      ],
+      [
+        " Fe",
+        -0.00048167375
+      ],
+      [
+        ",",
+        -0.092020415
+      ],
+      [
+        " New",
+        -0.000101159116
+      ],
+      [
+        " Mexico",
+        -0.00026944166
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta exteriors and gargoyles that made it a pioneer of the Gothic Revival style. Alfred Mullett's downtown post office building once stood across from this structure, which nows faces City Hall Park. Specifically ordered to surpass the height of the Metropolitan Life Tower, it became known as the \"Cathedral of Commerce.\" This building extends from Barclay Street to Park Place along Broadway, and was designed by Cass Gilbert. FTP, name this onetime world's tallest building, the New York headquarters": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.0013428509
+      ],
+      [
+        "ool",
+        -4.246537e-06
+      ],
+      [
+        "worth",
+        -2.3319124e-05
+      ],
+      [
+        " Building",
+        -0.00010032469
+      ]
+    ]
+  },
+  "It is located on its namesake island in the Hochelaga Archipelago. When residents of this city say north, they are actually referring to west- northwest, and east is really north-northeast. The heart of": {
+    "guess": "Montreal",
+    "confidence": [
+      [
+        "Mont",
+        -0.015540609
+      ],
+      [
+        "real",
+        -2.749125e-05
+      ]
+    ]
+  },
+  "This location is where a \"hysterical bride\" moans about being made and \"sends out for the doctor\" in Bob Dylan's \"Tombstone Blues.\" In reality, a chain of them became the foundation of what is now Loews theaters. William Bryans invented many of the machines commonly found at them, from ball shooters to simple slot machines, although those never entertained Twisp and Catsby, Gabe, or Tycho. For 10 points, what were these pre-electronic entertainment halls, now the namesake of a popular online comic strip?": {
+    "guess": "Penny arcade",
+    "confidence": [
+      [
+        "P",
+        -0.684311
+      ],
+      [
+        "enny",
+        -4.0961266e-05
+      ],
+      [
+        " arcade",
+        -0.040067606
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being studied for treating cancer and hypertension. Charles Wyville Thomson first recorded this place's existence when he was aboard the ship for which its deepest part is named; that section is Challenger Deep. Walsh and Piccard remain the only men to ever visit this location, which they did nearly fifty years ago in a bathyscaphe. Identify this feature near Guam, the deepest- known oceanic trench on": {
+    "guess": "Marianas Trench",
+    "confidence": [
+      [
+        "M",
+        -0.02412446
+      ],
+      [
+        "arian",
+        -7.958325e-05
+      ],
+      [
+        "as",
+        -0.13988334
+      ],
+      [
+        " T",
+        -5.8126592e-05
+      ],
+      [
+        "rench",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being": {
+    "guess": "Mariana Trench",
+    "confidence": [
+      [
+        "M",
+        -0.3927254
+      ],
+      [
+        "arian",
+        -0.0002485847
+      ],
+      [
+        "a",
+        -0.0004032634
+      ],
+      [
+        " T",
+        -4.7517467e-05
+      ],
+      [
+        "rench",
+        -1.60477e-05
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition series of one of these objects are equivalent by the Jordan-H\u00f6lder theorem. One class of these has locally Euclidean structure and is named for Lie [LEE]. Another class of this type of object dictates the solvability of polynomials and is named for Galois [gal-WAH]. As with many algebraic structures, the set of commuting values in one of these is its center and one equal to its own center": {
+    "guess": "Group",
+    "confidence": [
+      [
+        "Group",
+        -0.9825381
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger": {
+    "guess": "Chicken pox",
+    "confidence": [
+      [
+        "Chicken",
+        -0.4555662
+      ],
+      [
+        " po",
+        -0.5164754
+      ],
+      [
+        "x",
+        -0.0010492429
+      ]
+    ]
+  },
+  "It is located among mountains whose name translates as \"Blood of Christ,\" and was re-settled by Diego de Vargas in 1692 after the Pueblo Revolt had driven out the Spanish. A trail there from Independence,": {
+    "guess": "Santa Fe, New Mexico",
+    "confidence": [
+      [
+        "Santa",
+        -0.15274288
+      ],
+      [
+        " Fe",
+        -0.00054540735
+      ],
+      [
+        ",",
+        -0.39651594
+      ],
+      [
+        " New",
+        -0.00055041024
+      ],
+      [
+        " Mexico",
+        -0.00017278951
+      ]
+    ]
+  },
+  "Located in the western hills of this city is the archaeological dig known as the Afrasiab, on top of remains of the Sogdian culture. Three Islamic schools are found in the older part of this city, one": {
+    "guess": "Samarkand",
+    "confidence": [
+      [
+        "Sam",
+        -0.060094703
+      ],
+      [
+        "ark",
+        -9.472212e-05
+      ],
+      [
+        "and",
+        -7.111979e-05
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is situated on Hope Bay. This region is bordered by bodies of water like the D'Urville Sea and the Mawson Sea. Deception Island lies off the coast of this region, as does Alexander Island, the largest landform off its coast. Other features located here include the volcano Erebus and a peak named for a long-serving Georgia Congressman. Exploration in this home of Queen Maud Land and the Ross Ice Shelf was pioneered by Ernest Shackleton and Roald Amundsen. For 10 points, name this icy landmass that": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.00019150082
+      ],
+      [
+        "ar",
+        -1.7954959e-05
+      ],
+      [
+        "ctica",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central,": {
+    "guess": "Forbidden City",
+    "confidence": [
+      [
+        "Forbidden",
+        -0.04337595
+      ],
+      [
+        " City",
+        -0.0029094887
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully painted buses built from cars which are known as colectivos. Its largest art museum is known": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.0034400574
+      ],
+      [
+        "uen",
+        -2.4153549e-05
+      ],
+      [
+        "os",
+        -6.8854926e-05
+      ],
+      [
+        " Aires",
+        -0.00027206415
+      ]
+    ]
+  },
+  "Located within the Canaima National Park, its base spans 150 meters wide and it is nested on the Auy\u00e1n-Tepu\u00ed plateau, a land feature sometimes referred to as Devil's Mountain. It is powered by the Chur\u00fan": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.0063310442
+      ],
+      [
+        " Falls",
+        -0.00012952226
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location] meet,\" and Countee Cullen's poem \"Heritage\" asks \"What is [this location] to me?\" Derek Walcott wrote \"a wind is ruffling the tawny pelt\" of this location in his poem \"A Far Cry From\" this place, and Bird fantasizes about traveling here in A Personal Matter. Ernest Hemingway wrote \"All modern": {
+    "guess": "Africa",
+    "confidence": [
+      [
+        "Africa",
+        -1.5325103
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta exteriors and gargoyles that made it a pioneer of the Gothic Revival style. Alfred Mullett's downtown post office building once stood across from this structure, which nows faces City Hall Park. Specifically ordered to surpass the height of the Metropolitan Life Tower, it became known as the \"Cathedral of Commerce.\" This building extends from Barclay Street to Park Place along Broadway, and was designed by Cass Gilbert. FTP, name this onetime world's tallest building, the New York headquarters of a discount-retail magnate that went bankrupt in the 1990s.": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.0006324976
+      ],
+      [
+        "ool",
+        -4.604148e-06
+      ],
+      [
+        "worth",
+        -7.226629e-06
+      ],
+      [
+        " Building",
+        -9.372295e-06
+      ]
+    ]
+  },
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central, and Preserving Harmony. Rem Koolhaas designed a government building in this city that looks like a folded square with an open center and is nicknamed the \"big boxer shorts.\" The Dongcheng and Xicheng Districts are located in this city, whose namesake district is surrounded by Hebei Province. The CCTV Tower is found in this city, which contains a mausoleum thought to contain a wax sculpture of a leader who died in 1976. For 10 points, name this city that contains the Forbidden City, Mao's mausoleum,": {
+    "guess": "Beijing",
+    "confidence": [
+      [
+        "Be",
+        -0.0011194997
+      ],
+      [
+        "ijing",
+        -0.00016003472
+      ]
+    ]
+  },
+  "It is located among mountains whose name translates as \"Blood of Christ,\" and was re-settled by Diego de Vargas in 1692 after the Pueblo Revolt had driven out the Spanish. A trail there from Independence, Mo. was started by William Becknell in 1821 and its major tourist attractions include a cathedral": {
+    "guess": "Santa Fe, New Mexico",
+    "confidence": [
+      [
+        "Santa",
+        -0.0102253575
+      ],
+      [
+        " Fe",
+        -4.5252596e-05
+      ],
+      [
+        ",",
+        -0.0071152947
+      ],
+      [
+        " New",
+        -0.00010008628
+      ],
+      [
+        " Mexico",
+        -0.00017994174
+      ]
+    ]
+  },
+  "Located in the La Gran Sabro region on the Churun River, a tributary of the Caroni, it is found on Auyan Tepui.  First reported in 1937 when their discoverer crashed his plane on a nearby mountain, its": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.006793409
+      ],
+      [
+        " Falls",
+        -0.00048298496
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and McLeod's Bay in the north and Christie's Bay [*] in the south. It is connected with Artillery Lake, Clinton-Golden Lake, and Aylmer Lake. This lake's first European explorer was Samuel Hearne and its waters are the center of large fishing industry centered on trout and whitefish. Drained by the Mackenzie River, discovery of gold in the area lead to the establishment of the territorial capital of Yellowknife on its shores. FTP name this Canadian body of water, the deepest lake in its continent and": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.016186982
+      ],
+      [
+        " Slave",
+        -0.059908234
+      ],
+      [
+        " Lake",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.0013302409
+      ],
+      [
+        "ar",
+        -0.00021402664
+      ],
+      [
+        "ctica",
+        -0.00013834333
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal, John Walter and the Times revealed that residents at one of these places in Andover were eating marrow from horse, dog, and cattle bones. These locations were officially abolished with 1948's National (*) Assistance Act. In a novel, Mr. Bumble removes a character from a baby farm to make him pick oakum here. Many people entered these locations after they were denied relief under the New Poor": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.03993623
+      ],
+      [
+        "house",
+        -0.0042180093
+      ]
+    ]
+  },
+  "It is located on its namesake island in the Hochelaga Archipelago. When residents of this city say north, they are actually referring to west- northwest, and east is really north-northeast. The heart of its nightlife lies on Rue Sainte-Catherine, which lies adjacent to the city's central business district,": {
+    "guess": "Montreal",
+    "confidence": [
+      [
+        "Mont",
+        -0.0032308293
+      ],
+      [
+        "real",
+        -2.6656826e-05
+      ]
+    ]
+  },
+  "Locations set up for this action included the Tanforan and Manzanar centers. One case about this action said it did not apply to \"a loyal and law-abiding citizen.\" In another case about this action, Hugo Black argued it was necessary when \"our shores are threatened by hostile forces.\" This action focused on in the cases Ex Parte Endo and Korematsu v. U.S. was allowed by Executive Order 9066. For 10 points, name this action targeted at the Nisei, which sought to isolate certain Asian immigrants from the rest of the population during World War II.": {
+    "guess": "Japanese American internment",
+    "confidence": [
+      [
+        "Japanese",
+        -0.03183108
+      ],
+      [
+        " American",
+        -0.004774719
+      ],
+      [
+        " intern",
+        -0.042839885
+      ],
+      [
+        "ment",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "This location is the site of an evaporated glacial lake that was once over 80 miles long and 600 feet": {
+    "guess": "Death Valley",
+    "confidence": [
+      [
+        "Death",
+        -0.03723061
+      ],
+      [
+        " Valley",
+        -4.1080468e-05
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river": {
+    "guess": "Great Artesian Basin",
+    "confidence": [
+      [
+        "Great",
+        -1.1941594
+      ],
+      [
+        " Ar",
+        -0.6478821
+      ],
+      [
+        "tes",
+        -1.0325924e-05
+      ],
+      [
+        "ian",
+        -7.465036e-06
+      ],
+      [
+        " Basin",
+        -4.370295e-05
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta exteriors and gargoyles that made it a pioneer of the Gothic Revival style. Alfred Mullett's downtown": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -1.6708883
+      ],
+      [
+        "ool",
+        -0.4742639
+      ],
+      [
+        "worth",
+        -6.7901296e-05
+      ],
+      [
+        " Building",
+        -0.0004247164
+      ]
+    ]
+  },
+  "This location is the site of an evaporated glacial lake that was once over 80 miles long and 600 feet deep called Lake Manly. The highest point in this desert is located at Telescope Peak. The highest temperature in the Western hemisphere was recorded at Furnace Creek in this desert. Another point of interest located in this desert can be found in the Badwater Basin. For 10 points, name this American desert that contains the lowest point on land in the Western hemisphere, at 282 feet below sea level.": {
+    "guess": "Death Valley National Park",
+    "confidence": [
+      [
+        "Death",
+        -0.0015891312
+      ],
+      [
+        " Valley",
+        -4.2630116e-05
+      ],
+      [
+        " National",
+        -0.06726787
+      ],
+      [
+        " Park",
+        -9.603336e-05
+      ]
+    ]
+  },
+  "This location was founded around and named for a large cenote [suh-NOH-tee] that was excavated by Edward Herbert Thompson. This location's Temple of the Warriors is structurally similar to a pyramid complex at Tula. This location was once part of a league with neighboring Uxmal [oosh-MAHL]. This location is home to an observatory known as the Caracol, as well as a pyramid dedicated to Kukulcan, known as El Castillo. Home to the largest ballcourt in Mesoamerica, for 10 points, this is what Mayan site": {
+    "guess": "Chichen Itza",
+    "confidence": [
+      [
+        "Ch",
+        -0.0018913877
+      ],
+      [
+        "ichen",
+        -0.00015455135
+      ],
+      [
+        " It",
+        -5.669615e-05
+      ],
+      [
+        "za",
+        -3.070975e-05
+      ]
+    ]
+  },
+  "This location is the site of an evaporated glacial lake that was once over 80 miles long and 600 feet deep called Lake Manly. The highest point in this desert is located at Telescope Peak. The highest": {
+    "guess": "Death Valley",
+    "confidence": [
+      [
+        "Death",
+        -0.0012742812
+      ],
+      [
+        " Valley",
+        -0.00015502817
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully painted buses built from cars which are known as colectivos. Its largest art museum is known as the MBNA and is located in its cultural center Recoleta. This site of Ezeiza International Airport has a downtown area which is dominated by a massive obelisk designed by Alberto Prebisch. Residents of this city are widely known as Porte\u00f1os, and the tango was invented in its slums. It is located at the northeastern edge of the Pampas, where the Parana River widens into the Rio de la Plata estuary. For 10 points, name this capital of Argentina.": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.00062737183
+      ],
+      [
+        "uen",
+        -9.0883464e-07
+      ],
+      [
+        "os",
+        -3.5835506e-05
+      ],
+      [
+        " Aires",
+        -7.4695905e-05
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to build, and was done solely by the work of Edward Leedskalnin himself, having claimed to constructed it using magnetic currents and a \"perpetual motion holder\". The locale itself contains more than 1,000 tons of limestone quarried in South Florida, and built just outside of Florida City. FTP name this castle on the U.S. National Register of Historic Places featured on shows such as That's Incredible! And In Search of\u2026 known as much for its giant obelisks and solid stone construction as it is for": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.0007263714
+      ],
+      [
+        "oral",
+        -1.147242e-06
+      ],
+      [
+        " Castle",
+        -2.1054253e-05
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location] meet,\" and Countee Cullen's poem \"Heritage\" asks \"What is [this location] to me?\" Derek Walcott wrote \"a wind is ruffling the tawny pelt\" of this location in his poem \"A Far Cry From\" this place,": {
+    "guess": "Bristol Street",
+    "confidence": [
+      [
+        "B",
+        -1.9055301
+      ],
+      [
+        "ristol",
+        -0.054782186
+      ],
+      [
+        " Street",
+        -0.022582766
+      ]
+    ]
+  },
+  "It is the location of the Escondida Mine, the largest open-pit copper mine in the world, and is the world's largest supply of sodium nitrate. The isolation and clarity of its skies make it home to a number of telescopic observatories including the Paranal Observatory. Its barren spaces and \u2018Mars' or \u2018Moon'-like soils have made it an ideal place for NASA to consider testing future Martian or lunar rovers.": {
+    "guess": "Atacama Desert",
+    "confidence": [
+      [
+        "At",
+        -0.20576873
+      ],
+      [
+        "ac",
+        -8.470901e-05
+      ],
+      [
+        "ama",
+        -7.703444e-06
+      ],
+      [
+        " Desert",
+        -3.750436e-05
+      ]
+    ]
+  },
+  "Located on Bennelong Point, it has over 1000 rooms, including 6 bars, 4 restaurants, 5  rehearsal studios and 5 theaters. The roof's 1,056,000 white tiles were imported from Sweden, not far from the home of its original designer, J\u00f8rn Utzon. It was formally opened by Queen Elizabeth in 1973 and included": {
+    "guess": "Sydney Opera House",
+    "confidence": [
+      [
+        "Sy",
+        -0.0012742812
+      ],
+      [
+        "dney",
+        -2.4749568e-05
+      ],
+      [
+        " Opera",
+        -2.1008714e-06
+      ],
+      [
+        " House",
+        -5.3596854e-05
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based economy was called \"The Original Affluent Society\" by Marshall Sahlins. The remains of Lake Makgadikgadi are an endorheic basin in this desert, formed by the same processes that created the swampy delta of the (*) Okavango river. A long-term project to study meerkats is based in this desert, which comprises most of the area of the former Bechuanaland. The discovery of a Coca-Cola bottle by a San tribe in this desert opens the film The Gods Must Be Crazy. For 10 points, name this large": {
+    "guess": "Kalahari Desert",
+    "confidence": [
+      [
+        "K",
+        -0.010757624
+      ],
+      [
+        "alah",
+        -8.566264e-05
+      ],
+      [
+        "ari",
+        -6.289474e-05
+      ],
+      [
+        " Desert",
+        -0.00805053
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition series of one of these objects are equivalent by the Jordan-H\u00f6lder theorem. One class of these": {
+    "guess": "Finite groups",
+    "confidence": [
+      [
+        "Finite",
+        -1.3485906
+      ],
+      [
+        " groups",
+        -0.50891525
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location] meet,\" and Countee Cullen's poem \"Heritage\" asks \"What is [this location] to me?\" Derek Walcott wrote \"a wind is ruffling the tawny pelt\" of this location in his poem \"A Far Cry From\" this place, and Bird fantasizes about traveling here in A Personal Matter. Ernest Hemingway wrote \"All modern American literature comes from one book by Mark Twain called Huckleberry Finn\" in a book named for the \"Green Hills\" of this location. FTP, name this location that titles an epic poem about the Battle of Zama by Petrarch, a continent home to authors like Tsitsi Dangarembga and Chinua Achebe.": {
+    "guess": "Africa",
+    "confidence": [
+      [
+        "Africa",
+        -0.7193022
+      ]
+    ]
+  },
+  "Locations set up for this action included the Tanforan and Manzanar centers. One case about this action said it did not apply to \"a loyal and law-abiding citizen.\" In another case about this action, Hugo": {
+    "guess": "Japanese American internment",
+    "confidence": [
+      [
+        "Japanese",
+        -0.30403975
+      ],
+      [
+        " American",
+        -0.09505252
+      ],
+      [
+        " intern",
+        -0.080399476
+      ],
+      [
+        "ment",
+        -1.831257e-05
+      ]
+    ]
+  },
+  "Located in the western hills of this city is the archaeological dig known as the Afrasiab, on top of remains of the Sogdian culture. Three Islamic schools are found in the older part of this city, one being led by the astronomer Ulugh Beg. This city is also home to the Bibi-Khanym Mosque, built by its": {
+    "guess": "Samarkand",
+    "confidence": [
+      [
+        "Sam",
+        -0.003960617
+      ],
+      [
+        "ark",
+        -5.8722613e-05
+      ],
+      [
+        "and",
+        -2.8444882e-05
+      ]
+    ]
+  },
+  "This location was founded around and named for a large cenote [suh-NOH-tee] that was excavated by Edward Herbert Thompson. This location's Temple of the Warriors is structurally similar to a pyramid complex at Tula. This location was once part of a league with neighboring Uxmal [oosh-MAHL]. This location is home to an observatory known as the Caracol, as well as a pyramid dedicated to Kukulcan, known": {
+    "guess": "Chichen Itza",
+    "confidence": [
+      [
+        "Ch",
+        -0.002983406
+      ],
+      [
+        "ichen",
+        -0.00017278951
+      ],
+      [
+        " It",
+        -3.655073e-05
+      ],
+      [
+        "za",
+        -0.00010354319
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to build, and was done solely by the work of Edward Leedskalnin himself, having claimed to constructed it using magnetic currents and a \"perpetual motion holder\". The locale itself contains more than 1,000 tons of limestone quarried in South Florida, and built just outside of Florida City. FTP name this castle on the U.S. National Register of Historic Places featured on shows such as That's Incredible! And In Search of\u2026 known as much for its giant obelisks and solid stone construction as it is for the mystery behind its construction.": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.005591007
+      ],
+      [
+        "oral",
+        -7.89631e-07
+      ],
+      [
+        " Castle",
+        -2.1411865e-05
+      ]
+    ]
+  },
+  "Locations set up for this action included the Tanforan and Manzanar centers. One case about this action said it did not apply to \"a loyal and law-abiding citizen.\" In another case about this action, Hugo Black argued it was necessary when \"our shores are threatened by hostile forces.\" This action focused on in the cases Ex Parte Endo and Korematsu v. U.S. was allowed by Executive Order 9066. For 10": {
+    "guess": "Japanese American internment",
+    "confidence": [
+      [
+        "Japanese",
+        -0.06747672
+      ],
+      [
+        " American",
+        -0.00079307414
+      ],
+      [
+        " intern",
+        -0.008376748
+      ],
+      [
+        "ment",
+        -8.776276e-06
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to build, and was done solely by the work of Edward Leedskalnin himself, having claimed to constructed it using magnetic currents and a \"perpetual motion holder\". The locale itself contains more than 1,000 tons of limestone quarried in South Florida, and built just outside of Florida City. FTP name this castle on the U.S. National Register of Historic Places featured on shows such as That's Incredible!": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -6.0345924e-06
+      ],
+      [
+        "oral",
+        -4.9617593e-06
+      ],
+      [
+        " Castle",
+        -1.473646e-05
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition series of one of these objects are equivalent by the Jordan-H\u00f6lder theorem. One class of these has locally Euclidean structure and is named for Lie [LEE]. Another class of this type of object": {
+    "guess": "Groups",
+    "confidence": [
+      [
+        "Groups",
+        -0.3087655
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the": {
+    "guess": "Life coaching",
+    "confidence": [
+      [
+        "Life",
+        -0.11969898
+      ],
+      [
+        " coaching",
+        -0.17193866
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based": {
+    "guess": "Namib Desert",
+    "confidence": [
+      [
+        "Nam",
+        -0.07167019
+      ],
+      [
+        "ib",
+        -0.00019579215
+      ],
+      [
+        " Desert",
+        -0.010560423
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being studied for treating cancer and hypertension. Charles Wyville Thomson first recorded this place's existence when he was aboard the ship for which its deepest part is named; that section is Challenger Deep. Walsh and Piccard remain the only men to ever visit this location, which they did nearly fifty": {
+    "guess": "Marianas Trench",
+    "confidence": [
+      [
+        "M",
+        -0.04403846
+      ],
+      [
+        "arian",
+        -7.6364755e-05
+      ],
+      [
+        "as",
+        -0.16402844
+      ],
+      [
+        " T",
+        -2.4272753e-05
+      ],
+      [
+        "rench",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save penguins in Antarctica. This location's rival is called the St. Mark, which employs the Caroline Rhea played Ilsa Schikelgrubermeiger. Some characters at this location would later reappear in another TV series featuring the characters Emma Tutweiller and Bailey Pickett. Other employees at this Boston location include manager Mr. Moseby, bellhop Esteban, and singer Carey Martin, the mother of the": {
+    "guess": "The Suite Life of Zack & Cody",
+    "confidence": [
+      [
+        "The",
+        -0.45670077
+      ],
+      [
+        " Suite",
+        -0.0527529
+      ],
+      [
+        " Life",
+        -0.00027230257
+      ],
+      [
+        " of",
+        -0.6618704
+      ],
+      [
+        " Zack",
+        -0.0057899007
+      ],
+      [
+        " &",
+        -0.007883781
+      ],
+      [
+        " Cody",
+        -5.9080223e-05
+      ]
+    ]
+  },
+  "It is located on its namesake island in the Hochelaga Archipelago. When residents of this city say north, they are actually referring to west- northwest, and east is really north-northeast. The heart of its nightlife lies on Rue Sainte-Catherine, which lies adjacent to the city's central business district, the Golden Square Mile. Divided into English and French portions, this Canadian city contains over 3 million people and is served by Mirabel International Airport. FTP, identify this city in Qu\u00e9bec,": {
+    "guess": "Montreal",
+    "confidence": [
+      [
+        "Mont",
+        -0.0039391257
+      ],
+      [
+        "real",
+        -5.240482e-05
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and McLeod's Bay in the north and Christie's Bay [*] in the south. It is connected with Artillery Lake, Clinton-Golden Lake, and Aylmer Lake. This lake's first European explorer was Samuel Hearne and its waters are the center of large fishing industry centered on trout and whitefish. Drained by the Mackenzie River, discovery of gold in the area lead to the establishment of the territorial capital of Yellowknife": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.008615873
+      ],
+      [
+        " Slave",
+        -0.014941958
+      ],
+      [
+        " Lake",
+        -7.362307e-05
+      ]
+    ]
+  },
+  "Located in the Long Island Sound, an island with this name was once called Little Pea Island. One city with this name is home to the main campus of the University of Missouri, and the Yakima, Spokane, and Snake Rivers are tributaries of a river with this name. That same river also forms the border between (*) Oregon and Washington, and this word names an Ivy League university in New York City. For 10 points, identify this word that names the capital of South Carolina, as well as the federal district that contains the Smithsonian and the White House.": {
+    "guess": "Columbia (disambiguation)",
+    "confidence": [
+      [
+        "C",
+        -0.5401509
+      ],
+      [
+        "olumbia",
+        -7.822647e-06
+      ],
+      [
+        " (",
+        -0.63936305
+      ],
+      [
+        "dis",
+        -0.23843823
+      ],
+      [
+        "amb",
+        -3.3809047e-05
+      ],
+      [
+        "ig",
+        -4.477578e-05
+      ],
+      [
+        "uation",
+        -2.7729659e-05
+      ],
+      [
+        ")",
+        -0.0022742006
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.00425042
+      ],
+      [
+        "uen",
+        -5.2001665e-06
+      ],
+      [
+        "os",
+        -2.2603901e-05
+      ],
+      [
+        " Aires",
+        -0.0001878055
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save penguins in Antarctica. This location's rival is called the St. Mark, which employs the Caroline Rhea": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.50914395
+      ]
+    ]
+  },
+  "This location was founded around and named for a large cenote [suh-NOH-tee] that was excavated by Edward Herbert Thompson. This location's Temple of the Warriors is structurally similar to a pyramid complex": {
+    "guess": "Chichen Itza",
+    "confidence": [
+      [
+        "Ch",
+        -0.0024418854
+      ],
+      [
+        "ichen",
+        -0.00043519895
+      ],
+      [
+        " It",
+        -6.098748e-05
+      ],
+      [
+        "za",
+        -0.00012749579
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is situated on Hope Bay. This region is bordered by bodies of water like the D'Urville Sea and the Mawson Sea. Deception Island lies off the coast of this region, as does Alexander Island, the largest landform": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.0013960687
+      ],
+      [
+        "ar",
+        -6.241792e-05
+      ],
+      [
+        "ctica",
+        -0.0023779043
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition series of one of these objects are equivalent by the Jordan-H\u00f6lder theorem. One class of these has locally Euclidean structure and is named for Lie [LEE]. Another class of this type of object dictates the solvability of polynomials and is named for Galois [gal-WAH]. As with many algebraic structures, the set of commuting values in one of these is its center and one equal to its own center is Abelian. For 10 points, name these mathematical structures, each of which consists of a set endowed": {
+    "guess": "Group",
+    "confidence": [
+      [
+        "Group",
+        -0.47625428
+      ]
+    ]
+  },
+  "This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being studied for treating cancer and hypertension. Charles Wyville Thomson first recorded this place's existence when he was aboard the ship for which its deepest part is named; that section is Challenger Deep. Walsh and Piccard remain the only men to ever visit this location, which they did nearly fifty years ago in a bathyscaphe. Identify this feature near Guam, the deepest- known oceanic trench on Earth.": {
+    "guess": "Marianas Trench",
+    "confidence": [
+      [
+        "M",
+        -0.0101401685
+      ],
+      [
+        "arian",
+        -7.445749e-05
+      ],
+      [
+        "as",
+        -0.0548912
+      ],
+      [
+        " T",
+        -3.4047454e-05
+      ],
+      [
+        "rench",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This location, chosen by Edward Wingfield, was bolstered by Lord De La Warr\u201fs reinforcements at the end of the \"starving time.\" This location was the site of a peace treaty with the Powhatan confederation, and saw experiments with tobacco plants done by John (*) Rolfe. Led by John Smith and assisted by Pocahontas, for 10 points, name this former capital of Virginia, the first permanent English settlement": {
+    "guess": "Jamestown, Virginia",
+    "confidence": [
+      [
+        "J",
+        -0.009165063
+      ],
+      [
+        "ame",
+        -4.1273333e-06
+      ],
+      [
+        "stown",
+        -2.577686e-06
+      ],
+      [
+        ",",
+        -0.22251852
+      ],
+      [
+        " Virginia",
+        -0.00015145572
+      ]
+    ]
+  },
+  "It is located far to the North, and takes four years to reach. Travelers are often aided by cremated dogs, or the psychopomp Xolotl, lord of lightning, who together with Quetzalcoatl traveled here to retrieve the bones of those who had perished in the great flood. Only warriors who fall in battle and women who died in childbirth are able to avoid, for ten points, what Aztec underworld?": {
+    "guess": "Mictlan",
+    "confidence": [
+      [
+        "M",
+        -0.2738801
+      ],
+      [
+        "ict",
+        -0.0010074427
+      ],
+      [
+        "lan",
+        -0.0017242036
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully painted buses built from cars which are known as colectivos. Its largest art museum is known as the MBNA and is located in its cultural center Recoleta. This site of Ezeiza International Airport has a downtown area which is dominated by a massive obelisk designed by Alberto Prebisch. Residents of this city are widely known as Porte\u00f1os, and the tango was invented in its slums. It is located": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.00024406596
+      ],
+      [
+        "uen",
+        -4.4849444e-06
+      ],
+      [
+        "os",
+        -3.8696395e-05
+      ],
+      [
+        " Aires",
+        -3.8338785e-05
+      ]
+    ]
+  },
+  "Locations set up for this action included the Tanforan and Manzanar centers. One case about this action": {
+    "guess": "Japanese American internment",
+    "confidence": [
+      [
+        "Japanese",
+        -0.14801161
+      ],
+      [
+        " American",
+        -0.25355452
+      ],
+      [
+        " intern",
+        -0.04760725
+      ],
+      [
+        "ment",
+        -1.0802739e-05
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save penguins in Antarctica. This location's rival is called the St. Mark, which employs the Caroline Rhea played Ilsa Schikelgrubermeiger. Some characters at this location would later reappear in another TV series featuring the characters Emma Tutweiller and Bailey Pickett. Other employees at this Boston": {
+    "guess": "The Suite Life on Deck",
+    "confidence": [
+      [
+        "The",
+        -0.60192597
+      ],
+      [
+        " Suite",
+        -0.032614943
+      ],
+      [
+        " Life",
+        -0.0006430957
+      ],
+      [
+        " on",
+        -0.21731149
+      ],
+      [
+        " Deck",
+        -2.7014437e-05
+      ]
+    ]
+  },
+  "The location of \"sip wells\" is often kept a secret in this desert, which is home to many ancient river beds called omiramba. Along with the Australian Aborigines, a group living in this desert with a gift-based economy was called \"The Original Affluent Society\" by Marshall Sahlins. The remains of Lake Makgadikgadi are an endorheic basin in this desert, formed by the same processes that created the": {
+    "guess": "Kalahari Desert",
+    "confidence": [
+      [
+        "K",
+        -0.035318535
+      ],
+      [
+        "alah",
+        -3.631232e-05
+      ],
+      [
+        "ari",
+        -8.76891e-05
+      ],
+      [
+        " Desert",
+        -0.0007607919
+      ]
+    ]
+  },
+  "Located within the Canaima National Park, its base spans 150 meters wide and it is nested on the Auy\u00e1n-Tepu\u00ed plateau, a land feature sometimes referred to as Devil's Mountain. It is powered by the Chur\u00fan (*) River and remains only accessible by air. It was named for its American discover who crash landed his plane in 1937 in a mesa located near it. Dropping some 979 meters, FTP, identify this highest": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.01911234
+      ],
+      [
+        " Falls",
+        -0.00026932248
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and McLeod's Bay in the north and Christie's Bay [*] in the south. It is connected with Artillery Lake, Clinton-Golden Lake, and Aylmer Lake. This lake's first European explorer was Samuel Hearne and its waters are the center of large fishing industry centered on trout and whitefish. Drained by the Mackenzie River, discovery of gold in the area lead to the establishment of the territorial capital of Yellowknife on its shores. FTP name this Canadian body of water, the deepest lake in its continent and the fifth largest in North America.": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.0028345885
+      ],
+      [
+        " Slave",
+        -0.00048477305
+      ],
+      [
+        " Lake",
+        -1.7478143e-05
+      ]
+    ]
+  },
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central, and Preserving Harmony. Rem Koolhaas designed a government building in this city that looks like a folded square with an open center and is nicknamed the \"big boxer shorts.\" The Dongcheng and Xicheng Districts are located in this city, whose namesake district is surrounded by Hebei Province. The": {
+    "guess": "Beijing",
+    "confidence": [
+      [
+        "Be",
+        -0.009337509
+      ],
+      [
+        "ijing",
+        -9.460292e-05
+      ]
+    ]
+  },
+  "Located at about 8 hours 25 minutes right ascension and 20 degrees north declination, it contains a loose cluster of more than 300 faint stars known as Praesepe or the Beehive. The ancient Greeks discovered that the sun entered it at the summer solstice, but as a result of precession the sun's most northerly position has now moved westward to the border of Gemini and Taurus. FTP, identify this constellation lying between Leo and Gemini, the fourth sign of the zodiac, named for the Greek mythological": {
+    "guess": "Cancer (constellation)",
+    "confidence": [
+      [
+        "C",
+        -0.005704212
+      ],
+      [
+        "ancer",
+        -9.968313e-06
+      ],
+      [
+        " (",
+        -5.7292167e-05
+      ],
+      [
+        "const",
+        -0.11580503
+      ],
+      [
+        "ellation",
+        -8.304016e-05
+      ],
+      [
+        ")",
+        -4.763667e-05
+      ]
+    ]
+  },
+  "Their location was reluctantly revealed by the sea-god Nereus, and Prometheus devised the plan to recover": {
+    "guess": "Prometheus Bound",
+    "confidence": [
+      [
+        "Prom",
+        -0.6707384
+      ],
+      [
+        "etheus",
+        -0.036551815
+      ],
+      [
+        " Bound",
+        -0.16447605
+      ]
+    ]
+  },
+  "Located in the western hills of this city is the archaeological dig known as the Afrasiab, on top of remains of the Sogdian culture. Three Islamic schools are found in the older part of this city, one being led by the astronomer Ulugh Beg. This city is also home to the Bibi-Khanym Mosque, built by its most famous resident in 1399 after he sacked Delhi. Located due east of Bukhara and southwest of Tashkent, the capital of its nation, for 10 points, what is this ancient city of Uzbekistan once ruled": {
+    "guess": "Samarkand",
+    "confidence": [
+      [
+        "Sam",
+        -0.00028660335
+      ],
+      [
+        "ark",
+        -7.481511e-05
+      ],
+      [
+        "and",
+        -2.9517714e-05
+      ]
+    ]
+  },
+  "This location is where a \"hysterical bride\" moans about being made and \"sends out for the doctor\" in": {
+    "guess": "The Yellow Wallpaper",
+    "confidence": [
+      [
+        "The",
+        -0.7413301
+      ],
+      [
+        " Yellow",
+        -0.8597814
+      ],
+      [
+        " Wallpaper",
+        -0.02179948
+      ]
+    ]
+  },
+  "This location, chosen by Edward Wingfield, was bolstered by Lord De La Warr\u201fs reinforcements at the end of the \"starving time.\" This location was the site of a peace treaty with the Powhatan confederation,": {
+    "guess": "Jamestown, Virginia",
+    "confidence": [
+      [
+        "J",
+        -0.05750999
+      ],
+      [
+        "ame",
+        -1.147242e-06
+      ],
+      [
+        "stown",
+        -7.3458323e-06
+      ],
+      [
+        ",",
+        -0.010581064
+      ],
+      [
+        " Virginia",
+        -0.00014919086
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to build, and was done solely by the work of Edward Leedskalnin himself, having claimed to constructed": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.0022394701
+      ],
+      [
+        "oral",
+        -1.2664457e-06
+      ],
+      [
+        " Castle",
+        -2.8921695e-05
+      ]
+    ]
+  },
+  "It is the location of the Escondida Mine, the largest open-pit copper mine in the world, and is the world's largest supply of sodium nitrate. The isolation and clarity of its skies make it home to a number of telescopic observatories including the Paranal Observatory. Its barren spaces and \u2018Mars' or \u2018Moon'-like soils have made it an ideal place for NASA to consider testing future Martian or lunar rovers. Suffering from a double rain shadow from the Corderilla Domeyko to the east and the Andes Mountains": {
+    "guess": "Atacama Desert",
+    "confidence": [
+      [
+        "At",
+        -0.6511496
+      ],
+      [
+        "ac",
+        -3.2855416e-05
+      ],
+      [
+        "ama",
+        -3.750436e-05
+      ],
+      [
+        " Desert",
+        -0.00019996427
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne": {
+    "guess": "List of Sampson Kempthorne buildings",
+    "confidence": [
+      [
+        "List",
+        -1.0413889
+      ],
+      [
+        " of",
+        -0.00017421995
+      ],
+      [
+        " Samp",
+        -1.6280152
+      ],
+      [
+        "son",
+        -3.7742768e-05
+      ],
+      [
+        " Kemp",
+        -0.009732833
+      ],
+      [
+        "th",
+        -5.9153886e-06
+      ],
+      [
+        "orne",
+        -0.00019555374
+      ],
+      [
+        " buildings",
+        -0.17747359
+      ]
+    ]
+  },
+  "Their location was reluctantly revealed by the sea-god Nereus, and Prometheus devised the plan to recover them. Since they were a wedding present from Hera to Zeus, they were guarded by daughters of Atlas, as well as the dragon Ladon. Thus, Heracles took the world on his shoulders and had Atlas himself": {
+    "guess": "Golden Apples",
+    "confidence": [
+      [
+        "Golden",
+        -1.068497
+      ],
+      [
+        " App",
+        -0.2588772
+      ],
+      [
+        "les",
+        -2.4749568e-05
+      ]
+    ]
+  },
+  "This location, chosen by Edward Wingfield, was bolstered by Lord De La Warr\u201fs reinforcements at the end": {
+    "guess": "Jamestown, Virginia",
+    "confidence": [
+      [
+        "J",
+        -0.097378805
+      ],
+      [
+        "ame",
+        -7.703444e-06
+      ],
+      [
+        "stown",
+        -5.419287e-05
+      ],
+      [
+        ",",
+        -0.0027551877
+      ],
+      [
+        " Virginia",
+        -0.0011019915
+      ]
+    ]
+  },
+  "It is the location of the Escondida Mine, the largest open-pit copper mine in the world, and is the world's largest supply of sodium nitrate. The isolation and clarity of its skies make it home to a number": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Ch",
+        -0.46198687
+      ],
+      [
+        "ile",
+        -5.538491e-05
+      ]
+    ]
+  },
+  "Located in the western hills of this city is the archaeological dig known as the Afrasiab, on top of": {
+    "guess": "Samarkand",
+    "confidence": [
+      [
+        "Sam",
+        -0.031647805
+      ],
+      [
+        "ark",
+        -0.00015753144
+      ],
+      [
+        "and",
+        -8.6497064e-05
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition series of one of these objects are equivalent by the Jordan-H\u00f6lder theorem. One class of these has locally Euclidean structure and is named for Lie [LEE]. Another class of this type of object dictates the solvability of polynomials and is named for Galois [gal-WAH]. As with many algebraic": {
+    "guess": "Group (mathematics)",
+    "confidence": [
+      [
+        "Group",
+        -0.18867193
+      ],
+      [
+        " (",
+        -0.29980427
+      ],
+      [
+        "math",
+        -0.03296172
+      ],
+      [
+        "ematics",
+        -0.00014513794
+      ],
+      [
+        ")",
+        -0.00021438424
+      ]
+    ]
+  },
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central, and Preserving Harmony. Rem Koolhaas designed a government building in this city that looks like": {
+    "guess": "Forbidden City",
+    "confidence": [
+      [
+        "Forbidden",
+        -0.07104228
+      ],
+      [
+        " City",
+        -0.0010730616
+      ]
+    ]
+  },
+  "One location in this city, which is entered via the Meridian Gate, contains the Halls of Supreme, Central, and Preserving Harmony. Rem Koolhaas designed a government building in this city that looks like a folded square with an open center and is nicknamed the \"big boxer shorts.\" The Dongcheng and Xicheng": {
+    "guess": "Beijing",
+    "confidence": [
+      [
+        "Be",
+        -0.46626613
+      ],
+      [
+        "ijing",
+        -0.00017851128
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem \"As I Walked Out One Evening\" declares \"I'll love you dear, I'll love you / Till China and [this location] meet,\" and Countee Cullen's poem \"Heritage\" asks \"What is [this location] to me?\" Derek Walcott wrote \"a wind is ruffling the tawny pelt\" of this location in his poem \"A Far Cry From\" this place, and Bird fantasizes about traveling here in A Personal Matter. Ernest Hemingway wrote \"All modern American literature comes from one book by Mark Twain called Huckleberry Finn\" in a book named for": {
+    "guess": "Bristol Street",
+    "confidence": [
+      [
+        "B",
+        -2.2101853
+      ],
+      [
+        "ristol",
+        -0.041824285
+      ],
+      [
+        " Street",
+        -0.02200708
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.24363276
+      ],
+      [
+        "ool",
+        -0.0066989153
+      ],
+      [
+        "worth",
+        -7.465036e-06
+      ],
+      [
+        " Building",
+        -0.00016122675
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -1.501743
+      ],
+      [
+        "ool",
+        -0.047576785
+      ],
+      [
+        "worth",
+        -1.7835755e-05
+      ],
+      [
+        " Building",
+        -0.00025597532
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save penguins in Antarctica. This location's rival is called the St. Mark, which employs the Caroline Rhea played Ilsa Schikelgrubermeiger. Some characters at this location would later reappear in another TV series featuring the characters Emma Tutweiller and Bailey Pickett. Other employees at this Boston location include manager Mr. Moseby, bellhop Esteban, and singer Carey Martin, the mother of the two title characters. For 10 points, name this setting of The Suite Life of Zack & Cody, a hotel which shares its name with the surname of the owner's daughter London.": {
+    "guess": "Tipton Hotel",
+    "confidence": [
+      [
+        "T",
+        -0.6505403
+      ],
+      [
+        "ipt",
+        -0.0003802681
+      ],
+      [
+        "on",
+        -4.5252596e-05
+      ],
+      [
+        " Hotel",
+        -0.00095016806
+      ]
+    ]
+  },
+  "It is located on its namesake island in the Hochelaga Archipelago. When residents of this city say north,": {
+    "guess": "Montreal",
+    "confidence": [
+      [
+        "Mont",
+        -0.0050084135
+      ],
+      [
+        "real",
+        -2.939851e-05
+      ]
+    ]
+  },
+  "This location, chosen by Edward Wingfield, was bolstered by Lord De La Warr\u201fs reinforcements at the end of the \"starving time.\" This location was the site of a peace treaty with the Powhatan confederation, and saw experiments with tobacco plants done by John (*) Rolfe. Led by John Smith and assisted": {
+    "guess": "Jamestown, Virginia",
+    "confidence": [
+      [
+        "J",
+        -0.018545428
+      ],
+      [
+        "ame",
+        -3.1281633e-07
+      ],
+      [
+        "stown",
+        -2.577686e-06
+      ],
+      [
+        ",",
+        -0.019673908
+      ],
+      [
+        " Virginia",
+        -0.00012487332
+      ]
+    ]
+  },
+  "Located in the La Gran Sabro region on the Churun River, a tributary of the Caroni, it is found on Auyan": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.020806495
+      ],
+      [
+        " Falls",
+        -0.00070468726
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and McLeod's Bay in the north and Christie's Bay [*] in the south. It is connected with Artillery Lake, Clinton-Golden Lake, and Aylmer Lake. This lake's first European explorer was Samuel Hearne and its waters are the center of large fishing industry centered on trout and whitefish. Drained by the Mackenzie": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.0049266852
+      ],
+      [
+        " Slave",
+        -0.025565473
+      ],
+      [
+        " Lake",
+        -5.9914648e-05
+      ]
+    ]
+  },
+  "Their location was reluctantly revealed by the sea-god Nereus, and Prometheus devised the plan to recover them. Since they were a wedding present from Hera to Zeus, they were guarded by daughters of Atlas,": {
+    "guess": "Hesperides",
+    "confidence": [
+      [
+        "H",
+        -0.7641277
+      ],
+      [
+        "esper",
+        -0.0036064824
+      ],
+      [
+        "ides",
+        -0.00026419671
+      ]
+    ]
+  },
+  "This location is home to the settlements of Villa Las Estrellas and Esperanza, the latter of which is situated on Hope Bay. This region is bordered by bodies of water like the D'Urville Sea and the Mawson Sea. Deception Island lies off the coast of this region, as does Alexander Island, the largest landform off its coast. Other features located here include the volcano Erebus and a peak named for a long-serving Georgia Congressman. Exploration in this home of Queen Maud Land and the Ross Ice Shelf": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.005219294
+      ],
+      [
+        "ar",
+        -4.604148e-06
+      ],
+      [
+        "ctica",
+        -0.00023286081
+      ]
+    ]
+  },
+  "Located at about 8 hours 25 minutes right ascension and 20 degrees north declination, it contains a loose cluster of more than 300 faint stars known as Praesepe or the Beehive. The ancient Greeks discovered that the sun entered it at the summer solstice, but as a result of precession the sun's most northerly position has now moved westward to the border of Gemini and Taurus. FTP, identify this constellation lying between Leo and Gemini, the fourth sign of the zodiac, named for the Greek mythological figure that was sent to distract Heracles as he attacked the Hydra and not for a disease.": {
+    "guess": "Cancer (constellation)",
+    "confidence": [
+      [
+        "C",
+        -0.0041478495
+      ],
+      [
+        "ancer",
+        -2.4584822e-06
+      ],
+      [
+        " (",
+        -2.677603e-05
+      ],
+      [
+        "const",
+        -0.12501897
+      ],
+      [
+        "ellation",
+        -5.5623317e-05
+      ],
+      [
+        ")",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "This location is the site of an evaporated glacial lake that was once over 80 miles long and 600 feet deep called Lake Manly. The highest point in this desert is located at Telescope Peak. The highest temperature in the Western hemisphere was recorded at Furnace Creek in this desert. Another point of": {
+    "guess": "Death Valley National Park",
+    "confidence": [
+      [
+        "Death",
+        -0.003985793
+      ],
+      [
+        " Valley",
+        -9.877504e-05
+      ],
+      [
+        " National",
+        -0.13390698
+      ],
+      [
+        " Park",
+        -0.00014823723
+      ]
+    ]
+  },
+  "It is the location of the Escondida Mine, the largest open-pit copper mine in the world, and is the world's largest supply of sodium nitrate. The isolation and clarity of its skies make it home to a number of telescopic observatories including the Paranal Observatory. Its barren spaces and \u2018Mars' or \u2018Moon'-like soils have made it an ideal place for NASA to consider testing future Martian or lunar rovers. Suffering from a double rain shadow from the Corderilla Domeyko to the east and the Andes Mountains to the west, FTP, name this driest place on Earth, a 600 mile long desert in Chile.": {
+    "guess": "Atacama Desert",
+    "confidence": [
+      [
+        "At",
+        -0.0010747304
+      ],
+      [
+        "ac",
+        -2.8564085e-05
+      ],
+      [
+        "ama",
+        -2.8160932e-06
+      ],
+      [
+        " Desert",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "These locations are not churches, but they were the primary buildings designed by Sampson Kempthorne under his \"cruciform\" plan. Gilbert's Act attempted to define who would be their residents. In a scandal, John Walter and the Times revealed that residents at one of these places in Andover were eating marrow from horse, dog, and cattle bones. These locations were officially abolished with 1948's National (*) Assistance Act. In a novel, Mr. Bumble removes a character from a baby farm to make him pick oakum here. Many people entered these locations after they were denied relief under the New Poor Law of 1834. For 10 points, name these English institutions where people who could not support themselves were sent to in order to find employment.": {
+    "guess": "Workhouse",
+    "confidence": [
+      [
+        "Work",
+        -0.029774675
+      ],
+      [
+        "house",
+        -0.003098689
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta exteriors and gargoyles that made it a pioneer of the Gothic Revival style. Alfred Mullett's downtown post office building once stood across from this structure, which nows faces City Hall Park. Specifically": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.5372423
+      ],
+      [
+        "ool",
+        -0.0060265576
+      ],
+      [
+        "worth",
+        -1.0921943e-05
+      ],
+      [
+        " Building",
+        -0.0001594387
+      ]
+    ]
+  },
+  "Locations set up for this action included the Tanforan and Manzanar centers. One case about this action said it did not apply to \"a loyal and law-abiding citizen.\" In another case about this action, Hugo Black argued it was necessary when \"our shores are threatened by hostile forces.\" This action focused on in the cases Ex Parte Endo and Korematsu v. U.S. was allowed by Executive Order 9066. For 10 points, name this action targeted at the Nisei, which sought to isolate certain Asian immigrants from": {
+    "guess": "Japanese American internment",
+    "confidence": [
+      [
+        "Japanese",
+        -0.051918212
+      ],
+      [
+        " American",
+        -0.003960736
+      ],
+      [
+        " intern",
+        -0.027565742
+      ],
+      [
+        "ment",
+        -1.4378848e-05
+      ]
+    ]
+  },
+  "It is the location of the Escondida Mine, the largest open-pit copper mine in the world, and is the world's": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Ch",
+        -0.41746566
+      ],
+      [
+        "ile",
+        -0.011079534
+      ]
+    ]
+  },
+  "Located in the Fort Smith region, it was named for an indian tribe and cities on its shores include the villages of Hay River, Gros Cap and Fort Resolution and physical features include Goulet Bay and McLeod's Bay in the north and Christie's Bay [*] in the south. It is connected with Artillery Lake, Clinton-Golden Lake, and Aylmer Lake. This lake's first European explorer was Samuel Hearne and its": {
+    "guess": "Great Slave Lake",
+    "confidence": [
+      [
+        "Great",
+        -0.014755214
+      ],
+      [
+        " Slave",
+        -0.032087848
+      ],
+      [
+        " Lake",
+        -7.421909e-05
+      ]
+    ]
+  },
+  "Located on Bennelong Point, it has over 1000 rooms, including 6 bars, 4 restaurants, 5  rehearsal studios and 5 theaters. The roof's 1,056,000 white tiles were imported from Sweden, not far from the home": {
+    "guess": "Sydney Opera House",
+    "confidence": [
+      [
+        "Sy",
+        -0.0052354103
+      ],
+      [
+        "dney",
+        -6.635165e-05
+      ],
+      [
+        " Opera",
+        -0.0002162915
+      ],
+      [
+        " House",
+        -0.00013584005
+      ]
+    ]
+  },
+  "Located on Bennelong Point, it has over 1000 rooms, including 6 bars, 4 restaurants, 5  rehearsal studios": {
+    "guess": "Sydney Opera House",
+    "confidence": [
+      [
+        "Sy",
+        -0.008404999
+      ],
+      [
+        "dney",
+        -0.00049977435
+      ],
+      [
+        " Opera",
+        -6.551722e-05
+      ],
+      [
+        " House",
+        -8.959636e-05
+      ]
+    ]
+  },
+  "Located on Bennelong Point, it has over 1000 rooms, including 6 bars, 4 restaurants, 5  rehearsal studios and 5 theaters. The roof's 1,056,000 white tiles were imported from Sweden, not far from the home of its original designer, J\u00f8rn Utzon. It was formally opened by Queen Elizabeth in 1973 and included a performance of Beethoven's 9th Symphony. For ten points, name this building located in the capital": {
+    "guess": "Sydney Opera House",
+    "confidence": [
+      [
+        "Sy",
+        -0.0008403576
+      ],
+      [
+        "dney",
+        -3.5120287e-05
+      ],
+      [
+        " Opera",
+        -2.3392786e-06
+      ],
+      [
+        " House",
+        -3.1424974e-05
+      ]
+    ]
+  },
+  "This location was founded around and named for a large cenote [suh-NOH-tee] that was excavated by Edward": {
+    "guess": "Chichen Itza",
+    "confidence": [
+      [
+        "Ch",
+        -0.6108609
+      ],
+      [
+        "ichen",
+        -0.17760736
+      ],
+      [
+        " It",
+        -5.4669687e-05
+      ],
+      [
+        "za",
+        -7.421909e-05
+      ]
+    ]
+  },
+  "This location once had its employees undergo training from life coach Sandy Butteaux, during which the fake question \"Can I have the day off because my chicken has chicken pox?\" was proposed. A younger employee at this place was a student at Our Lady of Perpetual Sorrow who temporarily left to go save penguins in Antarctica. This location's rival is called the St. Mark, which employs the Caroline Rhea played Ilsa Schikelgrubermeiger. Some characters at this location would later reappear in another TV series featuring the characters Emma Tutweiller and Bailey Pickett. Other employees at this Boston location include manager Mr. Moseby, bellhop Esteban, and singer Carey Martin, the mother of the two title characters. For 10 points, name this setting of The Suite Life of Zack & Cody, a hotel which": {
+    "guess": "Tipton Hotel",
+    "confidence": [
+      [
+        "T",
+        -0.7756706
+      ],
+      [
+        "ipt",
+        -0.00019436171
+      ],
+      [
+        "on",
+        -5.50273e-05
+      ],
+      [
+        " Hotel",
+        -0.00040302498
+      ]
+    ]
+  },
+  "This location is the site of an evaporated glacial lake that was once over 80 miles long and 600 feet deep called Lake Manly. The highest point in this desert is located at Telescope Peak. The highest temperature in the Western hemisphere was recorded at Furnace Creek in this desert. Another point of interest located in this desert can be found in the Badwater Basin. For 10 points, name this American": {
+    "guess": "Death Valley National Park",
+    "confidence": [
+      [
+        "Death",
+        -0.007296859
+      ],
+      [
+        " Valley",
+        -0.0005330175
+      ],
+      [
+        " National",
+        -0.54721457
+      ],
+      [
+        " Park",
+        -0.0002751598
+      ]
+    ]
+  },
+  "This locale was built as a residence by Latvian American Edward Leedskalnin. Its location was moved in 1936 when development around the structure made it so that it was no longer a remote area. The motivation for its construction is thought to have arisen as a memorial to Leedskalnin's 16 year-old fianc\u00e9e Agnus Scuffs, who jilted him at one day prior to their wedding. This residence took 28 years to build, and was done solely by the work of Edward Leedskalnin himself, having claimed to constructed it using magnetic currents and a \"perpetual motion holder\". The locale itself contains more than 1,000": {
+    "guess": "Coral Castle",
+    "confidence": [
+      [
+        "C",
+        -0.0011847536
+      ],
+      [
+        "oral",
+        -6.704273e-07
+      ],
+      [
+        " Castle",
+        -4.8709502e-05
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins": {
+    "guess": "Walter Abish",
+    "confidence": [
+      [
+        "W",
+        -0.6991544
+      ],
+      [
+        "alter",
+        -0.08214455
+      ],
+      [
+        " Ab",
+        -0.006757999
+      ],
+      [
+        "ish",
+        -0.0006184352
+      ]
+    ]
+  },
+  "This location appears in the title of a Walter Abish novel in which each word of the first chapter begins with A, each word of the second chapter begins with either A or B, and so on. W. H. Auden's poem": {
+    "guess": "Alphabetical Africa",
+    "confidence": [
+      [
+        "Al",
+        -0.84761727
+      ],
+      [
+        "phabet",
+        -0.020937016
+      ],
+      [
+        "ical",
+        -0.003977478
+      ],
+      [
+        " Africa",
+        -0.0035071764
+      ]
+    ]
+  },
+  "It is located on its namesake island in the Hochelaga Archipelago. When residents of this city say north, they are actually referring to west- northwest, and east is really north-northeast. The heart of its nightlife lies on Rue Sainte-Catherine, which lies adjacent to the city's central business district, the Golden Square Mile. Divided into English and French portions, this Canadian city contains over 3 million people and is served by Mirabel International Airport. FTP, identify this city in Qu\u00e9bec, the second largest in Canada and home to the Expos.": {
+    "guess": "Montreal",
+    "confidence": [
+      [
+        "Mont",
+        -0.005653825
+      ],
+      [
+        "real",
+        -1.8789384e-05
+      ]
+    ]
+  },
+  "Locally compact examples of these algebraic structures can be assigned Haar measures. All possible composition series of one of these objects are equivalent by the Jordan-H\u00f6lder theorem. One class of these has locally Euclidean structure and is named for Lie [LEE]. Another class of this type of object dictates the solvability of polynomials and is named for Galois [gal-WAH]. As with many algebraic structures, the set of commuting values in one of these is its center and one equal to its own center is Abelian. For 10 points, name these mathematical structures, each of which consists of a set endowed an associated operation for which there exist an identity and inverses.": {
+    "guess": "Group",
+    "confidence": [
+      [
+        "Group",
+        -0.5536571
+      ]
+    ]
+  },
+  "Their location was reluctantly revealed by the sea-god Nereus, and Prometheus devised the plan to recover them. Since they were a wedding present from Hera to Zeus, they were guarded by daughters of Atlas, as well as the dragon Ladon. Thus, Heracles took the world on his shoulders and had Atlas himself procure them. FTP, what were these valuable pieces of fruit, the subject of Heracles' 11th labor?": {
+    "guess": "Garden of the Hesperides",
+    "confidence": [
+      [
+        "G",
+        -0.08558356
+      ],
+      [
+        "arden",
+        -0.0014127352
+      ],
+      [
+        " of",
+        -0.000197461
+      ],
+      [
+        " the",
+        -0.07002658
+      ],
+      [
+        " H",
+        -0.00012237004
+      ],
+      [
+        "esper",
+        -0.00037633438
+      ],
+      [
+        "ides",
+        -0.00012749579
+      ]
+    ]
+  },
+  "Located on Bennelong Point, it has over 1000 rooms, including 6 bars, 4 restaurants, 5  rehearsal studios and 5 theaters. The roof's 1,056,000 white tiles were imported from Sweden, not far from the home of its original designer, J\u00f8rn Utzon. It was formally opened by Queen Elizabeth in 1973 and included a performance of Beethoven's 9th Symphony. For ten points, name this building located in the capital of New South Wales.": {
+    "guess": "Sydney Opera House",
+    "confidence": [
+      [
+        "Sy",
+        -0.0006737127
+      ],
+      [
+        "dney",
+        -4.572941e-05
+      ],
+      [
+        " Opera",
+        -3.2929079e-06
+      ],
+      [
+        " House",
+        -3.1424974e-05
+      ]
+    ]
+  },
+  "Local legend in this city holds that the extremely narrow Casa Minima house was given to a freed slave by a resident of its oldest neighborhood, San Telmo. It was the birthplace of a class of small colorfully painted buses built from cars which are known as colectivos. Its largest art museum is known as the MBNA and is located in its cultural center Recoleta. This site of Ezeiza International Airport": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "B",
+        -0.0010398368
+      ],
+      [
+        "uen",
+        -2.4630364e-05
+      ],
+      [
+        "os",
+        -6.098748e-05
+      ],
+      [
+        " Aires",
+        -0.00027921272
+      ]
+    ]
+  },
+  "Located in the Long Island Sound, an island with this name was once called Little Pea Island. One city with this name is home to the main campus of the University of Missouri, and the Yakima, Spokane, and Snake Rivers are tributaries of a river with this name. That same river also forms the border between": {
+    "guess": "Missouri River",
+    "confidence": [
+      [
+        "Miss",
+        -0.093748696
+      ],
+      [
+        "ouri",
+        -0.033656646
+      ],
+      [
+        " River",
+        -0.8041106
+      ]
+    ]
+  },
+  "Located within the Canaima National Park, its base spans 150 meters wide and it is nested on the Auy\u00e1n-Tepu\u00ed": {
+    "guess": "Angel Falls",
+    "confidence": [
+      [
+        "Angel",
+        -0.006597306
+      ],
+      [
+        " Falls",
+        -0.00014835644
+      ]
+    ]
+  },
+  "The lobby of this building is decorated with gold tesserae, and includes a painting of a man counting dimes and allegories of commerce and labor. The Romanesque lobby may be contrasted with the terracotta exteriors and gargoyles that made it a pioneer of the Gothic Revival style. Alfred Mullett's downtown post office building once stood across from this structure, which nows faces City Hall Park. Specifically ordered to surpass the height of the Metropolitan Life Tower, it became known as the \"Cathedral of Commerce.\" This building extends from Barclay Street to Park Place along Broadway, and was": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.0022102047
+      ],
+      [
+        "ool",
+        -8.180258e-06
+      ],
+      [
+        "worth",
+        -1.247159e-05
+      ],
+      [
+        " Building",
+        -0.00011892046
+      ]
+    ]
+  },
+  "It is located far to the North, and takes four years to reach. Travelers are often aided by cremated": {
+    "guess": "Northern Lights",
+    "confidence": [
+      [
+        "Northern",
+        -1.2661303
+      ],
+      [
+        " Lights",
+        -0.05880746
+      ]
+    ]
+  },
+  "It is located far to the North, and takes four years to reach. Travelers are often aided by cremated dogs, or the psychopomp Xolotl, lord of lightning, who together with Quetzalcoatl traveled here to retrieve": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.7243524
+      ]
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by Immanuel Kant, while their best-known expositor discussed them in his Principles of Nature and of Grace.  FTP, give this concept whose name comes from the Greek for \"unit,\" which was proposed as the basic": {
+    "guess": "Monads",
+    "confidence": [
+      [
+        "Mon",
+        -0.4815612
+      ],
+      [
+        "ads",
+        -0.039866354
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by Immanuel Kant, while their best-known expositor discussed them in his Principles of Nature and of Grace.  FTP, give this concept whose name comes from the Greek for \"unit,\" which was proposed as the basic entity of the universe by Gottfried Wilhelm von Leibniz.": {
+    "guess": "Monad",
+    "confidence": [
+      [
+        "Monad",
+        -0.24662888
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by": {
+    "guess": "Space and time",
+    "confidence": [
+      [
+        "Space",
+        -0.3234658
+      ],
+      [
+        " and",
+        -0.056053363
+      ],
+      [
+        " time",
+        -0.35609734
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.": {
+    "guess": "Space and Time",
+    "confidence": [
+      [
+        "Space",
+        -0.34110528
+      ],
+      [
+        " and",
+        -0.20430431
+      ],
+      [
+        " Time",
+        -0.51757133
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -2.940617
+      ],
+      [
+        "ics",
+        -0.29023734
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by Immanuel Kant, while their best-known expositor discussed them in his Principles of Nature and of Grace.": {
+    "guess": "Theory of Winds",
+    "confidence": [
+      [
+        "Theory",
+        -1.4127718
+      ],
+      [
+        " of",
+        -0.00092479965
+      ],
+      [
+        " Winds",
+        -1.7596171
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them,": {
+    "guess": "Theory of Space and Time",
+    "confidence": [
+      [
+        "Theory",
+        -0.6399543
+      ],
+      [
+        " of",
+        -0.001126883
+      ],
+      [
+        " Space",
+        -1.2711861
+      ],
+      [
+        " and",
+        -0.57661
+      ],
+      [
+        " Time",
+        -0.022536267
+      ]
+    ]
+  }
+}

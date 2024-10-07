@@ -1,0 +1,71 @@
+{
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Tor",
+        -1.3991084
+      ],
+      [
+        "que",
+        -0.00052014715
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called torsion. Equal to the product of the moment of inertia and the angular acceleration, it is also the time derivative of the angular momentum. For 10 points, identify this pseudo-vector quantity proportional to the cross product of the force applied and the lever arm, a rotational analogue of force.": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Tor",
+        -0.004502754
+      ],
+      [
+        "que",
+        -2.486877e-05
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called": {
+    "guess": "Strain tensor",
+    "confidence": [
+      [
+        "Str",
+        -0.76498574
+      ],
+      [
+        "ain",
+        -0.00024715427
+      ],
+      [
+        " tensor",
+        -0.82046646
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called torsion. Equal to the product of the moment of inertia and the angular acceleration, it is also the": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Tor",
+        -0.24151164
+      ],
+      [
+        "que",
+        -2.749125e-05
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called torsion. Equal to the product of the moment of inertia and the angular acceleration, it is also the time derivative of the angular momentum. For 10 points, identify this pseudo-vector quantity proportional": {
+    "guess": "Angular momentum",
+    "confidence": [
+      [
+        "Angular",
+        -0.12589416
+      ],
+      [
+        " momentum",
+        -0.6671373
+      ]
+    ]
+  }
+}

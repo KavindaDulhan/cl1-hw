@@ -1,0 +1,143 @@
+{
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They": {
+    "guess": "Washington Color School",
+    "confidence": [
+      [
+        "Washington",
+        -1.1395198
+      ],
+      [
+        " Color",
+        -0.001383094
+      ],
+      [
+        " School",
+        -0.25686336
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry,": {
+    "guess": "Color Field paintings",
+    "confidence": [
+      [
+        "Color",
+        -0.6306196
+      ],
+      [
+        " Field",
+        -0.016607381
+      ],
+      [
+        " paintings",
+        -1.0546676
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They were all created in late 1962, after the person shown had committed suicide, and based on a 1953 publicity photo. Diptych shows the same image fifty times. Name these silkscreen paintings created by Andy Warhol showing a very famous actress.": {
+    "guess": "Silver Car Crash (Double Disaster)",
+    "confidence": [
+      [
+        "Silver",
+        -0.9960088
+      ],
+      [
+        " Car",
+        -0.38451758
+      ],
+      [
+        " Crash",
+        -0.0046949876
+      ],
+      [
+        " (",
+        -0.31360674
+      ],
+      [
+        "Double",
+        -0.00016384924
+      ],
+      [
+        " Disaster",
+        -7.5411124e-05
+      ],
+      [
+        ")",
+        -0.00067705044
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They were all created in late 1962, after the person shown had committed suicide, and based on a 1953 publicity photo. Diptych shows the same image fifty times. Name these silkscreen paintings created by Andy": {
+    "guess": "List of artwork associated with the death of Marilyn Monroe",
+    "confidence": [
+      [
+        "List",
+        -1.8872589
+      ],
+      [
+        " of",
+        -0.0017274184
+      ],
+      [
+        " artwork",
+        -0.8226493
+      ],
+      [
+        " associated",
+        -0.65134263
+      ],
+      [
+        " with",
+        -0.000418637
+      ],
+      [
+        " the",
+        -0.99599826
+      ],
+      [
+        " death",
+        -1.2353047
+      ],
+      [
+        " of",
+        -0.0029868518
+      ],
+      [
+        " Marilyn",
+        -0.0043826555
+      ],
+      [
+        " Monroe",
+        -0.007964674
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They were all created in late 1962, after the person shown had committed suicide, and based on a 1953 publicity": {
+    "guess": "Campbell's Soup Cans",
+    "confidence": [
+      [
+        "Camp",
+        -0.36500445
+      ],
+      [
+        "bell",
+        -0.0033970526
+      ],
+      [
+        "'s",
+        -0.017624538
+      ],
+      [
+        " Soup",
+        -0.01096092
+      ],
+      [
+        " C",
+        -0.0048704688
+      ],
+      [
+        "ans",
+        -6.511407e-06
+      ]
+    ]
+  }
+}

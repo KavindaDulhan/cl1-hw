@@ -1,0 +1,3130 @@
+{
+  "They develop from supercells, but are narrow enough not to be affected by the Coriolis effect in terms of their cyclonic direction. The strength of these phenomena is measured by the Fujita and TORRO scales. The United States is the most common site of this phenomenon especially in a namesake alley in the central Midwest. This phenomenon is sought after by self-proclaimed storm chasers and variations include landspouts and waterspouts. Name these violent rotating columns of air that begin as funnel clouds.": {
+    "guess": "Tornadoes",
+    "confidence": [
+      [
+        "T",
+        -0.014176554
+      ],
+      [
+        "ornado",
+        -0.00038550937
+      ],
+      [
+        "es",
+        -0.13463284
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.": {
+    "guess": "Stanislaw Ulam",
+    "confidence": [
+      [
+        "Stan",
+        -1.2496134
+      ],
+      [
+        "is",
+        -0.008875021
+      ],
+      [
+        "law",
+        -0.011490328
+      ],
+      [
+        " Ul",
+        -0.0003061454
+      ],
+      [
+        "am",
+        -2.7014437e-05
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement the Extract-Min function, while its other function is the Relax function. Sometimes used by": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.0036442573
+      ],
+      [
+        "ijkstra",
+        -1.50940705e-05
+      ],
+      [
+        "'s",
+        -9.054999e-05
+      ],
+      [
+        " algorithm",
+        -0.0094155725
+      ]
+    ]
+  },
+  "Its developer was forced to flee to Derby after claiming to have \"raised a devil\" from a young girl. It has an error roughly equal to 1 over n to the fourth, and because of its construction, n is required": {
+    "guess": "Taylor series",
+    "confidence": [
+      [
+        "Taylor",
+        -1.507148
+      ],
+      [
+        " series",
+        -0.23083279
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing religious tension in this country erupted as the Battles of Villmergen and Sonderbund War, while it backed the Sforzas at Novara and (*) Marignano, where its forces were crushed by Francis I. This country": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.00057054835
+      ],
+      [
+        "itzerland",
+        -3.9530823e-05
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of": {
+    "guess": "Lung dendritic cells",
+    "confidence": [
+      [
+        "L",
+        -1.3699462
+      ],
+      [
+        "ung",
+        -0.03208612
+      ],
+      [
+        " dend",
+        -0.93935704
+      ],
+      [
+        "ritic",
+        -0.00038467496
+      ],
+      [
+        " cells",
+        -0.041112468
+      ]
+    ]
+  },
+  "It was developed from a product initially designed by Tim Paterson. A major flaw is that it was not written in reentrant code, and thus does not support multitasking, and the earliest versions did not implement a hierarchical directory structure. Version 1.1 allowed double-sided floppy disks, while version 4.0 supported hard disks greater than 32 megabytes. Identify this command-based operating system, a Microsoft product which, FTP, dominated the Intel 8086 (eighty eighty-six) processor family for": {
+    "guess": "MS-DOS",
+    "confidence": [
+      [
+        "MS",
+        -0.10427059
+      ],
+      [
+        "-D",
+        -0.0006428573
+      ],
+      [
+        "OS",
+        -4.978234e-05
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model": {
+    "guess": "Monte Carlo method",
+    "confidence": [
+      [
+        "Mont",
+        -0.3342756
+      ],
+      [
+        "e",
+        -0.00013524403
+      ],
+      [
+        " Carlo",
+        -7.421909e-05
+      ],
+      [
+        " method",
+        -0.0651806
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position and expression of nanos, which controls posterior pattern formation. Gradients of hunchback, caudal, and bicoid maternal effect genes in this organism are responsible for the activation of segment polarity, gap, and pair-rule genes. Hox gene mutations in this organism include ultrabithorax, one in which antennae are replaced by legs, and another in which compound eyes appear on the end of the legs. For 10 points, identify this model organism commonly used to study development, commonly known": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.0070659313
+      ],
+      [
+        "ros",
+        -2.0935051e-05
+      ],
+      [
+        "oph",
+        -0.00026550796
+      ],
+      [
+        "ila",
+        -7.5411124e-05
+      ],
+      [
+        " melan",
+        -0.0006825301
+      ],
+      [
+        "og",
+        -4.572941e-05
+      ],
+      [
+        "aster",
+        -0.00017767686
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement the Extract-Min function, while its other function is the Relax function. Sometimes used by routers in the link state routing protocol, this greedy algorithm runs in m edges + n log n vertices. It works by keeping two sets of vertices and while there are vertices to examine, sorts them in terms of the current best estimate of their distance from the source, and then adds the next closest vertex. The relax process updates the cost of the vertices for evaluation. FTP, identify this algorithm which finds the single-source shortest path in a graph, named for a Dutch computer scientist.": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.010038908
+      ],
+      [
+        "ijkstra",
+        -0.0002485847
+      ],
+      [
+        "'s",
+        -0.0003034074
+      ],
+      [
+        " algorithm",
+        -0.026127389
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between a double-barrier Josephson junction become thicker. The Wolf effect requires that this property is at least partially present, and experiments measuring it generally utilize a Mach-Zehdner or Michelson": {
+    "guess": "Coherence (physics)",
+    "confidence": [
+      [
+        "Co",
+        -1.0782335
+      ],
+      [
+        "herence",
+        -0.04771579
+      ],
+      [
+        " (",
+        -0.23235305
+      ],
+      [
+        "physics",
+        -0.0047731725
+      ],
+      [
+        ")",
+        -3.5358695e-05
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from": {
+    "guess": "Fermat's principle",
+    "confidence": [
+      [
+        "F",
+        -0.30996934
+      ],
+      [
+        "erm",
+        -0.09256858
+      ],
+      [
+        "at",
+        -0.00012880703
+      ],
+      [
+        "'s",
+        -0.0002484655
+      ],
+      [
+        " principle",
+        -0.00159663
+      ]
+    ]
+  },
+  "They develop from supercells, but are narrow enough not to be affected by the Coriolis effect in terms of their cyclonic direction. The strength of these phenomena is measured by the Fujita and TORRO scales.": {
+    "guess": "Tornadoes",
+    "confidence": [
+      [
+        "T",
+        -0.0135451155
+      ],
+      [
+        "ornado",
+        -0.0014639122
+      ],
+      [
+        "es",
+        -0.00080093055
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model molecular behavior.  One version of this technique is used to determine solutions for complex Ising": {
+    "guess": "Monte Carlo method",
+    "confidence": [
+      [
+        "Mont",
+        -0.2896319
+      ],
+      [
+        "e",
+        -2.0100624e-05
+      ],
+      [
+        " Carlo",
+        -9.567575e-05
+      ],
+      [
+        " method",
+        -0.15457445
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment divided its subjects into \"yielders\" and \"independents\" in his writings about it, which include \"Opinions and Social Pressure.\" Subjects in this experiment were placed sixth out of a group of seven, and told that they were participating in a vision test. During this experiment, subjects were shown": {
+    "guess": "Asch conformity experiments",
+    "confidence": [
+      [
+        "As",
+        -0.013776991
+      ],
+      [
+        "ch",
+        -8.1609716e-05
+      ],
+      [
+        " conformity",
+        -4.5491004e-05
+      ],
+      [
+        " experiments",
+        -0.004697238
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music and ceremony and is thought to have promoted the worship of gods, spirits, and ancestors only because to not do so would result in punishment. He idealized the legendary Xia Dynasty and some claim that he was descended from one of its emperors, Shennong. He is best remembered for the concept of": {
+    "guess": "Xun Kuang",
+    "confidence": [
+      [
+        "X",
+        -0.39804792
+      ],
+      [
+        "un",
+        -0.52057093
+      ],
+      [
+        " Ku",
+        -0.7610236
+      ],
+      [
+        "ang",
+        -3.8457987e-05
+      ]
+    ]
+  },
+  "Developed by William Sealy Gosset, his employer, Guinness Brewing Company, would not let him publish it under his own name. The null hypothesis can state that there is no significant difference between an observed sample mean and the population mean, or between two different sample means. Often used": {
+    "guess": "Student's t-test",
+    "confidence": [
+      [
+        "Student",
+        -0.12791514
+      ],
+      [
+        "'s",
+        -0.0004686842
+      ],
+      [
+        " t",
+        -0.00014382669
+      ],
+      [
+        "-test",
+        -0.028350884
+      ]
+    ]
+  },
+  "It was developed by Tukey and Cooley in 1965 as a special case of a more general procedure, and it reduces": {
+    "guess": "Fast Fourier transform",
+    "confidence": [
+      [
+        "Fast",
+        -0.07301283
+      ],
+      [
+        " Fourier",
+        -0.6575522
+      ],
+      [
+        " transform",
+        -0.5375259
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In addition to developing that paraxial approximation, this man gained fame for using observations by Joseph Piazzi to compute the orbit of the asteroid (*) Ceres. One of his namesake laws, which suggests that the magnetic field lines going in and out of an infinitesimal volume must cancel out, implies that magnetic monopoles cannot exist. For 10 points, identify this scientist whose namesake unit measures magnetic flux density, and whose name law states that the electric flux through a closed surface": {
+    "guess": "Maxwell's equations",
+    "confidence": [
+      [
+        "Max",
+        -0.26335052
+      ],
+      [
+        "well",
+        -0.00019710339
+      ],
+      [
+        "'s",
+        -0.00011510595
+      ],
+      [
+        " equations",
+        -0.08710893
+      ]
+    ]
+  },
+  "They develop from supercells, but are narrow enough not to be affected by the Coriolis effect in terms of their cyclonic direction. The strength of these phenomena is measured by the Fujita and TORRO scales. The United States is the most common site of this phenomenon especially in a namesake alley in the central Midwest. This phenomenon is sought after by self-proclaimed storm chasers and variations include landspouts and waterspouts. Name these violent rotating columns of air that begin as funnel": {
+    "guess": "Tornadoes",
+    "confidence": [
+      [
+        "T",
+        -0.01901293
+      ],
+      [
+        "ornado",
+        -0.0005958048
+      ],
+      [
+        "es",
+        -0.06052689
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position and expression of nanos, which controls posterior pattern formation. Gradients of hunchback, caudal, and bicoid maternal effect genes in this organism are responsible for the activation of segment polarity, gap, and pair-rule genes. Hox gene mutations in this organism include ultrabithorax, one": {
+    "guess": "Drosophila embryogenesis",
+    "confidence": [
+      [
+        "D",
+        -0.014252825
+      ],
+      [
+        "ros",
+        -4.0007635e-05
+      ],
+      [
+        "oph",
+        -7.171581e-05
+      ],
+      [
+        "ila",
+        -5.6457742e-05
+      ],
+      [
+        " embry",
+        -0.22821318
+      ],
+      [
+        "ogenesis",
+        -0.013776289
+      ]
+    ]
+  },
+  "Its developer was forced to flee to Derby after claiming to have \"raised a devil\" from a young girl. It has an error roughly equal to 1 over n to the fourth, and because of its construction, n is required to be even. If h represents the length of the n equal subintervals of the interval from a to b, then the formula for it reads 1/3 h times the sum of the values of the points of the partition with": {
+    "guess": "Trapezoidal rule",
+    "confidence": [
+      [
+        "T",
+        -1.3838729
+      ],
+      [
+        "rape",
+        -0.00013023747
+      ],
+      [
+        "z",
+        -7.89631e-07
+      ],
+      [
+        "oidal",
+        -0.0010178061
+      ],
+      [
+        " rule",
+        -0.09960323
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement the Extract-Min function, while its other function is the Relax function. Sometimes used by routers in the link state routing protocol, this greedy algorithm runs in m edges + n log n vertices. It works by keeping two sets of vertices and while there are vertices to examine, sorts them in terms of the current best estimate of their distance from the source, and then adds the next closest vertex.": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.009119342
+      ],
+      [
+        "ijkstra",
+        -0.0004890497
+      ],
+      [
+        "'s",
+        -0.0008186809
+      ],
+      [
+        " algorithm",
+        -0.049667038
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment divided its subjects into \"yielders\" and \"independents\" in his writings about it, which include \"Opinions": {
+    "guess": "Sherif's Robbers Cave Experiment",
+    "confidence": [
+      [
+        "Sher",
+        -0.37839714
+      ],
+      [
+        "if",
+        -5.8484206e-05
+      ],
+      [
+        "'s",
+        -0.42622378
+      ],
+      [
+        " Rob",
+        -0.0017580024
+      ],
+      [
+        "bers",
+        -0.08287034
+      ],
+      [
+        " Cave",
+        -0.00018089537
+      ],
+      [
+        " Experiment",
+        -0.024551334
+      ]
+    ]
+  },
+  "They develop from supercells, but are narrow enough not to be affected by the Coriolis effect in terms of their cyclonic direction. The strength of these phenomena is measured by the Fujita and TORRO scales. The United States is the most common site of this phenomenon especially in a namesake alley in the central Midwest. This phenomenon is sought after by self-proclaimed storm chasers and variations": {
+    "guess": "Tornadoes",
+    "confidence": [
+      [
+        "T",
+        -0.006763683
+      ],
+      [
+        "ornado",
+        -0.0003036458
+      ],
+      [
+        "es",
+        -0.105146185
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model molecular behavior.  One version of this technique is used to determine solutions for complex Ising models.  Simulated annealing is a heuristic approach to global optimization using this method, and the Metropolis-Hastings algorithm is used to simulate a Markov Chain.  A Las Vegas algorithm is a special case in which the outcome is always correct.   FTP, name this type of algorithm, which refers": {
+    "guess": "Monte Carlo algorithm",
+    "confidence": [
+      [
+        "Mont",
+        -0.2089492
+      ],
+      [
+        "e",
+        -8.061054e-06
+      ],
+      [
+        " Carlo",
+        -2.6418418e-05
+      ],
+      [
+        " algorithm",
+        -0.40661436
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.028489929
+      ],
+      [
+        "itzerland",
+        -0.0008757318
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.4242046
+      ],
+      [
+        "ijkstra",
+        -0.00045629436
+      ],
+      [
+        "'s",
+        -0.00067144784
+      ],
+      [
+        " algorithm",
+        -0.03303473
+      ]
+    ]
+  },
+  "The development of the first atomic clock made use of this effect and the ammonia molecule. Observed independently in crystals by Landsberg and Mandelstam, this effect shares its name with one concerning the vibrational and electronic levels of molecules. As a result of it, the scattered photon can have greater energy if the molecule is initially in an excited vibrational state, or it can have less energy than the incident photon. Coming in Stokes and anti-Stokes varieties, for 10 points, name this type of inelastic scattering named for an Indian scientist.": {
+    "guess": "Raman scattering",
+    "confidence": [
+      [
+        "R",
+        -0.004961682
+      ],
+      [
+        "aman",
+        -1.4021238e-05
+      ],
+      [
+        " scattering",
+        -0.003127329
+      ]
+    ]
+  },
+  "It was developed from a product initially designed by Tim Paterson. A major flaw is that it was not written in reentrant code, and thus does not support multitasking, and the earliest versions did not implement a hierarchical directory structure. Version 1.1 allowed double-sided floppy disks, while version": {
+    "guess": "MS-DOS",
+    "confidence": [
+      [
+        "MS",
+        -0.09293843
+      ],
+      [
+        "-D",
+        -0.001398572
+      ],
+      [
+        "OS",
+        -0.0002550217
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In addition to developing that paraxial approximation, this man gained fame for using observations by Joseph Piazzi to compute the orbit of the asteroid (*) Ceres. One of his namesake laws, which suggests that the magnetic field lines going in and out of an infinitesimal volume must cancel out, implies that magnetic monopoles cannot exist. For 10 points, identify this scientist whose namesake unit measures magnetic flux density, and whose name law states that the electric flux through a closed surface is directly proportional to the charge enclosed by that surface.": {
+    "guess": "Maxwell's equations",
+    "confidence": [
+      [
+        "Max",
+        -0.36044267
+      ],
+      [
+        "well",
+        -0.00015074051
+      ],
+      [
+        "'s",
+        -0.00066501816
+      ],
+      [
+        " equations",
+        -0.105971925
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under anhydrous conditions and is named after Tennessee Eastman. The catalyst for this compound adopts a d8 configuration during its first step, an oxidative addition, and subsequently participates a reductive elimination step after an insertion reaction involving carbon monoxide. It supplanted the earlier Wacker and BASF methods and, unlike the Cativa process, uses homogeneous rhodium iodide as a catalyst. For 10 points, name this commercial process in which carbon monoxide is combined catalytically": {
+    "guess": "Monsanto process",
+    "confidence": [
+      [
+        "M",
+        -0.34756842
+      ],
+      [
+        "ons",
+        -2.9994528e-05
+      ],
+      [
+        "anto",
+        -0.00083488156
+      ],
+      [
+        " process",
+        -0.52274126
+      ]
+    ]
+  },
+  "It was developed from a product initially designed by Tim Paterson. A major flaw is that it was not written in reentrant code, and thus does not support multitasking, and the earliest versions did not": {
+    "guess": "DOS",
+    "confidence": [
+      [
+        "D",
+        -0.737371
+      ],
+      [
+        "OS",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis. Proper function of these structures depends on a substance composed of the proteins SP-A through": {
+    "guess": "Pulmonary alveolus",
+    "confidence": [
+      [
+        "P",
+        -0.48309624
+      ],
+      [
+        "ul",
+        -0.00018804391
+      ],
+      [
+        "monary",
+        -0.00082701776
+      ],
+      [
+        " al",
+        -0.6523637
+      ],
+      [
+        "ve",
+        -3.8696395e-05
+      ],
+      [
+        "ol",
+        -0.092927784
+      ],
+      [
+        "us",
+        -8.8165914e-05
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model molecular behavior.  One version of this technique is used to determine solutions for complex Ising models.  Simulated annealing is a heuristic approach to global optimization using this method, and": {
+    "guess": "Simulated annealing",
+    "confidence": [
+      [
+        "Sim",
+        -1.2894659
+      ],
+      [
+        "ulated",
+        -0.00017684244
+      ],
+      [
+        " anne",
+        -0.010084461
+      ],
+      [
+        "aling",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic": {
+    "guess": "Sasler model",
+    "confidence": [
+      [
+        "S",
+        -1.5711948
+      ],
+      [
+        "as",
+        -0.65456426
+      ],
+      [
+        "ler",
+        -0.57770663
+      ],
+      [
+        " model",
+        -1.1272522
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position and expression of nanos, which controls posterior pattern formation. Gradients of hunchback, caudal, and bicoid maternal effect genes in this organism are responsible for the activation of segment polarity, gap, and pair-rule genes. Hox gene mutations in this organism include ultrabithorax, one in which antennae are replaced by legs, and another in which compound eyes appear on the end of the": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.009535904
+      ],
+      [
+        "ros",
+        -5.9153886e-06
+      ],
+      [
+        "oph",
+        -0.0001342904
+      ],
+      [
+        "ila",
+        -5.0020742e-05
+      ],
+      [
+        " melan",
+        -0.17743517
+      ],
+      [
+        "og",
+        -4.727906e-05
+      ],
+      [
+        "aster",
+        -0.00011009939
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands. Another part of it is held together by the zonule of Zinn, while Amacrine cells are a type of pear shaped": {
+    "guess": "Eye",
+    "confidence": [
+      [
+        "Eye",
+        -0.06157567
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment divided its subjects into \"yielders\" and \"independents\" in his writings about it, which include \"Opinions and Social Pressure.\" Subjects in this experiment were placed sixth out of a group of seven, and told that they were participating in a vision test. During this experiment, subjects were shown a card with lines marked A, B, and C, and asked to select the one most similar to line X. For 10 points, name this experiment in which confederates who gave unanimously wrong answers influenced subjects to select an incorrect line.": {
+    "guess": "Asch conformity experiments",
+    "confidence": [
+      [
+        "As",
+        -0.00034714415
+      ],
+      [
+        "ch",
+        -6.0345924e-06
+      ],
+      [
+        " conformity",
+        -2.8160932e-06
+      ],
+      [
+        " experiments",
+        -0.00636954
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under anhydrous conditions and is named after Tennessee Eastman. The catalyst for this compound adopts a d8 configuration during its first step, an oxidative addition, and subsequently participates a reductive elimination step after an insertion reaction involving carbon monoxide. It supplanted the earlier Wacker and BASF methods and, unlike the Cativa process, uses homogeneous rhodium iodide as a": {
+    "guess": "Monsanto process",
+    "confidence": [
+      [
+        "M",
+        -0.7739221
+      ],
+      [
+        "ons",
+        -0.00033367777
+      ],
+      [
+        "anto",
+        -0.00024488938
+      ],
+      [
+        " process",
+        -0.28130385
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified": {
+    "guess": "Partition Function",
+    "confidence": [
+      [
+        "Partition",
+        -1.6273538
+      ],
+      [
+        " Function",
+        -1.3117963
+      ]
+    ]
+  },
+  "Developed in 1912 by physicist Charles Thomson Rees Wilson, this device originally used a piston or an elastic membrane to create a supersaturated vapor. Now, dry ice or liquid helium can be used as coolants": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.014656426
+      ],
+      [
+        " chamber",
+        -0.012216002
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under anhydrous conditions and is named after Tennessee Eastman. The catalyst for this compound adopts a d8 configuration during its first step, an oxidative addition, and subsequently participates a reductive elimination step after an insertion reaction involving carbon monoxide. It supplanted the earlier": {
+    "guess": "Fischer-Tropsch process",
+    "confidence": [
+      [
+        "F",
+        -1.2001251
+      ],
+      [
+        "ischer",
+        -0.061560314
+      ],
+      [
+        "-T",
+        -0.21146911
+      ],
+      [
+        "rops",
+        -6.869018e-06
+      ],
+      [
+        "ch",
+        -2.0100624e-05
+      ],
+      [
+        " process",
+        -0.18274176
+      ]
+    ]
+  },
+  "Developed in 1912 by physicist Charles Thomson Rees Wilson, this device originally used a piston or an elastic membrane to create a supersaturated vapor. Now, dry ice or liquid helium can be used as coolants to create the vapor, which is quickly cooled to form tiny liquid droplets. For 10 points\u2014name": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.059953924
+      ],
+      [
+        " chamber",
+        -0.006136045
+      ]
+    ]
+  },
+  "The development of the first atomic clock made use of this effect and the ammonia molecule. Observed independently in crystals by Landsberg and Mandelstam, this effect shares its name with one concerning": {
+    "guess": "Raman scattering",
+    "confidence": [
+      [
+        "R",
+        -0.10205959
+      ],
+      [
+        "aman",
+        -0.06667699
+      ],
+      [
+        " scattering",
+        -0.04614445
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps, which are diagrammatic representations of the empirical Hume-Rothery rules. An example of these systems that displays the shape-memory effect, as well as superelasticity, is nitinol. The yield strength of these systems can be improved with precipitation (*) hardening. A simple, non-isomorphic example of these systems with a single melting point is their eutectic type. The most common types of these": {
+    "guess": "Alloy Systems",
+    "confidence": [
+      [
+        "Al",
+        -0.59902066
+      ],
+      [
+        "loy",
+        -0.56123745
+      ],
+      [
+        " Systems",
+        -0.67492425
+      ]
+    ]
+  },
+  "Developed in 1912 by physicist Charles Thomson Rees Wilson, this device originally used a piston or an": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.033550717
+      ],
+      [
+        " chamber",
+        -0.030180497
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands.": {
+    "guess": "Eye",
+    "confidence": [
+      [
+        "Eye",
+        -0.067985155
+      ]
+    ]
+  },
+  "Its developer was forced to flee to Derby after claiming to have \"raised a devil\" from a young girl. It has an error roughly equal to 1 over n to the fourth, and because of its construction, n is required to be even. If h represents the length of the n equal subintervals of the interval from a to b,": {
+    "guess": "Simpson's rule",
+    "confidence": [
+      [
+        "S",
+        -1.0853697
+      ],
+      [
+        "imp",
+        -0.00087203644
+      ],
+      [
+        "son",
+        -0.011261437
+      ],
+      [
+        "'s",
+        -0.0002750406
+      ],
+      [
+        " rule",
+        -0.022560392
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.004519604
+      ],
+      [
+        "ros",
+        -6.0345924e-06
+      ],
+      [
+        "oph",
+        -0.00016396845
+      ],
+      [
+        "ila",
+        -6.17027e-05
+      ],
+      [
+        " melan",
+        -0.0012166635
+      ],
+      [
+        "og",
+        -4.20341e-05
+      ],
+      [
+        "aster",
+        -0.00012296606
+      ]
+    ]
+  },
+  "Its developer was forced to flee to Derby after claiming to have \"raised a devil\" from a young girl. It has an error roughly equal to 1 over n to the fourth, and because of its construction, n is required to be even. If h represents the length of the n equal subintervals of the interval from a to b, then the formula for it reads 1/3 h times the sum of the values of the points of the partition with various coefficients, which with the exception of the first and last alternate between 4 and 2. FTP, what is this method for approximating definite integrals using parabolas, named for its British inventor?": {
+    "guess": "Simpson's rule",
+    "confidence": [
+      [
+        "S",
+        -0.92124766
+      ],
+      [
+        "imp",
+        -0.00015097891
+      ],
+      [
+        "son",
+        -0.0067925784
+      ],
+      [
+        "'s",
+        -0.00042066345
+      ],
+      [
+        " rule",
+        -0.28350925
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music and ceremony and is thought to have promoted the worship of gods, spirits, and ancestors only because to not do so would result in punishment. He idealized the legendary Xia Dynasty and some claim": {
+    "guess": "Xia Dynasty",
+    "confidence": [
+      [
+        "X",
+        -0.18608409
+      ],
+      [
+        "ia",
+        -0.37821978
+      ],
+      [
+        " Dynasty",
+        -0.24725568
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between a double-barrier Josephson junction become thicker. The Wolf effect requires that this property is at least partially present, and experiments measuring it generally utilize a Mach-Zehdner or Michelson interferometer. Its namesake time is equal to one over delta-v, or the frequency bandwidth, as": {
+    "guess": "Coherence",
+    "confidence": [
+      [
+        "Co",
+        -0.76060134
+      ],
+      [
+        "herence",
+        -0.0018621186
+      ]
+    ]
+  },
+  "It was developed by Tukey and Cooley in 1965 as a special case of a more general procedure, and it reduces computation time from order N squared to order N log N. If N is a power of two, it can be computed using the Danielson- Lanczos lemma, and it comes in two types, decimation-in-time and decimation-": {
+    "guess": "Fast Fourier Transform",
+    "confidence": [
+      [
+        "Fast",
+        -0.22115004
+      ],
+      [
+        " Fourier",
+        -0.00020103711
+      ],
+      [
+        " Transform",
+        -0.013502654
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of": {
+    "guess": "Asch conformity experiments",
+    "confidence": [
+      [
+        "As",
+        -0.64579463
+      ],
+      [
+        "ch",
+        -2.546479e-05
+      ],
+      [
+        " conformity",
+        -4.274932e-05
+      ],
+      [
+        " experiments",
+        -0.0010440053
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem faster than classical methods, and critical components of them are modeled by Bloch spheres. Using Grover's algorithm, these devices can search an unsorted database in sub-linear time, and they are difficult to make and maintain due to the phenomenon of (*) decoherence. Shor's Algorithm can be run on these devices to factor integers in polynomial time, ruining RSA encryption, and their namesake objects can be 0, 1, or a superposition of the two. For ten points, identify these not-yet-built devices, computing engines that make use of qubits.": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quant",
+        -0.0016534021
+      ],
+      [
+        "um",
+        -1.2664457e-06
+      ],
+      [
+        " computer",
+        -0.18537317
+      ]
+    ]
+  },
+  "Its developer was forced to flee to Derby after claiming to have \"raised a devil\" from a young girl.": {
+    "guess": "Salem witch trials",
+    "confidence": [
+      [
+        "S",
+        -1.6765908
+      ],
+      [
+        "alem",
+        -0.026624558
+      ],
+      [
+        " witch",
+        -0.1218339
+      ],
+      [
+        " trials",
+        -0.0002105734
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment divided its subjects into \"yielders\" and \"independents\" in his writings about it, which include \"Opinions and Social Pressure.\" Subjects in this experiment were placed sixth out of a group of seven,": {
+    "guess": "Asch conformity experiments",
+    "confidence": [
+      [
+        "As",
+        -0.1717751
+      ],
+      [
+        "ch",
+        -9.7583004e-05
+      ],
+      [
+        " conformity",
+        -4.8351892e-05
+      ],
+      [
+        " experiments",
+        -0.00040552823
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between a double-barrier Josephson junction become thicker. The Wolf effect requires that this property is at least partially present, and experiments measuring it generally utilize a Mach-Zehdner or Michelson interferometer. Its namesake time is equal to one over delta-v, or the frequency bandwidth, as that would be the time over which there is a constant phase relationship. FTP, name this physical": {
+    "guess": "Coherence",
+    "confidence": [
+      [
+        "Co",
+        -0.038915347
+      ],
+      [
+        "herence",
+        -0.00039456884
+      ]
+    ]
+  },
+  "They develop from supercells, but are narrow enough not to be affected by the Coriolis effect in terms of their cyclonic direction. The strength of these phenomena is measured by the Fujita and TORRO scales. The United States is the most common site of this phenomenon especially in a namesake alley in": {
+    "guess": "Tornadoes",
+    "confidence": [
+      [
+        "T",
+        -0.009053896
+      ],
+      [
+        "ornado",
+        -0.0001136755
+      ],
+      [
+        "es",
+        -0.011803978
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps, which are diagrammatic representations of the empirical Hume-Rothery rules. An example of these systems that displays the shape-memory effect, as well as superelasticity, is nitinol. The yield strength of these systems can be improved with precipitation (*) hardening. A simple, non-isomorphic example of these systems with a single melting point is their eutectic type. The most common types of these systems are substitutional and interstitial, the latter's best example being steel. For 10 points, name these systems that are usually solutions of two or more metals.": {
+    "guess": "Alloy",
+    "confidence": [
+      [
+        "Al",
+        -0.6293704
+      ],
+      [
+        "loy",
+        -0.023964092
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis. Proper function of these structures depends on a substance composed of the proteins SP-A through SP-D as well as dipalmitoylphosphatidylcholine and other (*) phospholipids. That substance is synthesized in the lamellar bodies of their type II cells, is produced at insufficiently low amounts in IRDS, and stabilizes these structures by reducing their surface tension. These structures are destroyed": {
+    "guess": "Pulmonary alveolus",
+    "confidence": [
+      [
+        "P",
+        -0.24074486
+      ],
+      [
+        "ul",
+        -0.0003892047
+      ],
+      [
+        "monary",
+        -0.00046916102
+      ],
+      [
+        " al",
+        -0.317885
+      ],
+      [
+        "ve",
+        -3.1281633e-07
+      ],
+      [
+        "ol",
+        -0.075729676
+      ],
+      [
+        "us",
+        -4.7755875e-05
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under anhydrous conditions and is named after Tennessee Eastman. The catalyst for this compound adopts a d8 configuration during its first step, an oxidative addition, and subsequently participates a reductive": {
+    "guess": "Olefin metathesis",
+    "confidence": [
+      [
+        "O",
+        -1.0535148
+      ],
+      [
+        "le",
+        -0.5660555
+      ],
+      [
+        "fin",
+        -1.147242e-06
+      ],
+      [
+        " met",
+        -0.014678034
+      ],
+      [
+        "ath",
+        -1.8624639e-06
+      ],
+      [
+        "esis",
+        -8.0656086e-05
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model molecular behavior.  One version of this technique is used to determine solutions for complex Ising models.  Simulated annealing is a heuristic approach to global optimization using this method, and the Metropolis-Hastings algorithm is used to simulate a Markov Chain.  A Las Vegas algorithm is a special case in which the outcome is always correct.   FTP, name this type of algorithm, which refers to another center of gambling and which uses random numbers to solve problems, which is most notably": {
+    "guess": "Monte Carlo algorithm",
+    "confidence": [
+      [
+        "Mont",
+        -0.038813412
+      ],
+      [
+        "e",
+        -8.061054e-06
+      ],
+      [
+        " Carlo",
+        -4.477578e-05
+      ],
+      [
+        " algorithm",
+        -0.14170848
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.0006228457
+      ],
+      [
+        "ros",
+        -1.6240566e-06
+      ],
+      [
+        "oph",
+        -1.5570886e-05
+      ],
+      [
+        "ila",
+        -7.465036e-06
+      ],
+      [
+        " melan",
+        -0.00055386714
+      ],
+      [
+        "og",
+        -9.729906e-06
+      ],
+      [
+        "aster",
+        -8.418666e-06
+      ]
+    ]
+  },
+  "The development of the first atomic clock made use of this effect and the ammonia molecule. Observed independently in crystals by Landsberg and Mandelstam, this effect shares its name with one concerning the vibrational and electronic levels of molecules. As a result of it, the scattered photon can have greater energy if the molecule is initially in an excited vibrational state, or it can have less energy than the incident photon. Coming in Stokes and anti-Stokes varieties, for 10 points, name this": {
+    "guess": "Raman scattering",
+    "confidence": [
+      [
+        "R",
+        -0.012743431
+      ],
+      [
+        "aman",
+        -1.4021238e-05
+      ],
+      [
+        " scattering",
+        -0.18473585
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under anhydrous conditions and is named after Tennessee Eastman. The catalyst for this compound adopts a d8 configuration during its first step, an oxidative addition, and subsequently participates a reductive elimination step after an insertion reaction involving carbon monoxide. It supplanted the earlier Wacker and BASF methods and, unlike the Cativa process, uses homogeneous rhodium iodide as a catalyst. For 10 points, name this commercial process in which carbon monoxide is combined catalytically with methanol to produce acetic acid, developed by the company that manufactures RoundUp.": {
+    "guess": "Monsanto Process",
+    "confidence": [
+      [
+        "M",
+        -0.08009495
+      ],
+      [
+        "ons",
+        -7.9418505e-06
+      ],
+      [
+        "anto",
+        -0.00041839862
+      ],
+      [
+        " Process",
+        -0.25381446
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing religious tension in this country erupted as the Battles of Villmergen and Sonderbund War, while it backed the Sforzas at Novara and (*) Marignano, where its forces were crushed by Francis I. This country signed the Pact of Brunnen after beating the Hapsburgs at Sempach and Morgarten, where it was represented by the Everlasting League of Uri, Schwyz, and Unterwalden. 1803 saw Napoleon abolish the Helvetic Republic of this country, where Huldrych Zwingli triggered two wars. For 10 points, name this country whose mercenaries defend the Vatican, famed for its neutrality.": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.00071636564
+      ],
+      [
+        "itzerland",
+        -1.6166903e-05
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement the Extract-Min function, while its other function is the Relax function. Sometimes used by routers in the link state routing protocol, this greedy algorithm runs in m edges + n log n vertices. It works by keeping two sets of vertices and while there are vertices to examine, sorts them in terms": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.0063952496
+      ],
+      [
+        "ijkstra",
+        -0.00024703506
+      ],
+      [
+        "'s",
+        -0.0011069943
+      ],
+      [
+        " algorithm",
+        -0.077626705
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing religious tension in this country erupted as the Battles of Villmergen and Sonderbund War, while it": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.004874608
+      ],
+      [
+        "itzerland",
+        -0.0019615823
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands. Another part of it is held together by the zonule of Zinn, while Amacrine cells are a type of pear shaped neurons found here. One part of this organ sees the formation of a \"cherry red spot\" that appears in patients suffering from Tay Sachs, and another portion of it consists of inner and outer plexiform": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.3860458
+      ],
+      [
+        "ina",
+        -0.0044752196
+      ]
+    ]
+  },
+  "Developed by William Sealy Gosset, his employer, Guinness Brewing Company, would not let him publish it under his own name. The null hypothesis can state that there is no significant difference between": {
+    "guess": "Student's t-distribution",
+    "confidence": [
+      [
+        "Student",
+        -0.0818835
+      ],
+      [
+        "'s",
+        -0.0009641039
+      ],
+      [
+        " t",
+        -0.004502754
+      ],
+      [
+        "-d",
+        -0.58176744
+      ],
+      [
+        "istribution",
+        -7.505351e-05
+      ]
+    ]
+  },
+  "Its developer was forced to flee to Derby after claiming to have \"raised a devil\" from a young girl. It has an error roughly equal to 1 over n to the fourth, and because of its construction, n is required to be even. If h represents the length of the n equal subintervals of the interval from a to b, then the formula for it reads 1/3 h times the sum of the values of the points of the partition with various coefficients, which with the exception of the first and last alternate between 4 and 2. FTP,": {
+    "guess": "Simpson's rule",
+    "confidence": [
+      [
+        "S",
+        -1.0636979
+      ],
+      [
+        "imp",
+        -0.00028147758
+      ],
+      [
+        "son",
+        -0.008297535
+      ],
+      [
+        "'s",
+        -0.0011115205
+      ],
+      [
+        " rule",
+        -0.1080393
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis. Proper function of these structures depends on a substance composed of the proteins SP-A through SP-D as well as dipalmitoylphosphatidylcholine and other (*) phospholipids. That substance is": {
+    "guess": "Pulmonary surfactant",
+    "confidence": [
+      [
+        "P",
+        -0.43091816
+      ],
+      [
+        "ul",
+        -5.955704e-05
+      ],
+      [
+        "monary",
+        -0.00012749579
+      ],
+      [
+        " surf",
+        -0.009945199
+      ],
+      [
+        "act",
+        -7.79144e-05
+      ],
+      [
+        "ant",
+        -0.0024763737
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these": {
+    "guess": "Computer-aided drug design",
+    "confidence": [
+      [
+        "Computer",
+        -1.5302936
+      ],
+      [
+        "-",
+        -0.6788657
+      ],
+      [
+        "aid",
+        -0.00023941702
+      ],
+      [
+        "ed",
+        -5.085517e-05
+      ],
+      [
+        " drug",
+        -0.3704697
+      ],
+      [
+        " design",
+        -0.004700088
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem": {
+    "guess": "Quantum algorithm",
+    "confidence": [
+      [
+        "Quant",
+        -0.43434662
+      ],
+      [
+        "um",
+        -5.5122365e-07
+      ],
+      [
+        " algorithm",
+        -0.1110439
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps, which are diagrammatic representations of the empirical Hume-Rothery rules. An example of these systems that displays the shape-memory effect, as well as superelasticity, is nitinol. The yield strength of these systems can be improved with precipitation (*) hardening. A simple, non-isomorphic example": {
+    "guess": "Shape-memory alloys",
+    "confidence": [
+      [
+        "Shape",
+        -1.1526033
+      ],
+      [
+        "-memory",
+        -0.016908184
+      ],
+      [
+        " alloys",
+        -0.425227
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model molecular behavior.  One version of this technique is used to determine solutions for complex Ising models.  Simulated annealing is a heuristic approach to global optimization using this method, and the Metropolis-Hastings algorithm is used to simulate a Markov Chain.  A Las Vegas algorithm is a": {
+    "guess": "Monte Carlo method",
+    "confidence": [
+      [
+        "Mont",
+        -0.26465246
+      ],
+      [
+        "e",
+        -4.3226137e-05
+      ],
+      [
+        " Carlo",
+        -0.0005586316
+      ],
+      [
+        " method",
+        -0.4408328
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In addition to developing that paraxial approximation, this man gained fame for using observations by Joseph Piazzi to compute the orbit of the asteroid (*) Ceres. One of his namesake laws, which suggests that the magnetic field lines going in and out of an infinitesimal volume must cancel out, implies that magnetic monopoles cannot exist. For 10 points, identify this scientist whose namesake unit": {
+    "guess": "Johann Carl Friedrich Gauss",
+    "confidence": [
+      [
+        "J",
+        -1.264446
+      ],
+      [
+        "oh",
+        -0.0335996
+      ],
+      [
+        "ann",
+        -0.054873366
+      ],
+      [
+        " Carl",
+        -0.25291324
+      ],
+      [
+        " Friedrich",
+        -0.0006710976
+      ],
+      [
+        " Gauss",
+        -0.004264539
+      ]
+    ]
+  },
+  "It was developed by Tukey and Cooley in 1965 as a special case of a more general procedure, and it reduces computation time from order N squared to order N log N. If N is a power of two, it can be computed": {
+    "guess": "Fast Fourier transform",
+    "confidence": [
+      [
+        "Fast",
+        -0.036012985
+      ],
+      [
+        " Fourier",
+        -5.7530575e-05
+      ],
+      [
+        " transform",
+        -0.123007834
+      ]
+    ]
+  },
+  "One of the developers of this algorithm collaborated with Teller and Fermi on the first nuclear reactor.  In chemistry, the First Reaction method is a dynamic type of this algorithm, and is used to model molecular behavior.  One version of this technique is used to determine solutions for complex Ising models.  Simulated annealing is a heuristic approach to global optimization using this method, and the Metropolis-Hastings algorithm is used to simulate a Markov Chain.  A Las Vegas algorithm is a special case in which the outcome is always correct.   FTP, name this type of algorithm, which refers to another center of gambling and which uses random numbers to solve problems, which is most notably attached to a method of numerical integration.": {
+    "guess": "Monte Carlo algorithm",
+    "confidence": [
+      [
+        "Mont",
+        -0.016773734
+      ],
+      [
+        "e",
+        -1.4855664e-05
+      ],
+      [
+        " Carlo",
+        -4.0603656e-05
+      ],
+      [
+        " algorithm",
+        -0.47482073
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands. Another part of it is held together by the zonule of Zinn, while Amacrine cells are a type of pear shaped neurons found here. One part of this organ sees the formation of a \"cherry red spot\" that appears": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.6270929
+      ],
+      [
+        "ina",
+        -0.0039227377
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and": {
+    "guess": "Kimura's model",
+    "confidence": [
+      [
+        "Kim",
+        -2.1196334
+      ],
+      [
+        "ura",
+        -0.00046630012
+      ],
+      [
+        "'s",
+        -0.08229454
+      ],
+      [
+        " model",
+        -1.1639585
+      ]
+    ]
+  },
+  "It was developed from a product initially designed by Tim Paterson. A major flaw is that it was not written in reentrant code, and thus does not support multitasking, and the earliest versions did not implement a hierarchical directory structure. Version 1.1 allowed double-sided floppy disks, while version 4.0 supported hard disks greater than 32 megabytes. Identify this command-based operating system, a Microsoft product which, FTP, dominated the Intel 8086 (eighty eighty-six) processor family for more than a decade.": {
+    "guess": "MS-DOS",
+    "confidence": [
+      [
+        "MS",
+        -0.043781765
+      ],
+      [
+        "-D",
+        -0.00044032474
+      ],
+      [
+        "OS",
+        -3.5716304e-05
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands. Another part of it is held together by the zonule of Zinn, while Amacrine cells are a type of pear shaped neurons found here. One part of this organ sees the formation of a \"cherry red spot\" that appears in patients suffering from Tay Sachs, and another portion of it consists of inner and outer plexiform layers and has a depression named the fovea. The canal of Schlemm is found at the base of the sclera and drains the aqueous humor. Consisting of a retina, a lens, an iris, For 10 points, identify these organs of sight.": {
+    "guess": "Eye",
+    "confidence": [
+      [
+        "Eye",
+        -0.04868774
+      ]
+    ]
+  },
+  "They develop from supercells, but are narrow enough not to be affected by the Coriolis effect in terms": {
+    "guess": "Tornadoes",
+    "confidence": [
+      [
+        "T",
+        -0.008335129
+      ],
+      [
+        "ornado",
+        -0.00029863926
+      ],
+      [
+        "es",
+        -0.050495554
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands. Another part of it is held together by the zonule of Zinn, while Amacrine cells are a type of pear shaped neurons found here. One part of this organ sees the formation of a \"cherry red spot\" that appears in patients suffering from Tay Sachs, and another portion of it consists of inner and outer plexiform layers and has a depression named the fovea. The canal of Schlemm is found at the base of the sclera and drains the aqueous humor. Consisting of a retina, a lens, an iris, For 10 points, identify": {
+    "guess": "Eye",
+    "confidence": [
+      [
+        "Eye",
+        -0.09051556
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment": {
+    "guess": "Sherif Autokinetic Effect Experiment",
+    "confidence": [
+      [
+        "Sher",
+        -0.07346561
+      ],
+      [
+        "if",
+        -9.3410876e-05
+      ],
+      [
+        " Aut",
+        -0.919208
+      ],
+      [
+        "okin",
+        -0.0004900033
+      ],
+      [
+        "etic",
+        -0.00016706773
+      ],
+      [
+        " Effect",
+        -0.030828046
+      ],
+      [
+        " Experiment",
+        -0.5700658
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem faster than classical methods, and critical components of them are modeled by Bloch spheres. Using Grover's algorithm, these devices can search an unsorted database in sub-linear time, and they are difficult to make and maintain due to the phenomenon of (*) decoherence. Shor's Algorithm can be run": {
+    "guess": "Quantum algorithm",
+    "confidence": [
+      [
+        "Quant",
+        -0.013264345
+      ],
+      [
+        "um",
+        -3.1281633e-07
+      ],
+      [
+        " algorithm",
+        -0.5938429
+      ]
+    ]
+  },
+  "The development of the first atomic clock made use of this effect and the ammonia molecule. Observed": {
+    "guess": "Heterotropic allosteric effect",
+    "confidence": [
+      [
+        "H",
+        -0.7111775
+      ],
+      [
+        "eter",
+        -0.15829255
+      ],
+      [
+        "otropic",
+        -0.018121736
+      ],
+      [
+        " allo",
+        -0.21120203
+      ],
+      [
+        "ster",
+        -0.00031675454
+      ],
+      [
+        "ic",
+        -0.0016046057
+      ],
+      [
+        " effect",
+        -0.022425411
+      ]
+    ]
+  },
+  "It was developed by Tukey and Cooley in 1965 as a special case of a more general procedure, and it reduces computation time from order N squared to order N log N. If N is a power of two, it can be computed using the Danielson- Lanczos lemma, and it comes in two types, decimation-in-time and decimation- in-frequency.  Widely used in digital signal processing applications, FTP, identify this special": {
+    "guess": "Fast Fourier Transform",
+    "confidence": [
+      [
+        "Fast",
+        -0.21283
+      ],
+      [
+        " Fourier",
+        -0.00015705463
+      ],
+      [
+        " Transform",
+        -0.01385553
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps,": {
+    "guess": "Hume-Rothery rules",
+    "confidence": [
+      [
+        "H",
+        -1.6921381
+      ],
+      [
+        "ume",
+        -0.050567303
+      ],
+      [
+        "-R",
+        -0.007354594
+      ],
+      [
+        "other",
+        -0.00063857326
+      ],
+      [
+        "y",
+        -0.0009641039
+      ],
+      [
+        " rules",
+        -0.10415974
+      ]
+    ]
+  },
+  "Developed by William Sealy Gosset, his employer, Guinness Brewing Company, would not let him publish": {
+    "guess": "Student's t-test",
+    "confidence": [
+      [
+        "Student",
+        -0.040154524
+      ],
+      [
+        "'s",
+        -0.00050775736
+      ],
+      [
+        " t",
+        -0.0014173806
+      ],
+      [
+        "-test",
+        -0.024848372
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing religious tension in this country erupted as the Battles of Villmergen and Sonderbund War, while it backed the Sforzas at Novara and (*) Marignano, where its forces were crushed by Francis I. This country signed the Pact of Brunnen after beating the Hapsburgs at Sempach and Morgarten, where it was represented by the Everlasting League of Uri, Schwyz, and Unterwalden. 1803 saw Napoleon abolish the Helvetic Republic of this country, where Huldrych Zwingli triggered two wars. For 10 points, name this": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.5740149
+      ],
+      [
+        "itzerland",
+        -7.3861476e-05
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's": {
+    "guess": "Eye",
+    "confidence": [
+      [
+        "Eye",
+        -0.44204786
+      ]
+    ]
+  },
+  "It was developed from a product initially designed by Tim Paterson. A major flaw is that it was not written in reentrant code, and thus does not support multitasking, and the earliest versions did not implement a hierarchical directory structure. Version 1.1 allowed double-sided floppy disks, while version 4.0 supported hard disks greater than 32 megabytes. Identify this command-based operating system,": {
+    "guess": "MS-DOS",
+    "confidence": [
+      [
+        "MS",
+        -0.32791048
+      ],
+      [
+        "-D",
+        -0.0016181691
+      ],
+      [
+        "OS",
+        -8.6497064e-05
+      ]
+    ]
+  },
+  "It was developed from a product initially designed by Tim Paterson. A major flaw is that it was not written": {
+    "guess": "DOS - Disk Operating System",
+    "confidence": [
+      [
+        "D",
+        -0.7064088
+      ],
+      [
+        "OS",
+        -0.0002484655
+      ],
+      [
+        " -",
+        -0.78354883
+      ],
+      [
+        " Disk",
+        -0.27010676
+      ],
+      [
+        " Operating",
+        -0.0068578124
+      ],
+      [
+        " System",
+        -0.0011564125
+      ]
+    ]
+  },
+  "Developed by William Sealy Gosset, his employer, Guinness Brewing Company, would not let him publish it under his own name. The null hypothesis can state that there is no significant difference between an observed sample mean and the population mean, or between two different sample means. Often used to construct confidence intervals, FTP, name this statistical test whose test statistic is denoted \"t.\"": {
+    "guess": "Student's t-test",
+    "confidence": [
+      [
+        "Student",
+        -0.22664292
+      ],
+      [
+        "'s",
+        -0.0012195244
+      ],
+      [
+        " t",
+        -0.006965424
+      ],
+      [
+        "-test",
+        -0.0021381248
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem faster than classical methods, and critical components of them are modeled by Bloch spheres. Using": {
+    "guess": "Quantum algorithm",
+    "confidence": [
+      [
+        "Quant",
+        -0.09644624
+      ],
+      [
+        "um",
+        -2.577686e-06
+      ],
+      [
+        " algorithm",
+        -1.1060741
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position and expression of nanos, which controls posterior pattern formation. Gradients of hunchback, caudal, and bicoid maternal effect genes in this organism are responsible for the activation of segment polarity, gap, and pair-rule genes. Hox gene mutations in this organism include ultrabithorax, one in which antennae are replaced by legs, and another in which compound eyes appear on the end of the legs. For 10 points, identify this model organism commonly used to study development, commonly known as the fruit fly.": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.0009824355
+      ],
+      [
+        "ros",
+        -5.080963e-06
+      ],
+      [
+        "oph",
+        -0.00025573693
+      ],
+      [
+        "ila",
+        -7.243103e-05
+      ],
+      [
+        " melan",
+        -0.0010655591
+      ],
+      [
+        "og",
+        -4.8113485e-05
+      ],
+      [
+        "aster",
+        -0.00022308611
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under anhydrous conditions and is named after Tennessee Eastman. The catalyst for this compound adopts": {
+    "guess": "Fischer-Tropsch process",
+    "confidence": [
+      [
+        "F",
+        -1.3676172
+      ],
+      [
+        "ischer",
+        -0.054774284
+      ],
+      [
+        "-T",
+        -0.14708632
+      ],
+      [
+        "rops",
+        -7.89631e-07
+      ],
+      [
+        "ch",
+        -1.50940705e-05
+      ],
+      [
+        " process",
+        -0.12574816
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing religious tension in this country erupted as the Battles of Villmergen and Sonderbund War, while it backed the Sforzas at Novara and (*) Marignano, where its forces were crushed by Francis I. This country signed the Pact of Brunnen after beating the Hapsburgs at Sempach and Morgarten, where it was represented by the Everlasting League of Uri, Schwyz, and Unterwalden. 1803 saw Napoleon abolish the": {
+    "guess": "History of Switzerland",
+    "confidence": [
+      [
+        "History",
+        -0.17909783
+      ],
+      [
+        " of",
+        -0.0011185461
+      ],
+      [
+        " Switzerland",
+        -0.00021533787
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps, which are diagrammatic representations of the empirical Hume-Rothery rules. An example of these systems that displays the shape-memory effect, as well as superelasticity, is nitinol. The yield strength": {
+    "guess": "Alloys",
+    "confidence": [
+      [
+        "Al",
+        -1.1403668
+      ],
+      [
+        "loys",
+        -0.09599029
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In addition to developing that paraxial approximation, this man gained fame for using observations by": {
+    "guess": "Rayleigh-Sommerfeld diffraction integral",
+    "confidence": [
+      [
+        "Ray",
+        -1.370934
+      ],
+      [
+        "leigh",
+        -0.16668352
+      ],
+      [
+        "-S",
+        -0.6127194
+      ],
+      [
+        "om",
+        -0.00046928023
+      ],
+      [
+        "mer",
+        -4.6444635e-05
+      ],
+      [
+        "feld",
+        -0.011839202
+      ],
+      [
+        " diff",
+        -0.0032887016
+      ],
+      [
+        "raction",
+        -2.0100624e-05
+      ],
+      [
+        " integral",
+        -0.028907854
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction that uses an alternative iridium-based catalyst. It inspired a similar process which takes place under": {
+    "guess": "Fischer-Tropsch process",
+    "confidence": [
+      [
+        "F",
+        -0.22719596
+      ],
+      [
+        "ischer",
+        -0.12009529
+      ],
+      [
+        "-T",
+        -0.2987882
+      ],
+      [
+        "rops",
+        -3.5313153e-06
+      ],
+      [
+        "ch",
+        -1.962381e-05
+      ],
+      [
+        " process",
+        -0.3202843
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most": {
+    "guess": "Goto Statement",
+    "confidence": [
+      [
+        "G",
+        -0.74841833
+      ],
+      [
+        "oto",
+        -0.00031019835
+      ],
+      [
+        " Statement",
+        -0.06978647
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps, which are diagrammatic representations of the empirical Hume-Rothery rules. An example of these systems that displays the shape-memory effect, as well as superelasticity, is nitinol. The yield strength of these systems can be improved with precipitation (*) hardening. A simple, non-isomorphic example of these systems with a single melting point is their eutectic type. The most common types of these systems are substitutional and interstitial, the latter's best example being steel. For 10 points,": {
+    "guess": "Alloy",
+    "confidence": [
+      [
+        "Al",
+        -0.6403947
+      ],
+      [
+        "loy",
+        -0.06851205
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music": {
+    "guess": "Mahabharata",
+    "confidence": [
+      [
+        "Mah",
+        -1.0223657
+      ],
+      [
+        "ab",
+        -0.23081444
+      ],
+      [
+        "har",
+        -0.00015109812
+      ],
+      [
+        "ata",
+        -0.00014263466
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position and expression of nanos, which controls posterior pattern formation. Gradients of hunchback, caudal, and bicoid maternal effect genes in this organism are responsible for the activation of segment": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.0025886234
+      ],
+      [
+        "ros",
+        -2.220075e-06
+      ],
+      [
+        "oph",
+        -3.9530823e-05
+      ],
+      [
+        "ila",
+        -1.5451682e-05
+      ],
+      [
+        " melan",
+        -0.023602169
+      ],
+      [
+        "og",
+        -2.9040899e-05
+      ],
+      [
+        "aster",
+        -6.9331734e-05
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.00046486966
+      ],
+      [
+        "itzerland",
+        -2.7014437e-05
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment divided its subjects into \"yielders\" and \"independents\" in his writings about it, which include \"Opinions and Social Pressure.\" Subjects in this experiment were placed sixth out of a group of seven, and told that they were participating in a vision test. During this experiment, subjects were shown a card with lines marked A, B, and C, and asked to select the one most similar to line X. For 10 points,": {
+    "guess": "Asch conformity experiments",
+    "confidence": [
+      [
+        "As",
+        -0.0037493678
+      ],
+      [
+        "ch",
+        -7.660316e-05
+      ],
+      [
+        " conformity",
+        -2.5703197e-05
+      ],
+      [
+        " experiments",
+        -0.0036484147
+      ]
+    ]
+  },
+  "During development, the hyaloid artery supplys blood to this organ, and it recedes to form Cloquet's canal. One disease of this organ occurs in a Meibomian form which sees blockage of some oil glands. Another part of it is held together by the zonule of Zinn, while Amacrine cells are a type of pear shaped neurons found here. One part of this organ sees the formation of a \"cherry red spot\" that appears in patients suffering from Tay Sachs, and another portion of it consists of inner and outer plexiform layers and has a depression named the fovea. The canal of Schlemm is found at the base of the": {
+    "guess": "Eye",
+    "confidence": [
+      [
+        "Eye",
+        -0.1457137
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement the Extract-Min function, while its other function is the Relax function. Sometimes used by routers in the link state routing protocol, this greedy algorithm runs in m edges + n log n vertices.": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.012076909
+      ],
+      [
+        "ijkstra",
+        -0.00042638523
+      ],
+      [
+        "'s",
+        -0.0007398231
+      ],
+      [
+        " algorithm",
+        -0.096049204
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between a double-barrier Josephson junction become thicker. The Wolf effect requires that this property": {
+    "guess": "Josephson effect",
+    "confidence": [
+      [
+        "Joseph",
+        -0.58678025
+      ],
+      [
+        "son",
+        -0.00010223195
+      ],
+      [
+        " effect",
+        -0.030559683
+      ]
+    ]
+  },
+  "The development of the first atomic clock made use of this effect and the ammonia molecule. Observed independently in crystals by Landsberg and Mandelstam, this effect shares its name with one concerning the vibrational and electronic levels of molecules. As a result of it, the scattered photon can have greater energy if the molecule is initially in an excited vibrational state, or it can have less": {
+    "guess": "Raman scattering",
+    "confidence": [
+      [
+        "R",
+        -0.03995616
+      ],
+      [
+        "aman",
+        -0.00017731925
+      ],
+      [
+        " scattering",
+        -0.039459385
+      ]
+    ]
+  },
+  "Developed in 1912 by physicist Charles Thomson Rees Wilson, this device originally used a piston or an elastic membrane to create a supersaturated vapor. Now, dry ice or liquid helium can be used as coolants to create the vapor, which is quickly cooled to form tiny liquid droplets. For 10 points\u2014name this device used to detect energetically charged particles as they pass through a chamber.": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.012834995
+      ],
+      [
+        " chamber",
+        -0.0003808641
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between a double-barrier Josephson junction become thicker. The Wolf effect requires that this property is at least partially present, and experiments measuring it generally utilize a Mach-Zehdner or Michelson interferometer. Its namesake time is equal to one over delta-v, or the frequency bandwidth, as that would be the time over which there is a constant phase relationship. FTP, name this physical property of waves that measures the degree to which a constant phase difference exists between them,": {
+    "guess": "Coherence (physics)",
+    "confidence": [
+      [
+        "Co",
+        -0.0727229
+      ],
+      [
+        "herence",
+        -0.00034762095
+      ],
+      [
+        " (",
+        -0.24615845
+      ],
+      [
+        "physics",
+        -0.0025875506
+      ],
+      [
+        ")",
+        -8.1371305e-05
+      ]
+    ]
+  },
+  "The development of PHACOMP spurred early design work in these systems. To predict solubility in these systems, electronegativity versus ionic radius is plotted, and ellipses drawn, on Darken-Gurry maps, which are diagrammatic representations of the empirical Hume-Rothery rules. An example of these systems": {
+    "guess": "Intermetallics",
+    "confidence": [
+      [
+        "Inter",
+        -1.6038295
+      ],
+      [
+        "metal",
+        -5.0139948e-05
+      ],
+      [
+        "lic",
+        -7.755679e-05
+      ],
+      [
+        "s",
+        -0.89557695
+      ]
+    ]
+  },
+  "It was developed by Tukey and Cooley in 1965 as a special case of a more general procedure, and it reduces computation time from order N squared to order N log N. If N is a power of two, it can be computed using the Danielson- Lanczos lemma, and it comes in two types, decimation-in-time and decimation- in-frequency.  Widely used in digital signal processing applications, FTP, identify this special case of a discrete transform named after a French mathematician.": {
+    "guess": "Fast Fourier Transform",
+    "confidence": [
+      [
+        "Fast",
+        -0.054429565
+      ],
+      [
+        " Fourier",
+        -0.00016563729
+      ],
+      [
+        " Transform",
+        -0.048366256
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music and ceremony and is thought to have promoted the worship of gods, spirits, and ancestors only because to not do so would result in punishment. He idealized the legendary Xia Dynasty and some claim that he was descended from one of its emperors, Shennong. He is best remembered for the concept of bo-ai, or impartial caring, which argued against the traditional concepts of filial piety and duty": {
+    "guess": "Mozi",
+    "confidence": [
+      [
+        "Mo",
+        -0.010929795
+      ],
+      [
+        "zi",
+        -0.030379308
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music and ceremony and is thought to have promoted the worship of gods, spirits, and ancestors only because to not do so would result in punishment. He idealized the legendary Xia Dynasty and some claim that he was descended from one of its emperors, Shennong. He is best remembered for the concept of bo-ai, or impartial caring, which argued against the traditional concepts of filial piety and duty to ones clan. FTP, who is this creator of an eponymous philosophical movement in China which did not": {
+    "guess": "Mozi",
+    "confidence": [
+      [
+        "Mo",
+        -0.4856172
+      ],
+      [
+        "zi",
+        -0.027415438
+      ]
+    ]
+  },
+  "It was developed by the man who published the 1968 article \"Goto Statement Considered Harmful.\" Its most efficient implementation uses adjacency lists and uses a heap as a priority queue in order to implement the Extract-Min function, while its other function is the Relax function. Sometimes used by routers in the link state routing protocol, this greedy algorithm runs in m edges + n log n vertices. It works by keeping two sets of vertices and while there are vertices to examine, sorts them in terms of the current best estimate of their distance from the source, and then adds the next closest vertex. The relax process updates the cost of the vertices for evaluation. FTP, identify this algorithm": {
+    "guess": "Dijkstra's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.0057920357
+      ],
+      [
+        "ijkstra",
+        -0.0005430233
+      ],
+      [
+        "'s",
+        -0.0025101432
+      ],
+      [
+        " algorithm",
+        -0.06869392
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain": {
+    "guess": "Interference (wave propagation)",
+    "confidence": [
+      [
+        "Inter",
+        -0.08064562
+      ],
+      [
+        "ference",
+        -0.17559573
+      ],
+      [
+        " (",
+        -0.44761074
+      ],
+      [
+        "wave",
+        -0.0031165145
+      ],
+      [
+        " propagation",
+        -0.00019364648
+      ],
+      [
+        ")",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "The development of the first atomic clock made use of this effect and the ammonia molecule. Observed independently in crystals by Landsberg and Mandelstam, this effect shares its name with one concerning the vibrational and electronic levels of molecules. As a result of it, the scattered photon can have": {
+    "guess": "Raman scattering",
+    "confidence": [
+      [
+        "R",
+        -0.0075732623
+      ],
+      [
+        "aman",
+        -7.107425e-06
+      ],
+      [
+        " scattering",
+        -0.013680225
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a neighbor's 80,000-strong Army of the East after the suicide of foreign general Bourbaki. Continuing religious tension in this country erupted as the Battles of Villmergen and Sonderbund War, while it backed the Sforzas at Novara and (*) Marignano, where its forces were crushed by Francis I. This country signed the Pact of Brunnen after beating the Hapsburgs at Sempach and Morgarten, where it was represented": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.0014058287
+      ],
+      [
+        "itzerland",
+        -0.0024888574
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis. Proper function of these structures depends on a substance composed of the proteins SP-A through SP-D as well as dipalmitoylphosphatidylcholine and other (*) phospholipids. That substance is synthesized in the lamellar bodies of their type II cells, is produced at insufficiently low amounts in IRDS, and stabilizes these structures by reducing their surface tension. These structures are destroyed in emphysema. For 10 points, name these structures which facilitate gas exchange with the blood, small air sacs located in the lungs.": {
+    "guess": "Alveoli",
+    "confidence": [
+      [
+        "Al",
+        -0.07054484
+      ],
+      [
+        "ve",
+        -1.2590794e-05
+      ],
+      [
+        "oli",
+        -0.027589979
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In addition to developing that paraxial approximation, this man gained fame for using observations by Joseph Piazzi to compute the orbit of the asteroid (*) Ceres. One of his namesake laws, which suggests that the magnetic field lines going in and out of an infinitesimal volume must cancel out, implies": {
+    "guess": "Carl Friedrich Gauss",
+    "confidence": [
+      [
+        "Carl",
+        -0.6689501
+      ],
+      [
+        " Friedrich",
+        -0.002450923
+      ],
+      [
+        " Gauss",
+        -0.0029658151
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between a double-barrier Josephson junction become thicker. The Wolf effect requires that this property is at least partially present, and experiments measuring it generally utilize a Mach-Zehdner or Michelson interferometer. Its namesake time is equal to one over delta-v, or the frequency bandwidth, as that would be the time over which there is a constant phase relationship. FTP, name this physical property of waves that measures the degree to which a constant phase difference exists between them, which allows diffraction and interference to exist.": {
+    "guess": "Coherence (physics)",
+    "confidence": [
+      [
+        "Co",
+        -0.021262323
+      ],
+      [
+        "herence",
+        -0.00030721823
+      ],
+      [
+        " (",
+        -0.42724395
+      ],
+      [
+        "physics",
+        -0.0021907103
+      ],
+      [
+        ")",
+        -9.376849e-05
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis. Proper function of these structures depends on a substance composed of the proteins SP-A through SP-D as well as dipalmitoylphosphatidylcholine and other (*) phospholipids. That substance is synthesized in the lamellar bodies of their type II cells, is produced at insufficiently low amounts": {
+    "guess": "Pulmonary surfactant",
+    "confidence": [
+      [
+        "P",
+        -0.0739038
+      ],
+      [
+        "ul",
+        -5.8365e-05
+      ],
+      [
+        "monary",
+        -0.00044866532
+      ],
+      [
+        " surf",
+        -0.18130381
+      ],
+      [
+        "act",
+        -2.2603901e-05
+      ],
+      [
+        "ant",
+        -0.002260164
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented with statements of opinions. This experiment was designed to correct for the subjectivity of previous experiments involving the autokinetic effect. The psychologist who performed this experiment divided its subjects into \"yielders\" and \"independents\" in his writings about it, which include \"Opinions and Social Pressure.\" Subjects in this experiment were placed sixth out of a group of seven, and told that they were participating in a vision test. During this experiment, subjects were shown a card with lines marked A, B, and C, and asked to select the one most similar to line X. For 10 points, name this experiment in which confederates who gave unanimously wrong answers influenced subjects": {
+    "guess": "Asch conformity experiments",
+    "confidence": [
+      [
+        "As",
+        -0.0009499297
+      ],
+      [
+        "ch",
+        -1.3067608e-05
+      ],
+      [
+        " conformity",
+        -6.869018e-06
+      ],
+      [
+        " experiments",
+        -0.0089289015
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music and ceremony and is thought to have promoted the worship of gods, spirits, and ancestors only because": {
+    "guess": "Xun Kuang",
+    "confidence": [
+      [
+        "X",
+        -1.317078
+      ],
+      [
+        "un",
+        -0.00680371
+      ],
+      [
+        " Ku",
+        -0.623932
+      ],
+      [
+        "ang",
+        -0.00019376569
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis. Proper function of these structures depends on a substance composed of the proteins SP-A through SP-D as well as dipalmitoylphosphatidylcholine and other (*) phospholipids. That substance is synthesized in the lamellar bodies of their type II cells, is produced at insufficiently low amounts in IRDS, and stabilizes these structures by reducing their surface tension. These structures are destroyed in emphysema. For 10 points, name these structures which facilitate gas exchange with the blood,": {
+    "guess": "Alveoli",
+    "confidence": [
+      [
+        "Al",
+        -0.37179372
+      ],
+      [
+        "ve",
+        -3.392825e-05
+      ],
+      [
+        "oli",
+        -0.05278119
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem faster than classical methods, and critical components of them are modeled by Bloch spheres. Using Grover's algorithm, these devices can search an unsorted database in sub-linear time, and they are": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quant",
+        -0.02284497
+      ],
+      [
+        "um",
+        -1.147242e-06
+      ],
+      [
+        " computer",
+        -0.76655346
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem faster than classical methods, and critical components of them are modeled by Bloch spheres. Using Grover's algorithm, these devices can search an unsorted database in sub-linear time, and they are difficult to make and maintain due to the phenomenon of (*) decoherence. Shor's Algorithm can be run on these devices to factor integers in polynomial time, ruining RSA encryption, and their namesake": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quant",
+        -0.0027809816
+      ],
+      [
+        "um",
+        -1.3856493e-06
+      ],
+      [
+        " computer",
+        -0.51621175
+      ]
+    ]
+  },
+  "He developed the philosophy of utilitarianism in the 5th Century BCE. He advocated the abolition of music and ceremony and is thought to have promoted the worship of gods, spirits, and ancestors only because to not do so would result in punishment. He idealized the legendary Xia Dynasty and some claim that he was descended from one of its emperors, Shennong. He is best remembered for the concept of bo-ai, or impartial caring, which argued against the traditional concepts of filial piety and duty to ones clan. FTP, who is this creator of an eponymous philosophical movement in China which did not survive past the Qin Dynasty?": {
+    "guess": "Mozi",
+    "confidence": [
+      [
+        "Mo",
+        -0.5891776
+      ],
+      [
+        "zi",
+        -0.021955887
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In addition to developing that paraxial approximation, this man gained fame for using observations by Joseph Piazzi to compute the orbit of the asteroid (*) Ceres. One of his namesake laws, which suggests": {
+    "guess": "Carl Friedrich Gauss",
+    "confidence": [
+      [
+        "Carl",
+        -0.7346006
+      ],
+      [
+        " Friedrich",
+        -0.002489807
+      ],
+      [
+        " Gauss",
+        -0.0047997497
+      ]
+    ]
+  },
+  "This man developed a regime which approximates that light propagation doesn't significantly diverge from a beam's axis, which allows for propagation equations to assume the small angle approximation. In": {
+    "guess": "Gaussian beam",
+    "confidence": [
+      [
+        "G",
+        -0.70544493
+      ],
+      [
+        "aussian",
+        -0.011476538
+      ],
+      [
+        " beam",
+        -0.0121414475
+      ]
+    ]
+  },
+  "Detwiller showed that it need not be perfect at all places in an interference field in order to obtain perfect fringe visibility, while Brinkman and Golubov showed how it is destroyed as the layers between": {
+    "guess": "Fringe visibility",
+    "confidence": [
+      [
+        "F",
+        -1.6891162
+      ],
+      [
+        "ringe",
+        -0.075073786
+      ],
+      [
+        " visibility",
+        -0.06763704
+      ]
+    ]
+  },
+  "During the development of this organism, the decapentaplegic gene is needed for patterning the imaginal disks. In this organism, pumilio, vasa, staufen, and tudor are responsible for controlling the position and expression of nanos, which controls posterior pattern formation. Gradients of hunchback,": {
+    "guess": "Drosophila melanogaster",
+    "confidence": [
+      [
+        "D",
+        -0.013813448
+      ],
+      [
+        "ros",
+        -1.5570886e-05
+      ],
+      [
+        "oph",
+        -0.00019483852
+      ],
+      [
+        "ila",
+        -6.754368e-05
+      ],
+      [
+        " melan",
+        -0.0026821836
+      ],
+      [
+        "og",
+        -3.8457987e-05
+      ],
+      [
+        "aster",
+        -0.00014323067
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a": {
+    "guess": "Ziegler-Natta polymerization",
+    "confidence": [
+      [
+        "Z",
+        -1.0259562
+      ],
+      [
+        "ieg",
+        -0.00072291814
+      ],
+      [
+        "ler",
+        -3.4524266e-05
+      ],
+      [
+        "-N",
+        -0.5430299
+      ],
+      [
+        "atta",
+        -1.0280384e-06
+      ],
+      [
+        " polymer",
+        -0.12858142
+      ],
+      [
+        "ization",
+        -0.00013369438
+      ]
+    ]
+  },
+  "The development of one type of cells in these structures depends on the GM-CSF-dependent activation of the transcription factor PU.1. A mutation in the SFTPB gene causes these structures' namesake proteinosis.": {
+    "guess": "Pulmonary alveolus",
+    "confidence": [
+      [
+        "P",
+        -0.7340163
+      ],
+      [
+        "ul",
+        -7.0285365e-05
+      ],
+      [
+        "monary",
+        -0.0012836872
+      ],
+      [
+        " al",
+        -0.05858736
+      ],
+      [
+        "ve",
+        -3.0545007e-06
+      ],
+      [
+        "ol",
+        -0.08677989
+      ],
+      [
+        "us",
+        -5.7649777e-05
+      ]
+    ]
+  },
+  "The devaluation of this country's \"batzen\" currency led peasants to take up nail-headed clubs in support of the Huttwil League, while its fledgling 19th century infrastructure was forced to care for a": {
+    "guess": "Switzerland",
+    "confidence": [
+      [
+        "Sw",
+        -0.006197538
+      ],
+      [
+        "itzerland",
+        -0.0001167748
+      ]
+    ]
+  },
+  "Deutsch and Gerard repeated this experiment using partitions to decrease uncertainty. Crutchfield's modified version of this experiment demonstrated that its central findings held when subjects were presented": {
+    "guess": "Double-slit experiment",
+    "confidence": [
+      [
+        "Double",
+        -2.0434346
+      ],
+      [
+        "-s",
+        -0.05191063
+      ],
+      [
+        "lit",
+        -5.2001665e-06
+      ],
+      [
+        " experiment",
+        -0.021021884
+      ]
+    ]
+  },
+  "The developer of this process also developed a method for generating straight-chain detergents with a platinum catalyst and was named James Roth. Sunley and Watson developed a variation on this reaction": {
+    "guess": "Hydroformylation",
+    "confidence": [
+      [
+        "Hy",
+        -0.81783843
+      ],
+      [
+        "dro",
+        -0.02347362
+      ],
+      [
+        "form",
+        -0.37852955
+      ],
+      [
+        "ylation",
+        -0.0015374774
+      ]
+    ]
+  },
+  "The Deutsch-Jozsa algorithm was the first one to use these devices to deterministically solve a problem faster than classical methods, and critical components of them are modeled by Bloch spheres. Using Grover's algorithm, these devices can search an unsorted database in sub-linear time, and they are difficult to make and maintain due to the phenomenon of (*) decoherence. Shor's Algorithm can be run on these devices to factor integers in polynomial time, ruining RSA encryption, and their namesake objects can be 0, 1, or a superposition of the two. For ten points, identify these not-yet-built devices,": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quant",
+        -0.004221455
+      ],
+      [
+        "um",
+        -8.537869e-06
+      ],
+      [
+        " computer",
+        -0.32478657
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark": {
+    "guess": "Haldane's Dilemma",
+    "confidence": [
+      [
+        "H",
+        -1.7076492
+      ],
+      [
+        "ald",
+        -1.0799676
+      ],
+      [
+        "ane",
+        -0.0022423237
+      ],
+      [
+        "'s",
+        -0.09085178
+      ],
+      [
+        " D",
+        -1.262933
+      ],
+      [
+        "ile",
+        -7.77952e-05
+      ],
+      [
+        "mma",
+        -3.619312e-05
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote": {
+    "guess": "Sewall Wright",
+    "confidence": [
+      [
+        "S",
+        -0.80620825
+      ],
+      [
+        "ew",
+        -0.008835205
+      ],
+      [
+        "all",
+        -0.0091777
+      ],
+      [
+        " Wright",
+        -0.0008456026
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote a series of papers titled Genetics of Natural Selection and the 1937 work Genetics and the Origin": {
+    "guess": "Sewall Wright",
+    "confidence": [
+      [
+        "S",
+        -0.04311749
+      ],
+      [
+        "ew",
+        -0.00042900036
+      ],
+      [
+        "all",
+        -0.00674
+      ],
+      [
+        " Wright",
+        -0.00024096666
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote a series of papers titled Genetics of Natural Selection and the 1937 work Genetics and the Origin of Species though he is better known for an essay which discusses the geocentric beliefs of a sheikh": {
+    "guess": "Sewall Wright",
+    "confidence": [
+      [
+        "S",
+        -0.1456359
+      ],
+      [
+        "ew",
+        -9.293406e-05
+      ],
+      [
+        "all",
+        -0.015109531
+      ],
+      [
+        " Wright",
+        -8.888114e-05
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote a series of papers titled Genetics of Natural Selection and the 1937 work Genetics and the Origin of Species though he is better known for an essay which discusses the geocentric beliefs of a sheikh and accuses creationists of blasphemy for \"accusing God of absurd deceitfulness\". For 10 points, identify": {
+    "guess": "Sewall Wright",
+    "confidence": [
+      [
+        "S",
+        -0.49452946
+      ],
+      [
+        "ew",
+        -0.00010294717
+      ],
+      [
+        "all",
+        -0.016509594
+      ],
+      [
+        " Wright",
+        -0.00011963568
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote a series of papers titled Genetics of Natural Selection and the 1937 work Genetics and the Origin of Species though he is better known for an essay which discusses the geocentric beliefs of a sheikh and accuses creationists of blasphemy for \"accusing God of absurd deceitfulness\". For 10 points, identify this Ukrainian-American Biologist, best known for coining the phrase ? \"Nothing in biology makes": {
+    "guess": "Theodosius Dobzhansky",
+    "confidence": [
+      [
+        "The",
+        -0.006374041
+      ],
+      [
+        "odos",
+        -0.0012721391
+      ],
+      [
+        "ius",
+        -1.60477e-05
+      ],
+      [
+        " Dob",
+        -6.7901296e-05
+      ],
+      [
+        "zh",
+        -4.5252596e-05
+      ],
+      [
+        "ans",
+        -0.00050668453
+      ],
+      [
+        "ky",
+        -1.8074163e-05
+      ]
+    ]
+  },
+  "This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote a series of papers titled Genetics of Natural Selection and the 1937 work Genetics and the Origin of Species though he is better known for an essay which discusses the geocentric beliefs of a sheikh and accuses creationists of blasphemy for \"accusing God of absurd deceitfulness\". For 10 points, identify this Ukrainian-American Biologist, best known for coining the phrase ? \"Nothing in biology makes sense except in the light of evolution.\"": {
+    "guess": "Theodosius Dobzhansky",
+    "confidence": [
+      [
+        "The",
+        -0.0013322637
+      ],
+      [
+        "odos",
+        -0.0007450681
+      ],
+      [
+        "ius",
+        -5.3358446e-05
+      ],
+      [
+        " Dob",
+        -2.0696643e-05
+      ],
+      [
+        "zh",
+        -4.1080468e-05
+      ],
+      [
+        "ans",
+        -0.00055100623
+      ],
+      [
+        "ky",
+        -9.484132e-05
+      ]
+    ]
+  }
+}

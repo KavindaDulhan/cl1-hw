@@ -1,0 +1,129 @@
+{
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.84677565
+      ],
+      [
+        "electric",
+        -0.0021380058
+      ],
+      [
+        " effect",
+        -0.0737396
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine of the angle of scattered photons to give the shift in wavelength following this type of scattering.": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.01576053
+      ],
+      [
+        "pton",
+        -6.511407e-06
+      ],
+      [
+        " scattering",
+        -0.013821549
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra": {
+    "guess": "Sodium iodide detector",
+    "confidence": [
+      [
+        "S",
+        -0.8240693
+      ],
+      [
+        "odium",
+        -0.09677678
+      ],
+      [
+        " iod",
+        -0.050744873
+      ],
+      [
+        "ide",
+        -8.804671e-05
+      ],
+      [
+        " detector",
+        -1.1128855
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine of the angle of scattered photons to give the shift in wavelength following this type of scattering. For 10 points, name this phenomenon, a photon's decrease in wavelength and increase in energy when it collides with an electron, named after an American physicist.": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.0027146419
+      ],
+      [
+        "pton",
+        -4.048445e-05
+      ],
+      [
+        " scattering",
+        -0.009265928
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine of the angle of scattered photons to give the shift in wavelength following this type of scattering. For 10 points, name this phenomenon, a photon's decrease in wavelength and increase in energy when": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00621779
+      ],
+      [
+        "pton",
+        -2.4272753e-05
+      ],
+      [
+        " scattering",
+        -0.026493743
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section": {
+    "guess": "Compton edge",
+    "confidence": [
+      [
+        "Com",
+        -0.08081398
+      ],
+      [
+        "pton",
+        -4.298773e-05
+      ],
+      [
+        " edge",
+        -0.20738733
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.072475344
+      ],
+      [
+        "pton",
+        -6.325235e-05
+      ],
+      [
+        " scattering",
+        -0.12078424
+      ]
+    ]
+  }
+}

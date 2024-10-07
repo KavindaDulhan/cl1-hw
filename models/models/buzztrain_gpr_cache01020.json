@@ -1,0 +1,107 @@
+{
+  "Their cranial volume averaged one thousand cubic centimeters. With jutting brow ridges and receding foreheads,": {
+    "guess": "Homo erectus",
+    "confidence": [
+      [
+        "H",
+        -0.26474878
+      ],
+      [
+        "omo",
+        -0.0013195236
+      ],
+      [
+        " erect",
+        -0.018172655
+      ],
+      [
+        "us",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "Their cranial volume averaged one thousand cubic centimeters. With jutting brow ridges and receding foreheads, they were the first hominids to master fire and inhabit caves.  Arising about 1.6 million": {
+    "guess": "Homo erectus",
+    "confidence": [
+      [
+        "H",
+        -0.33048186
+      ],
+      [
+        "omo",
+        -0.013019512
+      ],
+      [
+        " erect",
+        -0.023275064
+      ],
+      [
+        "us",
+        -2.188868e-05
+      ]
+    ]
+  },
+  "Their cranial volume averaged one thousand cubic centimeters. With jutting brow ridges and receding foreheads, they were the first hominids to master fire and inhabit caves.  Arising about 1.6 million years ago, it was also the first to leave the African savanna as evidenced by notable fossils from Indonesia and China. What hominid species, for 10 points, is thought to descend from Homo habilis and be an ancestor of Homo sapiens.": {
+    "guess": "Homo erectus",
+    "confidence": [
+      [
+        "H",
+        -0.2820175
+      ],
+      [
+        "omo",
+        -4.9617593e-06
+      ],
+      [
+        " erect",
+        -0.009463873
+      ],
+      [
+        "us",
+        -1.4140442e-05
+      ]
+    ]
+  },
+  "Their cranial volume averaged one thousand cubic centimeters. With jutting brow ridges and receding foreheads, they were the first hominids to master fire and inhabit caves.  Arising about 1.6 million years ago, it was also the first to leave the African savanna as evidenced by notable fossils from Indonesia": {
+    "guess": "Homo erectus",
+    "confidence": [
+      [
+        "H",
+        -0.13888635
+      ],
+      [
+        "omo",
+        -0.00010831134
+      ],
+      [
+        " erect",
+        -0.014323808
+      ],
+      [
+        "us",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "Their cranial volume averaged one thousand cubic centimeters. With jutting brow ridges and receding foreheads, they were the first hominids to master fire and inhabit caves.  Arising about 1.6 million years ago, it was also the first to leave the African savanna as evidenced by notable fossils from Indonesia and China. What hominid species, for 10 points, is thought to descend from Homo habilis and": {
+    "guess": "Homo erectus",
+    "confidence": [
+      [
+        "H",
+        -0.0067735147
+      ],
+      [
+        "omo",
+        -9.0883464e-07
+      ],
+      [
+        " erect",
+        -0.0064252177
+      ],
+      [
+        "us",
+        -1.1041146e-05
+      ]
+    ]
+  }
+}

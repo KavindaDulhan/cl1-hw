@@ -1,0 +1,87 @@
+{
+  "Oak Ridge National Laboratory has a facility for to generate these particles by spallation. The s and r processes in stars involve the capture of these particles. This particle was discovered by James Chadwick. They consist of two down and one up quark. Fast and thermal ones collide with nuclei to trigger a nuclear fission event. Isotopes of an element differ in the number of these. For 10 points,": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.00021474186
+      ],
+      [
+        "utron",
+        -0.016282685
+      ]
+    ]
+  },
+  "Oak Ridge National Laboratory has a facility for to generate these particles by spallation. The s and r processes in stars involve the capture of these particles. This particle was discovered by James Chadwick. They consist of two down and one up quark. Fast and thermal ones collide with nuclei to trigger": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.0034532452
+      ],
+      [
+        "utron",
+        -0.015301478
+      ]
+    ]
+  },
+  "Oak Ridge National Laboratory has a facility for to generate these particles by spallation. The s and r processes in stars involve the capture of these particles. This particle was discovered by James": {
+    "guess": "Neutron capture",
+    "confidence": [
+      [
+        "Ne",
+        -0.08304721
+      ],
+      [
+        "utron",
+        -0.29344586
+      ],
+      [
+        " capture",
+        -0.80920696
+      ]
+    ]
+  },
+  "Oak Ridge National Laboratory has a facility for to generate these particles by spallation. The s and r processes in stars involve the capture of these particles. This particle was discovered by James Chadwick. They consist of two down and one up quark. Fast and thermal ones collide with nuclei to trigger a nuclear fission event. Isotopes of an element differ in the number of these. For 10 points, name these particles that along with protons are found in the nucleus.": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.00036597464
+      ],
+      [
+        "utron",
+        -0.06501706
+      ]
+    ]
+  },
+  "Oak Ridge National Laboratory has a facility for to generate these particles by spallation. The s and": {
+    "guess": "Spallation Neutron Source",
+    "confidence": [
+      [
+        "Sp",
+        -0.2384047
+      ],
+      [
+        "all",
+        -4.370295e-05
+      ],
+      [
+        "ation",
+        -3.333223e-05
+      ],
+      [
+        " Ne",
+        -0.65914094
+      ],
+      [
+        "utron",
+        -0.004283773
+      ],
+      [
+        " Source",
+        -2.2246291e-05
+      ]
+    ]
+  }
+}

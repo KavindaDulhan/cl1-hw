@@ -1,0 +1,125 @@
+{
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes the Lagrange point solutions to the three-body problem. Located at the critical points of potential": {
+    "guess": "Thermodynamic equilibrium",
+    "confidence": [
+      [
+        "Th",
+        -0.15074381
+      ],
+      [
+        "erm",
+        -0.6843909
+      ],
+      [
+        "odynamic",
+        -0.009579358
+      ],
+      [
+        " equilibrium",
+        -0.04900278
+      ]
+    ]
+  },
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes": {
+    "guess": "Thermal equilibrium",
+    "confidence": [
+      [
+        "Th",
+        -0.091641195
+      ],
+      [
+        "ermal",
+        -0.071385756
+      ],
+      [
+        " equilibrium",
+        -0.09004941
+      ]
+    ]
+  },
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes the Lagrange point solutions to the three-body problem. Located at the critical points of potential energy graphs, these states can be identified by a second derivative test as neutral, stable,": {
+    "guess": "Equilibrium points",
+    "confidence": [
+      [
+        "Equ",
+        -0.613926
+      ],
+      [
+        "ilibrium",
+        -0.0014133313
+      ],
+      [
+        " points",
+        -0.6115127
+      ]
+    ]
+  },
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes the Lagrange point solutions to the three-body problem. Located at the critical points of potential energy graphs, these states can be identified by a second derivative test as neutral, stable, or unstable. These states are \"dynamic\" when two inverse processes occur at the same rate, or when a": {
+    "guess": "Equilibrium point",
+    "confidence": [
+      [
+        "Equ",
+        -0.28058785
+      ],
+      [
+        "ilibrium",
+        -0.010188547
+      ],
+      [
+        " point",
+        -0.9390382
+      ]
+    ]
+  },
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes the Lagrange point solutions to the three-body problem. Located at the critical points of potential energy graphs, these states can be identified by a second derivative test as neutral, stable, or unstable. These states are \"dynamic\" when two inverse processes occur at the same rate, or when a body has balanced forces acting on it but a non-zero velocity. The transitivity of this condition is": {
+    "guess": "Equilibrium point",
+    "confidence": [
+      [
+        "Equ",
+        -0.51209
+      ],
+      [
+        "ilibrium",
+        -0.007525109
+      ],
+      [
+        " point",
+        -1.2993716
+      ]
+    ]
+  },
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes the Lagrange point solutions to the three-body problem. Located at the critical points of potential energy graphs, these states can be identified by a second derivative test as neutral, stable, or unstable. These states are \"dynamic\" when two inverse processes occur at the same rate, or when a body has balanced forces acting on it but a non-zero velocity. The transitivity of this condition is the zeroth law of thermodynamics. For 10 points, name this balanced state, the \"thermal\" variety of": {
+    "guess": "Mechanical equilibrium",
+    "confidence": [
+      [
+        "Mech",
+        -0.9012219
+      ],
+      [
+        "anical",
+        -0.00045605595
+      ],
+      [
+        " equilibrium",
+        -0.009236283
+      ]
+    ]
+  },
+  "Kirchoff's law of radiation only applies to systems in these states, and one type of these states includes the Lagrange point solutions to the three-body problem. Located at the critical points of potential energy graphs, these states can be identified by a second derivative test as neutral, stable, or unstable. These states are \"dynamic\" when two inverse processes occur at the same rate, or when a body has balanced forces acting on it but a non-zero velocity. The transitivity of this condition is the zeroth law of thermodynamics. For 10 points, name this balanced state, the \"thermal\" variety of which involves no heat exchange.": {
+    "guess": "Thermal equilibrium",
+    "confidence": [
+      [
+        "Th",
+        -0.7729035
+      ],
+      [
+        "ermal",
+        -0.46101353
+      ],
+      [
+        " equilibrium",
+        -0.039588757
+      ]
+    ]
+  }
+}

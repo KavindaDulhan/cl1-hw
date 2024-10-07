@@ -192,6 +192,7 @@ def load_buzzer(flags, guesser_params, load=False):
             primary_loaded += 1
     assert primary_loaded == 1 or (primary_loaded == 0 and flags.primary_guesser=='consensus'), "There must be one primary guesser"
 
+    flags.features = ["Length", "FrequencyNormalized", "KeywordPresence", "KeywordOverlap", "NamedEntities", "KeywordOverlapDistribution"]
     print("Initializing features: %s" % str(flags.features))
     print("dataset: %s" % str(flags.questions))
 
@@ -209,7 +210,6 @@ def load_buzzer(flags, guesser_params, load=False):
     ######################################################################    
 
     features_added = set()
-
     for ff in flags.features:
         if ff == "Length":
             from features import LengthFeature
@@ -219,8 +219,67 @@ def load_buzzer(flags, guesser_params, load=False):
         if ff == "Frequency":
             from features import FrequencyFeature
             feature = FrequencyFeature(ff)
-            feature.add_training("../../../data/qanta.buzztrain.json.gz")
+            feature.add_training("./data/qanta.buzztrain.json.gz")
             buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "FrequencyNormalized":
+            from features import FrequencyNormalizedFeature
+            feature = FrequencyNormalizedFeature(ff)
+            feature.add_training("./data/qanta.buzztrain.json.gz")
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "LengthPlusFrequencyNormalized":
+            from features import LengthPlusFrequencyNormalizedFeature
+            feature = LengthPlusFrequencyNormalizedFeature(ff)
+            feature.add_training("./data/qanta.buzztrain.json.gz")
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "KeywordPresence":
+            from features import KeywordPresenceFeature
+            feature = KeywordPresenceFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "KeywordOverlap":
+            from features import KeywordOverlapFeature
+            feature = KeywordOverlapFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "KeywordOverlapDistribution":
+            from features import KeywordOverlapDistributionFeature
+            feature = KeywordOverlapDistributionFeature(ff)
+            feature.add_training("./data/qanta.buzztrain.json.gz")
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "NamedEntities":
+            from features import NamedEntitiesFeature
+            feature = NamedEntitiesFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "NamedEntitiesNormalized":
+            from features import NamedEntitiesNormalizedFeature
+            feature = NamedEntitiesNormalizedFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "PartialNamedEntities":
+            from features import PartialNamedEntitiesFeature
+            feature = PartialNamedEntitiesFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "KeywordPresencePlusNamedEntities":
+            from features import KeywordPresencePlusNamedEntitiesFeature
+            feature = KeywordPresencePlusNamedEntitiesFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "Synonym":
+            from features import SynonymFeature
+            feature = SynonymFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
+        if ff == "Distance":
+            from features import DistanceFeature
+            feature = DistanceFeature(ff)
+            buzzer.add_feature(feature)
+            features_added.add(ff)
 
     if len(flags.features) != len(features_added):
         error_message = "%i features on command line (%s), but only added %i (%s).  "

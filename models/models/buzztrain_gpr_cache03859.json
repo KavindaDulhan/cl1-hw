@@ -1,0 +1,86 @@
+{
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability,": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.01253897
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "olar",
+        -4.365741e-06
+      ],
+      [
+        " disorder",
+        -0.007855273
+      ]
+    ]
+  },
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability, insomnia, and increased mental capacity, separated by episodes of depression. In some cases, excitable periods degenerate into psychosis. For 10 points\u2014name this disorder once called manic": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.002285622
+      ],
+      [
+        "ip",
+        -9.0883464e-07
+      ],
+      [
+        "olar",
+        -8.8165914e-05
+      ],
+      [
+        " disorder",
+        -0.17845121
+      ]
+    ]
+  },
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability, insomnia, and increased mental capacity, separated by episodes of depression. In some cases,": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.0077026845
+      ],
+      [
+        "ip",
+        -5.9153886e-06
+      ],
+      [
+        "olar",
+        -1.5451682e-05
+      ],
+      [
+        " disorder",
+        -0.118822485
+      ]
+    ]
+  },
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability, insomnia, and increased mental capacity, separated by episodes of depression. In some cases, excitable periods degenerate into psychosis. For 10 points\u2014name this disorder once called manic depression.": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.0015335473
+      ],
+      [
+        "ip",
+        -3.1281633e-07
+      ],
+      [
+        "olar",
+        -2.7848862e-05
+      ],
+      [
+        " disorder",
+        -0.15088724
+      ]
+    ]
+  }
+}

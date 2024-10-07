@@ -1,0 +1,68 @@
+{
+  "In a Gogol Bordello song about this, \"your sanity and wits they will all vanish\" if you \"start wearing\" it. The musical Spring Awakening ends with a song named for this type of \"Summer\", and the Eminem-led group D12 rapped about this type of \"pills\". One [*] song partially named for it has the lyric \"I only wanted to see you bathing in\" a substance of this hue, while yet another asks \"Is it tomorrow,": {
+    "guess": "Purple",
+    "confidence": [
+      [
+        "Purple",
+        -0.6192132
+      ]
+    ]
+  },
+  "In a Gogol Bordello song about this, \"your sanity and wits they will all vanish\" if you \"start wearing\" it. The musical Spring Awakening ends with a song named for this type of \"Summer\", and the Eminem-led group D12 rapped about this type of \"pills\". One [*] song partially named for it has the lyric": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5711425
+      ]
+    ]
+  },
+  "In a Gogol Bordello song about this, \"your sanity and wits they will all vanish\" if you \"start wearing\" it. The musical Spring Awakening ends with a song named for this type of \"Summer\", and the Eminem-led group D12 rapped about this type of \"pills\". One [*] song partially named for it has the lyric \"I only wanted to see you bathing in\" a substance of this hue, while yet another asks \"Is it tomorrow, or just the end of time?\" after the addled vocalist says \"Scuse me while I kiss this guy\". For 10 points, name this color associated with a Prince song about \"rain\" and Jimi Hendrix's \"Haze\".": {
+    "guess": "Purple",
+    "confidence": [
+      [
+        "Purple",
+        -0.0008428609
+      ]
+    ]
+  },
+  "In a Gogol Bordello song about this, \"your sanity and wits they will all vanish\" if you \"start wearing\" it. The musical Spring Awakening ends with a song named for this type of \"Summer\", and the Eminem-led group D12 rapped about this type of \"pills\". One [*] song partially named for it has the lyric \"I only wanted to see you bathing in\" a substance of this hue, while yet another asks \"Is it tomorrow, or just the end of time?\" after the addled vocalist says \"Scuse me while I kiss this guy\". For 10": {
+    "guess": "Purple",
+    "confidence": [
+      [
+        "Purple",
+        -0.0054544285
+      ]
+    ]
+  },
+  "In a Gogol Bordello song about this, \"your sanity and wits they will all vanish\" if you \"start wearing\"": {
+    "guess": "Start Wearing Purple",
+    "confidence": [
+      [
+        "Start",
+        -0.85280836
+      ],
+      [
+        " W",
+        -0.004504654
+      ],
+      [
+        "earing",
+        -5.0974373e-05
+      ],
+      [
+        " Purple",
+        -0.0001626572
+      ]
+    ]
+  },
+  "In a Gogol Bordello song about this, \"your sanity and wits they will all vanish\" if you \"start wearing\" it. The musical Spring Awakening ends with a song named for this type of \"Summer\", and the Eminem-led": {
+    "guess": "Mask",
+    "confidence": [
+      [
+        "Mask",
+        -2.4131153
+      ]
+    ]
+  }
+}

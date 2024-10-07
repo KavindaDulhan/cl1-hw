@@ -1,0 +1,98 @@
+{
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement": {
+    "guess": "Magnetic flux",
+    "confidence": [
+      [
+        "M",
+        -1.5319054
+      ],
+      [
+        "agnetic",
+        -0.33731124
+      ],
+      [
+        " flux",
+        -0.63594
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance squared. The \"normal\" type of this always acts perpendicularly to an inclined plane an object rests on. For ten points, what is this vector quantity from physics, which is equal to mass times acceleration and is often measured in Newtons?": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.005350567
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to": {
+    "guess": "Magnetic flux",
+    "confidence": [
+      [
+        "M",
+        -0.25861478
+      ],
+      [
+        "agnetic",
+        -0.017769065
+      ],
+      [
+        " flux",
+        -0.58069867
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance squared. The \"normal\" type of this always acts perpendicularly to an inclined plane an object rests on. For ten points, what is this vector quantity from physics, which is equal to mass times acceleration": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.023982715
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this": {
+    "guess": "Magnetic force",
+    "confidence": [
+      [
+        "M",
+        -0.46849135
+      ],
+      [
+        "agnetic",
+        -0.0074193217
+      ],
+      [
+        " force",
+        -0.39107183
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of": {
+    "guess": "Current",
+    "confidence": [
+      [
+        "Current",
+        -0.4486577
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.8577212
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance squared. The \"normal\" type of this always acts perpendicularly to an inclined plane an object rests": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.053938016
+      ]
+    ]
+  }
+}

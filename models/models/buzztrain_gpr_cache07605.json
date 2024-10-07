@@ -1,0 +1,67 @@
+{
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.15056385
+      ],
+      [
+        "imestone",
+        -4.6683042e-05
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an effervescent reaction, in which it reacts with dilute acid to release carbon dioxide. At lower pressures, this turns into dolomite, while higher pressures turn this into marble. For 10 points, name this sedimentary rock mostly composed of calcite, often used in cement.": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.006394538
+      ],
+      [
+        "imestone",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.019594185
+      ],
+      [
+        "imestone",
+        -2.6299214e-05
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an effervescent reaction, in which it reacts with dilute acid to release carbon dioxide. At lower pressures, this turns into dolomite, while higher pressures turn this into marble. For 10 points, name this": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.0045305192
+      ],
+      [
+        "imestone",
+        -1.1279553e-05
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an effervescent reaction, in which it reacts with dilute acid to release carbon dioxide. At lower pressures,": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.08020761
+      ],
+      [
+        "imestone",
+        -0.000108668944
+      ]
+    ]
+  }
+}

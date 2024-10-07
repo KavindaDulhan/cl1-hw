@@ -1,0 +1,268 @@
+{
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of this tissue contain mitochondria with a unique uncoupling protein that initiates an oxidative phosphorylation": {
+    "guess": "Adipose Tissue",
+    "confidence": [
+      [
+        "Ad",
+        -0.019461619
+      ],
+      [
+        "ip",
+        -8.6497064e-05
+      ],
+      [
+        "ose",
+        -0.0019528987
+      ],
+      [
+        " T",
+        -0.030315232
+      ],
+      [
+        "issue",
+        -0.00017314713
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities. PGP and PIN are proteins involved in the transport of these molecules. Their transport also involves a decrease in the pH of the cell, which induces the activation of expansins. Excess concentration of these molecules can induce Ethylene synthesis, which causes leaf abscission. Indole-3-acetic acid is an important member of this class of molecules, which play a significant role in apical dominance. For 10 points, identify these plant hormones which are best known for their influence in phototropism and geotropism.": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0010175677
+      ],
+      [
+        "in",
+        -0.051604092
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities. PGP and PIN are proteins involved in the transport of these molecules. Their transport also involves a decrease in the pH of the cell, which induces the activation of expansins. Excess concentration of these molecules can induce Ethylene synthesis, which causes leaf abscission. Indole-3-acetic acid is an important member of this class of molecules, which play a significant role in apical": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.004654407
+      ],
+      [
+        "in",
+        -0.029976094
+      ]
+    ]
+  },
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of this tissue contain mitochondria with a unique uncoupling protein that initiates an oxidative phosphorylation reaction to produce heat instead of ATP. Yellow bone marrow consists mainly of cells from this tissue. Ob/ob [\"o-b o-b\"] mice contain greater amounts of this tissue because of their inability to secrete leptin, which these cells produce to suppress hunger. To help with nonshivering thermogenesis,": {
+    "guess": "Adipose Tissue",
+    "confidence": [
+      [
+        "Ad",
+        -0.26516202
+      ],
+      [
+        "ip",
+        -9.901345e-05
+      ],
+      [
+        "ose",
+        -0.0002105734
+      ],
+      [
+        " T",
+        -0.025025574
+      ],
+      [
+        "issue",
+        -0.00030161935
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities. PGP and PIN are proteins involved in the transport of these molecules. Their transport also involves a decrease in the pH of the cell, which induces the activation of expansins. Excess concentration of these molecules can induce Ethylene synthesis, which causes leaf abscission. Indole-3-acetic": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0044175363
+      ],
+      [
+        "in",
+        -0.0028258003
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities.": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.0027960802
+      ],
+      [
+        "in",
+        -0.0014501138
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities. PGP and PIN are proteins involved in the transport of these molecules. Their transport also": {
+    "guess": "Auxin transport",
+    "confidence": [
+      [
+        "Aux",
+        -0.041629333
+      ],
+      [
+        "in",
+        -0.0039647743
+      ],
+      [
+        " transport",
+        -0.04464547
+      ]
+    ]
+  },
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of this tissue contain mitochondria with a unique uncoupling protein that initiates an oxidative phosphorylation reaction to produce heat instead of ATP. Yellow bone marrow consists mainly of cells from": {
+    "guess": "Adipose Tissue",
+    "confidence": [
+      [
+        "Ad",
+        -0.45676488
+      ],
+      [
+        "ip",
+        -6.754368e-05
+      ],
+      [
+        "ose",
+        -0.0035337794
+      ],
+      [
+        " T",
+        -0.06946857
+      ],
+      [
+        "issue",
+        -6.9570146e-05
+      ]
+    ]
+  },
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of this tissue contain mitochondria with a unique uncoupling protein that initiates an oxidative phosphorylation reaction to produce heat instead of ATP. Yellow bone marrow consists mainly of cells from this tissue. Ob/ob [\"o-b o-b\"] mice contain greater amounts of this tissue because of their inability": {
+    "guess": "Adipose Tissue",
+    "confidence": [
+      [
+        "Ad",
+        -0.14463559
+      ],
+      [
+        "ip",
+        -9.72254e-05
+      ],
+      [
+        "ose",
+        -0.00037919526
+      ],
+      [
+        " T",
+        -0.06654415
+      ],
+      [
+        "issue",
+        -0.00029685118
+      ]
+    ]
+  },
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of this tissue contain mitochondria with a unique uncoupling protein that initiates an oxidative phosphorylation reaction to produce heat instead of ATP. Yellow bone marrow consists mainly of cells from this tissue. Ob/ob [\"o-b o-b\"] mice contain greater amounts of this tissue because of their inability to secrete leptin, which these cells produce to suppress hunger. To help with nonshivering thermogenesis, human infants have a form of this tissue with many mitochondria that give it a brown color.": {
+    "guess": "Adipose Tissue",
+    "confidence": [
+      [
+        "Ad",
+        -0.32587418
+      ],
+      [
+        "ip",
+        -2.2842309e-05
+      ],
+      [
+        "ose",
+        -2.5107178e-05
+      ],
+      [
+        " T",
+        -0.040544383
+      ],
+      [
+        "issue",
+        -0.00024894232
+      ]
+    ]
+  },
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of this tissue contain mitochondria with a unique uncoupling protein that initiates an oxidative phosphorylation reaction to produce heat instead of ATP. Yellow bone marrow consists mainly of cells from this tissue. Ob/ob [\"o-b o-b\"] mice contain greater amounts of this tissue because of their inability to secrete leptin, which these cells produce to suppress hunger. To help with nonshivering thermogenesis, human infants have a form of this tissue with many mitochondria that give it a brown color. For 10 points, name this tissue that stores energy in the form of lipids.": {
+    "guess": "Adipose Tissue",
+    "confidence": [
+      [
+        "Ad",
+        -0.035385728
+      ],
+      [
+        "ip",
+        -5.1689596e-05
+      ],
+      [
+        "ose",
+        -1.3306016e-05
+      ],
+      [
+        " T",
+        -0.062011823
+      ],
+      [
+        "issue",
+        -0.0001906664
+      ]
+    ]
+  },
+  "This tissue names a type of fin found on some fish between the dorsal and caudal fins. Some types of": {
+    "guess": "Adipose fin",
+    "confidence": [
+      [
+        "Ad",
+        -0.029041957
+      ],
+      [
+        "ip",
+        -9.372295e-06
+      ],
+      [
+        "ose",
+        -2.220075e-06
+      ],
+      [
+        " fin",
+        -0.13637936
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities. PGP and PIN are proteins involved in the transport of these molecules. Their transport also involves a decrease in the pH of the cell, which induces the activation of expansins. Excess concentration of these molecules can induce Ethylene synthesis, which causes leaf abscission. Indole-3-acetic acid is an important member of this class of molecules, which play a significant role in apical dominance. For 10 points, identify these plant hormones which are best known for their influence in": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.002396698
+      ],
+      [
+        "in",
+        -0.06262898
+      ]
+    ]
+  },
+  "The TIR1 protein binds to the SCF complex and is then headed for degradation after binding to these entities. PGP and PIN are proteins involved in the transport of these molecules. Their transport also involves a decrease in the pH of the cell, which induces the activation of expansins. Excess concentration": {
+    "guess": "Auxin",
+    "confidence": [
+      [
+        "Aux",
+        -0.008150097
+      ],
+      [
+        "in",
+        -0.00026538875
+      ]
+    ]
+  }
+}

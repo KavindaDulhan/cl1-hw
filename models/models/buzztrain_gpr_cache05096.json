@@ -1,0 +1,126 @@
+{
+  "Ngozi and Gitega are some cities in this country, which contains Mount Heha. Its northwestern  border is defined by the Ruwa River, and this country's interior contains such rivers as the  Ruvironza and Rvubu. Bordering (*) Tanzania on the east and Lake Tanganyika on the south, its capital is Bujumbura. For 10 points\u2014 name this country found to the south of the similar Rwanda.": {
+    "guess": "Burundi",
+    "confidence": [
+      [
+        "Bur",
+        -0.0037428334
+      ],
+      [
+        "undi",
+        -6.575563e-05
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the input distribution determines the maximal efficiency of a randomness extractor. This quantity bounds": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.0029098464
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the input distribution determines the maximal efficiency of a randomness extractor. This quantity bounds the optimal code length in the source coding theorem. 1 minus the binary form of this quantity gives a binary symmetric channel's capacity, up to which reliable transmission is possible by the (*) noisy-channel": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.11976317
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the input distribution determines the maximal efficiency of a randomness extractor. This quantity bounds the optimal code length in the source coding theorem. 1 minus the binary form of this quantity gives": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.018386615
+      ]
+    ]
+  },
+  "Ngozi and Gitega are some cities in this country, which contains Mount Heha. Its northwestern  border": {
+    "guess": "Burundi",
+    "confidence": [
+      [
+        "Bur",
+        -0.0019109079
+      ],
+      [
+        "undi",
+        -0.00014776041
+      ]
+    ]
+  },
+  "Ngozi and Gitega are some cities in this country, which contains Mount Heha. Its northwestern  border is defined by the Ruwa River, and this country's interior contains such rivers as the  Ruvironza and": {
+    "guess": "Burundi",
+    "confidence": [
+      [
+        "Bur",
+        -0.008395775
+      ],
+      [
+        "undi",
+        -0.000290295
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.1704605
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the input distribution determines the maximal efficiency of a randomness extractor. This quantity bounds the optimal code length in the source coding theorem. 1 minus the binary form of this quantity gives a binary symmetric channel's capacity, up to which reliable transmission is possible by the (*) noisy-channel theorem. Given a discrete random variable X, taking negative 1 times the sum over all i": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.27652654
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.018229663
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the input distribution determines the maximal efficiency of a randomness extractor. This quantity bounds the optimal code length in the source coding theorem. 1 minus the binary form of this quantity gives a binary symmetric channel's capacity, up to which reliable transmission is possible by the (*) noisy-channel theorem. Given a discrete random variable X, taking negative 1 times the sum over all i of pilog of pi, where pi is the probability X equals i, gives this quantity. For 10 points, name this": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.1403255
+      ]
+    ]
+  },
+  "As n goes to infinity, the binomial coefficient n choose nk tends to 2 raised to n times the binary form of this quantity for n. One form of it is bounded above in Fano's inequality. This value for the input distribution determines the maximal efficiency of a randomness extractor. This quantity bounds the optimal code length in the source coding theorem. 1 minus the binary form of this quantity gives a binary symmetric channel's capacity, up to which reliable transmission is possible by the (*) noisy-channel theorem. Given a discrete random variable X, taking negative 1 times the sum over all i of pilog of pi, where pi is the probability X equals i, gives this quantity. For 10 points, name this measure of information content or randomness that comes in a Shannon form.": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.06419793
+      ]
+    ]
+  },
+  "Ngozi and Gitega are some cities in this country, which contains Mount Heha. Its northwestern  border is defined by the Ruwa River, and this country's interior contains such rivers as the  Ruvironza and Rvubu. Bordering (*) Tanzania on the east and Lake Tanganyika on the south, its capital is Bujumbura.": {
+    "guess": "Burundi",
+    "confidence": [
+      [
+        "Bur",
+        -0.00280856
+      ],
+      [
+        "undi",
+        -0.0001245157
+      ]
+    ]
+  }
+}

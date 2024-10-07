@@ -1,0 +1,118 @@
+{
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision of the 39 Articles, and abolishment of the Book of Common Prayer. This body was called after the Battle of Newburn in the Second Bishops' Wars when \"ship money\" ran out. John Pym influenced this body that executed the Earl of Strafford and issued the (*) Grand Remonstrance. This body's Habeas Corpus Act disbanded the Court of High Commission and the Star Chamber. Pride's Purge reduced this body that passed the Triennial Act forbidding its non-consensual dissolution by Charles I. For 10 points,": {
+    "guess": "Long Parliament",
+    "confidence": [
+      [
+        "Long",
+        -0.15232521
+      ],
+      [
+        " Parliament",
+        -0.00017314713
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision of the 39 Articles, and abolishment of the Book of Common Prayer. This body was called after the Battle of Newburn in the Second Bishops' Wars when \"ship money\" ran out. John Pym influenced this body": {
+    "guess": "Long Parliament",
+    "confidence": [
+      [
+        "Long",
+        -0.50890225
+      ],
+      [
+        " Parliament",
+        -2.486877e-05
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision of the 39 Articles, and abolishment of the Book of Common Prayer. This body was called after the Battle": {
+    "guess": "Westminster Assembly",
+    "confidence": [
+      [
+        "West",
+        -0.14937976
+      ],
+      [
+        "minster",
+        -0.00031687375
+      ],
+      [
+        " Assembly",
+        -0.001667327
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision": {
+    "guess": "Westminster Assembly",
+    "confidence": [
+      [
+        "West",
+        -0.05917504
+      ],
+      [
+        "minster",
+        -0.0003857478
+      ],
+      [
+        " Assembly",
+        -0.0010496005
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision of the 39 Articles, and abolishment of the Book of Common Prayer. This body was called after the Battle of Newburn in the Second Bishops' Wars when \"ship money\" ran out. John Pym influenced this body that executed the Earl of Strafford and issued the (*) Grand Remonstrance. This body's Habeas Corpus Act disbanded the Court of High Commission and the Star Chamber. Pride's Purge reduced this body that passed the Triennial Act forbidding its non-consensual dissolution by Charles I. For 10 points, name this House of Commons session that started in 1640 and sat for roughly twenty years.": {
+    "guess": "Long Parliament",
+    "confidence": [
+      [
+        "Long",
+        -0.08550454
+      ],
+      [
+        " Parliament",
+        -0.000290295
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision of the 39 Articles, and abolishment of the Book of Common Prayer. This body was called after the Battle of Newburn in the Second Bishops' Wars when \"ship money\" ran out. John Pym influenced this body that executed the Earl of Strafford and issued the (*) Grand Remonstrance. This body's Habeas Corpus Act disbanded the Court of High Commission and the Star Chamber. Pride's Purge reduced this body that": {
+    "guess": "Long Parliament",
+    "confidence": [
+      [
+        "Long",
+        -0.0561433
+      ],
+      [
+        " Parliament",
+        -7.648396e-05
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group": {
+    "guess": "Covenanters",
+    "confidence": [
+      [
+        "C",
+        -0.5500727
+      ],
+      [
+        "ovenant",
+        -0.7502383
+      ],
+      [
+        "ers",
+        -0.00046343924
+      ]
+    ]
+  },
+  "To try and form an alliance against this group, one man made the Earl of Argyll a marquis. This group created an Assembly of Divines whose reforms included namesake large and small catechisms, revision of the 39 Articles, and abolishment of the Book of Common Prayer. This body was called after the Battle of Newburn in the Second Bishops' Wars when \"ship money\" ran out. John Pym influenced this body that executed the Earl of Strafford and issued the (*) Grand Remonstrance. This body's Habeas Corpus": {
+    "guess": "Long Parliament",
+    "confidence": [
+      [
+        "Long",
+        -0.07600648
+      ],
+      [
+        " Parliament",
+        -0.00011534435
+      ]
+    ]
+  }
+}

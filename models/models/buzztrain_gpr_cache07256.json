@@ -1,0 +1,155 @@
+{
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests.": {
+    "guess": "Macbeth (character)",
+    "confidence": [
+      [
+        "Mac",
+        -0.6837202
+      ],
+      [
+        "beth",
+        -0.00058496464
+      ],
+      [
+        " (",
+        -0.23343197
+      ],
+      [
+        "character",
+        -0.0018871112
+      ],
+      [
+        ")",
+        -0.00031139038
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs. That hand grasps the bridle of the horse that dominates the entire top of this painting. The title": {
+    "guess": "Napoleon Crossing the Alps",
+    "confidence": [
+      [
+        "N",
+        -1.1442727
+      ],
+      [
+        "ap",
+        -0.0048093647
+      ],
+      [
+        "oleon",
+        -0.0008422649
+      ],
+      [
+        " Crossing",
+        -0.124688804
+      ],
+      [
+        " the",
+        -7.3861476e-05
+      ],
+      [
+        " Alps",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs. That hand grasps the bridle of the horse that dominates the entire top of this painting. The title character lies on his back at the bottom with his arms raised to the sky after receiving a heavenly vision on his way to Damascus. FTP, name this Caravaggio depiction of an apostle.": {
+    "guess": "Conversion on the Way to Damascus",
+    "confidence": [
+      [
+        "Conversion",
+        -0.30746904
+      ],
+      [
+        " on",
+        -0.037081745
+      ],
+      [
+        " the",
+        -7.6364755e-05
+      ],
+      [
+        " Way",
+        -0.0021970023
+      ],
+      [
+        " to",
+        -5.8484206e-05
+      ],
+      [
+        " Damascus",
+        -9.770221e-05
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs. That hand grasps the bridle of the horse that dominates the entire top of this painting. The title character lies on his back at the bottom with his arms raised to the sky after receiving a heavenly": {
+    "guess": "The Death of General Wolfe",
+    "confidence": [
+      [
+        "The",
+        -0.11948247
+      ],
+      [
+        " Death",
+        -0.9216016
+      ],
+      [
+        " of",
+        -1.9743013e-05
+      ],
+      [
+        " General",
+        -0.9402083
+      ],
+      [
+        " Wolfe",
+        -0.0028789376
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs.": {
+    "guess": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "confidence": [
+      [
+        "The",
+        -1.2349514
+      ],
+      [
+        " Anatomy",
+        -1.6905226
+      ],
+      [
+        " Lesson",
+        -0.0012784495
+      ],
+      [
+        " of",
+        -2.4153549e-05
+      ],
+      [
+        " Dr",
+        -7.7318386e-05
+      ],
+      [
+        ".",
+        -0.002286099
+      ],
+      [
+        " Nicola",
+        -0.0060251383
+      ],
+      [
+        "es",
+        -0.00013584005
+      ],
+      [
+        " T",
+        -0.00011856285
+      ],
+      [
+        "ulp",
+        -6.869018e-06
+      ]
+    ]
+  }
+}

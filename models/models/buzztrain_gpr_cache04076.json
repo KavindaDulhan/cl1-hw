@@ -1,0 +1,71 @@
+{
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average": {
+    "guess": "Desert climate",
+    "confidence": [
+      [
+        "Des",
+        -0.68223786
+      ],
+      [
+        "ert",
+        -0.0007762774
+      ],
+      [
+        " climate",
+        -0.6188548
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of (*)": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.50581074
+      ],
+      [
+        "ert",
+        -0.02229998
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of (*) sand dunes are called ergs. Often formed within the rain shadow of a mountain range, name these dry regions, defined as receiving less than 250 millimeters of precipitation each year.": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.06890769
+      ],
+      [
+        "ert",
+        -0.016916387
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of (*) sand dunes are called ergs. Often formed within the rain shadow of a mountain range, name these dry": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.06961847
+      ],
+      [
+        "ert",
+        -0.0034919698
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.49526075
+      ],
+      [
+        "ert",
+        -0.00076722156
+      ]
+    ]
+  }
+}

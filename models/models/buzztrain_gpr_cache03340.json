@@ -1,0 +1,112 @@
+{
+  "Irwin Shaw's novel The Young Lions follows three young men during this war. The supposed theft of a quart": {
+    "guess": "World War II",
+    "confidence": [
+      [
+        "World",
+        -0.025934475
+      ],
+      [
+        " War",
+        -0.0005458842
+      ],
+      [
+        " II",
+        -0.0023903986
+      ]
+    ]
+  },
+  "Irwin Shaw's novel The Young Lions follows three young men during this war. The supposed theft of a quart of strawberries becomes an obsession for Captain Queeg in another novel set on a minesweeping ship in this war, The Caine Mutiny. James Jones set three novels in this war, including The Thin Red": {
+    "guess": "World War II",
+    "confidence": [
+      [
+        "World",
+        -0.007458257
+      ],
+      [
+        " War",
+        -0.00036573625
+      ],
+      [
+        " II",
+        -0.00016384924
+      ]
+    ]
+  },
+  "Irwin Shaw's novel The Young Lions follows three young men during this war. The supposed theft of a quart of strawberries becomes an obsession for Captain Queeg in another novel set on a minesweeping ship": {
+    "guess": "World War II",
+    "confidence": [
+      [
+        "World",
+        -0.019972388
+      ],
+      [
+        " War",
+        -0.00043543737
+      ],
+      [
+        " II",
+        -0.000782707
+      ]
+    ]
+  },
+  "Irwin Shaw's novel The Young Lions follows three young men during this war. The supposed theft of a quart of strawberries becomes an obsession for Captain Queeg in another novel set on a minesweeping ship in this war, The Caine Mutiny. James Jones set three novels in this war, including The Thin Red Line and a book focusing on the activities of G Company in Hawaii, From Here to Eternity. The island": {
+    "guess": "World War II",
+    "confidence": [
+      [
+        "World",
+        -0.034102276
+      ],
+      [
+        " War",
+        -0.0014191613
+      ],
+      [
+        " II",
+        -0.00013882013
+      ]
+    ]
+  },
+  "Irwin Shaw's novel The Young Lions follows three young men during this war. The supposed theft of a quart of strawberries becomes an obsession for Captain Queeg in another novel set on a minesweeping ship in this war, The Caine Mutiny. James Jones set three novels in this war, including The Thin Red Line and a book focusing on the activities of G Company in Hawaii, From Here to Eternity. The island of Anopopei provides the setting for another novel of this war, set in the South Pacific. FTP what war is the subject of Norman Mailer's The Naked and the Dead?": {
+    "guess": "World War II",
+    "confidence": [
+      [
+        "World",
+        -0.0035545775
+      ],
+      [
+        " War",
+        -0.00012821102
+      ],
+      [
+        " II",
+        -5.3000836e-05
+      ]
+    ]
+  },
+  "Irwin Shaw's novel The Young Lions follows three young men during this war. The supposed theft of a quart of strawberries becomes an obsession for Captain Queeg in another novel set on a minesweeping ship in this war, The Caine Mutiny. James Jones set three novels in this war, including The Thin Red Line and a book focusing on the activities of G Company in Hawaii, From Here to Eternity. The island of Anopopei provides the setting for another novel of this war, set in the South Pacific. FTP what": {
+    "guess": "World War II in literature",
+    "confidence": [
+      [
+        "World",
+        -0.013222464
+      ],
+      [
+        " War",
+        -0.0004253124
+      ],
+      [
+        " II",
+        -0.00018339496
+      ],
+      [
+        " in",
+        -0.19049232
+      ],
+      [
+        " literature",
+        -0.73432434
+      ]
+    ]
+  }
+}

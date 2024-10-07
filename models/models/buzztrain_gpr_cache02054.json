@@ -1,0 +1,188 @@
+{
+  "They are fixed points of the circular restricted three-body problem.  The first three are unstable to radial perturbations but the final two are in islands of stability.  The SoHO spacecraft orbits one in the Earth-Sun system, and for ten points, two in the Earth-Moon system are likely sites for space": {
+    "guess": "Lagrangian point",
+    "confidence": [
+      [
+        "L",
+        -0.0013716687
+      ],
+      [
+        "agr",
+        -0.475933
+      ],
+      [
+        "ang",
+        -2.9352968e-06
+      ],
+      [
+        "ian",
+        -0.00019984508
+      ],
+      [
+        " point",
+        -0.24577671
+      ]
+    ]
+  },
+  "They are fixed points of the circular restricted three-body problem.  The first three are unstable to": {
+    "guess": "Lagrange points",
+    "confidence": [
+      [
+        "L",
+        -0.04353003
+      ],
+      [
+        "ag",
+        -0.3147973
+      ],
+      [
+        "range",
+        -6.0510665e-05
+      ],
+      [
+        " points",
+        -0.4292566
+      ]
+    ]
+  },
+  "A fixed gap \"h\" is used in one variation of this operation, which improves upon a simpler version in which \"h\" would always equal one. A variation of this operation that can compare least significant digits is called the radix type, and another type of this process randomly places elements and checks if they are correct. One type of this operation uses a pivot to flip elements larger or smaller than the pivot, and notable types of this operation include the \"bubble\" and \"quick\" varieties. For 10 points, name this operation which puts elements of a list in order.": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.018624188
+      ],
+      [
+        " algorithm",
+        -0.040091306
+      ]
+    ]
+  },
+  "A fixed gap \"h\" is used in one variation of this operation, which improves upon a simpler version in": {
+    "guess": "Newton's method",
+    "confidence": [
+      [
+        "Newton",
+        -1.5292317
+      ],
+      [
+        "'s",
+        -0.048093285
+      ],
+      [
+        " method",
+        -0.09051545
+      ]
+    ]
+  },
+  "A fixed gap \"h\" is used in one variation of this operation, which improves upon a simpler version in which \"h\" would always equal one. A variation of this operation that can compare least significant digits is called the radix type, and another type of this process randomly places elements and checks if they are correct. One type of this operation uses a pivot to flip elements larger or smaller than": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.9072347
+      ],
+      [
+        " algorithm",
+        -0.06371328
+      ]
+    ]
+  },
+  "A fixed gap \"h\" is used in one variation of this operation, which improves upon a simpler version in which \"h\" would always equal one. A variation of this operation that can compare least significant digits is called the radix type, and another type of this process randomly places elements and checks if they are correct. One type of this operation uses a pivot to flip elements larger or smaller than the pivot, and notable types of this operation include the \"bubble\" and \"quick\" varieties. For 10": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.014624
+      ],
+      [
+        " algorithm",
+        -0.025779506
+      ]
+    ]
+  },
+  "They are fixed points of the circular restricted three-body problem.  The first three are unstable to radial perturbations but the final two are in islands of stability.  The SoHO spacecraft orbits one": {
+    "guess": "Lagrangian point",
+    "confidence": [
+      [
+        "L",
+        -0.0060676825
+      ],
+      [
+        "agr",
+        -0.6196432
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "ian",
+        -5.5861725e-05
+      ],
+      [
+        " point",
+        -0.14029588
+      ]
+    ]
+  },
+  "A fixed gap \"h\" is used in one variation of this operation, which improves upon a simpler version in which \"h\" would always equal one. A variation of this operation that can compare least significant digits is called the radix type, and another type of this process randomly places elements and checks": {
+    "guess": "Radix sort",
+    "confidence": [
+      [
+        "Rad",
+        -0.52029777
+      ],
+      [
+        "ix",
+        -6.511407e-06
+      ],
+      [
+        " sort",
+        -0.035546344
+      ]
+    ]
+  },
+  "They are fixed points of the circular restricted three-body problem.  The first three are unstable to radial perturbations but the final two are in islands of stability.  The SoHO spacecraft orbits one in the Earth-Sun system, and for ten points, two in the Earth-Moon system are likely sites for space colonies built at what points named for a French mathematician.": {
+    "guess": "Lagrangian point",
+    "confidence": [
+      [
+        "L",
+        -0.002592304
+      ],
+      [
+        "agr",
+        -0.6459763
+      ],
+      [
+        "ang",
+        -1.8193366e-05
+      ],
+      [
+        "ian",
+        -0.00017386234
+      ],
+      [
+        " point",
+        -0.17366986
+      ]
+    ]
+  },
+  "A fixed gap \"h\" is used in one variation of this operation, which improves upon a simpler version in which \"h\" would always equal one. A variation of this operation that can compare least significant digits": {
+    "guess": "Numerical differentiation",
+    "confidence": [
+      [
+        "Numer",
+        -0.23567069
+      ],
+      [
+        "ical",
+        -1.4498052e-05
+      ],
+      [
+        " differentiation",
+        -0.31791407
+      ]
+    ]
+  }
+}

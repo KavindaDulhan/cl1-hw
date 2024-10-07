@@ -1,0 +1,161 @@
+{
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic scutellum. The Acorus genus is thought to be the oldest branch within this taxon. They include the large Poaceae and the Orchidaceae families. (*) In addition to coleoptiles, a protective shealth with two mid ribs and two vascular bundles in many of them was used in the study of auxins.They often have adventitious roots, flowers parts in parts of three, and parallel veins. They include the onion,": {
+    "guess": "Monocotyledon",
+    "confidence": [
+      [
+        "Mon",
+        -0.014788804
+      ],
+      [
+        "oc",
+        -4.3464544e-05
+      ],
+      [
+        "ot",
+        -0.13733365
+      ],
+      [
+        "yled",
+        -8.418666e-06
+      ],
+      [
+        "on",
+        -0.004109508
+      ]
+    ]
+  },
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic scutellum. The Acorus genus is thought to be the oldest branch within this taxon. They include the large Poaceae and the Orchidaceae families. (*) In addition to coleoptiles, a protective shealth with two mid ribs and two vascular bundles in many of them was used in the study of auxins.They often have adventitious roots, flowers parts in parts of three, and parallel veins. They include the onion, sugar cane, and the cereal grain family. For 10 points, name this group of plants that have a single cotyledon or seed leaf that makes up one of the two major groups of angiosperms along with dicots.": {
+    "guess": "Monocotyledon",
+    "confidence": [
+      [
+        "Mon",
+        -0.0004928642
+      ],
+      [
+        "oc",
+        -5.955704e-05
+      ],
+      [
+        "ot",
+        -0.009345776
+      ],
+      [
+        "yled",
+        -1.5570886e-05
+      ],
+      [
+        "on",
+        -0.003422355
+      ]
+    ]
+  },
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic scutellum. The Acorus genus is thought to be the oldest branch within this taxon. They include the": {
+    "guess": "Monocots",
+    "confidence": [
+      [
+        "Mon",
+        -0.40075994
+      ],
+      [
+        "oc",
+        -5.574252e-05
+      ],
+      [
+        "ots",
+        -0.47563514
+      ]
+    ]
+  },
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic scutellum. The Acorus genus is thought to be the oldest branch within this taxon. They include the large Poaceae and the Orchidaceae families. (*) In addition to coleoptiles, a protective shealth with": {
+    "guess": "Monocotyledon",
+    "confidence": [
+      [
+        "Mon",
+        -0.12674066
+      ],
+      [
+        "oc",
+        -0.0001408466
+      ],
+      [
+        "ot",
+        -0.5839201
+      ],
+      [
+        "yled",
+        -1.1756368e-05
+      ],
+      [
+        "on",
+        -0.07859583
+      ]
+    ]
+  },
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic scutellum. The Acorus genus is thought to be the oldest branch within this taxon. They include the large Poaceae and the Orchidaceae families. (*) In addition to coleoptiles, a protective shealth with two mid ribs and two vascular bundles in many of them was used in the study of auxins.They often have adventitious roots, flowers parts in parts of three, and parallel veins. They include the onion, sugar cane, and the cereal grain family. For 10 points, name this group of plants that have a single": {
+    "guess": "Monocotyledon",
+    "confidence": [
+      [
+        "Mon",
+        -0.026269058
+      ],
+      [
+        "oc",
+        -5.1689596e-05
+      ],
+      [
+        "ot",
+        -0.18759263
+      ],
+      [
+        "yled",
+        -1.735894e-05
+      ],
+      [
+        "on",
+        -0.017409602
+      ]
+    ]
+  },
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic scutellum. The Acorus genus is thought to be the oldest branch within this taxon. They include the large Poaceae and the Orchidaceae families. (*) In addition to coleoptiles, a protective shealth with two mid ribs and two vascular bundles in many of them was used in the study of auxins.They often": {
+    "guess": "Monocots",
+    "confidence": [
+      [
+        "Mon",
+        -0.15422651
+      ],
+      [
+        "oc",
+        -0.0002258278
+      ],
+      [
+        "ots",
+        -0.65266585
+      ]
+    ]
+  },
+  "P2 subtype SE plastids is a synapomorphy for this taxon. Many of these organisms have a characteristic": {
+    "guess": "Chlorophyta",
+    "confidence": [
+      [
+        "Ch",
+        -1.071044
+      ],
+      [
+        "lor",
+        -0.3316578
+      ],
+      [
+        "oph",
+        -0.3419186
+      ],
+      [
+        "y",
+        -0.058659542
+      ],
+      [
+        "ta",
+        -0.019768931
+      ]
+    ]
+  }
+}

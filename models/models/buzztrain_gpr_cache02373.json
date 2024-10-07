@@ -1,0 +1,259 @@
+{
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method,": {
+    "guess": "Gibbs sampling",
+    "confidence": [
+      [
+        "G",
+        -0.033297542
+      ],
+      [
+        "ib",
+        -0.018675542
+      ],
+      [
+        "bs",
+        -0.001590558
+      ],
+      [
+        " sampling",
+        -0.024134347
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations": {
+    "guess": "Gibbs sampling",
+    "confidence": [
+      [
+        "G",
+        -0.5067564
+      ],
+      [
+        "ib",
+        -0.14834504
+      ],
+      [
+        "bs",
+        -0.0024559149
+      ],
+      [
+        " sampling",
+        -0.14257312
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm": {
+    "guess": "Simulated annealing",
+    "confidence": [
+      [
+        "Sim",
+        -0.38859424
+      ],
+      [
+        "ulated",
+        -0.0006528667
+      ],
+      [
+        " anne",
+        -0.013386801
+      ],
+      [
+        "aling",
+        -2.2127088e-05
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.08400233
+      ],
+      [
+        "utron",
+        -4.604148e-06
+      ],
+      [
+        " star",
+        -0.004339799
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.15868738
+      ],
+      [
+        "utron",
+        -0.0001071193
+      ],
+      [
+        " star",
+        -0.05854813
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation gives most of them the name of pulsars. Created following Type II, Ib, or Ic supernovae and lighter": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.0073708114
+      ],
+      [
+        "utron",
+        -1.4617256e-05
+      ],
+      [
+        " star",
+        -0.0028615815
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation gives most of them the name of pulsars. Created following Type II, Ib, or Ic supernovae and lighter than black holes, for ten points, what remnants of stellar collapse are nonetheless so massive that they contain matter too dense for electrons to remain in orbit around protons?": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.007706246
+      ],
+      [
+        "utron",
+        -7.815281e-05
+      ],
+      [
+        " star",
+        -0.008808377
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation gives most of them the name of pulsars. Created following Type II, Ib, or Ic supernovae and lighter than black holes, for ten points, what remnants of stellar collapse are nonetheless so massive that": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.44285578
+      ],
+      [
+        "utron",
+        -4.7159858e-05
+      ],
+      [
+        " star",
+        -0.0054584593
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations to a jump discontinuity. He introduced the notion of chemical potential, and deduced a relation for closed systems in equilibrium between the numbers of chemical components, degrees of freedom": {
+    "guess": "Metropolis-Hastings algorithm",
+    "confidence": [
+      [
+        "Met",
+        -1.2028891
+      ],
+      [
+        "ropolis",
+        -0.0010479353
+      ],
+      [
+        "-H",
+        -0.4591952
+      ],
+      [
+        "ast",
+        -0.010534585
+      ],
+      [
+        "ings",
+        -3.5313153e-06
+      ],
+      [
+        " algorithm",
+        -0.022119377
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.02199611
+      ],
+      [
+        "utron",
+        -9.133887e-06
+      ],
+      [
+        " star",
+        -0.0018329688
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations to a jump discontinuity. He introduced the notion of chemical potential, and deduced a relation for closed systems in equilibrium between the numbers of chemical components, degrees of freedom and separate phases. FTP name this physical chemist who also introduced a namesake free energy.": {
+    "guess": "Josiah Willard Gibbs",
+    "confidence": [
+      [
+        "Jos",
+        -1.1191571
+      ],
+      [
+        "iah",
+        -0.002958208
+      ],
+      [
+        " Will",
+        -0.0066232355
+      ],
+      [
+        "ard",
+        -0.0017866829
+      ],
+      [
+        " Gibbs",
+        -0.00010926496
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations to a jump discontinuity. He introduced the notion of chemical potential, and deduced a relation": {
+    "guess": "Gibbs sampling",
+    "confidence": [
+      [
+        "G",
+        -1.2497383
+      ],
+      [
+        "ib",
+        -0.08549097
+      ],
+      [
+        "bs",
+        -0.010577998
+      ],
+      [
+        " sampling",
+        -0.113404535
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.013607543
+      ],
+      [
+        "utron",
+        -1.3902034e-05
+      ],
+      [
+        " star",
+        -0.0042887614
+      ]
+    ]
+  }
+}

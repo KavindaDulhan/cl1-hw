@@ -1,0 +1,68 @@
+{
+  "In the MIPS (\"mips\") architecture, many ALU (\"A\"-\"L\"-\"U\") operations, such as add, have this as their opcode. In \"one's complement\" notation there are two of these. In Unix, slash dev slash null has a counterpart that produces these. In C++ this is equivalent to false. Arrays usually start with this index. In digital circuits, this number corresponds to a low voltage. A common programming error, or exception, is dividing by this number. For 10 points, name this value, which is contrasted with \"one\" in the binary system used by computers.": {
+    "guess": "0",
+    "confidence": [
+      [
+        "0",
+        -0.65439534
+      ]
+    ]
+  },
+  "In the MIPS (\"mips\") architecture, many ALU (\"A\"-\"L\"-\"U\") operations, such as add, have this as their opcode. In \"one's complement\" notation there are two of these. In Unix, slash dev slash null has a": {
+    "guess": "Opcode",
+    "confidence": [
+      [
+        "Opcode",
+        -0.38432088
+      ]
+    ]
+  },
+  "In the MIPS (\"mips\") architecture, many ALU (\"A\"-\"L\"-\"U\") operations, such as add, have this as their opcode. In \"one's complement\" notation there are two of these. In Unix, slash dev slash null has a counterpart that produces these. In C++ this is equivalent to false. Arrays usually start with this": {
+    "guess": "Zero",
+    "confidence": [
+      [
+        "Zero",
+        -1.3387995
+      ]
+    ]
+  },
+  "In the MIPS (\"mips\") architecture, many ALU (\"A\"-\"L\"-\"U\") operations, such as add, have this as their opcode. In \"one's complement\" notation there are two of these. In Unix, slash dev slash null has a counterpart that produces these. In C++ this is equivalent to false. Arrays usually start with this index. In digital circuits, this number corresponds to a low voltage. A common programming error, or exception, is dividing by this number. For 10 points, name this value, which is contrasted with \"one\"": {
+    "guess": "Zero",
+    "confidence": [
+      [
+        "Zero",
+        -0.06954697
+      ]
+    ]
+  },
+  "In the MIPS (\"mips\") architecture, many ALU (\"A\"-\"L\"-\"U\") operations, such as add, have this as their opcode. In \"one's complement\" notation there are two of these. In Unix, slash dev slash null has a counterpart that produces these. In C++ this is equivalent to false. Arrays usually start with this index. In digital circuits, this number corresponds to a low voltage. A common programming error, or": {
+    "guess": "Zero",
+    "confidence": [
+      [
+        "Zero",
+        -0.54703695
+      ]
+    ]
+  },
+  "In the MIPS (\"mips\") architecture, many ALU (\"A\"-\"L\"-\"U\") operations, such as add, have this as their": {
+    "guess": "Arithmetic logic unit",
+    "confidence": [
+      [
+        "Ar",
+        -0.5397068
+      ],
+      [
+        "ithmetic",
+        -4.1557283e-05
+      ],
+      [
+        " logic",
+        -0.31841376
+      ],
+      [
+        " unit",
+        -0.00097101403
+      ]
+    ]
+  }
+}

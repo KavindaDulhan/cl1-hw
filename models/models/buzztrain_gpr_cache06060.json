@@ -1,0 +1,74 @@
+{
+  "pts: Every radioactive compound studied by Becquerel contained uranium,  and in all but one the intensitity of radiation was directly proportional to  the percentage of uranium in the ore. For fifteen points, name the exception,  a substance which gave off far more radiation than Becquerel's theory  could account for.": {
+    "guess": "Pitchblende",
+    "confidence": [
+      [
+        "Pitch",
+        -0.23274086
+      ],
+      [
+        "bl",
+        -0.00831066
+      ],
+      [
+        "ende",
+        -0.00022690064
+      ]
+    ]
+  },
+  "pts: Every radioactive compound studied by Becquerel contained uranium,  and in all but one the intensitity": {
+    "guess": "Uranium",
+    "confidence": [
+      [
+        "U",
+        -0.66173786
+      ],
+      [
+        "ran",
+        -0.00023774817
+      ],
+      [
+        "ium",
+        -0.14589742
+      ]
+    ]
+  },
+  "pts: Every radioactive compound studied by Becquerel contained uranium,  and in all but one the intensitity of radiation was directly proportional to  the percentage of uranium in the ore. For fifteen points, name the exception,  a substance which gave off far more radiation than Becquerel's theory ": {
+    "guess": "Pitchblende",
+    "confidence": [
+      [
+        "Pitch",
+        -0.6104432
+      ],
+      [
+        "bl",
+        -0.008736654
+      ],
+      [
+        "ende",
+        -0.00019769941
+      ]
+    ]
+  },
+  "pts: Every radioactive compound studied by Becquerel contained uranium,  and in all but one the intensitity of radiation was directly proportional to  the percentage of uranium in the ore. For fifteen": {
+    "guess": "Uranium ore",
+    "confidence": [
+      [
+        "U",
+        -0.86737305
+      ],
+      [
+        "ran",
+        -0.00040600507
+      ],
+      [
+        "ium",
+        -0.5565431
+      ],
+      [
+        " ore",
+        -0.9153021
+      ]
+    ]
+  }
+}

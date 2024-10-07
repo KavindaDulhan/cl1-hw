@@ -1,0 +1,126 @@
+{
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch was built by Lucius Stertinius and where a triple arch honored Titus. The Flaminian Obelisk was brought": {
+    "guess": "Roman Forum",
+    "confidence": [
+      [
+        "Roman",
+        -0.5593167
+      ],
+      [
+        " Forum",
+        -0.15820453
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch was built by Lucius Stertinius and where a triple arch honored Titus. The Flaminian Obelisk was brought from Egypt to a location of this type, where a shrine-like pulvinar was built inside by Augustus.": {
+    "guess": "Roman Circus",
+    "confidence": [
+      [
+        "Roman",
+        -0.11958633
+      ],
+      [
+        " Circus",
+        -0.6609772
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch was built by Lucius Stertinius and where a triple arch honored Titus. The Flaminian Obelisk was brought from Egypt to a location of this type, where a shrine-like pulvinar was built inside by Augustus. The largest one of these buildings was constructed in the Vallis Murcia. Turning points called metae were located at the ends of spinas and near gates called carceres in these locations, where seven": {
+    "guess": "Circus",
+    "confidence": [
+      [
+        "C",
+        -0.3519356
+      ],
+      [
+        "irc",
+        -6.325235e-05
+      ],
+      [
+        "us",
+        -0.0011593853
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch was built by Lucius Stertinius and where a triple arch honored Titus. The Flaminian Obelisk was brought from Egypt to a location of this type, where a shrine-like pulvinar was built inside by Augustus. The largest one of these buildings was constructed in the Vallis Murcia. Turning points called metae": {
+    "guess": "Roman Circus",
+    "confidence": [
+      [
+        "Roman",
+        -0.179894
+      ],
+      [
+        " Circus",
+        -0.32232267
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke": {
+    "guess": "Great Fire of Rome",
+    "confidence": [
+      [
+        "Great",
+        -0.67769104
+      ],
+      [
+        " Fire",
+        -0.007994241
+      ],
+      [
+        " of",
+        -0.00074351835
+      ],
+      [
+        " Rome",
+        -0.0023921828
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch": {
+    "guess": "Roman Forum",
+    "confidence": [
+      [
+        "Roman",
+        -0.71737295
+      ],
+      [
+        " Forum",
+        -1.5647647
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch was built by Lucius Stertinius and where a triple arch honored Titus. The Flaminian Obelisk was brought from Egypt to a location of this type, where a shrine-like pulvinar was built inside by Augustus. The largest one of these buildings was constructed in the Vallis Murcia. Turning points called metae were located at the ends of spinas and near gates called carceres in these locations, where seven ova or dolphin markers were used to count laps. For 10 points, name these buildings used for such": {
+    "guess": "Circus",
+    "confidence": [
+      [
+        "C",
+        -0.33815894
+      ],
+      [
+        "irc",
+        -0.00032390308
+      ],
+      [
+        "us",
+        -0.022309076
+      ]
+    ]
+  },
+  "Tiberius set up a five-man commission and a fund to compensate for damages caused by a fire that broke out in one of these locations. Although it wasn't a forum, one of these locations was where an arch was built by Lucius Stertinius and where a triple arch honored Titus. The Flaminian Obelisk was brought from Egypt to a location of this type, where a shrine-like pulvinar was built inside by Augustus. The largest one of these buildings was constructed in the Vallis Murcia. Turning points called metae were located at the ends of spinas and near gates called carceres in these locations, where seven ova or dolphin markers were used to count laps. For 10 points, name these buildings used for such sporting events as chariot races, and which included a large one in Rome called the Maximus.": {
+    "guess": "Circus",
+    "confidence": [
+      [
+        "C",
+        -0.06514574
+      ],
+      [
+        "irc",
+        -2.0696643e-05
+      ],
+      [
+        "us",
+        -0.0002007987
+      ]
+    ]
+  }
+}

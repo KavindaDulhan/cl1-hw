@@ -1,0 +1,67 @@
+{
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can be treated like objects. Virtual ones can be overridden in object oriented programming. These have a (*) return type which can be void. For 10 points, name these sections of code that are called to accomplish": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.10398217
+      ],
+      [
+        "routine",
+        -0.0005427849
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can be treated like objects. Virtual ones can be overridden in object oriented programming. These have a (*) return type which can be void. For 10 points, name these sections of code that are called to accomplish a task, such as System dot out dot println in Java.": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.048750415
+      ],
+      [
+        "routine",
+        -0.0002759942
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.19032285
+      ],
+      [
+        "routine",
+        -0.00047416388
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.35821664
+      ],
+      [
+        "routine",
+        -0.0016806558
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can be treated like objects. Virtual ones can be overridden in object oriented programming. These have a": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.6022519
+      ],
+      [
+        "routine",
+        -0.00019603055
+      ]
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one": {
+    "guess": "Taxicab geometry",
+    "confidence": [
+      [
+        "Tax",
+        -0.119630866
+      ],
+      [
+        "ic",
+        -0.00050751894
+      ],
+      [
+        "ab",
+        -0.00012725739
+      ],
+      [
+        " geometry",
+        -0.062448576
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric, and evaluates to zero when its arguments are identical. Simply stated, this function describes the distance between neighboring points within a given set. FTP, what is this word, which also is the common": {
+    "guess": "Metric (mathematics)",
+    "confidence": [
+      [
+        "Metric",
+        -0.79808426
+      ],
+      [
+        " (",
+        -0.79687905
+      ],
+      [
+        "math",
+        -0.53651655
+      ],
+      [
+        "ematics",
+        -0.00017541199
+      ],
+      [
+        ")",
+        -0.00070921704
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term has come to describe a special type of locus where all the consecutive, parallel lines are parallel to and equidistant from a singular line. For 10 points \\-- identify this term which describes any solid in the shape of a canister.": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "C",
+        -0.0014943844
+      ],
+      [
+        "ylinder",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term has come to describe a special type of locus where all the consecutive, parallel lines are parallel": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "C",
+        -0.009464227
+      ],
+      [
+        "ylinder",
+        -0.0027362818
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric,": {
+    "guess": "Metric (mathematics)",
+    "confidence": [
+      [
+        "Metric",
+        -0.8878651
+      ],
+      [
+        " (",
+        -0.48858145
+      ],
+      [
+        "math",
+        -0.24093676
+      ],
+      [
+        "ematics",
+        -0.00032736
+      ],
+      [
+        ")",
+        -0.00080069585
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "C",
+        -0.0011331898
+      ],
+      [
+        "ylinder",
+        -0.008277199
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric, and evaluates to zero when its arguments are identical. Simply stated, this function describes the distance between neighboring points within a given set. FTP, what is this word, which also is the common name for the SI system of measurement?": {
+    "guess": "Metric (mathematics)",
+    "confidence": [
+      [
+        "Metric",
+        -0.49590614
+      ],
+      [
+        " (",
+        -0.8394567
+      ],
+      [
+        "math",
+        -0.18957505
+      ],
+      [
+        "ematics",
+        -0.00051728997
+      ],
+      [
+        ")",
+        -0.00075590453
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term has come to describe a special type of locus where all the consecutive, parallel lines are parallel to and equidistant from a singular line. For 10 points \\-- identify this term which describes any solid": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "C",
+        -0.002898071
+      ],
+      [
+        "ylinder",
+        -0.001135097
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric, and evaluates to zero when its arguments are identical. Simply stated, this function describes the": {
+    "guess": "Euclidean distance",
+    "confidence": [
+      [
+        "Eu",
+        -0.9317157
+      ],
+      [
+        "clidean",
+        -0.00029565915
+      ],
+      [
+        " distance",
+        -0.016419077
+      ]
+    ]
+  }
+}

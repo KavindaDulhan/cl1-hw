@@ -1,0 +1,378 @@
+{
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a black box with the capability to decide any problem in a single operation called an oracle, while Tibor Rado developed a function to determine the maximum operational time of one of them called the \"busy beaver.\" They are formally defined as seven-tuples that contain a partial \"transition\" function": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.07708563
+      ],
+      [
+        "uring",
+        -5.2643223e-05
+      ],
+      [
+        " machine",
+        -0.0076575004
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a": {
+    "guess": "List of mathematical objects",
+    "confidence": [
+      [
+        "List",
+        -0.6523695
+      ],
+      [
+        " of",
+        -0.0014321435
+      ],
+      [
+        " mathematical",
+        -0.32033536
+      ],
+      [
+        " objects",
+        -0.8384236
+      ]
+    ]
+  },
+  "It happens when a computer process uses an address which is not currently mapped in physical memory. Because most modern computers do not have enough physical RAM to contain the entire address space, these events are bound to occur eventually. The needed data is located, usually residing on a hard disk, and an unused section of RAM is swapped out so that the required page may be swapped in and accessed.": {
+    "guess": "Page replacement algorithm",
+    "confidence": [
+      [
+        "Page",
+        -0.21118234
+      ],
+      [
+        " replacement",
+        -0.7899474
+      ],
+      [
+        " algorithm",
+        -0.029075308
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.60953254
+      ],
+      [
+        "uring",
+        -0.0006739511
+      ],
+      [
+        " machine",
+        -0.052699752
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a black box with the capability to decide any problem in a single operation called an oracle, while Tibor": {
+    "guess": "Computational complexity theory",
+    "confidence": [
+      [
+        "Comput",
+        -0.9450427
+      ],
+      [
+        "ational",
+        -0.23070106
+      ],
+      [
+        " complexity",
+        -0.78399414
+      ],
+      [
+        " theory",
+        -0.00032283025
+      ]
+    ]
+  },
+  "The Haoma plant plays an important role in this religion. In it, the idea of chaos and disorder is known as Druj and a group of divine spirits is called the (*) Amesha Spenta. This religion's evil spirit is referred to as Angra Mainyu. Adherents of this religion believe in exposing corpses to the elements, typically in structures known as Towers of Silence. The holy text of this religion is known as the Avesta, and its supreme deity is Ahura Mazda. For 10 points, name this dualistic Persian religion,": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.005303601
+      ],
+      [
+        "oro",
+        -0.00021986762
+      ],
+      [
+        "ast",
+        -2.220075e-06
+      ],
+      [
+        "rian",
+        -1.8624639e-06
+      ],
+      [
+        "ism",
+        -2.2484697e-05
+      ]
+    ]
+  },
+  "It happens when a computer process uses an address which is not currently mapped in physical memory.": {
+    "guess": "Page table",
+    "confidence": [
+      [
+        "Page",
+        -0.067105465
+      ],
+      [
+        " table",
+        -0.60328877
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a black box with the capability to decide any problem in a single operation called an oracle, while Tibor Rado developed a function to determine the maximum operational time of one of them called the \"busy beaver.\" They are formally defined as seven-tuples that contain a partial \"transition\" function that directs their heads right and left on their tapes. For 10 points, identify these theoretical devices": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.011487612
+      ],
+      [
+        "uring",
+        -7.576874e-05
+      ],
+      [
+        " machine",
+        -0.021750836
+      ]
+    ]
+  },
+  "It happens when a computer process uses an address which is not currently mapped in physical memory. Because most modern computers do not have enough physical RAM to contain the entire address space, these events are bound to occur eventually. The needed data is located, usually residing on a hard disk,": {
+    "guess": "Page fault",
+    "confidence": [
+      [
+        "Page",
+        -0.08958794
+      ],
+      [
+        " fault",
+        -0.80273855
+      ]
+    ]
+  },
+  "It happens when a computer process uses an address which is not currently mapped in physical memory. Because most modern computers do not have enough physical RAM to contain the entire address space, these events are bound to occur eventually. The needed data is located, usually residing on a hard disk, and an unused section of RAM is swapped out so that the required page may be swapped in and accessed. FTP, name this memory-management event, invalid ones of which cause the infamous \"Blue Screen of Death\" on Windows-based computers.": {
+    "guess": "Page replacement",
+    "confidence": [
+      [
+        "Page",
+        -0.25494364
+      ],
+      [
+        " replacement",
+        -0.87479544
+      ]
+    ]
+  },
+  "It happens when a computer process uses an address which is not currently mapped in physical memory. Because most modern computers do not have enough physical RAM to contain the entire address space, these events are bound to occur eventually. The needed data is located, usually residing on a hard disk, and an unused section of RAM is swapped out so that the required page may be swapped in and accessed. FTP, name this memory-management event, invalid ones of which cause the infamous \"Blue Screen": {
+    "guess": "Page replacement",
+    "confidence": [
+      [
+        "Page",
+        -0.26802814
+      ],
+      [
+        " replacement",
+        -1.0217663
+      ]
+    ]
+  },
+  "The Haoma plant plays an important role in this religion. In it, the idea of chaos and disorder is known": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.010790645
+      ],
+      [
+        "oro",
+        -0.026211578
+      ],
+      [
+        "ast",
+        -9.817902e-05
+      ],
+      [
+        "rian",
+        -7.822647e-06
+      ],
+      [
+        "ism",
+        -0.33567482
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a black box with the capability to decide any problem in a single operation called an oracle, while Tibor Rado developed a function to determine the maximum operational time of one of them called the \"busy": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.41759062
+      ],
+      [
+        "uring",
+        -3.5954712e-05
+      ],
+      [
+        " machine",
+        -0.0028789376
+      ]
+    ]
+  },
+  "It happens when a computer process uses an address which is not currently mapped in physical memory. Because most modern computers do not have enough physical RAM to contain the entire address space, these": {
+    "guess": "Page replacement",
+    "confidence": [
+      [
+        "Page",
+        -0.05782552
+      ],
+      [
+        " replacement",
+        -1.4710488
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a black box with the capability to decide any problem in a single operation called an oracle, while Tibor Rado developed a function to determine the maximum operational time of one of them called the \"busy beaver.\" They are formally defined as seven-tuples that contain a partial \"transition\" function that directs their heads right and left on their tapes. For 10 points, identify these theoretical devices used to represent computational logic, named for a computer scientist who also names a test for artificial intelligence.": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.0064959275
+      ],
+      [
+        "uring",
+        -1.4617256e-05
+      ],
+      [
+        " machine",
+        -0.0069392635
+      ]
+    ]
+  },
+  "The Haoma plant plays an important role in this religion. In it, the idea of chaos and disorder is known as Druj and a group of divine spirits is called the (*) Amesha Spenta. This religion's evil spirit is referred to as Angra Mainyu. Adherents of this religion believe in exposing corpses to the elements,": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.004114969
+      ],
+      [
+        "oro",
+        -2.1650272e-05
+      ],
+      [
+        "ast",
+        -4.954393e-05
+      ],
+      [
+        "rian",
+        -3.2929079e-06
+      ],
+      [
+        "ism",
+        -0.0020042958
+      ]
+    ]
+  },
+  "The Haoma plant plays an important role in this religion. In it, the idea of chaos and disorder is known as Druj and a group of divine spirits is called the (*) Amesha Spenta. This religion's evil spirit is referred to as Angra Mainyu. Adherents of this religion believe in exposing corpses to the elements, typically in structures known as Towers of Silence. The holy text of this religion is known as the Avesta, and its supreme deity is Ahura Mazda. For 10 points, name this dualistic Persian religion, whose founder is alternately called Zarathustra.": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.01235872
+      ],
+      [
+        "oro",
+        -0.000101159116
+      ],
+      [
+        "ast",
+        -7.465036e-06
+      ],
+      [
+        "rian",
+        -6.704273e-07
+      ],
+      [
+        "ism",
+        -2.057744e-05
+      ]
+    ]
+  },
+  "The Haoma plant plays an important role in this religion. In it, the idea of chaos and disorder is known as Druj and a group of divine spirits is called the (*) Amesha Spenta. This religion's evil spirit is referred to as Angra Mainyu. Adherents of this religion believe in exposing corpses to the elements, typically in structures known as Towers of Silence. The holy text of this religion is known as": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.0056471867
+      ],
+      [
+        "oro",
+        -8.76891e-05
+      ],
+      [
+        "ast",
+        -7.703444e-06
+      ],
+      [
+        "rian",
+        -1.7432603e-06
+      ],
+      [
+        "ism",
+        -0.0028596781
+      ]
+    ]
+  },
+  "The Haoma plant plays an important role in this religion. In it, the idea of chaos and disorder is known as Druj and a group of divine spirits is called the (*) Amesha Spenta. This religion's evil spirit": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.0036079094
+      ],
+      [
+        "oro",
+        -0.00014227704
+      ],
+      [
+        "ast",
+        -0.00024727348
+      ],
+      [
+        "rian",
+        -1.7432603e-06
+      ],
+      [
+        "ism",
+        -0.015104241
+      ]
+    ]
+  },
+  "Hao Wang used the letter \"B\" to indicate a simplified variety of these objects, while Martin Davis appended Emil Post's name to another reduced variety of them. One version of these objects features a black box with the capability to decide any problem in a single operation called an oracle, while Tibor Rado developed a function to determine the maximum operational time of one of them called the \"busy beaver.\" They are formally defined as seven-tuples that contain a partial \"transition\" function that directs their heads right and left on their tapes. For 10 points, identify these theoretical devices used to represent computational logic, named for a computer scientist who also names a test for": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.014910369
+      ],
+      [
+        "uring",
+        -1.2948405e-05
+      ],
+      [
+        " machine",
+        -0.016194256
+      ]
+    ]
+  }
+}

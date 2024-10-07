@@ -1,0 +1,91 @@
+{
+  "The Baum-Welch algorithm is used to find the unknown parameters of the hidden type of his  namesake models.": {
+    "guess": "Hidden Markov models",
+    "confidence": [
+      [
+        "Hidden",
+        -0.61646646
+      ],
+      [
+        " Mark",
+        -0.0001341712
+      ],
+      [
+        "ov",
+        -1.8908588e-05
+      ],
+      [
+        " models",
+        -0.47147977
+      ]
+    ]
+  },
+  "The Baum-Welch algorithm is used to find the unknown parameters of the hidden type of his  namesake models. Google's page ranking system utilizes his namesake (*) chains to index the Internet, while the Chapman-Kolmogorov equation provides an identity for the transition probabilities in his namesake process. For 10 points\u2014 identify this Russian mathematician, the namesake of a type of  stochastic process whose future state is independent of its history.": {
+    "guess": "Markov chain",
+    "confidence": [
+      [
+        "Mark",
+        -0.3715412
+      ],
+      [
+        "ov",
+        -3.2929079e-06
+      ],
+      [
+        " chain",
+        -0.7523026
+      ]
+    ]
+  },
+  "The Baum-Welch algorithm is used to find the unknown parameters of the hidden type of his  namesake models. Google's page ranking system utilizes his namesake (*) chains to index the Internet, while the Chapman-Kolmogorov equation provides an identity for the transition probabilities in his namesake process. For 10 points\u2014 identify this Russian mathematician, the namesake of a type of  stochastic process": {
+    "guess": "Markov chain",
+    "confidence": [
+      [
+        "Mark",
+        -0.54587644
+      ],
+      [
+        "ov",
+        -8.061054e-06
+      ],
+      [
+        " chain",
+        -0.95832884
+      ]
+    ]
+  },
+  "The Baum-Welch algorithm is used to find the unknown parameters of the hidden type of his  namesake models. Google's page ranking system utilizes his namesake (*) chains to index the Internet, while the": {
+    "guess": "Markov models",
+    "confidence": [
+      [
+        "Mark",
+        -0.6183051
+      ],
+      [
+        "ov",
+        -2.2365493e-05
+      ],
+      [
+        " models",
+        -1.111489
+      ]
+    ]
+  },
+  "The Baum-Welch algorithm is used to find the unknown parameters of the hidden type of his  namesake models. Google's page ranking system utilizes his namesake (*) chains to index the Internet, while the Chapman-Kolmogorov equation provides an identity for the transition probabilities in his namesake": {
+    "guess": "Markov chain",
+    "confidence": [
+      [
+        "Mark",
+        -0.023939649
+      ],
+      [
+        "ov",
+        -3.5716304e-05
+      ],
+      [
+        " chain",
+        -0.34807912
+      ]
+    ]
+  }
+}

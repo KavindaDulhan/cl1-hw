@@ -1,0 +1,119 @@
+{
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection, nearly leaves for home, but an accident with his luggage gives him an excuse to continue his vacation where, obsessed with a boy he thinks is named Tadzio, he dies of cholera.  FTP, name this 1912": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.052743517
+      ],
+      [
+        " in",
+        -0.0060969424
+      ],
+      [
+        " Venice",
+        -0.00047297185
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection, nearly leaves for home, but an accident with his luggage gives him an excuse to continue his vacation where, obsessed with a boy he thinks is named Tadzio, he dies of cholera.  FTP, name this 1912 novella by Thomas Mann.": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.0032283368
+      ],
+      [
+        " in",
+        -0.00084667176
+      ],
+      [
+        " Venice",
+        -5.2047206e-05
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.75556856
+      ],
+      [
+        " in",
+        -0.004980067
+      ],
+      [
+        " Venice",
+        -8.7450695e-05
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection, nearly leaves for home, but an accident with his luggage gives him an excuse to continue his vacation": {
+    "guess": "The Talented Mr. Ripley",
+    "confidence": [
+      [
+        "The",
+        -0.2639176
+      ],
+      [
+        " Tal",
+        -0.49324313
+      ],
+      [
+        "ented",
+        -0.004104166
+      ],
+      [
+        " Mr",
+        -0.00058603747
+      ],
+      [
+        ".",
+        -0.0012057078
+      ],
+      [
+        " Rip",
+        -0.0001437075
+      ],
+      [
+        "ley",
+        -0.000119874094
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection,": {
+    "guess": "Death in Venice (novella)",
+    "confidence": [
+      [
+        "Death",
+        -0.24440312
+      ],
+      [
+        " in",
+        -0.0058976263
+      ],
+      [
+        " Venice",
+        -0.00023965542
+      ],
+      [
+        " (",
+        -0.68171406
+      ],
+      [
+        "nov",
+        -0.037837315
+      ],
+      [
+        "ella",
+        -0.0024626947
+      ],
+      [
+        ")",
+        -0.0009708949
+      ]
+    ]
+  }
+}

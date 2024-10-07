@@ -1,0 +1,97 @@
+{
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main": {
+    "guess": "Trumpet",
+    "confidence": [
+      [
+        "Trump",
+        -0.3611693
+      ],
+      [
+        "et",
+        -0.0032881093
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments,": {
+    "guess": "Flute",
+    "confidence": [
+      [
+        "Fl",
+        -0.8548408
+      ],
+      [
+        "ute",
+        -0.00023381444
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his": {
+    "guess": "Oboe",
+    "confidence": [
+      [
+        "O",
+        -0.64051414
+      ],
+      [
+        "bo",
+        -0.00037299667
+      ],
+      [
+        "e",
+        -0.0006041454
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.32307252
+      ],
+      [
+        " horn",
+        -0.0116763795
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's Merry Pranks is portrayed by one of these instruments, whose performers often put a fist in its bell": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.38191146
+      ],
+      [
+        " horn",
+        -0.030220058
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's Merry Pranks is portrayed by one of these instruments, whose performers often put a fist in its bell while playing. For 10 points, identify this brass instrument, three of which portray the wolf in": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.019034564
+      ],
+      [
+        " horn",
+        -0.004387271
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's Merry Pranks is portrayed by one of these instruments, whose performers often put a fist in its bell while playing. For 10 points, identify this brass instrument, three of which portray the wolf in Peter and the Wolf, not to be confused with a similar \"English\" instrument.": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.021018028
+      ],
+      [
+        " horn",
+        -0.005397511
+      ]
+    ]
+  }
+}

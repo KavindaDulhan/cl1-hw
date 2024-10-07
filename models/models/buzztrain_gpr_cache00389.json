@@ -1,0 +1,82 @@
+{
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan provided a quartically-convergent algorithm for computing it. Buffon linked it to probability in his needle problem and von Lindemann proved it was transcendental. For ten points, what number did Archimedes": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.004012392
+      ]
+    ]
+  },
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan provided a quartically-convergent algorithm for computing it. Buffon linked it to probability in": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -1.0486314
+      ]
+    ]
+  },
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan provided a quartically-convergent algorithm for computing it. Buffon linked it to probability in his needle problem and von Lindemann proved it was transcendental. For ten points, what number did Archimedes note lay between 3 and one-seventh and 3 and ten over seventy-one.": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0014067788
+      ]
+    ]
+  },
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan": {
+    "guess": "Bailey\u2013Borwein\u2013Plouffe formula",
+    "confidence": [
+      [
+        "Ba",
+        -0.9107959
+      ],
+      [
+        "iley",
+        -5.5577775e-06
+      ],
+      [
+        "\u2013",
+        -0.16107209
+      ],
+      [
+        "B",
+        -8.685468e-05
+      ],
+      [
+        "or",
+        -7.89631e-07
+      ],
+      [
+        "we",
+        0.0
+      ],
+      [
+        "in",
+        -1.962381e-05
+      ],
+      [
+        "\u2013",
+        -5.6457742e-05
+      ],
+      [
+        "Pl",
+        -1.3663626e-05
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "ffe",
+        -4.8828708e-05
+      ],
+      [
+        " formula",
+        -0.080310255
+      ]
+    ]
+  }
+}

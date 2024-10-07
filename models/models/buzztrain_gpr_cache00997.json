@@ -1,0 +1,103 @@
+{
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper and lower surfaces of the lam- ina and is divided into regular and loosely arranged cell layers called the palisade and spongy layers, respectively. Ob- taining carbon dioxide through the stomata, name this middle layer of leaf tissue where most photosynthesis in a plant occurs.": {
+    "guess": "Mesophyll",
+    "confidence": [
+      [
+        "Mes",
+        -0.048001364
+      ],
+      [
+        "oph",
+        -3.4762674e-05
+      ],
+      [
+        "yll",
+        -0.00013166793
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper and lower surfaces of the lam- ina and is divided into regular and loosely arranged cell layers called": {
+    "guess": "Mesophyll cell",
+    "confidence": [
+      [
+        "Mes",
+        -0.007932507
+      ],
+      [
+        "oph",
+        -1.6524515e-05
+      ],
+      [
+        "yll",
+        -1.342522e-05
+      ],
+      [
+        " cell",
+        -0.700221
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper and lower surfaces of the lam- ina and is divided into regular and loosely arranged cell layers called the palisade and spongy layers, respectively. Ob- taining carbon dioxide through the stomata, name": {
+    "guess": "Mesophyll cell",
+    "confidence": [
+      [
+        "Mes",
+        -0.33245978
+      ],
+      [
+        "oph",
+        -2.5941605e-05
+      ],
+      [
+        "yll",
+        -5.025915e-05
+      ],
+      [
+        " cell",
+        -0.74908036
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies": {
+    "guess": "Mesophyll cell",
+    "confidence": [
+      [
+        "Mes",
+        -0.025011742
+      ],
+      [
+        "oph",
+        -3.2736214e-05
+      ],
+      [
+        "yll",
+        -4.3202e-07
+      ],
+      [
+        " cell",
+        -0.3110755
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper": {
+    "guess": "Mesophyll cell",
+    "confidence": [
+      [
+        "Mes",
+        -0.029030722
+      ],
+      [
+        "oph",
+        -2.7848862e-05
+      ],
+      [
+        "yll",
+        -2.5703197e-05
+      ],
+      [
+        " cell",
+        -0.4954469
+      ]
+    ]
+  }
+}

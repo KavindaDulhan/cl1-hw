@@ -1,0 +1,70 @@
+{
+  "In 1975 a cluster of disease cases first diagnosed as rheumatoid arthiritis appeared in Connecticut. In 1982, microbiologists determined that the disease was actually caused by the spirochete _Borrelia burgdorferi_ which enters humans via the bites of deer ticks. FTP, name this disease named for the": {
+    "guess": "Lyme disease",
+    "confidence": [
+      [
+        "L",
+        -0.0077856006
+      ],
+      [
+        "yme",
+        -2.3319124e-05
+      ],
+      [
+        " disease",
+        -0.014192531
+      ]
+    ]
+  },
+  "In 1975 a cluster of disease cases first diagnosed as rheumatoid arthiritis appeared in Connecticut. In 1982, microbiologists determined that the disease was actually caused by the spirochete _Borrelia burgdorferi_ which enters humans via the bites of deer ticks. FTP, name this disease named for the Connecticut town where it first appeared.": {
+    "guess": "Lyme disease",
+    "confidence": [
+      [
+        "L",
+        -0.000708025
+      ],
+      [
+        "yme",
+        -8.657073e-06
+      ],
+      [
+        " disease",
+        -0.012240257
+      ]
+    ]
+  },
+  "In 1975 a cluster of disease cases first diagnosed as rheumatoid arthiritis appeared in Connecticut. In 1982, microbiologists determined that the disease was actually caused by the spirochete _Borrelia": {
+    "guess": "Lyme disease",
+    "confidence": [
+      [
+        "L",
+        -0.0058196485
+      ],
+      [
+        "yme",
+        -3.88156e-05
+      ],
+      [
+        " disease",
+        -0.050614554
+      ]
+    ]
+  },
+  "In 1975 a cluster of disease cases first diagnosed as rheumatoid arthiritis appeared in Connecticut.": {
+    "guess": "Lyme disease",
+    "confidence": [
+      [
+        "L",
+        -0.004544996
+      ],
+      [
+        "yme",
+        -0.00017946491
+      ],
+      [
+        " disease",
+        -0.013778645
+      ]
+    ]
+  }
+}

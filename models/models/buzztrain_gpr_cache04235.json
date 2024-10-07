@@ -1,0 +1,113 @@
+{
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley": {
+    "guess": "Dolomite",
+    "confidence": [
+      [
+        "D",
+        -1.0261763
+      ],
+      [
+        "ol",
+        -0.00013846254
+      ],
+      [
+        "omite",
+        -0.33582497
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.7567038
+      ],
+      [
+        "stone",
+        -0.00046367763
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces the feldspar-rich type, arkose. Cross-bedding and rippling are two common formations in this rock": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.1020286
+      ],
+      [
+        "stone",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces the feldspar-rich type, arkose. Cross-bedding and rippling are two common formations in this rock type whose textural groups are the wackes (WACK-eez) and arenites. For ten points, name this sedimentary": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.02673576
+      ],
+      [
+        "stone",
+        -3.523949e-05
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts": {
+    "guess": "Igneous rock",
+    "confidence": [
+      [
+        "I",
+        -2.1473598
+      ],
+      [
+        "gne",
+        -0.3468382
+      ],
+      [
+        "ous",
+        -4.632543e-05
+      ],
+      [
+        " rock",
+        -0.4302572
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke": {
+    "guess": "Sedimentary rock",
+    "confidence": [
+      [
+        "S",
+        -0.9040142
+      ],
+      [
+        "ed",
+        -0.000866918
+      ],
+      [
+        "imentary",
+        -0.0026261928
+      ],
+      [
+        " rock",
+        -0.056228276
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces the feldspar-rich type, arkose. Cross-bedding and rippling are two common formations in this rock type whose textural groups are the wackes (WACK-eez) and arenites. For ten points, name this sedimentary rock second in abundance to shale, which can form by lithification of dunes.": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.004410771
+      ],
+      [
+        "stone",
+        -2.8206474e-05
+      ]
+    ]
+  }
+}

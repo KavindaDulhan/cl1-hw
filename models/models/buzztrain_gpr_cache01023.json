@@ -1,0 +1,120 @@
+{
+  "A Creole from New Orleans, he was born into a musical family: his father, who abandoned him when he was young, played the trombone, as did his stepfather, Ed.  Performing professionally in New Orleans bordellos by the age of 12, he embarked on a decade of itinerant music making with a trip to the St. Louis World's Fair in 1904.  Eventually moving to New York in 1928, he began running an all-girl revue that doubled as a prostitution racket.  For 10 points, who was this composer, pianist, and bandleader": {
+    "guess": "Jelly Roll Morton",
+    "confidence": [
+      [
+        "J",
+        -0.007593015
+      ],
+      [
+        "elly",
+        -2.0935051e-05
+      ],
+      [
+        " Roll",
+        -0.00010843054
+      ],
+      [
+        " Morton",
+        -0.00036620206
+      ]
+    ]
+  },
+  "A Creole from New Orleans, he was born into a musical family: his father, who abandoned him when he was young, played the trombone, as did his stepfather, Ed.  Performing professionally in New Orleans bordellos by the age of 12, he embarked on a decade of itinerant music making with a trip to the St. Louis World's Fair in 1904.  Eventually moving to New York in 1928, he began running an all-girl revue": {
+    "guess": "Jelly Roll Morton",
+    "confidence": [
+      [
+        "J",
+        -0.6711865
+      ],
+      [
+        "elly",
+        -0.00065238995
+      ],
+      [
+        " Roll",
+        -0.00030161935
+      ],
+      [
+        " Morton",
+        -0.00051645556
+      ]
+    ]
+  },
+  "A Creole from New Orleans, he was born into a musical family: his father, who abandoned him when he was": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.3616831
+      ],
+      [
+        " Armstrong",
+        -0.16306195
+      ]
+    ]
+  },
+  "A Creole from New Orleans, he was born into a musical family: his father, who abandoned him when he was young, played the trombone, as did his stepfather, Ed.  Performing professionally in New Orleans bordellos by the age of 12, he embarked on a decade of itinerant music making with a trip to the St. Louis World's Fair in 1904.  Eventually moving to New York in 1928, he began running an all-girl revue that doubled as a prostitution racket.  For 10 points, who was this composer, pianist, and bandleader of the Red Hot Peppers, famous for the songs \"Kansas City Stomp\" and \"Smokehouse Blues\"?": {
+    "guess": "Jelly Roll Morton",
+    "confidence": [
+      [
+        "J",
+        -0.0042340355
+      ],
+      [
+        "elly",
+        -4.1318875e-05
+      ],
+      [
+        " Roll",
+        -0.00010139752
+      ],
+      [
+        " Morton",
+        -0.00031949623
+      ]
+    ]
+  },
+  "A Creole from New Orleans, he was born into a musical family: his father, who abandoned him when he was young, played the trombone, as did his stepfather, Ed.  Performing professionally in New Orleans bordellos by the age of 12, he embarked on a decade of itinerant music making with a trip to the St.": {
+    "guess": "Buddy Bolden",
+    "confidence": [
+      [
+        "B",
+        -0.071959876
+      ],
+      [
+        "uddy",
+        -0.00021641071
+      ],
+      [
+        " Bold",
+        -5.4669687e-05
+      ],
+      [
+        "en",
+        -5.538491e-05
+      ]
+    ]
+  },
+  "A Creole from New Orleans, he was born into a musical family: his father, who abandoned him when he was young, played the trombone, as did his stepfather, Ed.  Performing professionally in New Orleans": {
+    "guess": "Buddy Bolden",
+    "confidence": [
+      [
+        "B",
+        -1.0580945
+      ],
+      [
+        "uddy",
+        -0.009094305
+      ],
+      [
+        " Bold",
+        -8.959636e-05
+      ],
+      [
+        "en",
+        -4.3226137e-05
+      ]
+    ]
+  }
+}

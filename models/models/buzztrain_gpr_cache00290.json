@@ -1,0 +1,117 @@
+{
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart. This substance produces high-energy gamma rays when it comes into contact with normal particles, which have the same mass but opposite charge as particles of this type. The positron is an example of, for ten points, what type of material which rapidly annihilates with matter?": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.089471325
+      ],
+      [
+        "im",
+        -0.00028970264
+      ],
+      [
+        "atter",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart.": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.22324133
+      ],
+      [
+        "im",
+        -0.045021255
+      ],
+      [
+        "atter",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap.": {
+    "guess": "Antihydrogen",
+    "confidence": [
+      [
+        "Ant",
+        -0.12322369
+      ],
+      [
+        "ih",
+        -0.30094695
+      ],
+      [
+        "ydro",
+        -1.5570886e-05
+      ],
+      [
+        "gen",
+        -1.247159e-05
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart. This substance produces high-energy gamma rays when it comes into contact with normal particles, which have the same mass but opposite charge as particles of this type. The positron is an example": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.19051814
+      ],
+      [
+        "im",
+        -0.0040540597
+      ],
+      [
+        "atter",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.08828248
+      ],
+      [
+        "im",
+        -0.06744629
+      ],
+      [
+        "atter",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5624901
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart. This substance produces high-energy gamma rays when it comes into contact with normal particles,": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.2996637
+      ],
+      [
+        "im",
+        -0.036007695
+      ],
+      [
+        "atter",
+        -1.7432603e-06
+      ]
+    ]
+  }
+}

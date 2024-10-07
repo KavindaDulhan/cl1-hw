@@ -1,0 +1,80 @@
+{
+  "Oxalate can bind to the central atom in a coordination complex this many times.  Mesons are made of this many subparticles.  Tartaric, citric, and carbonic acid have this many equivalence points.  Tritium contains this many neutrons in its nucleus.  Alkenes contain this many (*) bonds between its carbon atoms.  All s orbitals can contain up to this many electrons.  This is the oxidation number of zinc, and it is the number of valence electrons in all alkaline earth metals.  For 10 points, name this": {
+    "guess": "Eight",
+    "confidence": [
+      [
+        "Eight",
+        -0.9354477
+      ]
+    ]
+  },
+  "Oxalate can bind to the central atom in a coordination complex this many times.  Mesons are made of this many subparticles.  Tartaric, citric, and carbonic acid have this many equivalence points.  Tritium contains this many neutrons in its nucleus.  Alkenes contain this many (*) bonds between its carbon atoms.  All s orbitals can contain up to this many electrons.  This is the oxidation number of zinc, and it is the number of valence electrons in all alkaline earth metals.  For 10 points, name this number, which is the atomic number of helium.": {
+    "guess": "TWO",
+    "confidence": [
+      [
+        "T",
+        -0.78358716
+      ],
+      [
+        "WO",
+        -0.0003390383
+      ]
+    ]
+  },
+  "Oxalate can bind to the central atom in a coordination complex this many times.  Mesons are made of this": {
+    "guess": "Two",
+    "confidence": [
+      [
+        "Two",
+        -0.74179965
+      ]
+    ]
+  },
+  "Oxalate can bind to the central atom in a coordination complex this many times.  Mesons are made of this many subparticles.  Tartaric, citric, and carbonic acid have this many equivalence points.  Tritium": {
+    "guess": "Ligand",
+    "confidence": [
+      [
+        "L",
+        -0.6030725
+      ],
+      [
+        "ig",
+        -0.00033522744
+      ],
+      [
+        "and",
+        -0.0017559797
+      ]
+    ]
+  },
+  "Oxalate can bind to the central atom in a coordination complex this many times.  Mesons are made of this many subparticles.  Tartaric, citric, and carbonic acid have this many equivalence points.  Tritium contains this many neutrons in its nucleus.  Alkenes contain this many (*) bonds between its carbon": {
+    "guess": "Oxalate",
+    "confidence": [
+      [
+        "O",
+        -1.78721
+      ],
+      [
+        "x",
+        -0.003937106
+      ],
+      [
+        "al",
+        -0.0017457427
+      ],
+      [
+        "ate",
+        -0.0013799946
+      ]
+    ]
+  },
+  "Oxalate can bind to the central atom in a coordination complex this many times.  Mesons are made of this many subparticles.  Tartaric, citric, and carbonic acid have this many equivalence points.  Tritium contains this many neutrons in its nucleus.  Alkenes contain this many (*) bonds between its carbon atoms.  All s orbitals can contain up to this many electrons.  This is the oxidation number of zinc,": {
+    "guess": "Eight",
+    "confidence": [
+      [
+        "Eight",
+        -0.81826025
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of which onto the plane gives a complete 4-graph. They have volume equal to one-sixth of a vector triple product, and, when one of these shapes is inscribed in the non-adjacent vertices of a unit (*) cube,": {
+    "guess": "Tesseract",
+    "confidence": [
+      [
+        "T",
+        -0.81700003
+      ],
+      [
+        "esseract",
+        -0.11231634
+      ]
+    ]
+  },
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of which onto the plane gives a complete 4-graph. They have volume equal to one-sixth of a vector triple": {
+    "guess": "Mobius strip",
+    "confidence": [
+      [
+        "Mob",
+        -0.9455174
+      ],
+      [
+        "ius",
+        -1.8789384e-05
+      ],
+      [
+        " strip",
+        -0.38285485
+      ]
+    ]
+  },
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of": {
+    "guess": "Mobius strip",
+    "confidence": [
+      [
+        "Mob",
+        -0.7614059
+      ],
+      [
+        "ius",
+        -4.1318875e-05
+      ],
+      [
+        " strip",
+        -0.08082827
+      ]
+    ]
+  },
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of which onto the plane gives a complete 4-graph. They have volume equal to one-sixth of a vector triple product, and, when one of these shapes is inscribed in the non-adjacent vertices of a unit (*) cube, it has volume one-third. Regular ones have volume equal to side- length-cubed over 6 times the square root of 2, and surface area root-three times side-length-squared. For ten points, identify this": {
+    "guess": "Tesseract",
+    "confidence": [
+      [
+        "T",
+        -0.2815833
+      ],
+      [
+        "esseract",
+        -0.011968196
+      ]
+    ]
+  },
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of which onto the plane gives a complete 4-graph. They have volume equal to one-sixth of a vector triple product, and, when one of these shapes is inscribed in the non-adjacent vertices of a unit (*) cube, it has volume one-third. Regular ones have volume equal to side- length-cubed over 6 times the square root of 2, and surface area root-three times side-length-squared. For ten points, identify this 3-dimensional figure whose regular variety is the simplest Platonic solid, consisting of 4 triangular faces.": {
+    "guess": "Tetrahedron",
+    "confidence": [
+      [
+        "T",
+        -0.0054732827
+      ],
+      [
+        "et",
+        -0.0051999628
+      ],
+      [
+        "rah",
+        -2.4584822e-06
+      ],
+      [
+        "ed",
+        -3.0545007e-06
+      ],
+      [
+        "ron",
+        -0.0003091255
+      ]
+    ]
+  },
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of which onto the plane gives a complete 4-graph. They have volume equal to one-sixth of a vector triple product, and, when one of these shapes is inscribed in the non-adjacent vertices of a unit (*) cube, it has volume one-third. Regular ones have volume equal to side- length-cubed over 6 times the": {
+    "guess": "Tesseract",
+    "confidence": [
+      [
+        "T",
+        -1.1657994
+      ],
+      [
+        "esseract",
+        -0.12055961
+      ]
+    ]
+  },
+  "The Mobius configuration consists of two of these figures mutually inscribed, the projection of one of which onto the plane gives a complete 4-graph. They have volume equal to one-sixth of a vector triple product, and, when one of these shapes is inscribed in the non-adjacent vertices of a unit (*) cube, it has volume one-third. Regular ones have volume equal to side- length-cubed over 6 times the square root of 2, and surface area root-three times side-length-squared. For ten points, identify this 3-dimensional figure whose regular variety is the simplest Platonic solid, consisting of 4 triangular": {
+    "guess": "Tetrahedron",
+    "confidence": [
+      [
+        "T",
+        -0.017381828
+      ],
+      [
+        "et",
+        -0.19986103
+      ],
+      [
+        "rah",
+        -3.2140193e-05
+      ],
+      [
+        "ed",
+        -1.4974867e-05
+      ],
+      [
+        "ron",
+        -0.0004801241
+      ]
+    ]
+  }
+}

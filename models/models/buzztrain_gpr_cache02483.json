@@ -1,0 +1,108 @@
+{
+  "The glycoprotein (GLY-ko-PRO-teen) IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen (fy-BRIN-oh-jen) to bind these cells together. The deficiency of von Willebrand (von WILL-uh-brand) factor causes these cells to lose effectiveness in performing their function, which is activated by the protein thrombin. They form by budding off of megakaryocytes (MAY-guh-KAIR-ee-oh-\"sites\") in the bone marrow.": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.009903296
+      ],
+      [
+        "let",
+        -0.030214155
+      ]
+    ]
+  },
+  "The glycoprotein (GLY-ko-PRO-teen) IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen (fy-BRIN-oh-jen) to bind these cells together. The deficiency of von Willebrand (von WILL-uh-brand) factor causes these cells to lose effectiveness in performing their function, which is activated by the protein thrombin. They form by budding off of megakaryocytes (MAY-guh-KAIR-ee-oh-\"sites\") in the bone marrow. For 10 points, name these cells that are also called thrombocytes (THROM-bo-\"sites\"), blood cells that aid in clotting.": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.0019116232
+      ],
+      [
+        "let",
+        -0.22839981
+      ]
+    ]
+  },
+  "The glycoprotein (GLY-ko-PRO-teen) IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen (fy-BRIN-oh-jen)": {
+    "guess": "Glycoprotein IIb/IIIa",
+    "confidence": [
+      [
+        "G",
+        -0.7934284
+      ],
+      [
+        "ly",
+        -0.019060297
+      ],
+      [
+        "cop",
+        -2.1531068e-05
+      ],
+      [
+        "rotein",
+        -1.7954959e-05
+      ],
+      [
+        " II",
+        -0.001651614
+      ],
+      [
+        "b",
+        -3.917321e-05
+      ],
+      [
+        "/",
+        -0.003060419
+      ],
+      [
+        "III",
+        -0.00033010167
+      ],
+      [
+        "a",
+        -0.0016021024
+      ]
+    ]
+  },
+  "The glycoprotein (GLY-ko-PRO-teen) IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen (fy-BRIN-oh-jen) to bind these cells together. The deficiency of von Willebrand (von WILL-uh-brand) factor causes these cells to lose effectiveness in performing their function, which is activated by the protein thrombin. They form by budding off of megakaryocytes (MAY-guh-KAIR-ee-oh-\"sites\") in the bone marrow. For 10 points, name these cells that are also called thrombocytes (THROM-bo-\"sites\"), blood cells": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.0031635799
+      ],
+      [
+        "let",
+        -0.2944475
+      ]
+    ]
+  },
+  "The glycoprotein (GLY-ko-PRO-teen) IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen (fy-BRIN-oh-jen) to bind these cells together. The deficiency of von Willebrand (von WILL-uh-brand) factor causes these cells to lose effectiveness in performing their function, which is activated by the protein": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.011770405
+      ],
+      [
+        "let",
+        -0.030867463
+      ]
+    ]
+  },
+  "The glycoprotein (GLY-ko-PRO-teen) IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen (fy-BRIN-oh-jen) to bind these cells together. The deficiency of von Willebrand (von WILL-uh-brand) factor causes": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.22213112
+      ],
+      [
+        "let",
+        -0.013807331
+      ]
+    ]
+  }
+}

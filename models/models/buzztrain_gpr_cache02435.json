@@ -1,0 +1,91 @@
+{
+  "A girl is exposed as a man in drag at the end of one of his plays, which sees Sir Dauphine Eugenie tolerate his uncle Morose's hatred of noise. In addition to Epicoene, one of his plays sees Subtle and Face dupe Pertinax Surly and Sir Epicure Mammon, and another features a man named Sir Politic Would-Be. His best-known poem begins \"Drink to me only with thine eyes,\" and is titled \"To Celia.\" For 10": {
+    "guess": "Ben Jonson",
+    "confidence": [
+      [
+        "Ben",
+        -0.0035796342
+      ],
+      [
+        " Jon",
+        -0.0027431736
+      ],
+      [
+        "son",
+        -3.464347e-05
+      ]
+    ]
+  },
+  "A girl is exposed as a man in drag at the end of one of his plays, which sees Sir Dauphine Eugenie tolerate his uncle Morose's hatred of noise. In addition to Epicoene, one of his plays sees Subtle and": {
+    "guess": "Ben Jonson",
+    "confidence": [
+      [
+        "Ben",
+        -0.0023309325
+      ],
+      [
+        " Jon",
+        -0.00013166793
+      ],
+      [
+        "son",
+        -1.473646e-05
+      ]
+    ]
+  },
+  "A girl is exposed as a man in drag at the end of one of his plays, which sees Sir Dauphine Eugenie tolerate his uncle Morose's hatred of noise. In addition to Epicoene, one of his plays sees Subtle and Face dupe Pertinax Surly and Sir Epicure Mammon, and another features a man named Sir Politic Would-Be.": {
+    "guess": "Ben Jonson",
+    "confidence": [
+      [
+        "Ben",
+        -0.037015114
+      ],
+      [
+        " Jon",
+        -0.00088109233
+      ],
+      [
+        "son",
+        -4.1318875e-05
+      ]
+    ]
+  },
+  "A girl is exposed as a man in drag at the end of one of his plays, which sees Sir Dauphine Eugenie tolerate his uncle Morose's hatred of noise. In addition to Epicoene, one of his plays sees Subtle and Face dupe Pertinax Surly and Sir Epicure Mammon, and another features a man named Sir Politic Would-Be. His best-known poem begins \"Drink to me only with thine eyes,\" and is titled \"To Celia.\" For 10 points, name this playwright of The Alchemist and Volpone.": {
+    "guess": "Ben Jonson",
+    "confidence": [
+      [
+        "Ben",
+        -0.0011086632
+      ],
+      [
+        " Jon",
+        -4.7517467e-05
+      ],
+      [
+        "son",
+        -8.180258e-06
+      ]
+    ]
+  },
+  "A girl is exposed as a man in drag at the end of one of his plays, which sees Sir Dauphine Eugenie tolerate": {
+    "guess": "Francis Beaumont",
+    "confidence": [
+      [
+        "Franc",
+        -0.93047166
+      ],
+      [
+        "is",
+        -0.029154038
+      ],
+      [
+        " Bea",
+        -0.0012999962
+      ],
+      [
+        "umont",
+        -5.157039e-05
+      ]
+    ]
+  }
+}

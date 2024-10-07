@@ -1,0 +1,206 @@
+{
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in the soil, and these compounds are the major ingredient of disappearing inks. The major distinguishing feature of these compounds occurs at ranges centered on the equivalence point, where these compounds transition between their neutral and ionic form. Examples of these compounds include methyl orange and bromothymol blue. The most well known of these substances, phenolphthalein, changes from colorless to pink, and litmus is a simple example of these found in paper for easy testing. For 10 points, name these substances that change color in response to a change in pH.": {
+    "guess": "PH indicator",
+    "confidence": [
+      [
+        "PH",
+        -0.0041698143
+      ],
+      [
+        " indicator",
+        -0.0070063863
+      ]
+    ]
+  },
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in the soil, and these compounds are the major ingredient of disappearing inks. The major distinguishing feature of these compounds occurs at ranges centered on the equivalence point, where these compounds": {
+    "guess": "Acid-Base Indicators",
+    "confidence": [
+      [
+        "Ac",
+        -0.42611697
+      ],
+      [
+        "id",
+        -0.011320957
+      ],
+      [
+        "-",
+        -0.76537013
+      ],
+      [
+        "Base",
+        -0.00069480075
+      ],
+      [
+        " Ind",
+        -0.45997325
+      ],
+      [
+        "icators",
+        -0.0001309527
+      ]
+    ]
+  },
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in the soil, and these compounds are the major ingredient of disappearing inks. The major distinguishing feature of these compounds occurs at ranges centered on the equivalence point, where these compounds transition between their neutral and ionic form. Examples of these compounds include methyl orange and bromothymol blue. The most well known of these substances, phenolphthalein, changes from colorless to pink, and litmus is a simple example of these found in paper for easy testing. For 10 points,": {
+    "guess": "Acid-base indicator",
+    "confidence": [
+      [
+        "Ac",
+        -0.26129758
+      ],
+      [
+        "id",
+        -0.0010144684
+      ],
+      [
+        "-base",
+        -0.059706345
+      ],
+      [
+        " indicator",
+        -0.1579228
+      ]
+    ]
+  },
+  "The flow of this element from the thylakoid compartment to the stroma aids in the regulation of the Calvin cycle. A complex of this element and (*) ATP is the substrate for kinase enzymes in glycolysis.": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Magn",
+        -0.018841557
+      ],
+      [
+        "esium",
+        -5.7649777e-05
+      ]
+    ]
+  },
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in the soil, and these compounds are the major ingredient of disappearing inks. The major distinguishing feature of these compounds occurs at ranges centered on the equivalence point, where these compounds transition between their neutral and ionic form. Examples of these compounds include methyl orange and bromothymol blue. The most well known of these substances, phenolphthalein, changes from colorless": {
+    "guess": "Acid-base indicator",
+    "confidence": [
+      [
+        "Ac",
+        -0.48100132
+      ],
+      [
+        "id",
+        -0.0019976313
+      ],
+      [
+        "-base",
+        -0.077856556
+      ],
+      [
+        " indicator",
+        -0.12462818
+      ]
+    ]
+  },
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in": {
+    "guess": "Aluminium ions",
+    "confidence": [
+      [
+        "Al",
+        -0.49639562
+      ],
+      [
+        "uminium",
+        -0.16482458
+      ],
+      [
+        " ions",
+        -1.7675985
+      ]
+    ]
+  },
+  "The flow of this element from the thylakoid compartment to the stroma aids in the regulation of the Calvin cycle. A complex of this element and (*) ATP is the substrate for kinase enzymes in glycolysis. Its divalent ion aids in hammerhead ribozyme activity and Vitamin D aids in the absorption of the element along with calcium. Epsom salts are composed of this element's sulfate. For 10 points, name": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Magn",
+        -0.04582897
+      ],
+      [
+        "esium",
+        -0.00060402625
+      ]
+    ]
+  },
+  "The flow of this element from the thylakoid compartment to the stroma aids in the regulation of the Calvin cycle. A complex of this element and (*) ATP is the substrate for kinase enzymes in glycolysis. Its divalent ion aids in hammerhead ribozyme activity and Vitamin D aids in the absorption of the element along with calcium. Epsom salts are composed of this element's sulfate. For 10 points, name this alkaline earth metal located within the porphyrin ring of chlorophyll.": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Magn",
+        -0.0023134535
+      ],
+      [
+        "esium",
+        -0.00016611411
+      ]
+    ]
+  },
+  "The flow of this element from the thylakoid compartment to the stroma aids in the regulation of the Calvin cycle. A complex of this element and (*) ATP is the substrate for kinase enzymes in glycolysis. Its divalent ion aids in hammerhead ribozyme activity and Vitamin D aids in the absorption of the": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Magn",
+        -0.074639656
+      ],
+      [
+        "esium",
+        -0.00035918003
+      ]
+    ]
+  },
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in the soil, and these compounds are the major ingredient of disappearing inks. The major distinguishing": {
+    "guess": "Complexometric indicator",
+    "confidence": [
+      [
+        "Complex",
+        -0.2679291
+      ],
+      [
+        "ometric",
+        -0.10357808
+      ],
+      [
+        " indicator",
+        -0.32728624
+      ]
+    ]
+  },
+  "The flowers of some Hydrangea species can act like these compounds due to the presence of aluminum in the soil, and these compounds are the major ingredient of disappearing inks. The major distinguishing feature of these compounds occurs at ranges centered on the equivalence point, where these compounds transition between their neutral and ionic form. Examples of these compounds include methyl orange": {
+    "guess": "Acid-base indicator",
+    "confidence": [
+      [
+        "Ac",
+        -0.2336462
+      ],
+      [
+        "id",
+        -0.003802096
+      ],
+      [
+        "-base",
+        -0.19826935
+      ],
+      [
+        " indicator",
+        -0.39671412
+      ]
+    ]
+  },
+  "The flow of this element from the thylakoid compartment to the stroma aids in the regulation of the Calvin": {
+    "guess": "Photosynthesis",
+    "confidence": [
+      [
+        "Photos",
+        -0.4129256
+      ],
+      [
+        "ynthesis",
+        -0.012236017
+      ]
+    ]
+  }
+}

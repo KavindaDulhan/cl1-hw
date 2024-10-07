@@ -1,0 +1,764 @@
+{
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano works were orchestrated by Andr\u00e9 Caplet. At the opening of one piece by him, an F - A-flat third in the pianist's left hand is answered by the same third an octave above in the right hand. That movement in D-flat major and 9/8 time appears in a piano suite by him that ends with a \"Passepied\". The movement \"Play of the waves\" is the second in a series of three \"symphonic sketches\" by him, depicting the ocean. For 10 points, name this French composer of La mer, whose Suite bergamasque includes the movement \"Clair de Lune\".": {
+    "guess": "Claude Debussy",
+    "confidence": [
+      [
+        "Cla",
+        -0.0003449985
+      ],
+      [
+        "ude",
+        0.0
+      ],
+      [
+        " Deb",
+        -1.8193366e-05
+      ],
+      [
+        "ussy",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "Orbital resonances with this object lead to Kirkwood gaps in the main asteroid belt. Shoemaker-Levy 9 collided with this body, whose fourth and fifth Lagrangian points are occupied by Trojans. Its inner satellites include Metis, Thebe, and Amalthea, while one of its larger satellites might have a subsurface ocean of liquid water that could harbor life, and another is the largest moon in the solar system.": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0005516023
+      ],
+      [
+        "upiter",
+        -2.7848862e-05
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination and measures their commitment probability. The aforementioned algorithms calculate a specific example of these entities using the 'synchronous transit' approach. These entities are sometimes approximated by the bond-order. These entities form the x-axis in potential energy surface diagrams and they are points in configuration space that represent the progress of a reaction. Reactants and products are extremal examples, while the highest energy one is the transition state. For 10 points, identify these entities, whose name suggests that they are points along a dimension describing a reaction.": {
+    "guess": "Reaction coordinate",
+    "confidence": [
+      [
+        "Reaction",
+        -0.00981842
+      ],
+      [
+        " coordinate",
+        -0.22998032
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.7809783
+      ],
+      [
+        "asp",
+        -0.0003679901
+      ],
+      [
+        "ard",
+        -9.0883464e-07
+      ],
+      [
+        " de",
+        -7.8748824e-05
+      ],
+      [
+        " la",
+        -4.6563837e-05
+      ],
+      [
+        " N",
+        -0.004605638
+      ],
+      [
+        "uit",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose": {
+    "guess": "Frontier molecular orbital theory",
+    "confidence": [
+      [
+        "Front",
+        -0.16275454
+      ],
+      [
+        "ier",
+        -0.00052122003
+      ],
+      [
+        " molecular",
+        -0.042629607
+      ],
+      [
+        " orbital",
+        -0.018387789
+      ],
+      [
+        " theory",
+        -0.0010422171
+      ]
+    ]
+  },
+  "Orbital resonances with this object lead to Kirkwood gaps in the main asteroid belt. Shoemaker-Levy 9 collided with this body, whose fourth and fifth Lagrangian points are occupied by Trojans. Its inner satellites include Metis, Thebe, and Amalthea, while one of its larger satellites might have a subsurface ocean of liquid water that could harbor life, and another is the largest moon in the solar system. Orbited by the Galileo spacecraft, its largest moons are Callisto, Io, Ganymede, and Europa.": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0008858494
+      ],
+      [
+        "upiter",
+        -4.8113485e-05
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination and measures their commitment probability. The aforementioned algorithms calculate a specific example of these entities using the 'synchronous transit' approach. These entities are sometimes approximated by the bond-order. These entities form the x-axis in potential energy surface diagrams and they are points in configuration space that represent the progress of a reaction. Reactants and products are extremal examples, while the highest energy one is the transition state. For 10 points, identify": {
+    "guess": "Reaction coordinate",
+    "confidence": [
+      [
+        "Reaction",
+        -0.31131
+      ],
+      [
+        " coordinate",
+        -0.5460871
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a": {
+    "guess": "Molecular dynamics",
+    "confidence": [
+      [
+        "M",
+        -0.057758454
+      ],
+      [
+        "olecular",
+        -0.0625095
+      ],
+      [
+        " dynamics",
+        -0.5376317
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a": {
+    "guess": "Gustav Mahler",
+    "confidence": [
+      [
+        "G",
+        -0.27849573
+      ],
+      [
+        "ust",
+        -0.021444248
+      ],
+      [
+        "av",
+        -8.061054e-06
+      ],
+      [
+        " Mah",
+        -0.010957619
+      ],
+      [
+        "ler",
+        -8.029847e-05
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the tolling of bells, after opening by depicting a hanged man who utters a sigh but dies by the end. The": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.024146566
+      ],
+      [
+        "asp",
+        -3.9650025e-05
+      ],
+      [
+        "ard",
+        -1.9816675e-06
+      ],
+      [
+        " de",
+        -5.080963e-06
+      ],
+      [
+        " la",
+        -4.0961266e-05
+      ],
+      [
+        " N",
+        -0.00016456447
+      ],
+      [
+        "uit",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the tolling of bells, after opening by depicting a hanged man who utters a sigh but dies by the end. The third movement opens with three ascending notes and then features a calm section meant to depict the hiding of a dwarf who'd earlier dropped from the ceiling. Its three movements are \"Le Gibet,\" \"Ondine,\" and \"Scarbo,\" all of them based upon poems by the French writer Aloysius Bertrand. Specifically intended by its composer to \u25babe more difficult to play than Islamey, FTP, name this virtuosic composition": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.00284208
+      ],
+      [
+        "asp",
+        -7.89631e-07
+      ],
+      [
+        "ard",
+        -2.577686e-06
+      ],
+      [
+        " de",
+        -9.133887e-06
+      ],
+      [
+        " la",
+        -5.5861725e-05
+      ],
+      [
+        " N",
+        -0.0024518727
+      ],
+      [
+        "uit",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "Orbital resonances with this object lead to Kirkwood gaps in the main asteroid belt. Shoemaker-Levy 9 collided with this body, whose fourth and fifth Lagrangian points are occupied by Trojans. Its inner satellites include Metis, Thebe, and Amalthea, while one of its larger satellites might have a subsurface ocean of liquid water that could harbor life, and another is the largest moon in the solar system. Orbited by the Galileo spacecraft, its largest moons are Callisto, Io, Ganymede, and Europa. For 10 points, name this planet with a Great Red Spot, the largest in the solar system.": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0018604498
+      ],
+      [
+        "upiter",
+        -8.888114e-05
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination": {
+    "guess": "String (computer science)",
+    "confidence": [
+      [
+        "String",
+        -1.4076698
+      ],
+      [
+        " (",
+        -0.07304696
+      ],
+      [
+        "computer",
+        -0.18926296
+      ],
+      [
+        " science",
+        -0.000555536
+      ],
+      [
+        ")",
+        -0.00013619766
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the tolling of bells, after opening by depicting a hanged man who utters a sigh but dies by the end. The third movement opens with three ascending notes and then features a calm section meant to depict the hiding of a dwarf who'd earlier dropped from the ceiling. Its three movements are \"Le Gibet,\" \"Ondine,\" and \"Scarbo,\" all of them based upon poems by the French writer Aloysius Bertrand. Specifically": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.0014260678
+      ],
+      [
+        "asp",
+        -5.5122365e-07
+      ],
+      [
+        "ard",
+        -2.8160932e-06
+      ],
+      [
+        " de",
+        -5.7961847e-06
+      ],
+      [
+        " la",
+        -1.60477e-05
+      ],
+      [
+        " N",
+        -0.00013059509
+      ],
+      [
+        "uit",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the tolling of bells, after opening by depicting a hanged man who utters a sigh but dies by the end. The third movement opens with three ascending notes and then features a calm section meant to depict the hiding of a dwarf who'd earlier dropped from the ceiling. Its three movements are \"Le Gibet,\" \"Ondine,\"": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.001257853
+      ],
+      [
+        "asp",
+        -3.1281633e-07
+      ],
+      [
+        "ard",
+        -2.3392786e-06
+      ],
+      [
+        " de",
+        -8.180258e-06
+      ],
+      [
+        " la",
+        -3.8457987e-05
+      ],
+      [
+        " N",
+        -0.0004871571
+      ],
+      [
+        "uit",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.06287506
+      ],
+      [
+        "asp",
+        -3.8100377e-05
+      ],
+      [
+        "ard",
+        -9.0883464e-07
+      ],
+      [
+        " de",
+        -3.190179e-05
+      ],
+      [
+        " la",
+        -3.619312e-05
+      ],
+      [
+        " N",
+        -0.0004353182
+      ],
+      [
+        "uit",
+        -8.418666e-06
+      ]
+    ]
+  },
+  "Orbital resonances with this object lead to Kirkwood gaps in the main asteroid belt. Shoemaker-Levy 9 collided with this body, whose fourth and fifth Lagrangian points are occupied by Trojans. Its inner": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0031129494
+      ],
+      [
+        "upiter",
+        -1.92662e-05
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.67790294
+      ],
+      [
+        "asp",
+        -0.010808808
+      ],
+      [
+        "ard",
+        -2.577686e-06
+      ],
+      [
+        " de",
+        -0.00020532844
+      ],
+      [
+        " la",
+        -9.7583004e-05
+      ],
+      [
+        " N",
+        -0.0066672973
+      ],
+      [
+        "uit",
+        -1.3544423e-05
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano works were orchestrated by Andr\u00e9 Caplet. At the opening of one piece by him, an F - A-flat third in the pianist's left hand is answered by the same third an octave above in the right hand. That movement in D-flat major and 9/8 time appears in a piano suite by him that ends with a \"Passepied\". The": {
+    "guess": "Claude Debussy",
+    "confidence": [
+      [
+        "Cla",
+        -0.020987915
+      ],
+      [
+        "ude",
+        0.0
+      ],
+      [
+        " Deb",
+        -8.180258e-06
+      ],
+      [
+        "ussy",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano works were orchestrated by Andr\u00e9 Caplet. At the opening of one piece by him, an F - A-flat third in the pianist's left hand is answered by the same third an octave above in the right hand. That movement in D-flat major and 9/8 time appears in a piano suite by him that ends with a \"Passepied\". The movement \"Play of the waves\" is the second in a series of three \"symphonic sketches\" by him, depicting the ocean. For 10 points, name this French composer of La mer, whose Suite bergamasque includes the": {
+    "guess": "Claude Debussy",
+    "confidence": [
+      [
+        "Cla",
+        -0.0027557837
+      ],
+      [
+        "ude",
+        -1.9361265e-07
+      ],
+      [
+        " Deb",
+        -6.6947665e-05
+      ],
+      [
+        "ussy",
+        -7.822647e-06
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the tolling of bells, after opening by depicting a hanged man who utters a sigh but dies by the end. The third movement opens with three ascending notes and then features a calm section meant to depict": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.020260632
+      ],
+      [
+        "asp",
+        -1.7835755e-05
+      ],
+      [
+        "ard",
+        -1.7432603e-06
+      ],
+      [
+        " de",
+        -5.080963e-06
+      ],
+      [
+        " la",
+        -2.0339032e-05
+      ],
+      [
+        " N",
+        -0.0032699264
+      ],
+      [
+        "uit",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given by the composer's friend Ricardo Vin\u00e9s. The second movement contains a B-flat theme resembling the tolling of bells, after opening by depicting a hanged man who utters a sigh but dies by the end. The third movement opens with three ascending notes and then features a calm section meant to depict the hiding of a dwarf who'd earlier dropped from the ceiling. Its three movements are \"Le Gibet,\" \"Ondine,\" and \"Scarbo,\" all of them based upon poems by the French writer Aloysius Bertrand. Specifically intended by its composer to \u25babe more difficult to play than Islamey, FTP, name this virtuosic composition for solo piano, by Maurice Ravel.": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.0018681871
+      ],
+      [
+        "asp",
+        -1.9361265e-07
+      ],
+      [
+        "ard",
+        -1.7432603e-06
+      ],
+      [
+        " de",
+        -6.869018e-06
+      ],
+      [
+        " la",
+        -2.7729659e-05
+      ],
+      [
+        " N",
+        -0.0029084159
+      ],
+      [
+        "uit",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force": {
+    "guess": "Molecular dynamics",
+    "confidence": [
+      [
+        "M",
+        -0.15221024
+      ],
+      [
+        "olecular",
+        -0.015703974
+      ],
+      [
+        " dynamics",
+        -0.31002346
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination and measures their commitment probability. The aforementioned algorithms calculate a specific example of these entities using the 'synchronous transit' approach. These entities are sometimes approximated by the bond-order. These entities form the x-axis in potential energy surface diagrams and they are points in configuration space that represent the progress of a reaction. Reactants and products": {
+    "guess": "Reaction coordinate",
+    "confidence": [
+      [
+        "Reaction",
+        -0.19650593
+      ],
+      [
+        " coordinate",
+        -0.30787575
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination and measures their commitment probability. The aforementioned algorithms calculate a specific": {
+    "guess": "Molecular dynamics",
+    "confidence": [
+      [
+        "M",
+        -0.7633788
+      ],
+      [
+        "olecular",
+        -0.23524122
+      ],
+      [
+        " dynamics",
+        -0.63303536
+      ]
+    ]
+  },
+  "Orbital resonances with this object lead to Kirkwood gaps in the main asteroid belt. Shoemaker-Levy 9 collided with this body, whose fourth and fifth Lagrangian points are occupied by Trojans. Its inner satellites include Metis, Thebe, and Amalthea, while one of its larger satellites might have a subsurface": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0016322131
+      ],
+      [
+        "upiter",
+        -8.566264e-05
+      ]
+    ]
+  },
+  "An orchestral version of this musical piece was composed in 1990 by Marius Constant. Its three sections are respectively dedicated to Harold Bauer, Jean Marnold, and Rudolph Ganz. This piece has notably been recorded by Jean-Yves Thibaudet and Arturo Michelangeli, though its first performance was given": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.0093437685
+      ],
+      [
+        "asp",
+        -4.8425554e-06
+      ],
+      [
+        "ard",
+        -2.4584822e-06
+      ],
+      [
+        " de",
+        -1.7835755e-05
+      ],
+      [
+        " la",
+        -2.5107178e-05
+      ],
+      [
+        " N",
+        -0.0019653896
+      ],
+      [
+        "uit",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -1.3126384
+      ],
+      [
+        "aur",
+        -2.6418418e-05
+      ],
+      [
+        "ice",
+        -1.8624639e-06
+      ],
+      [
+        " R",
+        -2.3319124e-05
+      ],
+      [
+        "avel",
+        -1.0921943e-05
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination and measures their commitment probability. The aforementioned algorithms calculate a specific example of these entities using the 'synchronous transit' approach. These entities are sometimes approximated": {
+    "guess": "Transition state structures",
+    "confidence": [
+      [
+        "Transition",
+        -0.3632112
+      ],
+      [
+        " state",
+        -0.60836524
+      ],
+      [
+        " structures",
+        -0.3637393
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano works were orchestrated by Andr\u00e9 Caplet. At the opening of one piece by him, an F - A-flat third in the pianist's left hand is answered by the same third an octave above in the right hand. That movement in D-flat major and 9/8 time appears in a piano suite by him that ends with a \"Passepied\". The movement \"Play of the waves\" is the second in a series of three \"symphonic sketches\" by him, depicting": {
+    "guess": "Claude Debussy",
+    "confidence": [
+      [
+        "Cla",
+        -0.020819454
+      ],
+      [
+        "ude",
+        0.0
+      ],
+      [
+        " Deb",
+        -2.58224e-05
+      ],
+      [
+        "ussy",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano works were orchestrated by Andr\u00e9 Caplet. At the opening of one piece by him, an F - A-flat third in": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -0.25544903
+      ],
+      [
+        "aur",
+        -5.9153886e-06
+      ],
+      [
+        "ice",
+        -1.50940705e-05
+      ],
+      [
+        " R",
+        -0.00018280261
+      ],
+      [
+        "avel",
+        -1.9146995e-05
+      ]
+    ]
+  },
+  "One orchestral work by this composer opens with a sustained timpani roll and double bass tremolo on a low B, while two harps alternate playing octave F-sharps and G-sharps. Some of this composer's piano works were orchestrated by Andr\u00e9 Caplet. At the opening of one piece by him, an F - A-flat third in the pianist's left hand is answered by the same third an octave above in the right hand. That movement": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -0.3286962
+      ],
+      [
+        "aur",
+        0.0
+      ],
+      [
+        "ice",
+        -4.9617593e-06
+      ],
+      [
+        " R",
+        -0.0001409658
+      ],
+      [
+        "avel",
+        -7.465036e-06
+      ]
+    ]
+  },
+  "Orbital resonances with this object lead to Kirkwood gaps in the main asteroid belt. Shoemaker-Levy 9": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.010768358
+      ],
+      [
+        "upiter",
+        -0.00013166793
+      ]
+    ]
+  },
+  "They are not orbitals, but Kenichi Fukui used intuition from the Born Oppenheimer approximation to propose an 'intrinsic' form for these entities. In one algorithm, these entities exert a spring-like force on their neighbors to maintain even spacing as they evolve, while in another they evolve like a 'growing string.' A quality metric for these entities borrows from Onsager's theory of ion recombination and measures their commitment probability. The aforementioned algorithms calculate a specific example of these entities using the 'synchronous transit' approach. These entities are sometimes approximated by the bond-order. These entities form the x-axis in potential energy surface diagrams and": {
+    "guess": "Transition state",
+    "confidence": [
+      [
+        "Transition",
+        -0.74929804
+      ],
+      [
+        " state",
+        -1.0074005
+      ]
+    ]
+  }
+}

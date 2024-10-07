@@ -1,0 +1,89 @@
+{
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It can be extracted from its oxide ore through heating in the presence of a mixture of hydrogen gas and carbon monoxide to yield a tetracarbonyl intermediate, which decomposes to yield four carbon monoxides in a process named for Mond. The diffraction pattern resulting from x rays fired at a crystal of this element provided evidence for the wave-particle duality in the Davisson-Germer experiment. A catalyst used to hydrogenate alkenes contains this element and aluminum, and is named for Raney. For 10 points, name this element with atomic symbol Ni.": {
+    "guess": "Nickel",
+    "confidence": [
+      [
+        "Nick",
+        -0.0029546432
+      ],
+      [
+        "el",
+        -6.515961e-05
+      ]
+    ]
+  },
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It": {
+    "guess": "Manganese",
+    "confidence": [
+      [
+        "M",
+        -1.2737893
+      ],
+      [
+        "anganese",
+        -0.04238077
+      ]
+    ]
+  },
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It can be extracted from its oxide ore through heating in the presence of a mixture of hydrogen gas and carbon monoxide to yield a tetracarbonyl intermediate, which decomposes to yield four carbon monoxides in a process named for Mond. The diffraction pattern resulting from x rays fired at a crystal of this element provided evidence for the wave-particle duality in the Davisson-Germer experiment. A": {
+    "guess": "Nickel",
+    "confidence": [
+      [
+        "Nick",
+        -0.116376065
+      ],
+      [
+        "el",
+        -5.0735965e-05
+      ]
+    ]
+  },
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It can be extracted from its oxide ore through heating in the presence of a mixture of hydrogen gas and carbon monoxide to yield a tetracarbonyl intermediate, which decomposes to yield four carbon monoxides in a process named for Mond. The diffraction pattern resulting from x rays fired at a crystal": {
+    "guess": "Chromium",
+    "confidence": [
+      [
+        "Ch",
+        -0.59936833
+      ],
+      [
+        "romium",
+        -0.0004253124
+      ]
+    ]
+  },
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It can be extracted from its oxide ore through heating in the presence of a mixture of hydrogen gas and": {
+    "guess": "Manganese",
+    "confidence": [
+      [
+        "M",
+        -1.2244308
+      ],
+      [
+        "anganese",
+        -0.011371533
+      ]
+    ]
+  },
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It can be extracted from its oxide ore through heating in the presence of a mixture of hydrogen gas and carbon monoxide to yield a tetracarbonyl intermediate, which decomposes to yield four carbon monoxides": {
+    "guess": "Iron",
+    "confidence": [
+      [
+        "Iron",
+        -0.9727115
+      ]
+    ]
+  },
+  "The Nozicki-Hiyama-Kishi reaction uses organometallic compounds featuring chromium or this element. It can be extracted from its oxide ore through heating in the presence of a mixture of hydrogen gas and carbon monoxide to yield a tetracarbonyl intermediate, which decomposes to yield four carbon monoxides in a process named for Mond. The diffraction pattern resulting from x rays fired at a crystal of this element provided evidence for the wave-particle duality in the Davisson-Germer experiment. A catalyst used to hydrogenate alkenes contains this element and aluminum, and is named for Raney. For": {
+    "guess": "Nickel",
+    "confidence": [
+      [
+        "Nick",
+        -0.12471657
+      ],
+      [
+        "el",
+        -2.7252845e-05
+      ]
+    ]
+  }
+}

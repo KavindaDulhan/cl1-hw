@@ -1,0 +1,736 @@
+{
+  "The puranas recount the churning of one of these things made out of milk which represents an awakening. Jorgumandr [YORE-mun-gahn-dur], the Midgardian Serpent, was thrown into one of these places by Odin. Izanagi dipped his spear into one of these locations to create Japan's islands. At the end of The Republic the city of (*) Atlantis falls into one of these geographical features. For 10 points, name these domains which are ruled by the likes of Neptune.": {
+    "guess": "Oceans",
+    "confidence": [
+      [
+        "O",
+        -0.47446632
+      ],
+      [
+        "ceans",
+        -0.0046290075
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim recite Psalm 91 seven times after a certain action. The blessings L'hadlik neir and she-hekhianu are given on this holiday. The songs Hanerot Halalu and Ma'oz Tzur, or \"Rock of Ages,\" are sung on this": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -0.013308116
+      ],
+      [
+        "uk",
+        -5.3193703e-06
+      ],
+      [
+        "kah",
+        -0.00013142951
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim recite Psalm 91 seven times after a certain action. The blessings L'hadlik neir and she-hekhianu are": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -0.06019292
+      ],
+      [
+        "uk",
+        0.0
+      ],
+      [
+        "kah",
+        -5.0378356e-05
+      ]
+    ]
+  },
+  "The puranas recount the churning of one of these things made out of milk which represents an awakening. Jorgumandr [YORE-mun-gahn-dur], the Midgardian Serpent, was thrown into one of these places by Odin. Izanagi dipped his spear into one of these locations to create Japan's islands. At the end of The": {
+    "guess": "Oceans",
+    "confidence": [
+      [
+        "O",
+        -0.051501967
+      ],
+      [
+        "ceans",
+        -0.0014174999
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.049677245
+      ],
+      [
+        "uda",
+        -3.0828953e-05
+      ],
+      [
+        " Pur",
+        -0.10699548
+      ],
+      [
+        "ana",
+        -0.00016635252
+      ]
+    ]
+  },
+  "Purdue University's Louis De Branges de Bourcia claimed to have a proof for this in June 2004.  It initially began with Euler's definition of the related function, which he evaluated only at real numbers and which he investigated at Bernoulli numbers to show that the sum of the squares of the inverses of the integers equals pi over two.  Its namesake extended that function, the zeta function, over": {
+    "guess": "Riemann Hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.07587808
+      ],
+      [
+        "iem",
+        -8.923875e-05
+      ],
+      [
+        "ann",
+        -0.00013142951
+      ],
+      [
+        " Hyp",
+        -0.2684059
+      ],
+      [
+        "o",
+        -3.500108e-05
+      ],
+      [
+        "thesis",
+        -0.0004066011
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth with the waters of many rivers in order to extinguish a fire, and shortly thereafter he shrank in size to pass between the spokes of a spinning wheel. On one quest, this being, whose evil stepmother": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.0043440717
+      ],
+      [
+        "uda",
+        -1.867018e-05
+      ],
+      [
+        " Pur",
+        -0.0028173588
+      ],
+      [
+        "ana",
+        -7.398068e-05
+      ]
+    ]
+  },
+  "Purdue University's Louis De Branges de Bourcia claimed to have a proof for this in June 2004.  It initially began with Euler's definition of the related function, which he evaluated only at real numbers and which he investigated at Bernoulli numbers to show that the sum of the squares of the inverses of the integers equals pi over two.  Its namesake extended that function, the zeta function, over the complex plane and made, FTP, what hypothesis that all the non-trivial zeros of this function would": {
+    "guess": "Riemann Hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.027180772
+      ],
+      [
+        "iem",
+        -5.6934558e-05
+      ],
+      [
+        "ann",
+        -0.00013154872
+      ],
+      [
+        " Hyp",
+        -0.10996146
+      ],
+      [
+        "o",
+        -5.8484206e-05
+      ],
+      [
+        "thesis",
+        -0.0002631239
+      ]
+    ]
+  },
+  "Purdue University's Louis De Branges de Bourcia claimed to have a proof for this in June 2004.  It initially began with Euler's definition of the related function, which he evaluated only at real numbers": {
+    "guess": "Riemann zeta function",
+    "confidence": [
+      [
+        "R",
+        -0.27000928
+      ],
+      [
+        "iem",
+        -6.837811e-05
+      ],
+      [
+        "ann",
+        -3.23786e-05
+      ],
+      [
+        " z",
+        -0.14778107
+      ],
+      [
+        "eta",
+        -1.1517961e-05
+      ],
+      [
+        " function",
+        -0.0010762764
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might": {
+    "guess": "Yama",
+    "confidence": [
+      [
+        "Y",
+        -0.02638599
+      ],
+      [
+        "ama",
+        -0.0033608163
+      ]
+    ]
+  },
+  "The puranas recount the churning of one of these things made out of milk which represents an awakening. Jorgumandr [YORE-mun-gahn-dur], the Midgardian Serpent, was thrown into one of these places by Odin.": {
+    "guess": "Oceans",
+    "confidence": [
+      [
+        "O",
+        -0.66751724
+      ],
+      [
+        "ceans",
+        -0.0012260623
+      ]
+    ]
+  },
+  "The puranas recount the churning of one of these things made out of milk which represents an awakening.": {
+    "guess": "Ocean of Milk",
+    "confidence": [
+      [
+        "Ocean",
+        -0.45049778
+      ],
+      [
+        " of",
+        -0.0061676786
+      ],
+      [
+        " Milk",
+        -0.09977909
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth with the waters of many rivers in order to extinguish a fire, and shortly thereafter he shrank in size to pass between the spokes of a spinning wheel. On one quest, this being, whose evil stepmother was named Kadru, entered Patala in order to ransom his mother, Vinata, who had been kidnapped by the Nagas, who wanted this being to bring them amitra, the nectar of the gods. As part of a deal with Indra, this being gets to eat any snake he sees. For ten points, name this bird-man from Hindu myth, a servant and mount of Vishnu.": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.00035310065
+      ],
+      [
+        "uda",
+        -7.89631e-07
+      ],
+      [
+        " Pur",
+        -0.00026503115
+      ],
+      [
+        "ana",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim recite Psalm 91 seven times after a certain action. The blessings L'hadlik neir and she-hekhianu are given on this holiday. The songs Hanerot Halalu and Ma'oz Tzur, or \"Rock of Ages,\" are sung on this holiday. \"Gelt\" is a traditional gift of money on this holiday, which begins on the twenty-fifth of": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -0.0017446773
+      ],
+      [
+        "uk",
+        -1.7120534e-05
+      ],
+      [
+        "kah",
+        -5.0378356e-05
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth with the waters of many rivers in order to extinguish a fire, and shortly thereafter he shrank in size to pass between the spokes of a spinning wheel. On one quest, this being, whose evil stepmother was named Kadru, entered Patala in order to ransom his mother, Vinata, who had been kidnapped by the Nagas, who wanted this being to bring them amitra, the nectar of the gods. As part of a deal with": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.0014391618
+      ],
+      [
+        "uda",
+        -4.1273333e-06
+      ],
+      [
+        " Pur",
+        -0.00013536324
+      ],
+      [
+        "ana",
+        -2.8206474e-05
+      ]
+    ]
+  },
+  "The puranas recount the churning of one of these things made out of milk which represents an awakening. Jorgumandr [YORE-mun-gahn-dur], the Midgardian Serpent, was thrown into one of these places by Odin. Izanagi dipped his spear into one of these locations to create Japan's islands. At the end of The Republic the city of (*) Atlantis falls into one of these geographical features. For 10 points, name": {
+    "guess": "Oceans",
+    "confidence": [
+      [
+        "O",
+        -0.4816855
+      ],
+      [
+        "ceans",
+        -0.003992204
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.015762525
+      ],
+      [
+        "uda",
+        -3.070975e-05
+      ],
+      [
+        " Pur",
+        -0.031630706
+      ],
+      [
+        "ana",
+        -0.00018125297
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of": {
+    "guess": "Kingdom of Majorca",
+    "confidence": [
+      [
+        "King",
+        -1.2207046
+      ],
+      [
+        "dom",
+        -0.0006394077
+      ],
+      [
+        " of",
+        -0.0005912788
+      ],
+      [
+        " Major",
+        -0.29923674
+      ],
+      [
+        "ca",
+        -0.00019567294
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim recite Psalm 91 seven times after a certain action. The blessings L'hadlik neir and she-hekhianu are given on this holiday. The songs Hanerot Halalu and Ma'oz Tzur, or \"Rock of Ages,\" are sung on this holiday. \"Gelt\" is a traditional gift of money on this holiday, which begins on the twenty-fifth of Kislev. The letters nun, gimel, hei, and shin are on an object used on this holiday. Celebrating events": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -0.0036461607
+      ],
+      [
+        "uk",
+        -4.6563837e-05
+      ],
+      [
+        "kah",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth with the waters of many rivers in order to extinguish a fire, and shortly thereafter he shrank in size to pass between the spokes of a spinning wheel. On one quest, this being, whose evil stepmother was named Kadru, entered Patala in order to ransom his mother, Vinata, who had been kidnapped by the Nagas, who wanted this being to bring them amitra, the nectar of the gods. As part of a deal with Indra, this being gets to eat any snake he sees. For ten points, name this bird-man from Hindu myth,": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.00111009
+      ],
+      [
+        "uda",
+        -3.7697225e-06
+      ],
+      [
+        " Pur",
+        -0.0002676536
+      ],
+      [
+        "ana",
+        -4.20341e-05
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure,": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.015284695
+      ],
+      [
+        "uda",
+        -1.7478143e-05
+      ],
+      [
+        " Pur",
+        -0.13189721
+      ],
+      [
+        "ana",
+        -0.000115701965
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held power here for over a hundred years. Its early prestige had greatly been checked by a 529 closure that dispersed intellectuals to distant Harran and Ctesiphon. Though Venice would twice launch attacks on this city, it would pass into Muslim hands in 1456. Finally returned to Christian rule in 1833,": {
+    "guess": "Thessaloniki",
+    "confidence": [
+      [
+        "Th",
+        -0.7421766
+      ],
+      [
+        "ess",
+        -3.3213026e-05
+      ],
+      [
+        "alon",
+        -1.3544423e-05
+      ],
+      [
+        "iki",
+        -0.031911556
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim recite Psalm 91 seven times after a certain action. The blessings L'hadlik neir and she-hekhianu are given on this holiday. The songs Hanerot Halalu and Ma'oz Tzur, or \"Rock of Ages,\" are sung on this holiday. \"Gelt\" is a traditional gift of money on this holiday, which begins on the twenty-fifth of Kislev. The letters nun, gimel, hei, and shin are on an object used on this holiday. Celebrating events from the book of Maccabees, it commemorates a day's worth of oil lasting eight. For 10 points, name this Jewish holiday during which people spin dreidels and light the Menorah.": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -0.000429358
+      ],
+      [
+        "uk",
+        -1.3306016e-05
+      ],
+      [
+        "kah",
+        -3.3213026e-05
+      ]
+    ]
+  },
+  "Purdue University's Louis De Branges de Bourcia claimed to have a proof for this in June 2004.  It initially began with Euler's definition of the related function, which he evaluated only at real numbers and which he investigated at Bernoulli numbers to show that the sum of the squares of the inverses of the integers equals pi over two.  Its namesake extended that function, the zeta function, over the complex plane and made, FTP, what hypothesis that all the non-trivial zeros of this function would lie along the critical line, having real part equal to one half?": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.031075489
+      ],
+      [
+        "iem",
+        -4.7994283e-05
+      ],
+      [
+        "ann",
+        -5.0616763e-05
+      ],
+      [
+        " hypothesis",
+        -0.35432333
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim recite Psalm 91 seven times after a certain action. The blessings L'hadlik neir and she-hekhianu are given on this holiday. The songs Hanerot Halalu and Ma'oz Tzur, or \"Rock of Ages,\" are sung on this holiday. \"Gelt\" is a traditional gift of money on this holiday, which begins on the twenty-fifth of Kislev. The letters nun, gimel, hei, and shin are on an object used on this holiday. Celebrating events from the book of Maccabees, it commemorates a day's worth of oil lasting eight. For 10 points,": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -0.0012176172
+      ],
+      [
+        "uk",
+        -2.5107178e-05
+      ],
+      [
+        "kah",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth with the waters of many rivers in order to extinguish a fire, and shortly thereafter he shrank in size to pass between the spokes of a spinning wheel. On one quest, this being, whose evil stepmother was named Kadru, entered Patala in order to ransom his mother, Vinata, who had been kidnapped by": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.003949575
+      ],
+      [
+        "uda",
+        -4.596782e-05
+      ],
+      [
+        " Pur",
+        -0.0010323343
+      ],
+      [
+        "ana",
+        -0.00017040544
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.01999775
+      ],
+      [
+        "uda",
+        -1.640531e-05
+      ],
+      [
+        " Pur",
+        -0.11431196
+      ],
+      [
+        "ana",
+        -0.00018351417
+      ]
+    ]
+  },
+  "It isn't Purim, but on this holiday al ha-nissim is added to a prayer. On this holiday, many Hasidim": {
+    "guess": "Hanukkah",
+    "confidence": [
+      [
+        "Han",
+        -1.2747782
+      ],
+      [
+        "uk",
+        -4.604148e-06
+      ],
+      [
+        "kah",
+        -0.00017922651
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description of other places where the dead stay before being reborn, which according to Ernest Wood might have been influenced by contact with Christianity. That Purana is also considered the authoritative source on the Nine Pearls and other precious gemstones. This being is himself credited with creating the first emeralds from bile. The guru Drona developed a military formation named for this figure, who was born as a fire before taking his more famous shape. This father of Sapati once filled his mouth with the waters of many rivers in order to extinguish a fire, and shortly thereafter he shrank in": {
+    "guess": "Garuda",
+    "confidence": [
+      [
+        "Gar",
+        -0.014521795
+      ],
+      [
+        "uda",
+        -3.3093824e-05
+      ]
+    ]
+  },
+  "Purdue University's Louis De Branges de Bourcia claimed to have a proof for this in June 2004.  It initially": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.1497805
+      ],
+      [
+        "iem",
+        -9.651017e-05
+      ],
+      [
+        "ann",
+        -7.231183e-05
+      ],
+      [
+        " hypothesis",
+        -0.054252416
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held power here for over a hundred years. Its early prestige had greatly been checked by a 529 closure that dispersed intellectuals to distant Harran and Ctesiphon. Though Venice would twice launch attacks on this city, it would pass into Muslim hands in 1456. Finally returned to Christian rule in 1833, this is, FTP, what city, made capital in the same year by King Othon I but perhaps more famous for the": {
+    "guess": "Athens",
+    "confidence": [
+      [
+        "Ath",
+        -0.7314921
+      ],
+      [
+        "ens",
+        -1.2829201e-05
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held power here for over a hundred years. Its early prestige had greatly been checked by a 529 closure that dispersed intellectuals to distant Harran and Ctesiphon. Though Venice would twice launch attacks on this city, it would pass into Muslim hands in 1456. Finally returned to Christian rule in 1833, this is, FTP, what city, made capital in the same year by King Othon I but perhaps more famous for the Pnyx and the Areopagus and its ancient prowess under such leaders as Themistocles and Pericles?": {
+    "guess": "Athens",
+    "confidence": [
+      [
+        "Ath",
+        -0.007997553
+      ],
+      [
+        "ens",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "The Purana named for this figure contains an account of a city of the dead ruled by Yama and a description": {
+    "guess": "Garuda Purana",
+    "confidence": [
+      [
+        "Gar",
+        -0.1923646
+      ],
+      [
+        "uda",
+        -1.0325924e-05
+      ],
+      [
+        " Pur",
+        -6.4444386e-05
+      ],
+      [
+        "ana",
+        -0.00010235115
+      ]
+    ]
+  },
+  "Purdue University's Louis De Branges de Bourcia claimed to have a proof for this in June 2004.  It initially began with Euler's definition of the related function, which he evaluated only at real numbers and which he investigated at Bernoulli numbers to show that the sum of the squares of the inverses": {
+    "guess": "Louis de Branges de Bourcia",
+    "confidence": [
+      [
+        "Louis",
+        -1.3937849
+      ],
+      [
+        " de",
+        -0.059524074
+      ],
+      [
+        " Br",
+        -0.000113794704
+      ],
+      [
+        "anges",
+        -1.4498052e-05
+      ],
+      [
+        " de",
+        -0.30051762
+      ],
+      [
+        " Bour",
+        -2.8444882e-05
+      ],
+      [
+        "cia",
+        -0.013343044
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held power here for over a hundred years. Its early prestige had greatly been checked by a 529 closure that dispersed intellectuals to distant Harran and Ctesiphon. Though Venice would twice launch attacks": {
+    "guess": "Monemvasia",
+    "confidence": [
+      [
+        "Mon",
+        -1.9446248
+      ],
+      [
+        "em",
+        -0.0020787632
+      ],
+      [
+        "vas",
+        -0.0004804817
+      ],
+      [
+        "ia",
+        -0.00021998682
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held": {
+    "guess": "Athens",
+    "confidence": [
+      [
+        "Ath",
+        -0.89898896
+      ],
+      [
+        "ens",
+        -0.00024596223
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official": {
+    "guess": "Republic of Florence",
+    "confidence": [
+      [
+        "Republic",
+        -1.3203038
+      ],
+      [
+        " of",
+        -0.0036035136
+      ],
+      [
+        " Florence",
+        -0.18017149
+      ]
+    ]
+  },
+  "Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held power here for over a hundred years. Its early prestige had greatly been checked by a 529 closure that": {
+    "guess": "Duchy of Athens",
+    "confidence": [
+      [
+        "D",
+        -0.7614164
+      ],
+      [
+        "uch",
+        -0.00048203135
+      ],
+      [
+        "y",
+        -0.00011200665
+      ],
+      [
+        " of",
+        -0.0004965559
+      ],
+      [
+        " Athens",
+        -0.00039825685
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "In truth, this work is very much a compilation of the works of others, such as Theaetetus, Eudoxus, and Hippocrities of Chois. In fact, the last two of its thirteen books are probably not the work of its attributed author. For 10 points\u2014name this work covering irrational numbers, number theory, and plane geometry, by Euclid.": {
+    "guess": "Euclid's Elements",
+    "confidence": [
+      [
+        "Eu",
+        -0.11236844
+      ],
+      [
+        "clid",
+        -0.00052574975
+      ],
+      [
+        "'s",
+        -4.274932e-05
+      ],
+      [
+        " Elements",
+        -0.0002191524
+      ]
+    ]
+  },
+  "In truth, this work is very much a compilation of the works of others, such as Theaetetus, Eudoxus, and Hippocrities of Chois. In fact, the last two of its thirteen books are probably not the work of its attributed author. For 10 points\u2014name this work covering irrational numbers, number theory, and plane": {
+    "guess": "Elements",
+    "confidence": [
+      [
+        "Elements",
+        -0.16693313
+      ]
+    ]
+  },
+  "In truth, this work is very much a compilation of the works of others, such as Theaetetus, Eudoxus, and": {
+    "guess": "The Elements",
+    "confidence": [
+      [
+        "The",
+        -0.0065294458
+      ],
+      [
+        " Elements",
+        -0.0020886387
+      ]
+    ]
+  },
+  "In truth, this work is very much a compilation of the works of others, such as Theaetetus, Eudoxus, and Hippocrities of Chois. In fact, the last two of its thirteen books are probably not the work of its": {
+    "guess": "The Elements",
+    "confidence": [
+      [
+        "The",
+        -0.6506554
+      ],
+      [
+        " Elements",
+        -0.0025996764
+      ]
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older Population II stars. These galaxies are numbered 0 through 7 on the left hand side of the Hubble tuning-fork diagram, where they are classified based on their semi-major and semi-minor axes. For 10 points, name these elongated galaxies which are rounder than spirals.": {
+    "guess": "Lenticular galaxy",
+    "confidence": [
+      [
+        "L",
+        -1.0400052
+      ],
+      [
+        "entic",
+        -0.0002108118
+      ],
+      [
+        "ular",
+        -6.1537958e-06
+      ],
+      [
+        " galaxy",
+        -0.009597882
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older Population II stars. These galaxies are numbered 0 through 7 on the left hand side of the Hubble tuning-fork diagram, where they are classified based on their semi-major and semi-minor axes. For 10": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.015178918
+      ],
+      [
+        "ipt",
+        -2.1008714e-06
+      ],
+      [
+        "ical",
+        -6.2729996e-06
+      ],
+      [
+        " galaxy",
+        -0.018827992
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.00966566
+      ],
+      [
+        "ipt",
+        -1.9385403e-05
+      ],
+      [
+        "ical",
+        -3.5313153e-06
+      ],
+      [
+        " galaxy",
+        -0.0014903423
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky": {
+    "guess": "Galaxies",
+    "confidence": [
+      [
+        "Gal",
+        -0.2573812
+      ],
+      [
+        "axies",
+        -0.51033735
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87.": {
+    "guess": "Fundamental plane (elliptical galaxy)",
+    "confidence": [
+      [
+        "Fund",
+        -0.08978007
+      ],
+      [
+        "amental",
+        -1.27099975e-05
+      ],
+      [
+        " plane",
+        -0.074703485
+      ],
+      [
+        " (",
+        -0.2643309
+      ],
+      [
+        "ell",
+        -0.0031768794
+      ],
+      [
+        "ipt",
+        -6.0345924e-06
+      ],
+      [
+        "ical",
+        -0.0005801965
+      ],
+      [
+        " galaxy",
+        -0.43704498
+      ],
+      [
+        ")",
+        -0.0001911432
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three": {
+    "guess": "Galaxy rotation curve",
+    "confidence": [
+      [
+        "Gal",
+        -0.18536325
+      ],
+      [
+        "axy",
+        -0.52664095
+      ],
+      [
+        " rotation",
+        -0.6092444
+      ],
+      [
+        " curve",
+        -0.035527248
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older Population II stars. These galaxies are numbered 0 through 7 on the left hand side of the Hubble": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.0044882772
+      ],
+      [
+        "ipt",
+        -6.313315e-05
+      ],
+      [
+        "ical",
+        -4.246537e-06
+      ],
+      [
+        " galaxy",
+        -0.0029101928
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.8575891
+      ],
+      [
+        "ipt",
+        -0.00024156268
+      ],
+      [
+        "ical",
+        -0.00092885265
+      ],
+      [
+        " galaxy",
+        -0.035790212
+      ]
+    ]
+  }
+}

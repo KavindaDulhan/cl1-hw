@@ -1,0 +1,83 @@
+{
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus, and Ialysus, merged to form a single state that thrived due to its excellent location for trade. The unsuccessful siege led by Demetrius I Poliorcetes inspired the construction of its most famous landmark": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.0050611948
+      ],
+      [
+        "odes",
+        -0.00019185843
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus, and Ialysus, merged to form a single state that thrived due to its excellent location for trade. The unsuccessful siege led by Demetrius I Poliorcetes inspired the construction of its most famous landmark by Chares of Lindus. FTP, what was this island nation off the coast of Turkey known for its colossus?": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.008265389
+      ],
+      [
+        "odes",
+        -0.000357988
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus, and Ialysus, merged to form a single state that thrived due to its excellent location for trade. The": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.023118412
+      ],
+      [
+        "odes",
+        -0.0012397524
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence": {
+    "guess": "Ptolemaic Kingdom",
+    "confidence": [
+      [
+        "P",
+        -0.96797484
+      ],
+      [
+        "to",
+        -0.006889897
+      ],
+      [
+        "le",
+        -9.72254e-05
+      ],
+      [
+        "ma",
+        -0.0002451278
+      ],
+      [
+        "ic",
+        -0.00020270597
+      ],
+      [
+        " Kingdom",
+        -0.024316221
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus,": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.024010293
+      ],
+      [
+        "odes",
+        -0.00014621076
+      ]
+    ]
+  }
+}

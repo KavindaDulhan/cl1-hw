@@ -1,0 +1,80 @@
+{
+  "In his 1552 Da Asia, Jo\u00e3o de Barros identifies it as Axuma, one of the cities of the Queen of Sheba; others identified it as the gold-mining Biblical city of Ophir. David Randall-MacIver confirmed its African origins in 1905, but the white Rhodesian government of the time refused to accept this. Founded": {
+    "guess": "Great Zimbabwe",
+    "confidence": [
+      [
+        "Great",
+        -0.7167726
+      ],
+      [
+        " Zimbabwe",
+        -0.0003357006
+      ]
+    ]
+  },
+  "In his 1552 Da Asia, Jo\u00e3o de Barros identifies it as Axuma, one of the cities of the Queen of Sheba; others identified it as the gold-mining Biblical city of Ophir. David Randall-MacIver confirmed its African origins in 1905, but the white Rhodesian government of the time refused to accept this. Founded by Shona-speaking peoples on a medieval trade route between inland gold mines and the seaports on the Mozambique coast, this is, FTP, what 1,800-acre granite ruin of a city located between the Limpopo and Zambezi rivers in what is now its namesake country?": {
+    "guess": "Great Zimbabwe",
+    "confidence": [
+      [
+        "Great",
+        -0.013004805
+      ],
+      [
+        " Zimbabwe",
+        -0.00011176824
+      ]
+    ]
+  },
+  "In his 1552 Da Asia, Jo\u00e3o de Barros identifies it as Axuma, one of the cities of the Queen of Sheba; others identified it as the gold-mining Biblical city of Ophir. David Randall-MacIver confirmed its": {
+    "guess": "King Solomon",
+    "confidence": [
+      [
+        "King",
+        -0.8747278
+      ],
+      [
+        " Solomon",
+        -0.4567454
+      ]
+    ]
+  },
+  "In his 1552 Da Asia, Jo\u00e3o de Barros identifies it as Axuma, one of the cities of the Queen of Sheba; others identified it as the gold-mining Biblical city of Ophir. David Randall-MacIver confirmed its African origins in 1905, but the white Rhodesian government of the time refused to accept this. Founded by Shona-speaking peoples on a medieval trade route between inland gold mines and the seaports on": {
+    "guess": "Great Zimbabwe",
+    "confidence": [
+      [
+        "Great",
+        -0.3256145
+      ],
+      [
+        " Zimbabwe",
+        -0.00023274162
+      ]
+    ]
+  },
+  "In his 1552 Da Asia, Jo\u00e3o de Barros identifies it as Axuma, one of the cities of the Queen of Sheba; others identified it as the gold-mining Biblical city of Ophir. David Randall-MacIver confirmed its African origins in 1905, but the white Rhodesian government of the time refused to accept this. Founded by Shona-speaking peoples on a medieval trade route between inland gold mines and the seaports on the Mozambique coast, this is, FTP, what 1,800-acre granite ruin of a city located between the Limpopo": {
+    "guess": "Great Zimbabwe",
+    "confidence": [
+      [
+        "Great",
+        -0.0023744619
+      ],
+      [
+        " Zimbabwe",
+        -6.7662884e-05
+      ]
+    ]
+  },
+  "In his 1552 Da Asia, Jo\u00e3o de Barros identifies it as Axuma, one of the cities of the Queen of Sheba;": {
+    "guess": "Axum",
+    "confidence": [
+      [
+        "Ax",
+        -0.5218724
+      ],
+      [
+        "um",
+        -0.0006028342
+      ]
+    ]
+  }
+}

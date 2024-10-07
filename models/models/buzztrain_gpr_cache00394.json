@@ -1,0 +1,4010 @@
+{
+  "Based on Alarcon's novel _The Corregidor and the Miller's  Wife_, it tells of a quick-witted southerner": {
+    "guess": "The Three-Cornered Hat",
+    "confidence": [
+      [
+        "The",
+        -1.093139
+      ],
+      [
+        " Three",
+        -0.0248586
+      ],
+      [
+        "-C",
+        -0.0065734996
+      ],
+      [
+        "or",
+        -6.659005e-05
+      ],
+      [
+        "ner",
+        -1.7432603e-06
+      ],
+      [
+        "ed",
+        -0.00022332452
+      ],
+      [
+        " Hat",
+        -0.00010485443
+      ]
+    ]
+  },
+  "This is based on the binomial theorem and shows up on de Finetti diagrams as a parabola. It corrected the \"genophagy\" theory that thought recessive traits would slowly disappear over time. Small population sizes disrupt this because they cause random changes in the gene pool, while random mating is necessary": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.5816241
+      ],
+      [
+        "y",
+        -6.635165e-05
+      ],
+      [
+        "-",
+        -0.10635838
+      ],
+      [
+        "We",
+        -1.0802739e-05
+      ],
+      [
+        "in",
+        -0.00014048899
+      ],
+      [
+        "berg",
+        -6.49212e-05
+      ],
+      [
+        " principle",
+        -0.17924133
+      ]
+    ]
+  },
+  "Based on the poems of Aloysius Bertrand, this composer wrote a collection consisting of Ondine (AHN-deen), Le Gibet, and Scarbo. The rhapsody by this composer contains a Feria and a Malaguena and probably was inspired by his Basque (bask) mother. Those works are Gaspard de la nuit and Spanish rhapsody. Another piece by this composer has a snare drum rhythm and a single theme played louder and louder by different sets of instruments; it was originally a ballet composed for Ida Rubenstein. Name this rival of Claude Debussy (DEH-byoo-see) who composed Bolero.": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -0.010330963
+      ],
+      [
+        "aur",
+        -6.1537958e-06
+      ],
+      [
+        "ice",
+        -2.1054253e-05
+      ],
+      [
+        " R",
+        -4.572941e-05
+      ],
+      [
+        "avel",
+        -0.00052896456
+      ]
+    ]
+  },
+  "Based on the poems of Aloysius Bertrand, this composer wrote a collection consisting of Ondine (AHN-deen), Le Gibet, and Scarbo. The rhapsody by this composer contains a Feria and a Malaguena and probably was inspired by his Basque (bask) mother. Those works are Gaspard de la nuit and Spanish rhapsody.": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -0.073050946
+      ],
+      [
+        "aur",
+        -5.6576944e-05
+      ],
+      [
+        "ice",
+        -8.299462e-06
+      ],
+      [
+        " R",
+        -0.00016194198
+      ],
+      [
+        "avel",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.9016268
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to the Explosion of the Cart celebration. The current mayor of this city was initially arrested, and then fined for ordering trees to be cut down to build its tram system, and has also sued Wikipedia for slander and libel; his name is Leonardo Domenici. The hills around this city include Poggio Imperiale": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.002414896
+      ],
+      [
+        "rence",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Bart Kosko developed the \"fuzzy\" type of these concepts, which are measured by Hasse diagrams. Robert Axelrod's book The Structure of Decision analyzes these concepts in political elites. These concepts": {
+    "guess": "Fuzzy logic",
+    "confidence": [
+      [
+        "F",
+        -1.2254946
+      ],
+      [
+        "uzzy",
+        -0.0012314192
+      ],
+      [
+        " logic",
+        -0.6805475
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater than zero and V-dot of x is less than zero. Barkhausen names a criteria for this property in which the product of the gain and the transfer function is one, graphically illustrated in a Bode plot. Electrical engineers usually consider the BIBO form of this property in linear signals, while this property": {
+    "guess": "Stability",
+    "confidence": [
+      [
+        "St",
+        -0.578262
+      ],
+      [
+        "ability",
+        -0.0002580018
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with": {
+    "guess": "Uncle Tom's Cabin",
+    "confidence": [
+      [
+        "Unc",
+        -1.1433307
+      ],
+      [
+        "le",
+        -0.00050489645
+      ],
+      [
+        " Tom",
+        -6.754368e-05
+      ],
+      [
+        "'s",
+        -0.00057138276
+      ],
+      [
+        " Cabin",
+        -5.705376e-05
+      ]
+    ]
+  },
+  "A barber pole sits in front of a row of businesses in this man's Early Sunday Morning. A small red teapot": {
+    "guess": "Edward Hopper",
+    "confidence": [
+      [
+        "Edward",
+        -0.013168942
+      ],
+      [
+        " H",
+        -0.0023189147
+      ],
+      [
+        "opper",
+        -2.4630364e-05
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity of this condition determines its namesake regime. The Ponderosa, longleaf, and slash (*) pines have adapted to survive this condition. These events play a large role in the evolution and maintenance of many ecosystems by doing things like creating gaps in the canopy, which allows shade-intolerant species to grow, and clearing underbrush. Herbivory promoted by this condition is known as pyric (\"PIE-rick\") herbivory. For 10 points, name these events that puny humans have attempted to replace": {
+    "guess": "Fire regime",
+    "confidence": [
+      [
+        "Fire",
+        -0.5388002
+      ],
+      [
+        " regime",
+        -0.53088135
+      ]
+    ]
+  },
+  "It was the base of operations for French forces during the Persian Gulf War, and although it was granted independence from France in 1977 they maintain a strong military presence there. Strategically situated, it commands Bab el Mandeb, the strait between the Gulf of Aden and the Red Sea. Among its interesting": {
+    "guess": "Djibouti",
+    "confidence": [
+      [
+        "D",
+        -0.001669115
+      ],
+      [
+        "j",
+        -1.867018e-05
+      ],
+      [
+        "ib",
+        -4.246537e-06
+      ],
+      [
+        "out",
+        -3.1782583e-05
+      ],
+      [
+        "i",
+        -5.4312077e-05
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9  A delta  and polymodal C  types of these structures transmit signals from nociceptors. A lack of  protection for these structures can cause Guillain-Barr\u00e9 syndrome. This part of some cells has branches": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.040392347
+      ],
+      [
+        "on",
+        -0.0015181921
+      ]
+    ]
+  },
+  "The basal ganglia and cerebral cortex are composed primarily of this substance composed of neuron cell bodies. Nerve impulses are created in this pinkish section of the brain that gains its namesake color after being removed from an active brain. FTP, identify this term for substance in the brain that": {
+    "guess": "Grey matter",
+    "confidence": [
+      [
+        "Grey",
+        -0.550899
+      ],
+      [
+        " matter",
+        -0.054352675
+      ]
+    ]
+  },
+  "The 18-bar melody is first played by the basses, and next by the flute, in this piece, used in 1984 by": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -1.8154929
+      ],
+      [
+        " Plan",
+        -1.0966347
+      ],
+      [
+        "ets",
+        -0.00021819877
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters of Gorgibus spurn the advances of La Grange and Du Croisy, but fall in love with their valets. In another, the title character delivers a long dialogue of nonsense Latin to prove his learning, and examines Lucinde after being beaten with sticks. This playwright wrote about Magdelon and Cathos in The Pretentious Young Ladies, and Sganarelle in The Doctor in Spite of Himself, and created the": {
+    "guess": "Moli\u00e8re",
+    "confidence": [
+      [
+        "M",
+        -0.0030702834
+      ],
+      [
+        "oli",
+        -5.7172965e-05
+      ],
+      [
+        "\u00e8re",
+        -0.00018244502
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed footprint. Architect Adrian Smith used reflective glazing to reduce stress from heat, while": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.20201646
+      ],
+      [
+        "j",
+        -0.00011260267
+      ],
+      [
+        " Khal",
+        -2.5345586e-05
+      ],
+      [
+        "ifa",
+        -6.0749073e-05
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to the Explosion of the Cart celebration. The current mayor of this city was initially arrested, and then": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.0013951189
+      ],
+      [
+        "rence",
+        -8.184812e-05
+      ]
+    ]
+  },
+  "The 18-bar melody is first played by the basses, and next by the flute, in this piece, used in 1984 by Torvill and [i] Dean in their Olympic-winning ice- dancing routine. The flute then gives way to the clarinet and bassoon, and various other instruments, until what has been called \"the most obvious key change in the history of music\" in\u2014for 10 points\u2014what work by Maurice Ravel?": {
+    "guess": "Bol\u00e9ro",
+    "confidence": [
+      [
+        "B",
+        -0.0476534
+      ],
+      [
+        "ol",
+        -6.46828e-05
+      ],
+      [
+        "\u00e9ro",
+        -0.115934655
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater than zero and V-dot of x is less than zero. Barkhausen names a criteria for this property in which the product of the gain and the transfer function is one, graphically illustrated in a Bode plot. Electrical engineers usually consider the BIBO form of this property in linear signals, while this property of equilibria is asymptotic if solutions converge to that equilibria, but merely Lyapunov if solutions do not escape. FTP, name this property that chaotic systems lack in which a small error in input results in a small error in output.": {
+    "guess": "Stability (systems)",
+    "confidence": [
+      [
+        "St",
+        -0.39596042
+      ],
+      [
+        "ability",
+        -0.0005242001
+      ],
+      [
+        " (",
+        -0.4544025
+      ],
+      [
+        "systems",
+        -0.5816243
+      ],
+      [
+        ")",
+        -0.03425204
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering, while this artist's The Prayer presents a dark woman, with a featureless face, leaning far forward. He executed several versions of La N\u00e9gresse Blonde, and many of his works feature carefully": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.011700537
+      ],
+      [
+        "in",
+        -2.2484697e-05
+      ],
+      [
+        " Br",
+        -0.0003392767
+      ],
+      [
+        "\u00e2",
+        -0.00028743778
+      ],
+      [
+        "nc",
+        -1.7432603e-06
+      ],
+      [
+        "u",
+        -7.107425e-06
+      ],
+      [
+        "\u0219i",
+        -7.8033605e-05
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters of Gorgibus spurn the advances of La Grange and Du Croisy, but fall in love with their valets. In another, the title character delivers a long dialogue of nonsense Latin to prove his learning, and examines Lucinde after being beaten with sticks. This playwright wrote about Magdelon and Cathos": {
+    "guess": "Moli\u00e8re",
+    "confidence": [
+      [
+        "M",
+        -0.09768483
+      ],
+      [
+        "oli",
+        -0.0010459088
+      ],
+      [
+        "\u00e8re",
+        -0.0018348724
+      ]
+    ]
+  },
+  "Based on the life of the author's brother Danny, this play was rewritten in 2002 to reflect current pop culture trends, while the 1985 script was written with a female-dominated cast. The action takes place during the summer in an apartment on Riverside Drive, as Oscar's poker game is interrupted by a brooding Felix, who just divorced his wife. For 10 points\u2014name this Neil Simon play in which Oscar": {
+    "guess": "Brighton Beach Memoirs",
+    "confidence": [
+      [
+        "Bright",
+        -0.8360465
+      ],
+      [
+        "on",
+        -0.00048036248
+      ],
+      [
+        " Beach",
+        -0.00019996427
+      ],
+      [
+        " Memo",
+        -0.025790531
+      ],
+      [
+        "irs",
+        -0.00011510595
+      ]
+    ]
+  },
+  "This is based on the binomial theorem and shows up on de Finetti diagrams as a parabola. It corrected the \"genophagy\" theory that thought recessive traits would slowly disappear over time. Small population": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.033852115
+      ],
+      [
+        "y",
+        -7.226629e-06
+      ],
+      [
+        "-",
+        -0.056604367
+      ],
+      [
+        "We",
+        -5.5577775e-06
+      ],
+      [
+        "in",
+        -9.209964e-05
+      ],
+      [
+        "berg",
+        -3.1544176e-05
+      ],
+      [
+        " principle",
+        -0.6911281
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to an overload of endorphins; as a result, each body cell can remember each childhood trauma, and the stored pain of an entire lifetime is bopping around in the body. Therefore, the cure for all psychological ills is to express and release this inner pain and sadness, ideally in an explosive, loud, three-week-long": {
+    "guess": "Prisoners of Pain",
+    "confidence": [
+      [
+        "Pr",
+        -0.46531463
+      ],
+      [
+        "ison",
+        -0.08693661
+      ],
+      [
+        "ers",
+        -0.00017827288
+      ],
+      [
+        " of",
+        -0.0004066011
+      ],
+      [
+        " Pain",
+        -0.00049191056
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed footprint. Architect Adrian Smith used reflective glazing to reduce stress from heat, while engineers rotated this building one hundred twenty degrees from its original layout to prevent damage from winds. Commissioned by Emaar Properties to be the centerpiece of a development including over thirty thousand homes and nine hotels, for 10 points, name this unfinished one hundred sixty two story building in the UAE which, on September 12, 2007, surpassed the CN Tower to become the world's tallest freestanding structure.": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.014233677
+      ],
+      [
+        "j",
+        -6.122589e-05
+      ],
+      [
+        " Khal",
+        -4.7994283e-05
+      ],
+      [
+        "ifa",
+        -2.2007884e-05
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering, while this artist's The Prayer presents a dark woman, with a featureless face, leaning far forward. He executed several versions of La N\u00e9gresse Blonde, and many of his works feature carefully carved, wooden bases, which he felt was important to their presentation. The Gate of the Kiss was constructed as a memorial to soldiers of World War I along with the more famous Table of Silence and Infinite Column. More famous works include a head laying on its side, Sleeping Muse, and the series The Kiss. FTP, name this Romanian artist best known for his series of sculptures Bird in Space.": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.003062088
+      ],
+      [
+        "in",
+        -7.58424e-06
+      ],
+      [
+        " Br",
+        -4.561021e-05
+      ],
+      [
+        "\u00e2",
+        -8.418666e-06
+      ],
+      [
+        "nc",
+        -5.5122365e-07
+      ],
+      [
+        "u",
+        -6.0345924e-06
+      ],
+      [
+        "\u0219i",
+        -1.11603495e-05
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9  A delta  and polymodal C  types of these structures transmit signals from nociceptors. A lack of  protection for these structures can cause Guillain-Barr\u00e9 syndrome. This part of some cells has branches  \uf0da called telodendria. Much of this structure is surrounded by cells that produce an insulating material,  and the gaps where this structure is not surrounded are called the nodes of Ranvier [ran-vee-ay].": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.0083401
+      ],
+      [
+        "on",
+        -0.00052789174
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.015740473
+      ],
+      [
+        "aska",
+        -0.0003737119
+      ]
+    ]
+  },
+  "A barber pole sits in front of a row of businesses in this man's Early Sunday Morning. A small red teapot is on the table between two women at a restaurant in his Chop Suey. This artist of (*) Automat": {
+    "guess": "Edward Hopper",
+    "confidence": [
+      [
+        "Edward",
+        -0.017761216
+      ],
+      [
+        " H",
+        -0.0185583
+      ],
+      [
+        "opper",
+        -5.3239244e-05
+      ]
+    ]
+  },
+  "The base of this work contains a rusted chain next to a wound scroll. A man in white sits with bowed head at the left while another white-haired man clutches his head at the right. Three figures ascend": {
+    "guess": "The Burghers of Calais",
+    "confidence": [
+      [
+        "The",
+        -0.39064285
+      ],
+      [
+        " Bur",
+        -0.86780643
+      ],
+      [
+        "gh",
+        -0.044584025
+      ],
+      [
+        "ers",
+        -0.0001843486
+      ],
+      [
+        " of",
+        -0.0001406082
+      ],
+      [
+        " Cal",
+        -0.00019912985
+      ],
+      [
+        "ais",
+        -0.00015347853
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater than zero and V-dot of x is less than zero. Barkhausen names a criteria for this property in which the product of the gain and the transfer function is one, graphically illustrated in a Bode plot. Electrical engineers usually consider the BIBO form of this property in linear signals, while this property of equilibria is asymptotic if solutions converge to that equilibria, but merely Lyapunov if solutions": {
+    "guess": "Stability",
+    "confidence": [
+      [
+        "St",
+        -0.37682387
+      ],
+      [
+        "ability",
+        -0.0006261798
+      ]
+    ]
+  },
+  "Based on the life of the author's brother Danny, this play was rewritten in 2002 to reflect current pop culture trends, while the 1985 script was written with a female-dominated cast. The action takes": {
+    "guess": "Fool for Love",
+    "confidence": [
+      [
+        "F",
+        -0.6805127
+      ],
+      [
+        "ool",
+        -0.02665718
+      ],
+      [
+        " for",
+        -0.066060305
+      ],
+      [
+        " Love",
+        -8.506662e-05
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one hormone produced here forms a blood pressure regulating system with angiotensin. This organ contains a structure that consists of a capillary tuft and is surrounded by Bowman's capsule called the glomerulus. This organ concentrates sodium to retain water in the loop of Henle, and it sits under the": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.004753715
+      ],
+      [
+        "ney",
+        -0.104735754
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives": {
+    "guess": "Lyapunov Stability",
+    "confidence": [
+      [
+        "Ly",
+        -1.1036371
+      ],
+      [
+        "ap",
+        -0.00032068457
+      ],
+      [
+        "un",
+        -6.0033854e-05
+      ],
+      [
+        "ov",
+        -0.00032616797
+      ],
+      [
+        " Stability",
+        -0.257941
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established the \"PFD\" system of yearly payments. This state's Senator Ernest Gruening was succeeded by a man who read the Pentagon Papers to the Senate chamber. This state withstood damage to (*) Attu and": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.011048171
+      ],
+      [
+        "aska",
+        -0.00030150014
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden artists Richard, Vivaldo, and Rufus Scott, who jumps off the George Washington Bridge. Hella abandons David in France after the title character kills Guillame in a novel by this man that surprised readers with its (*) all-white cast. This author of Tell Me How Long the Train's Been gone and Another Country responded to Richard Wright in Notes of a Native Son and drew on his own homosexuality to write Giovanni's Room. Best known for his novel about John Grimes's religious experiences in Harlem,": {
+    "guess": "James Baldwin",
+    "confidence": [
+      [
+        "James",
+        -0.007914644
+      ],
+      [
+        " Baldwin",
+        -0.0002818352
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering,": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.055911787
+      ],
+      [
+        "in",
+        -0.00012499251
+      ],
+      [
+        " Br",
+        -0.000105331244
+      ],
+      [
+        "\u00e2",
+        -0.0010825905
+      ],
+      [
+        "nc",
+        -2.577686e-06
+      ],
+      [
+        "u",
+        -2.1531068e-05
+      ],
+      [
+        "\u0219i",
+        -7.13582e-05
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals in the \"bank wiring\" department.  The longest experiment took place over five years and involved five women who assembled telephone relays.  Conducted by Frist Roethlisberger, William Dickson, and Elton Mayo, the experiments seemed to show that economic issues were not at the heart of employee": {
+    "guess": "Hawthorne effect",
+    "confidence": [
+      [
+        "H",
+        -0.013389267
+      ],
+      [
+        "aw",
+        -7.89631e-07
+      ],
+      [
+        "th",
+        -0.00011081461
+      ],
+      [
+        "orne",
+        -2.1769476e-05
+      ],
+      [
+        " effect",
+        -0.18037139
+      ]
+    ]
+  },
+  "The 18-bar melody is first played by the basses, and next by the flute, in this piece, used in 1984 by Torvill and [i] Dean in their Olympic-winning ice- dancing routine. The flute then gives way to the": {
+    "guess": "Bol\u00e9ro",
+    "confidence": [
+      [
+        "B",
+        -0.7285909
+      ],
+      [
+        "ol",
+        -0.0040408834
+      ],
+      [
+        "\u00e9ro",
+        -0.1934332
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to an overload of endorphins; as a result, each body cell can remember each childhood trauma, and the stored pain of an entire lifetime is bopping around in the body. Therefore, the cure for all psychological ills is to express and release this inner pain and sadness, ideally in an explosive, loud, three-week-long intensive and expensive workshop. For ten points, identify this form of \"therapy\" popularized by Arthur Janov, which shares its name with a stress-relieving pre-exam tradition at Northwestern": {
+    "guess": "Primal Therapy",
+    "confidence": [
+      [
+        "Pr",
+        -0.0020479592
+      ],
+      [
+        "imal",
+        -0.0005894907
+      ],
+      [
+        " Therapy",
+        -0.6124667
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived": {
+    "guess": "Mental health in the United States",
+    "confidence": [
+      [
+        "M",
+        -0.015404667
+      ],
+      [
+        "ental",
+        -7.278864e-05
+      ],
+      [
+        " health",
+        -0.25762135
+      ],
+      [
+        " in",
+        -0.11851802
+      ],
+      [
+        " the",
+        -0.83136094
+      ],
+      [
+        " United",
+        -0.0015937691
+      ],
+      [
+        " States",
+        -0.0066113994
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established the \"PFD\" system of yearly payments. This state's Senator Ernest Gruening was succeeded by a man who read the Pentagon Papers to the Senate chamber. This state withstood damage to (*) Attu and Kiska in the 1940s. A long-serving Republican senator from here died in a 2010 plane crash after his indictment for corruption was vacated. It boomed after a pipeline started moving oil from Prudhoe Bay, near the North Slope. For 10 points, name this home state of Mike Gravel and Ted Stevens, where": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.002394202
+      ],
+      [
+        "aska",
+        -0.00020103711
+      ]
+    ]
+  },
+  "The Barkhausen effect concerns tiny inconsistencies in materials displaying this property, which is visualized on a microscopic level by the Ising model. This property lags when the applied field is changed in a process called hysteresis. Disappearing above the Curie temperature, it is seen in materials": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.012273936
+      ],
+      [
+        "er",
+        -0.00020997738
+      ],
+      [
+        "rom",
+        -1.7597347e-05
+      ],
+      [
+        "agnet",
+        -0.0025380866
+      ],
+      [
+        "ism",
+        -2.0815847e-05
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to the Explosion of the Cart celebration. The current mayor of this city was initially arrested, and then fined for ordering trees to be cut down to build its tram system, and has also sued Wikipedia for slander and libel; his name is Leonardo Domenici. The hills around this city include Poggio Imperiale and Carreggi, and are collectively called the Senese Clavey Hills. A bridge over the river running": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.00075376255
+      ],
+      [
+        "rence",
+        -1.867018e-05
+      ]
+    ]
+  },
+  "In basic solution, it can undergo the Cannizzaro reaction to produce methanol. Accidentally produced by Alexander Butlerov in 1859, credit for its identification is given to August Wilhelm von Hofmann. Capable of adding electrophilically to alkenes, it can be prepared industrially by heating dry air and methyl alcohol vapor in the presence of a catalyst like copper or silver, and can also be synthesized": {
+    "guess": "Formaldehyde",
+    "confidence": [
+      [
+        "Form",
+        -0.017944705
+      ],
+      [
+        "al",
+        -0.006744032
+      ],
+      [
+        "dehyde",
+        -0.00032890963
+      ]
+    ]
+  },
+  "A basic belief asserted in this work is that while all knowledge originates with experience, it does not always come from experience. Also, experience may only confer comparative universality to its judgments, as by induction. For example, space and time are not the products of empirical knowledge, but exist as a consequence of the author's \"Axioms of Intuition.\" Proposing through the use of transcendental logic that philosophy is based on  \"a priori\"  knowledge by determining its extent is \u00ad for ten points \u00ad what \"Critique\" of Immanuel Kant.": {
+    "guess": "Critique of Pure Reason",
+    "confidence": [
+      [
+        "Crit",
+        -0.0144704515
+      ],
+      [
+        "ique",
+        -6.992776e-05
+      ],
+      [
+        " of",
+        -0.00038991994
+      ],
+      [
+        " Pure",
+        -0.00012856863
+      ],
+      [
+        " Reason",
+        -2.057744e-05
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering, while this artist's The Prayer presents a dark woman, with a featureless face, leaning far forward. He executed several versions of La N\u00e9gresse Blonde, and many of his works feature carefully carved, wooden bases, which he felt was important to their presentation. The Gate of the Kiss was constructed": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.005777462
+      ],
+      [
+        "in",
+        -2.3319124e-05
+      ],
+      [
+        " Br",
+        -8.220573e-05
+      ],
+      [
+        "\u00e2",
+        -0.00011749002
+      ],
+      [
+        "nc",
+        -1.0280384e-06
+      ],
+      [
+        "u",
+        -1.8624639e-06
+      ],
+      [
+        "\u0219i",
+        -3.059055e-05
+      ]
+    ]
+  },
+  "Bart Kosko developed the \"fuzzy\" type of these concepts, which are measured by Hasse diagrams. Robert Axelrod's book The Structure of Decision analyzes these concepts in political elites. These concepts are divided into \"route-based\" and \"survey level\" types, and were introduced in an article about rats": {
+    "guess": "Cognitive map",
+    "confidence": [
+      [
+        "C",
+        -0.08352851
+      ],
+      [
+        "ognitive",
+        -0.051429152
+      ],
+      [
+        " map",
+        -0.28343117
+      ]
+    ]
+  },
+  "Based on the life of the author's brother Danny, this play was rewritten in 2002 to reflect current pop": {
+    "guess": "The Pillowman",
+    "confidence": [
+      [
+        "The",
+        -1.2547557
+      ],
+      [
+        " Pillow",
+        -1.7828289
+      ],
+      [
+        "man",
+        -0.00012320446
+      ]
+    ]
+  },
+  "It was the base of operations for French forces during the Persian Gulf War, and although it was granted independence from France in 1977 they maintain a strong military presence there. Strategically situated, it commands Bab el Mandeb, the strait between the Gulf of Aden and the Red Sea. Among its interesting features is Lake Assal, the lowest point in Africa at 509 feet below sea level. FTP, name": {
+    "guess": "Djibouti",
+    "confidence": [
+      [
+        "D",
+        -0.0030519813
+      ],
+      [
+        "j",
+        -2.8325678e-05
+      ],
+      [
+        "ib",
+        -7.107425e-06
+      ],
+      [
+        "out",
+        -3.3213026e-05
+      ],
+      [
+        "i",
+        -2.2246291e-05
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet \"O namenlose Freude\" in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria \"O war ich schon mit dir vereint\" after rejecting the advances": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.01249941
+      ],
+      [
+        "idel",
+        -5.6338537e-05
+      ],
+      [
+        "io",
+        -3.9411618e-05
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one": {
+    "guess": "Glomerulus",
+    "confidence": [
+      [
+        "Gl",
+        -0.61073667
+      ],
+      [
+        "omer",
+        -7.465036e-06
+      ],
+      [
+        "ulus",
+        -0.013915607
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as the \"Bird.\" Its worst season came when it was managed by former star Alan Trammell. In 2010, a pitcher for this team, Armando Galarraga, threw the so-called \"almost perfect game.\" In 2003, this team lost an American League record 119 games. It won one pennant on a walk-off home run by Magglio Ordonez. In the 2012 season, this team's third baseman won the Triple Crown. For 10 points, name this baseball team which won the American League pennant in 2012, has such stars as Miguel Cabrera and Justin Verlander, and plays in the Motor City.": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.0055186846
+      ],
+      [
+        " Tigers",
+        -9.72254e-05
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden artists Richard, Vivaldo, and Rufus Scott, who jumps off the George Washington Bridge. Hella abandons": {
+    "guess": "James Baldwin",
+    "confidence": [
+      [
+        "James",
+        -0.50344807
+      ],
+      [
+        " Baldwin",
+        -0.0004217363
+      ]
+    ]
+  },
+  "A barber pole sits in front of a row of businesses in this man's Early Sunday Morning. A small red teapot is on the table between two women at a restaurant in his Chop Suey. This artist of (*) Automat painted an ad for five-cent Phillies cigars in another of his works. In that painting, two men and a woman are being served inside a well-lit, doorless diner. For 10 points, name this American painter of Nighthawks.": {
+    "guess": "Edward Hopper",
+    "confidence": [
+      [
+        "Edward",
+        -0.017123474
+      ],
+      [
+        " H",
+        -0.0018054877
+      ],
+      [
+        "opper",
+        -2.6299214e-05
+      ]
+    ]
+  },
+  "Until 1892, they were based at an abbey in northwest France, the name of which gave this group its common name.  Today, they are scattered throughout the world and can be recognized by their habit:  white with a black scapular.  Their proper name is the Cistercians of the Strict Observance.  FTP name this order, the most famous latter day member of which was Thomas Merton, who before the 1960s spent their lives in perpetual silence.": {
+    "guess": "Trappists",
+    "confidence": [
+      [
+        "Tr",
+        -0.09803614
+      ],
+      [
+        "app",
+        -0.000104616025
+      ],
+      [
+        "ists",
+        -0.014613078
+      ]
+    ]
+  },
+  "It was based on a proposal by Lord Robert Cecil and Col. Edouard R?uin, but the actual document was drafted by Eduard Benes and Nicholas Politis.  Presented by British Prime Minister Ramsay MacDonald, it was unanimously recommended to the members of the League of Nations.  It provided for compensatory arbitration of all disputes, while defining the \"aggressor\" as the nation unwilling to submit the case to arbitration.  FTP, identify this \"protocol\" named for a Swiss city.": {
+    "guess": "Geneva Protocol",
+    "confidence": [
+      [
+        "Gene",
+        -0.045189444
+      ],
+      [
+        "va",
+        -7.465036e-06
+      ],
+      [
+        " Protocol",
+        -0.0019206716
+      ]
+    ]
+  },
+  "The Barkhausen effect concerns tiny inconsistencies in materials displaying this property, which is visualized": {
+    "guess": "Magnetic domains",
+    "confidence": [
+      [
+        "M",
+        -0.4339404
+      ],
+      [
+        "agnetic",
+        -0.17147136
+      ],
+      [
+        " domains",
+        -0.93515575
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to the Explosion of the Cart celebration. The current mayor of this city was initially arrested, and then fined for ordering trees to be cut down to build its tram system, and has also sued Wikipedia for slander and libel; his name is Leonardo Domenici. The hills around this city include Poggio Imperiale and Carreggi, and are collectively called the Senese Clavey Hills. A bridge over the river running through it contains an elevated corridor to the Palazzo Pitti and is called the Ponte Vecchio. For 10 points, identify this city on the Arno historically ruled by the Medicis, the capital of Tuscany.": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.00090061966
+      ],
+      [
+        "rence",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "A basic belief asserted in this work is that while all knowledge originates with experience, it does not always come from experience. Also, experience may only confer comparative universality to its judgments, as by induction. For example, space and time are not the products of empirical knowledge, but": {
+    "guess": "Critique of Pure Reason",
+    "confidence": [
+      [
+        "Crit",
+        -0.09264942
+      ],
+      [
+        "ique",
+        -8.3993786e-05
+      ],
+      [
+        " of",
+        -0.00028684177
+      ],
+      [
+        " Pure",
+        -7.0404574e-05
+      ],
+      [
+        " Reason",
+        -1.6524515e-05
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering, while this artist's The Prayer presents a dark woman, with a featureless face, leaning far forward. He executed several versions of La N\u00e9gresse Blonde, and many of his works feature carefully carved, wooden bases, which he felt was important to their presentation. The Gate of the Kiss was constructed as a memorial to soldiers of World War I along with the more famous Table of Silence and": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.004145592
+      ],
+      [
+        "in",
+        -1.378283e-05
+      ],
+      [
+        " Br",
+        -4.9424725e-05
+      ],
+      [
+        "\u00e2",
+        -0.00011343709
+      ],
+      [
+        "nc",
+        -1.0280384e-06
+      ],
+      [
+        "u",
+        -1.147242e-06
+      ],
+      [
+        "\u0219i",
+        -1.7239736e-05
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden artists Richard, Vivaldo, and Rufus Scott, who jumps off the George Washington Bridge. Hella abandons David in France after the title character kills Guillame in a novel by this man that surprised readers with its (*) all-white cast. This author of Tell Me How Long the Train's Been gone and Another": {
+    "guess": "James Baldwin",
+    "confidence": [
+      [
+        "James",
+        -0.44423547
+      ],
+      [
+        " Baldwin",
+        -0.0005181244
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater than zero and V-dot of x is less than zero. Barkhausen names a criteria for this property in which the product of the gain and the transfer function is one, graphically illustrated in a Bode plot. Electrical": {
+    "guess": "Stability (systems)",
+    "confidence": [
+      [
+        "St",
+        -0.09394742
+      ],
+      [
+        "ability",
+        -0.00035321983
+      ],
+      [
+        " (",
+        -0.10157919
+      ],
+      [
+        "systems",
+        -0.8866859
+      ],
+      [
+        ")",
+        -0.0062767905
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters": {
+    "guess": "August Wilson",
+    "confidence": [
+      [
+        "August",
+        -0.7121193
+      ],
+      [
+        " Wilson",
+        -0.0007736549
+      ]
+    ]
+  },
+  "The base of this work contains a rusted chain next to a wound scroll. A man in white sits with bowed head at the left while another white-haired man clutches his head at the right. Three figures ascend a staircase in the background, behind a man who despairingly presses his forehead into a stone wall. To the right of the title figure are six men, one of whom grabs the title figure's left leg; that title figure points skyward, reaching with his left hand for the chalice that will cause the title event. For ten points, identify this painting by Jacques-Louis David, about a philosopher's execution.": {
+    "guess": "The Death of Socrates",
+    "confidence": [
+      [
+        "The",
+        -0.007467489
+      ],
+      [
+        " Death",
+        -0.000350955
+      ],
+      [
+        " of",
+        -8.888114e-05
+      ],
+      [
+        " S",
+        -0.00014501873
+      ],
+      [
+        "ocrates",
+        -1.4617256e-05
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as the \"Bird.\" Its worst season came when it was managed by former star Alan Trammell. In 2010, a pitcher": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.0074929274
+      ],
+      [
+        " Tigers",
+        -0.00020175234
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to the Explosion of the Cart celebration. The current mayor of this city was initially arrested, and then fined for ordering trees to be cut down to build its tram system, and has also sued Wikipedia for slander and libel; his name is Leonardo Domenici. The hills around this city include Poggio Imperiale and Carreggi, and are collectively called the Senese Clavey Hills. A bridge over the river running through it contains an elevated corridor to the Palazzo Pitti and is called the Ponte Vecchio. For": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.00068014604
+      ],
+      [
+        "rence",
+        -1.3902034e-05
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders,": {
+    "guess": "Invasive species",
+    "confidence": [
+      [
+        "In",
+        -0.76107883
+      ],
+      [
+        "vasive",
+        -0.07433637
+      ],
+      [
+        " species",
+        -0.16414449
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering, while this artist's The Prayer presents a dark woman, with a featureless face, leaning far": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.10239354
+      ],
+      [
+        "in",
+        -0.00021093102
+      ],
+      [
+        " Br",
+        -0.00030245376
+      ],
+      [
+        "\u00e2",
+        -0.00095040654
+      ],
+      [
+        "nc",
+        -4.365741e-06
+      ],
+      [
+        "u",
+        -2.7729659e-05
+      ],
+      [
+        "\u0219i",
+        -0.00020377879
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as the \"Bird.\" Its worst season came when it was managed by former star Alan Trammell. In 2010, a pitcher for this team, Armando Galarraga, threw the so-called \"almost perfect game.\" In 2003, this team lost an American League record 119 games. It won one pennant on a walk-off home run by Magglio Ordonez.": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.014739121
+      ],
+      [
+        " Tigers",
+        -0.00035060104
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals in the \"bank wiring\" department.  The longest experiment took place over five years and involved": {
+    "guess": "Stanford prison experiment",
+    "confidence": [
+      [
+        "Stan",
+        -0.91944945
+      ],
+      [
+        "ford",
+        -0.012830758
+      ],
+      [
+        " prison",
+        -0.104521886
+      ],
+      [
+        " experiment",
+        -0.0008198729
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as the \"Bird.\" Its worst season came when it was managed by former star Alan Trammell. In 2010, a pitcher for this team, Armando Galarraga, threw the so-called \"almost perfect game.\" In 2003, this team lost an American League record 119 games. It won one pennant on a walk-off home run by Magglio Ordonez. In the 2012 season, this team's third baseman won the Triple Crown. For 10 points, name this baseball": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.025597312
+      ],
+      [
+        " Tigers",
+        -0.0006542972
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.0007886636
+      ],
+      [
+        "rence",
+        -2.6060809e-05
+      ]
+    ]
+  },
+  "A basic belief asserted in this work is that while all knowledge originates with experience, it does not always come from experience. Also, experience may only confer comparative universality to its judgments,": {
+    "guess": "Empiricism",
+    "confidence": [
+      [
+        "Emp",
+        -1.2341193
+      ],
+      [
+        "ir",
+        -0.10916187
+      ],
+      [
+        "icism",
+        -0.00014883325
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals in the \"bank wiring\" department.  The longest experiment took place over five years and involved five women who assembled telephone relays.  Conducted by Frist Roethlisberger, William Dickson, and Elton Mayo, the experiments seemed to show that economic issues were not at the heart of employee motivation.  Instead, they found that attention increased productivity.  FTP, identify this effect": {
+    "guess": "Hawthorne effect",
+    "confidence": [
+      [
+        "H",
+        -0.003982347
+      ],
+      [
+        "aw",
+        0.0
+      ],
+      [
+        "th",
+        -6.6947665e-05
+      ],
+      [
+        "orne",
+        -9.133887e-06
+      ],
+      [
+        " effect",
+        -0.0202014
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one hormone produced here forms a blood pressure regulating system with angiotensin. This organ contains a structure that consists of a capillary tuft and is surrounded by Bowman's capsule called the glomerulus.": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.01341938
+      ],
+      [
+        "ney",
+        -0.0956791
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.0062240707
+      ],
+      [
+        "j",
+        -8.876193e-05
+      ],
+      [
+        " Khal",
+        -3.631232e-05
+      ],
+      [
+        "ifa",
+        -4.1557283e-05
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to": {
+    "guess": "Prisoners of Pain",
+    "confidence": [
+      [
+        "Pr",
+        -0.56699485
+      ],
+      [
+        "ison",
+        -0.0047419723
+      ],
+      [
+        "ers",
+        -9.436451e-05
+      ],
+      [
+        " of",
+        -9.877504e-05
+      ],
+      [
+        " Pain",
+        -0.00019686499
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband Eugene Gant in Look Homeward Angel, while another one with the surname Fraser brags that she contributes \"To the School Fund in Spoon River,\" even though she is the village prostitute.  It is the first of the four names of Mr. Zero's secret love in Elmer Rice's The Adding Machine and the first": {
+    "guess": "Wolfe",
+    "confidence": [
+      [
+        "W",
+        -1.6161615
+      ],
+      [
+        "ol",
+        -0.65523046
+      ],
+      [
+        "fe",
+        -0.011473465
+      ]
+    ]
+  },
+  "Bart Kosko developed the \"fuzzy\" type of these concepts, which are measured by Hasse diagrams. Robert": {
+    "guess": "Set",
+    "confidence": [
+      [
+        "Set",
+        -0.9666619
+      ]
+    ]
+  },
+  "The Barkhausen effect concerns tiny inconsistencies in materials displaying this property, which is visualized on a microscopic level by the Ising model. This property lags when the applied field is changed": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.7159557
+      ],
+      [
+        "er",
+        -0.3278868
+      ],
+      [
+        "rom",
+        -4.4849444e-06
+      ],
+      [
+        "agnet",
+        -0.017379843
+      ],
+      [
+        "ism",
+        -4.692145e-05
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one hormone produced here forms a blood pressure regulating system with angiotensin. This organ contains a structure that consists of a capillary tuft and is surrounded by Bowman's capsule called the glomerulus. This organ concentrates sodium to retain water in the loop of Henle, and it sits under the glands that produce epinephrine. For 10 points, name this organ, whose central functional unit is the": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.0054150615
+      ],
+      [
+        "ney",
+        -0.064160705
+      ]
+    ]
+  },
+  "Bart Kosko developed the \"fuzzy\" type of these concepts, which are measured by Hasse diagrams. Robert Axelrod's book The Structure of Decision analyzes these concepts in political elites. These concepts are divided into \"route-based\" and \"survey level\" types, and were introduced in an article about rats which navigated radial alleys in an elevated maze. These concepts were first theorized by the author": {
+    "guess": "Cognitive map",
+    "confidence": [
+      [
+        "C",
+        -0.3579219
+      ],
+      [
+        "ognitive",
+        -0.005204471
+      ],
+      [
+        " map",
+        -0.2258429
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9  A delta  and polymodal C  types of these structures transmit signals from nociceptors. A lack of  protection for these structures can cause Guillain-Barr\u00e9 syndrome. This part of some cells has branches  \uf0da called telodendria. Much of this structure is surrounded by cells that produce an insulating": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.021606777
+      ],
+      [
+        "on",
+        -0.0019072162
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband Eugene Gant in Look Homeward Angel, while another one with the surname Fraser brags that she contributes \"To the School Fund in Spoon River,\" even though she is the village prostitute.  It is the": {
+    "guess": "Wikipedia page for the answer of the question.",
+    "confidence": [
+      [
+        "W",
+        -1.8966317
+      ],
+      [
+        "ikipedia",
+        -0.36388153
+      ],
+      [
+        " page",
+        -0.09619377
+      ],
+      [
+        " for",
+        -0.18398598
+      ],
+      [
+        " the",
+        -1.0551738
+      ],
+      [
+        " answer",
+        -0.9338483
+      ],
+      [
+        " of",
+        -0.096226364
+      ],
+      [
+        " the",
+        -0.024900347
+      ],
+      [
+        " question",
+        -0.012401576
+      ],
+      [
+        ".",
+        -0.6888731
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden artists Richard, Vivaldo, and Rufus Scott, who jumps off the George Washington Bridge. Hella abandons David in France after the title character kills Guillame in a novel by this man that surprised readers with its (*) all-white cast. This author of Tell Me How Long the Train's Been gone and Another Country responded to Richard Wright in Notes of a Native Son and drew on his own homosexuality to write Giovanni's Room. Best known for his novel about John Grimes's religious experiences in Harlem, for 10 points, name this African American author of Go Tell It on the Mountain.": {
+    "guess": "James Baldwin",
+    "confidence": [
+      [
+        "James",
+        -0.00082046894
+      ],
+      [
+        " Baldwin",
+        -0.00011343709
+      ]
+    ]
+  },
+  "A barber pole sits in front of a row of businesses in this man's Early Sunday Morning. A small red teapot is on the table between two women at a restaurant in his Chop Suey. This artist of (*) Automat painted an ad for five-cent Phillies cigars in another of his works. In that painting, two men and a woman are being served inside a well-lit, doorless diner. For 10 points, name this American painter": {
+    "guess": "Edward Hopper",
+    "confidence": [
+      [
+        "Edward",
+        -0.0151842
+      ],
+      [
+        " H",
+        -0.0014264254
+      ],
+      [
+        "opper",
+        -2.1650272e-05
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is": {
+    "guess": "Solomon Daisy",
+    "confidence": [
+      [
+        "Sol",
+        -1.1928566
+      ],
+      [
+        "omon",
+        -0.0026738762
+      ],
+      [
+        " Daisy",
+        -0.008160506
+      ]
+    ]
+  },
+  "The basal ganglia and cerebral cortex are composed primarily of this substance composed of neuron cell bodies. Nerve impulses are created in this pinkish section of the brain that gains its namesake color": {
+    "guess": "Grey matter",
+    "confidence": [
+      [
+        "Grey",
+        -0.3022973
+      ],
+      [
+        " matter",
+        -0.059017394
+      ]
+    ]
+  },
+  "In basic solution, it can undergo the Cannizzaro reaction to produce methanol. Accidentally produced": {
+    "guess": "Formaldehyde",
+    "confidence": [
+      [
+        "Form",
+        -0.0062485957
+      ],
+      [
+        "al",
+        -0.018578544
+      ],
+      [
+        "dehyde",
+        -3.4762674e-05
+      ]
+    ]
+  },
+  "The Barkhausen Effect is a series of minute jumps in this property.  It is believed to be caused by fields generated by electron spins in combination with a mechanism known as exchange coupling.  Substances exhibit this property below the Curie temperature, and most substances that exhibit it are divided into regions known as domains.  FTP, identify this retention of a magnetic moment even when the": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.0024596027
+      ],
+      [
+        "er",
+        -7.2192626e-05
+      ],
+      [
+        "rom",
+        -2.7252845e-05
+      ],
+      [
+        "agnet",
+        -0.008930559
+      ],
+      [
+        "ism",
+        -2.5345586e-05
+      ]
+    ]
+  },
+  "Based on Alarcon's novel _The Corregidor and the Miller's  Wife_, it tells of a quick-witted southerner whose wife attracts  the attention of a lecherous magistrate from the north. Quoting  freely from traditional folk tunes like \"El pano moruno,\" its  highlights include a seguidilla (say-ga-DEE-ya), a farruca, and the work's most  famous number, the fandango. FTP, name this 1917 ballet, the most  popular work by Spanish composer Manuel de Falla. (mon-WELL day FY-a).": {
+    "guess": "The Three-Cornered Hat",
+    "confidence": [
+      [
+        "The",
+        -0.09792719
+      ],
+      [
+        " Three",
+        -0.0005165747
+      ],
+      [
+        "-C",
+        -0.00051800517
+      ],
+      [
+        "or",
+        -1.3186812e-05
+      ],
+      [
+        "ner",
+        -3.1737043e-06
+      ],
+      [
+        "ed",
+        -0.0001307143
+      ],
+      [
+        " Hat",
+        -4.370295e-05
+      ]
+    ]
+  },
+  "The basal ganglia and cerebral cortex are composed primarily of this substance composed of neuron cell bodies. Nerve impulses are created in this pinkish section of the brain that gains its namesake color after being removed from an active brain. FTP, identify this term for substance in the brain that handles information processing, which is not to be confused with the information-sending white matter.": {
+    "guess": "Gray matter",
+    "confidence": [
+      [
+        "Gray",
+        -0.5220784
+      ],
+      [
+        " matter",
+        -0.027708828
+      ]
+    ]
+  },
+  "Based on the life of the author's brother Danny, this play was rewritten in 2002 to reflect current pop culture trends, while the 1985 script was written with a female-dominated cast. The action takes place during the summer in an apartment on Riverside Drive, as Oscar's poker game is interrupted by a brooding Felix, who just divorced his wife. For 10 points\u2014name this Neil Simon play in which Oscar and Felix decide to be roommates and begin to annoy each other.": {
+    "guess": "The Odd Couple (play)",
+    "confidence": [
+      [
+        "The",
+        -0.08983314
+      ],
+      [
+        " Odd",
+        -0.1062006
+      ],
+      [
+        " Couple",
+        -0.00018029935
+      ],
+      [
+        " (",
+        -0.39400172
+      ],
+      [
+        "play",
+        -0.33950165
+      ],
+      [
+        ")",
+        -0.00013893934
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden artists Richard, Vivaldo, and Rufus Scott, who jumps off the George Washington Bridge. Hella abandons David in France after the title character kills Guillame in a novel by this man that surprised readers with its (*) all-white cast. This author of Tell Me How Long the Train's Been gone and Another Country responded to Richard Wright in Notes of a Native Son and drew on his own homosexuality to": {
+    "guess": "James Baldwin",
+    "confidence": [
+      [
+        "James",
+        -0.002912931
+      ],
+      [
+        " Baldwin",
+        -0.00024311233
+      ]
+    ]
+  },
+  "This is based on the binomial theorem and shows up on de Finetti diagrams as a parabola. It corrected": {
+    "guess": "Conic section",
+    "confidence": [
+      [
+        "Con",
+        -1.4970475
+      ],
+      [
+        "ic",
+        -0.008132837
+      ],
+      [
+        " section",
+        -0.029362774
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters of Gorgibus spurn the advances of La Grange and Du Croisy, but fall in love with their valets. In another, the title character delivers a long dialogue of nonsense Latin to prove his learning, and examines Lucinde after being beaten with sticks. This playwright wrote about Magdelon and Cathos in The Pretentious Young Ladies, and Sganarelle in The Doctor in Spite of Himself, and created the hypochondriac Argan for The Imaginary Invalid. He also wrote a play about Alceste's hatred of hypocrisy.": {
+    "guess": "Moli\u00e8re",
+    "confidence": [
+      [
+        "M",
+        -0.0009599391
+      ],
+      [
+        "oli",
+        -0.00010032469
+      ],
+      [
+        "\u00e8re",
+        -8.029847e-05
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters of Gorgibus spurn the advances of La Grange and Du Croisy, but fall in love with their valets. In another, the title character delivers a long dialogue of nonsense Latin to prove his learning, and examines Lucinde after being beaten with sticks. This playwright wrote about Magdelon and Cathos in The Pretentious Young Ladies, and Sganarelle in The Doctor in Spite of Himself, and created the hypochondriac Argan for The Imaginary Invalid. He also wrote a play about Alceste's hatred of hypocrisy. For 10 points, name this French playwright of The Bourgeois Gentleman and The Misanthrope.": {
+    "guess": "Moli\u00e8re",
+    "confidence": [
+      [
+        "M",
+        -0.0029197072
+      ],
+      [
+        "oli",
+        -0.000462724
+      ],
+      [
+        "\u00e8re",
+        -0.0024763737
+      ]
+    ]
+  },
+  "Based on the poems of Aloysius Bertrand, this composer wrote a collection consisting of Ondine (AHN-deen), Le Gibet, and Scarbo. The rhapsody by this composer contains a Feria and a Malaguena and probably was inspired by his Basque (bask) mother. Those works are Gaspard de la nuit and Spanish rhapsody. Another piece by this composer has a snare drum rhythm and a single theme played louder and louder by different sets of instruments; it was originally a ballet composed for Ida Rubenstein. Name this": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -0.043973204
+      ],
+      [
+        "aur",
+        -1.867018e-05
+      ],
+      [
+        "ice",
+        -1.8431772e-05
+      ],
+      [
+        " R",
+        -0.00022296692
+      ],
+      [
+        "avel",
+        -0.0002703953
+      ]
+    ]
+  },
+  "Based on Alarcon's novel _The Corregidor and the Miller's  Wife_, it tells of a quick-witted southerner whose wife attracts  the attention of a lecherous magistrate from the north. Quoting  freely from traditional folk tunes like \"El pano moruno,\" its  highlights include a seguidilla (say-ga-DEE-ya),": {
+    "guess": "El Amor Brujo",
+    "confidence": [
+      [
+        "El",
+        -0.35643205
+      ],
+      [
+        " Am",
+        -0.13893357
+      ],
+      [
+        "or",
+        -0.0002972088
+      ],
+      [
+        " Bru",
+        -0.0017014834
+      ],
+      [
+        "jo",
+        -9.794062e-05
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established the \"PFD\" system of yearly payments. This state's Senator Ernest Gruening was succeeded by a man who read the Pentagon Papers to the Senate chamber. This state withstood damage to (*) Attu and Kiska in the 1940s. A long-serving Republican senator from here died in a 2010 plane crash after his indictment for corruption was vacated. It boomed after a pipeline started moving oil from Prudhoe": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.041118644
+      ],
+      [
+        "aska",
+        -0.00080319535
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel": {
+    "guess": "The World According to Garp",
+    "confidence": [
+      [
+        "The",
+        -1.6202592
+      ],
+      [
+        " World",
+        -1.9124529
+      ],
+      [
+        " According",
+        -0.15954915
+      ],
+      [
+        " to",
+        -0.0002158147
+      ],
+      [
+        " G",
+        -0.00025251842
+      ],
+      [
+        "arp",
+        -1.1756368e-05
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed footprint. Architect Adrian Smith used reflective glazing to reduce stress from heat, while engineers rotated this building one hundred twenty degrees from its original layout to prevent damage from winds. Commissioned by Emaar Properties to be the centerpiece of a development including over thirty thousand homes and nine hotels, for 10 points, name this unfinished one hundred sixty two story building in the UAE which, on September 12, 2007, surpassed the CN Tower to become the world's": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.12533726
+      ],
+      [
+        "j",
+        -0.000101993544
+      ],
+      [
+        " Khal",
+        -0.00085191673
+      ],
+      [
+        "ifa",
+        -4.8351892e-05
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.35017154
+      ],
+      [
+        "on",
+        -0.0059495373
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals in the \"bank wiring\" department.  The longest experiment took place over five years and involved five women who assembled telephone relays.  Conducted by Frist Roethlisberger, William Dickson, and": {
+    "guess": "Hawthorne effect",
+    "confidence": [
+      [
+        "H",
+        -0.01041297
+      ],
+      [
+        "aw",
+        -4.246537e-06
+      ],
+      [
+        "th",
+        -9.3291674e-05
+      ],
+      [
+        "orne",
+        -3.261701e-05
+      ],
+      [
+        " effect",
+        -0.015471818
+      ]
+    ]
+  },
+  "This is based on the binomial theorem and shows up on de Finetti diagrams as a parabola. It corrected the \"genophagy\" theory that thought recessive traits would slowly disappear over time. Small population sizes disrupt this because they cause random changes in the gene pool, while random mating is necessary to maintain it. FTP, identify this genetic principle, defined by the equation p2+2pq+q2, which can be used to find frequencies of alleles in populations, the named for a mathematician and a physician.": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.18346697
+      ],
+      [
+        "y",
+        -6.0510665e-05
+      ],
+      [
+        "-",
+        -0.1350493
+      ],
+      [
+        "We",
+        -2.0935051e-05
+      ],
+      [
+        "in",
+        -5.6100132e-05
+      ],
+      [
+        "berg",
+        -0.00014001218
+      ],
+      [
+        " principle",
+        -0.40783292
+      ]
+    ]
+  },
+  "It was based on a proposal by Lord Robert Cecil and Col. Edouard R?uin, but the actual document was drafted by Eduard Benes and Nicholas Politis.  Presented by British Prime Minister Ramsay MacDonald,": {
+    "guess": "Locarno Treaties",
+    "confidence": [
+      [
+        "Loc",
+        -0.66161084
+      ],
+      [
+        "arn",
+        -4.3464544e-05
+      ],
+      [
+        "o",
+        -7.58424e-06
+      ],
+      [
+        " Treat",
+        -0.0052961274
+      ],
+      [
+        "ies",
+        -0.0003042418
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband Eugene Gant in Look Homeward Angel, while another one with the surname Fraser brags that she contributes \"To the School Fund in Spoon River,\" even though she is the village prostitute.  It is the first of the four names of Mr. Zero's secret love in Elmer Rice's The Adding Machine and the first name of Moses Herzog's first wife.  It's the name of Berenger's girlfriend in Rhinoceros, and another character with this name goes with Giovanelli to the Colosseum and dies of malaria in a novel narrated by Winterbourne.  FTP, identify this first name of Jay Gatsby's love.": {
+    "guess": "DAISY",
+    "confidence": [
+      [
+        "DA",
+        -0.22751279
+      ],
+      [
+        "IS",
+        -1.7835755e-05
+      ],
+      [
+        "Y",
+        -9.253091e-06
+      ]
+    ]
+  },
+  "The base of this work contains a rusted chain next to a wound scroll. A man in white sits with bowed head at the left while another white-haired man clutches his head at the right. Three figures ascend a staircase in the background, behind a man who despairingly presses his forehead into a stone wall. To the right of the title figure are six men, one of whom grabs the title figure's left leg; that": {
+    "guess": "The Death of Sardanapalus",
+    "confidence": [
+      [
+        "The",
+        -0.27530852
+      ],
+      [
+        " Death",
+        -0.30943725
+      ],
+      [
+        " of",
+        -0.0003035266
+      ],
+      [
+        " S",
+        -0.06490971
+      ],
+      [
+        "ard",
+        -0.22057147
+      ],
+      [
+        "an",
+        -5.9199425e-05
+      ],
+      [
+        "ap",
+        -0.00045045334
+      ],
+      [
+        "alus",
+        -0.00045736716
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity of this condition determines its namesake regime. The Ponderosa, longleaf, and slash (*) pines have adapted to survive this condition. These events play a large role in the evolution and maintenance": {
+    "guess": "Fire ecology",
+    "confidence": [
+      [
+        "Fire",
+        -0.2430251
+      ],
+      [
+        " ecology",
+        -0.3101066
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second": {
+    "guess": "Lyapunov Stability",
+    "confidence": [
+      [
+        "Ly",
+        -0.81365126
+      ],
+      [
+        "ap",
+        -0.0005284878
+      ],
+      [
+        "un",
+        -3.106736e-05
+      ],
+      [
+        "ov",
+        -0.000108788154
+      ],
+      [
+        " Stability",
+        -0.20683852
+      ]
+    ]
+  },
+  "It was based on a proposal by Lord Robert Cecil and Col. Edouard R?uin, but the actual document was drafted by Eduard Benes and Nicholas Politis.  Presented by British Prime Minister Ramsay MacDonald, it was unanimously recommended to the members of the League of Nations.  It provided for compensatory arbitration of all disputes, while defining the \"aggressor\" as the nation unwilling to submit the": {
+    "guess": "Kellogg-Briand Pact",
+    "confidence": [
+      [
+        "Kel",
+        -0.25060388
+      ],
+      [
+        "logg",
+        -0.0005508871
+      ],
+      [
+        "-B",
+        -0.31189635
+      ],
+      [
+        "ri",
+        -2.1008714e-06
+      ],
+      [
+        "and",
+        -1.2352386e-05
+      ],
+      [
+        " Pact",
+        -0.0022044976
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet \"O namenlose Freude\" in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria \"O war ich schon mit dir vereint\" after rejecting the advances of Jaquino, but they sing together in the quartet \"Mir ist so wunderbar.\" The title character of this opera sings the grave-digging duet with Rocco in the dungeon before using a pistol to prevent": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.10058285
+      ],
+      [
+        "idel",
+        -1.8431772e-05
+      ],
+      [
+        "io",
+        -2.3795938e-05
+      ]
+    ]
+  },
+  "It was based on a proposal by Lord Robert Cecil and Col. Edouard R?uin, but the actual document was drafted by Eduard Benes and Nicholas Politis.  Presented by British Prime Minister Ramsay MacDonald, it was unanimously recommended to the members of the League of Nations.  It provided for compensatory": {
+    "guess": "Locarno Treaties",
+    "confidence": [
+      [
+        "Loc",
+        -0.7497368
+      ],
+      [
+        "arn",
+        -4.310693e-05
+      ],
+      [
+        "o",
+        -1.0564331e-05
+      ],
+      [
+        " Treat",
+        -0.009928321
+      ],
+      [
+        "ies",
+        -0.0002009179
+      ]
+    ]
+  },
+  "Based on the poems of Aloysius Bertrand, this composer wrote a collection consisting of Ondine (AHN-deen),": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.3466647
+      ],
+      [
+        "asp",
+        -7.445749e-05
+      ],
+      [
+        "ard",
+        -8.776276e-06
+      ],
+      [
+        " de",
+        -0.00013715129
+      ],
+      [
+        " la",
+        -0.00012654216
+      ],
+      [
+        " N",
+        -0.002981983
+      ],
+      [
+        "uit",
+        -3.4405064e-05
+      ]
+    ]
+  },
+  "A basic belief asserted in this work is that while all knowledge originates with experience, it does not always come from experience. Also, experience may only confer comparative universality to its judgments, as by induction. For example, space and time are not the products of empirical knowledge, but exist as a consequence of the author's \"Axioms of Intuition.\" Proposing through the use of transcendental logic that philosophy is based on  \"a priori\"  knowledge by determining its extent is \u00ad for": {
+    "guess": "Critique of Pure Reason",
+    "confidence": [
+      [
+        "Crit",
+        -0.34773102
+      ],
+      [
+        "ique",
+        -4.1318875e-05
+      ],
+      [
+        " of",
+        -0.00017505439
+      ],
+      [
+        " Pure",
+        -9.615256e-05
+      ],
+      [
+        " Reason",
+        -2.0458236e-05
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to an overload of endorphins; as a result, each body cell can remember each childhood trauma, and the stored pain of an entire lifetime is bopping around in the body. Therefore, the cure for all psychological ills is to express and release this inner pain and sadness, ideally in an explosive, loud, three-week-long intensive and expensive workshop. For ten points, identify this form of \"therapy\" popularized": {
+    "guess": "Primal therapy",
+    "confidence": [
+      [
+        "Pr",
+        -0.03984448
+      ],
+      [
+        "imal",
+        -0.044598732
+      ],
+      [
+        " therapy",
+        -0.328517
+      ]
+    ]
+  },
+  "The Barkhausen effect concerns tiny inconsistencies in materials displaying this property, which is visualized on a microscopic level by the Ising model. This property lags when the applied field is changed in a process called hysteresis. Disappearing above the Curie temperature, it is seen in materials that remain magnetized after an external magnetic field is removed. For 10 points, name this type": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.0013889238
+      ],
+      [
+        "er",
+        -0.00013476722
+      ],
+      [
+        "rom",
+        -8.89548e-06
+      ],
+      [
+        "agnet",
+        -0.0042289356
+      ],
+      [
+        "ism",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "Bart Kosko developed the \"fuzzy\" type of these concepts, which are measured by Hasse diagrams. Robert Axelrod's book The Structure of Decision analyzes these concepts in political elites. These concepts are divided into \"route-based\" and \"survey level\" types, and were introduced in an article about rats which navigated radial alleys in an elevated maze. These concepts were first theorized by the author of Purposive Behaviors in Animals and Men, who compared them to \"sign Gestalts.\" For 10 points, name these mental representations of the outside world theorized by Edward Tolman.": {
+    "guess": "Cognitive map",
+    "confidence": [
+      [
+        "C",
+        -0.009236875
+      ],
+      [
+        "ognitive",
+        -4.9067115e-05
+      ],
+      [
+        " map",
+        -0.07261803
+      ]
+    ]
+  },
+  "The Barkhausen Effect is a series of minute jumps in this property.  It is believed to be caused by fields generated by electron spins in combination with a mechanism known as exchange coupling.  Substances exhibit this property below the Curie temperature, and most substances that exhibit it are divided into regions known as domains.  FTP, identify this retention of a magnetic moment even when the external magnetic field is reduced to zero, so-named because of its presence in iron.": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.422565
+      ],
+      [
+        "er",
+        -0.0004953675
+      ],
+      [
+        "rom",
+        -4.012684e-05
+      ],
+      [
+        "agnet",
+        -0.011794674
+      ],
+      [
+        "ism",
+        -2.0100624e-05
+      ]
+    ]
+  },
+  "In basic solution, it can undergo the Cannizzaro reaction to produce methanol. Accidentally produced by Alexander Butlerov in 1859, credit for its identification is given to August Wilhelm von Hofmann. Capable of adding electrophilically to alkenes, it can be prepared industrially by heating dry air and methyl alcohol vapor in the presence of a catalyst like copper or silver, and can also be synthesized from carbon monoxide and hydrogen. Frequently used as a disinfectant and also known as methanal, FTP, name this compound with chemical formula C-H-2-O, the simplest of the aldehydes.": {
+    "guess": "Formaldehyde",
+    "confidence": [
+      [
+        "Form",
+        -0.008277435
+      ],
+      [
+        "al",
+        -0.00037287746
+      ],
+      [
+        "dehyde",
+        -3.9411618e-05
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater than zero and V-dot of x is less than zero. Barkhausen names a criteria for this property in which the product of the gain and the transfer function is one, graphically illustrated in a Bode plot. Electrical engineers usually consider the BIBO form of this property in linear signals, while this property of equilibria is asymptotic if solutions converge to that equilibria, but merely Lyapunov if solutions do not escape. FTP, name this property that chaotic systems lack in which a small error in input": {
+    "guess": "Stability (systems)",
+    "confidence": [
+      [
+        "St",
+        -0.62060344
+      ],
+      [
+        "ability",
+        -0.000121662146
+      ],
+      [
+        " (",
+        -0.10204677
+      ],
+      [
+        "systems",
+        -0.37345403
+      ],
+      [
+        ")",
+        -0.63801575
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters of Gorgibus spurn the advances of La Grange and Du Croisy, but fall in love with their valets. In another, the title character delivers a long dialogue of nonsense Latin to prove his learning,": {
+    "guess": "Moli\u00e8re",
+    "confidence": [
+      [
+        "M",
+        -0.09591481
+      ],
+      [
+        "oli",
+        -0.00040362097
+      ],
+      [
+        "\u00e8re",
+        -0.0007879484
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband": {
+    "guess": "Dombey",
+    "confidence": [
+      [
+        "D",
+        -1.1270541
+      ],
+      [
+        "omb",
+        -0.29437834
+      ],
+      [
+        "ey",
+        -7.4695905e-05
+      ]
+    ]
+  },
+  "The base of this work contains a rusted chain next to a wound scroll. A man in white sits with bowed": {
+    "guess": "The Death of Socrates",
+    "confidence": [
+      [
+        "The",
+        -0.58461076
+      ],
+      [
+        " Death",
+        -0.5110716
+      ],
+      [
+        " of",
+        -0.00035774958
+      ],
+      [
+        " S",
+        -0.49719274
+      ],
+      [
+        "ocrates",
+        -0.54261684
+      ]
+    ]
+  },
+  "The Barkhausen Effect is a series of minute jumps in this property.  It is believed to be caused by fields generated by electron spins in combination with a mechanism known as exchange coupling.  Substances": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.3038988
+      ],
+      [
+        "er",
+        -4.310693e-05
+      ],
+      [
+        "rom",
+        -6.392203e-06
+      ],
+      [
+        "agnet",
+        -0.015998704
+      ],
+      [
+        "ism",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The bare head of a young person, possibly a child, droops the back and right in this artist's bust Suffering, while this artist's The Prayer presents a dark woman, with a featureless face, leaning far forward. He executed several versions of La N\u00e9gresse Blonde, and many of his works feature carefully carved, wooden bases, which he felt was important to their presentation. The Gate of the Kiss was constructed as a memorial to soldiers of World War I along with the more famous Table of Silence and Infinite Column. More famous works include a head laying on its side, Sleeping Muse, and the series": {
+    "guess": "Constantin Br\u00e2ncu\u0219i",
+    "confidence": [
+      [
+        "Constant",
+        -0.00022117885
+      ],
+      [
+        "in",
+        -6.1537958e-06
+      ],
+      [
+        " Br",
+        -2.1650272e-05
+      ],
+      [
+        "\u00e2",
+        -5.0497558e-05
+      ],
+      [
+        "nc",
+        -4.3202e-07
+      ],
+      [
+        "u",
+        -1.2664457e-06
+      ],
+      [
+        "\u0219i",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one hormone produced here forms a blood pressure regulating system with angiotensin. This organ contains": {
+    "guess": "Kidneys",
+    "confidence": [
+      [
+        "Kid",
+        -0.013081056
+      ],
+      [
+        "neys",
+        -0.49517632
+      ]
+    ]
+  },
+  "The base of this work contains a rusted chain next to a wound scroll. A man in white sits with bowed head at the left while another white-haired man clutches his head at the right. Three figures ascend a staircase in the background, behind a man who despairingly presses his forehead into a stone wall.": {
+    "guess": "The Despairing Man",
+    "confidence": [
+      [
+        "The",
+        -0.50997126
+      ],
+      [
+        " Des",
+        -1.5000018
+      ],
+      [
+        "pair",
+        -0.23018005
+      ],
+      [
+        "ing",
+        -0.053960707
+      ],
+      [
+        " Man",
+        -0.23359288
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband Eugene Gant in Look Homeward Angel, while another one with the surname Fraser brags that she contributes": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2227075
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity of this condition determines its namesake regime. The Ponderosa, longleaf, and slash (*) pines": {
+    "guess": "Fire ecology",
+    "confidence": [
+      [
+        "Fire",
+        -0.2862803
+      ],
+      [
+        " ecology",
+        -0.38171265
+      ]
+    ]
+  },
+  "A barber pole sits in front of a row of businesses in this man's Early Sunday Morning. A small red teapot is on the table between two women at a restaurant in his Chop Suey. This artist of (*) Automat painted an ad for five-cent Phillies cigars in another of his works. In that painting, two men and a": {
+    "guess": "Edward Hopper",
+    "confidence": [
+      [
+        "Edward",
+        -0.005225814
+      ],
+      [
+        " H",
+        -0.021047104
+      ],
+      [
+        "opper",
+        -5.9437833e-05
+      ]
+    ]
+  },
+  "Based on the life of the author's brother Danny, this play was rewritten in 2002 to reflect current pop culture trends, while the 1985 script was written with a female-dominated cast. The action takes place during the summer in an apartment on Riverside Drive, as Oscar's poker game is interrupted by": {
+    "guess": "The Odd Couple",
+    "confidence": [
+      [
+        "The",
+        -0.065618314
+      ],
+      [
+        " Odd",
+        -0.3180884
+      ],
+      [
+        " Couple",
+        -0.00015097891
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established the \"PFD\" system of yearly payments. This state's Senator Ernest Gruening was succeeded by a man who read the Pentagon Papers to the Senate chamber. This state withstood damage to (*) Attu and Kiska in the 1940s. A long-serving Republican senator from here died in a 2010 plane crash after his indictment for corruption was vacated. It boomed after a pipeline started moving oil from Prudhoe Bay, near the North Slope. For 10 points, name this home state of Mike Gravel and Ted Stevens, where Japan attacked Dutch Harbor and the Exxon Valdez spilled.": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.0031436125
+      ],
+      [
+        "aska",
+        -0.00014311148
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to an overload of endorphins; as a result, each body cell can remember each childhood trauma, and the": {
+    "guess": "Prisoners of Pain",
+    "confidence": [
+      [
+        "Pr",
+        -0.5744214
+      ],
+      [
+        "ison",
+        -0.04130053
+      ],
+      [
+        "ers",
+        -0.00026276626
+      ],
+      [
+        " of",
+        -0.0002477503
+      ],
+      [
+        " Pain",
+        -0.00044401636
+      ]
+    ]
+  },
+  "The basal ganglia and cerebral cortex are composed primarily of this substance composed of neuron cell": {
+    "guess": "Grey matter",
+    "confidence": [
+      [
+        "Grey",
+        -0.3212191
+      ],
+      [
+        " matter",
+        -0.057049792
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet \"O namenlose Freude\" in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria \"O war ich schon mit dir vereint\" after rejecting the advances of Jaquino, but they sing together in the quartet \"Mir ist so wunderbar.\" The title character": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.0054762447
+      ],
+      [
+        "idel",
+        -2.5345586e-05
+      ],
+      [
+        "io",
+        -7.171581e-05
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established the \"PFD\" system of yearly payments. This state's Senator Ernest Gruening was succeeded by": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.015743172
+      ],
+      [
+        "aska",
+        -0.00017493518
+      ]
+    ]
+  },
+  "Based on Alarcon's novel _The Corregidor and the Miller's  Wife_, it tells of a quick-witted southerner whose wife attracts  the attention of a lecherous magistrate from the north. Quoting  freely from": {
+    "guess": "The Three-Cornered Hat",
+    "confidence": [
+      [
+        "The",
+        -0.12349092
+      ],
+      [
+        " Three",
+        -0.47498095
+      ],
+      [
+        "-C",
+        -0.012310675
+      ],
+      [
+        "or",
+        -3.1782583e-05
+      ],
+      [
+        "ner",
+        -3.2929079e-06
+      ],
+      [
+        "ed",
+        -3.2140193e-05
+      ],
+      [
+        " Hat",
+        -6.408677e-05
+      ]
+    ]
+  },
+  "Bart Kosko developed the \"fuzzy\" type of these concepts, which are measured by Hasse diagrams. Robert Axelrod's book The Structure of Decision analyzes these concepts in political elites. These concepts are divided into \"route-based\" and \"survey level\" types, and were introduced in an article about rats which navigated radial alleys in an elevated maze. These concepts were first theorized by the author of Purposive Behaviors in Animals and Men, who compared them to \"sign Gestalts.\" For 10 points,": {
+    "guess": "Cognitive map",
+    "confidence": [
+      [
+        "C",
+        -0.244513
+      ],
+      [
+        "ognitive",
+        -0.0020698486
+      ],
+      [
+        " map",
+        -0.15803812
+      ]
+    ]
+  },
+  "Based on the poems of Aloysius Bertrand, this composer wrote a collection consisting of Ondine (AHN-deen), Le Gibet, and Scarbo. The rhapsody by this composer contains a Feria and a Malaguena and probably": {
+    "guess": "Gaspard de la Nuit",
+    "confidence": [
+      [
+        "G",
+        -0.5251019
+      ],
+      [
+        "asp",
+        -6.2656334e-05
+      ],
+      [
+        "ard",
+        -4.365741e-06
+      ],
+      [
+        " de",
+        -0.00015002528
+      ],
+      [
+        " la",
+        -7.5530326e-05
+      ],
+      [
+        " N",
+        -0.5225762
+      ],
+      [
+        "uit",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Until 1892, they were based at an abbey in northwest France, the name of which gave this group its common": {
+    "guess": "Chartres Cathedral",
+    "confidence": [
+      [
+        "Chart",
+        -0.16815609
+      ],
+      [
+        "res",
+        -0.0076347818
+      ],
+      [
+        " Cathedral",
+        -0.4010114
+      ]
+    ]
+  },
+  "Until 1892, they were based at an abbey in northwest France, the name of which gave this group its common name.  Today, they are scattered throughout the world and can be recognized by their habit:  white": {
+    "guess": "Trappists",
+    "confidence": [
+      [
+        "Tr",
+        -0.7183266
+      ],
+      [
+        "app",
+        -0.00123035
+      ],
+      [
+        "ists",
+        -0.11180116
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband Eugene Gant in Look Homeward Angel, while another one with the surname Fraser brags that she contributes \"To the School Fund in Spoon River,\" even though she is the village prostitute.  It is the first of the four names of Mr. Zero's secret love in Elmer Rice's The Adding Machine and the first name of Moses Herzog's first wife.  It's the name of Berenger's girlfriend in Rhinoceros, and another": {
+    "guess": "Wolfe",
+    "confidence": [
+      [
+        "W",
+        -0.74972236
+      ],
+      [
+        "ol",
+        -0.06768318
+      ],
+      [
+        "fe",
+        -0.018852444
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals in the \"bank wiring\" department.  The longest experiment took place over five years and involved five women who assembled telephone relays.  Conducted by Frist Roethlisberger, William Dickson, and Elton Mayo, the experiments seemed to show that economic issues were not at the heart of employee motivation.  Instead, they found that attention increased productivity.  FTP, identify this effect named for the Western Electric factory in Cicero, Illinois where it was discovered, which states that": {
+    "guess": "Hawthorne effect",
+    "confidence": [
+      [
+        "H",
+        -0.0043179607
+      ],
+      [
+        "aw",
+        0.0
+      ],
+      [
+        "th",
+        -0.00013941615
+      ],
+      [
+        "orne",
+        -7.465036e-06
+      ],
+      [
+        " effect",
+        -0.030313378
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as the \"Bird.\" Its worst season came when it was managed by former star Alan Trammell. In 2010, a pitcher for this team, Armando Galarraga, threw the so-called \"almost perfect game.\" In 2003, this team lost an American League record 119 games. It won one pennant on a walk-off home run by Magglio Ordonez. In the 2012 season, this team's third baseman won the Triple Crown. For 10 points, name this baseball team which won the American League pennant in 2012, has such stars as Miguel Cabrera and Justin": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.009233462
+      ],
+      [
+        " Tigers",
+        -0.00028922583
+      ]
+    ]
+  },
+  "Based on Alarcon's novel _The Corregidor and the Miller's  Wife_, it tells of a quick-witted southerner whose wife attracts  the attention of a lecherous magistrate from the north. Quoting  freely from traditional folk tunes like \"El pano moruno,\" its  highlights include a seguidilla (say-ga-DEE-ya), a farruca, and the work's most  famous number, the fandango. FTP, name this 1917 ballet, the most ": {
+    "guess": "El sombrero de tres picos",
+    "confidence": [
+      [
+        "El",
+        -0.07880309
+      ],
+      [
+        " som",
+        -0.030438397
+      ],
+      [
+        "brero",
+        -0.00025371046
+      ],
+      [
+        " de",
+        -0.0003029306
+      ],
+      [
+        " tres",
+        -0.00080700987
+      ],
+      [
+        " pic",
+        -0.00038241007
+      ],
+      [
+        "os",
+        -5.7172965e-05
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity of this condition determines its namesake regime. The Ponderosa, longleaf, and slash (*) pines have adapted to survive this condition. These events play a large role in the evolution and maintenance of many ecosystems by doing things like creating gaps in the canopy, which allows shade-intolerant species to grow, and clearing underbrush. Herbivory promoted by this condition is known as pyric": {
+    "guess": "Fire ecology",
+    "confidence": [
+      [
+        "Fire",
+        -0.6149999
+      ],
+      [
+        " ecology",
+        -0.09971253
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.9419696
+      ],
+      [
+        "agen",
+        -0.00023941702
+      ]
+    ]
+  },
+  "It was the base of operations for French forces during the Persian Gulf War, and although it was granted independence from France in 1977 they maintain a strong military presence there. Strategically situated,": {
+    "guess": "Djibouti",
+    "confidence": [
+      [
+        "D",
+        -0.027450003
+      ],
+      [
+        "j",
+        -4.6683042e-05
+      ],
+      [
+        "ib",
+        -1.147242e-06
+      ],
+      [
+        "out",
+        -2.1650272e-05
+      ],
+      [
+        "i",
+        -2.5703197e-05
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed footprint. Architect Adrian Smith used reflective glazing to reduce stress from heat, while engineers rotated this building one hundred twenty degrees from its original layout to prevent damage from winds. Commissioned by Emaar Properties to be the centerpiece of a development including over": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.015804417
+      ],
+      [
+        "j",
+        -0.00019650738
+      ],
+      [
+        " Khal",
+        -2.057744e-05
+      ],
+      [
+        "ifa",
+        -8.9834764e-05
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.22155972
+      ],
+      [
+        "idel",
+        -0.00019912985
+      ],
+      [
+        "io",
+        -7.9940866e-05
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca,": {
+    "guess": "Plant defense against herbivory",
+    "confidence": [
+      [
+        "Plant",
+        -0.6413944
+      ],
+      [
+        " defense",
+        -1.1250154
+      ],
+      [
+        " against",
+        -0.3772228
+      ],
+      [
+        " herb",
+        -1.7120534e-05
+      ],
+      [
+        "iv",
+        -7.58424e-06
+      ],
+      [
+        "ory",
+        -0.00075364334
+      ]
+    ]
+  },
+  "Based on the poems of Aloysius Bertrand, this composer wrote a collection consisting of Ondine (AHN-deen), Le Gibet, and Scarbo. The rhapsody by this composer contains a Feria and a Malaguena and probably was inspired by his Basque (bask) mother. Those works are Gaspard de la nuit and Spanish rhapsody. Another piece by this composer has a snare drum rhythm and a single theme played louder and louder": {
+    "guess": "Maurice Ravel",
+    "confidence": [
+      [
+        "M",
+        -0.1051052
+      ],
+      [
+        "aur",
+        -6.992776e-05
+      ],
+      [
+        "ice",
+        -1.4140442e-05
+      ],
+      [
+        " R",
+        -9.6629374e-05
+      ],
+      [
+        "avel",
+        -3.5358695e-05
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals": {
+    "guess": "Mica Splitting Test",
+    "confidence": [
+      [
+        "M",
+        -2.7487195
+      ],
+      [
+        "ica",
+        -0.3947792
+      ],
+      [
+        " Split",
+        -0.24415351
+      ],
+      [
+        "ting",
+        -0.0003246183
+      ],
+      [
+        " Test",
+        -0.017950207
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater": {
+    "guess": "Lyapunov stability",
+    "confidence": [
+      [
+        "Ly",
+        -0.036525615
+      ],
+      [
+        "ap",
+        -0.00083607365
+      ],
+      [
+        "un",
+        -7.5530326e-05
+      ],
+      [
+        "ov",
+        -0.00015800826
+      ],
+      [
+        " stability",
+        -0.3595035
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet \"O namenlose Freude\" in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria \"O war ich schon mit dir vereint\" after rejecting the advances of Jaquino, but they sing together in the quartet \"Mir ist so wunderbar.\" The title character of this opera sings the grave-digging duet with Rocco in the dungeon before using a pistol to prevent Don Pizarro from killing her husband Florestan, who had been held in a secret prison for two years. For 10 points, name this opera in which Leonore dresses up as the title man, composed by Beethoven.": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.0033810225
+      ],
+      [
+        "idel",
+        -2.3080716e-05
+      ],
+      [
+        "io",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "A basic belief asserted in this work is that while all knowledge originates with experience, it does": {
+    "guess": "Empiricism",
+    "confidence": [
+      [
+        "Emp",
+        -0.06990742
+      ],
+      [
+        "ir",
+        -0.0027350972
+      ],
+      [
+        "icism",
+        -5.7411373e-05
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity of this condition determines its namesake regime. The Ponderosa, longleaf, and slash (*) pines have adapted to survive this condition. These events play a large role in the evolution and maintenance of many ecosystems by doing things like creating gaps in the canopy, which allows shade-intolerant species to grow, and clearing underbrush. Herbivory promoted by this condition is known as pyric (\"PIE-rick\") herbivory. For 10 points, name these events that puny humans have attempted to replace with \"controlled burns\"": {
+    "guess": "Fire ecology",
+    "confidence": [
+      [
+        "Fire",
+        -0.69325024
+      ],
+      [
+        " ecology",
+        -0.6872836
+      ]
+    ]
+  },
+  "This is based on the binomial theorem and shows up on de Finetti diagrams as a parabola. It corrected the \"genophagy\" theory that thought recessive traits would slowly disappear over time. Small population sizes disrupt this because they cause random changes in the gene pool, while random mating is necessary to maintain it. FTP, identify this genetic principle, defined by the equation p2+2pq+q2, which": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.17574984
+      ],
+      [
+        "y",
+        -0.000119874094
+      ],
+      [
+        "-",
+        -0.06278976
+      ],
+      [
+        "We",
+        -2.7610455e-05
+      ],
+      [
+        "in",
+        -0.00010151673
+      ],
+      [
+        "berg",
+        -8.017927e-05
+      ],
+      [
+        " principle",
+        -0.54587245
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet \"O namenlose Freude\" in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria \"O war ich schon mit dir vereint\" after rejecting the advances of Jaquino, but they sing together in the quartet \"Mir ist so wunderbar.\" The title character of this opera sings the grave-digging duet with Rocco in the dungeon before using a pistol to prevent Don Pizarro from killing her husband Florestan, who had been held in a secret prison for two years.": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.004305496
+      ],
+      [
+        "idel",
+        -2.1054253e-05
+      ],
+      [
+        "io",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "Barry Goldwater amended a bill regulating mental health services in this state after the bill was perceived as a Communist plot. This state is home to the preserved Tlingit language. Its government established the \"PFD\" system of yearly payments. This state's Senator Ernest Gruening was succeeded by a man who read the Pentagon Papers to the Senate chamber. This state withstood damage to (*) Attu and Kiska in the 1940s. A long-serving Republican senator from here died in a 2010 plane crash after his": {
+    "guess": "Alaska",
+    "confidence": [
+      [
+        "Al",
+        -0.026366724
+      ],
+      [
+        "aska",
+        -0.0010290003
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed footprint. Architect Adrian Smith used reflective glazing to reduce stress from heat, while engineers rotated this building one hundred twenty degrees from its original layout to prevent damage": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.006132253
+      ],
+      [
+        "j",
+        -0.00010902656
+      ],
+      [
+        " Khal",
+        -1.569009e-05
+      ],
+      [
+        "ifa",
+        -5.6100132e-05
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to an overload of endorphins; as a result, each body cell can remember each childhood trauma, and the stored pain of an entire lifetime is bopping around in the body. Therefore, the cure for all psychological": {
+    "guess": "Prisoners of Pain",
+    "confidence": [
+      [
+        "Pr",
+        -0.6286229
+      ],
+      [
+        "ison",
+        -0.01201401
+      ],
+      [
+        "ers",
+        -0.00016778296
+      ],
+      [
+        " of",
+        -7.433829e-05
+      ],
+      [
+        " Pain",
+        -0.00032247265
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.95291954
+      ],
+      [
+        "idel",
+        -0.00050323125
+      ],
+      [
+        "io",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Based on an abstract interpretation of the Hymencallis flower, this building's base has a distinct three-lobed footprint. Architect Adrian Smith used reflective glazing to reduce stress from heat, while engineers rotated this building one hundred twenty degrees from its original layout to prevent damage from winds. Commissioned by Emaar Properties to be the centerpiece of a development including over thirty thousand homes and nine hotels, for 10 points, name this unfinished one hundred sixty two": {
+    "guess": "Burj Khalifa",
+    "confidence": [
+      [
+        "Bur",
+        -0.043284286
+      ],
+      [
+        "j",
+        -0.0003212806
+      ],
+      [
+        " Khal",
+        -0.0019918014
+      ],
+      [
+        "ifa",
+        -9.913265e-05
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9  A delta  and polymodal C  types of these structures transmit signals from nociceptors. A lack of ": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.17410144
+      ],
+      [
+        "on",
+        -0.0020633072
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.": {
+    "guess": "Amelia Earhart",
+    "confidence": [
+      [
+        "Am",
+        -2.0287097
+      ],
+      [
+        "elia",
+        -0.016533043
+      ],
+      [
+        " Ear",
+        -0.0038954415
+      ],
+      [
+        "hart",
+        -0.00013572084
+      ]
+    ]
+  },
+  "Until 1892, they were based at an abbey in northwest France, the name of which gave this group its common name.  Today, they are scattered throughout the world and can be recognized by their habit:  white with a black scapular.  Their proper name is the Cistercians of the Strict Observance.  FTP name": {
+    "guess": "Trappists",
+    "confidence": [
+      [
+        "Tr",
+        -0.18146051
+      ],
+      [
+        "app",
+        -1.0445127e-05
+      ],
+      [
+        "ists",
+        -0.03425423
+      ]
+    ]
+  },
+  "The Barkhausen effect concerns tiny inconsistencies in materials displaying this property, which is visualized on a microscopic level by the Ising model. This property lags when the applied field is changed in a process called hysteresis. Disappearing above the Curie temperature, it is seen in materials that remain magnetized after an external magnetic field is removed. For 10 points, name this type of magnetism observed in cobalt, nickname, and, as its name suggests, iron.": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.0008883527
+      ],
+      [
+        "er",
+        -6.456359e-05
+      ],
+      [
+        "rom",
+        -1.2948405e-05
+      ],
+      [
+        "agnet",
+        -0.00073672744
+      ],
+      [
+        "ism",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "It was the base of operations for French forces during the Persian Gulf War, and although it was granted independence from France in 1977 they maintain a strong military presence there. Strategically situated, it commands Bab el Mandeb, the strait between the Gulf of Aden and the Red Sea. Among its interesting features is Lake Assal, the lowest point in Africa at 509 feet below sea level. FTP, name this African nation of a half-million people bounded by Eritrea, Ethiopia, Somalia, and the Gulf of Aden.": {
+    "guess": "Djibouti",
+    "confidence": [
+      [
+        "D",
+        -0.0009849352
+      ],
+      [
+        "j",
+        -0.000112960275
+      ],
+      [
+        "ib",
+        -8.418666e-06
+      ],
+      [
+        "out",
+        -3.4047454e-05
+      ],
+      [
+        "i",
+        -2.9636918e-05
+      ]
+    ]
+  },
+  "It was the base of operations for French forces during the Persian Gulf War, and although it was granted independence from France in 1977 they maintain a strong military presence there. Strategically situated, it commands Bab el Mandeb, the strait between the Gulf of Aden and the Red Sea. Among its interesting features is Lake Assal, the lowest point in Africa at 509 feet below sea level. FTP, name this African nation of a half-million people bounded by Eritrea, Ethiopia, Somalia, and the Gulf of": {
+    "guess": "Djibouti",
+    "confidence": [
+      [
+        "D",
+        -0.0019110271
+      ],
+      [
+        "j",
+        -0.00010986099
+      ],
+      [
+        "ib",
+        -1.2948405e-05
+      ],
+      [
+        "out",
+        -3.9769227e-05
+      ],
+      [
+        "i",
+        -3.3451433e-05
+      ]
+    ]
+  },
+  "A basic belief asserted in this work is that while all knowledge originates with experience, it does not always come from experience. Also, experience may only confer comparative universality to its judgments, as by induction. For example, space and time are not the products of empirical knowledge, but exist as a consequence of the author's \"Axioms of Intuition.\" Proposing through the use of transcendental": {
+    "guess": "Critique of Pure Reason",
+    "confidence": [
+      [
+        "Crit",
+        -0.18700011
+      ],
+      [
+        "ique",
+        -6.408677e-05
+      ],
+      [
+        " of",
+        -0.00044365876
+      ],
+      [
+        " Pure",
+        -0.0001345288
+      ],
+      [
+        " Reason",
+        -2.808727e-05
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as the \"Bird.\" Its worst season came when it was managed by former star Alan Trammell. In 2010, a pitcher for this team, Armando Galarraga, threw the so-called \"almost perfect game.\" In 2003, this team lost": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.0052696844
+      ],
+      [
+        " Tigers",
+        -0.0009183663
+      ]
+    ]
+  },
+  "The base of this work contains a rusted chain next to a wound scroll. A man in white sits with bowed head at the left while another white-haired man clutches his head at the right. Three figures ascend a staircase in the background, behind a man who despairingly presses his forehead into a stone wall. To the right of the title figure are six men, one of whom grabs the title figure's left leg; that title figure points skyward, reaching with his left hand for the chalice that will cause the title event.": {
+    "guess": "The Death of Sardanapalus",
+    "confidence": [
+      [
+        "The",
+        -0.10311207
+      ],
+      [
+        " Death",
+        -0.20880939
+      ],
+      [
+        " of",
+        -6.587483e-05
+      ],
+      [
+        " S",
+        -0.029417058
+      ],
+      [
+        "ard",
+        -0.27193367
+      ],
+      [
+        "an",
+        -6.0510665e-05
+      ],
+      [
+        "ap",
+        -0.00035393506
+      ],
+      [
+        "alus",
+        -0.0004104156
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9  A delta  and polymodal C  types of these structures transmit signals from nociceptors. A lack of  protection for these structures can cause Guillain-Barr\u00e9 syndrome. This part of some cells has branches  \uf0da called telodendria. Much of this structure is surrounded by cells that produce an insulating material,  and the gaps where this structure is not surrounded are called the nodes of Ranvier [ran-vee-ay]. The  other parts are protected by Schwann cells that produce myelin. Name these extensions": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.040985808
+      ],
+      [
+        "on",
+        -0.013609898
+      ]
+    ]
+  },
+  "Until 1892, they were based at an abbey in northwest France, the name of which gave this group its common name.  Today, they are scattered throughout the world and can be recognized by their habit:  white with a black scapular.  Their proper name is the Cistercians of the Strict Observance.  FTP name this order, the most famous latter day member of which was Thomas Merton, who before the 1960s spent": {
+    "guess": "Trappists",
+    "confidence": [
+      [
+        "Tr",
+        -0.16866086
+      ],
+      [
+        "app",
+        -0.00036132568
+      ],
+      [
+        "ists",
+        -0.036516186
+      ]
+    ]
+  },
+  "It is based on a theory of neurosis articulated in Prisoners of Pain: too much emotional pain leads to an overload of endorphins; as a result, each body cell can remember each childhood trauma, and the stored pain of an entire lifetime is bopping around in the body. Therefore, the cure for all psychological ills is to express and release this inner pain and sadness, ideally in an explosive, loud, three-week-long intensive and expensive workshop. For ten points, identify this form of \"therapy\" popularized by Arthur Janov, which shares its name with a stress-relieving pre-exam tradition at Northwestern University.": {
+    "guess": "Primal Therapy",
+    "confidence": [
+      [
+        "Pr",
+        -0.0011679606
+      ],
+      [
+        "imal",
+        -0.0003062646
+      ],
+      [
+        " Therapy",
+        -0.6789769
+      ]
+    ]
+  },
+  "This baseball team's former stars have included the eccentric pitcher Mark Fidrych, who was known as": {
+    "guess": "Detroit Tigers",
+    "confidence": [
+      [
+        "Detroit",
+        -0.018680109
+      ],
+      [
+        " Tigers",
+        -0.00011653639
+      ]
+    ]
+  },
+  "In basic solution, it can undergo the Cannizzaro reaction to produce methanol. Accidentally produced by Alexander Butlerov in 1859, credit for its identification is given to August Wilhelm von Hofmann.": {
+    "guess": "Formaldehyde",
+    "confidence": [
+      [
+        "Form",
+        -0.015997766
+      ],
+      [
+        "al",
+        -0.003021203
+      ],
+      [
+        "dehyde",
+        -5.0139948e-05
+      ]
+    ]
+  },
+  "The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one hormone produced here forms a blood pressure regulating system with angiotensin. This organ contains a structure that consists of a capillary tuft and is surrounded by Bowman's capsule called the glomerulus. This organ concentrates sodium to retain water in the loop of Henle, and it sits under the glands that produce epinephrine. For 10 points, name this organ, whose central functional unit is the nephron and which produces urine for expulsion by the bladder.": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.0028576553
+      ],
+      [
+        "ney",
+        -0.05464009
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.0005174092
+      ],
+      [
+        "rence",
+        -3.5716304e-05
+      ]
+    ]
+  },
+  "It was based on a proposal by Lord Robert Cecil and Col. Edouard R?uin, but the actual document was drafted": {
+    "guess": "Cl\u00f3vis",
+    "confidence": [
+      [
+        "Cl",
+        -0.9391563
+      ],
+      [
+        "\u00f3",
+        -0.00354044
+      ],
+      [
+        "vis",
+        -0.00022964232
+      ]
+    ]
+  },
+  "In Barnaby Rudge, one of Old John's three cronies, Solomon, has this surname, and in Little Men it is the first name of Demi's twin sister.  A woman of this name is left behind when Eliza leaves her husband Eugene Gant in Look Homeward Angel, while another one with the surname Fraser brags that she contributes \"To the School Fund in Spoon River,\" even though she is the village prostitute.  It is the first of the four names of Mr. Zero's secret love in Elmer Rice's The Adding Machine and the first name of Moses Herzog's first wife.  It's the name of Berenger's girlfriend in Rhinoceros, and another character with this name goes with Giovanelli to the Colosseum and dies of malaria in a novel narrated": {
+    "guess": "List of fictional characters named Caroline",
+    "confidence": [
+      [
+        "List",
+        -1.7637765
+      ],
+      [
+        " of",
+        -0.0005186012
+      ],
+      [
+        " fictional",
+        -0.71896464
+      ],
+      [
+        " characters",
+        -0.47943524
+      ],
+      [
+        " named",
+        -0.2610777
+      ],
+      [
+        " Caroline",
+        -0.9547151
+      ]
+    ]
+  },
+  "The Bargello museum is located in this city, which also contains the Santo Spirito Basilica and the cathedral of San Lorenzo. Calcio Storico is traditionally played here, and this city is also home to the Explosion of the Cart celebration. The current mayor of this city was initially arrested, and then fined for ordering trees to be cut down to build its tram system, and has also sued Wikipedia for": {
+    "guess": "Florence",
+    "confidence": [
+      [
+        "Flo",
+        -0.002840776
+      ],
+      [
+        "rence",
+        -8.017927e-05
+      ]
+    ]
+  },
+  "Barbalat's lemma is useful when analyzing this property in time-varying systems. Lienard's theorem gives the conditions needed to guarantee the van der Pol oscillator possesses this property. The second method of one of this property's namesakes requires a function V of x such that V of x is greater than zero and V-dot of x is less than zero. Barkhausen names a criteria for this property in which the": {
+    "guess": "Lyapunov stability",
+    "confidence": [
+      [
+        "Ly",
+        -0.03280657
+      ],
+      [
+        "ap",
+        -0.0014632153
+      ],
+      [
+        "un",
+        -5.8722613e-05
+      ],
+      [
+        "ov",
+        -0.00011582117
+      ],
+      [
+        " stability",
+        -0.27462468
+      ]
+    ]
+  },
+  "Barbara has affairs with Jerry and \"Black Christopher\" following the death of Leo Proudhammer in a novel this man set mostly in Greenwich Village, a locale that also inspired his portrait of angst-ridden artists Richard, Vivaldo, and Rufus Scott, who jumps off the George Washington Bridge. Hella abandons David in France after the title character kills Guillame in a novel by this man that surprised": {
+    "guess": "James Baldwin",
+    "confidence": [
+      [
+        "James",
+        -0.047697037
+      ],
+      [
+        " Baldwin",
+        -0.0010553185
+      ]
+    ]
+  },
+  "Based on interviews of such subjects as Theresa Zajac and Donald Chipman conducted in connection with the 50th anniversary of its discovery, H. McIlvaine Parsons concluded that it didn't really exist.  One of the experiments was the \"Mica Splitting Test,\" while another involved work on telephone terminals in the \"bank wiring\" department.  The longest experiment took place over five years and involved five women who assembled telephone relays.  Conducted by Frist Roethlisberger, William Dickson, and Elton Mayo, the experiments seemed to show that economic issues were not at the heart of employee motivation.  Instead, they found that attention increased productivity.  FTP, identify this effect named for the Western Electric factory in Cicero, Illinois where it was discovered, which states that people work more if they are made to feel important.": {
+    "guess": "Hawthorne effect",
+    "confidence": [
+      [
+        "H",
+        -0.0014942652
+      ],
+      [
+        "aw",
+        0.0
+      ],
+      [
+        "th",
+        -3.22594e-05
+      ],
+      [
+        "orne",
+        -1.2664457e-06
+      ],
+      [
+        " effect",
+        -0.029672612
+      ]
+    ]
+  },
+  "The 18-bar melody is first played by the basses, and next by the flute, in this piece, used in 1984 by Torvill and [i] Dean in their Olympic-winning ice- dancing routine. The flute then gives way to the clarinet and bassoon, and various other instruments, until what has been called \"the most obvious": {
+    "guess": "Rhapsody in Blue",
+    "confidence": [
+      [
+        "R",
+        -1.0213517
+      ],
+      [
+        "haps",
+        -0.23593473
+      ],
+      [
+        "ody",
+        -0.0033206649
+      ],
+      [
+        " in",
+        -0.09709542
+      ],
+      [
+        " Blue",
+        -0.001125095
+      ]
+    ]
+  },
+  "In basic solution, it can undergo the Cannizzaro reaction to produce methanol. Accidentally produced by Alexander Butlerov in 1859, credit for its identification is given to August Wilhelm von Hofmann. Capable of adding electrophilically to alkenes, it can be prepared industrially by heating dry air and methyl alcohol vapor in the presence of a catalyst like copper or silver, and can also be synthesized from carbon monoxide and hydrogen. Frequently used as a disinfectant and also known as methanal,": {
+    "guess": "Formaldehyde",
+    "confidence": [
+      [
+        "Form",
+        -0.0061925612
+      ],
+      [
+        "al",
+        -0.0009330174
+      ],
+      [
+        "dehyde",
+        -0.0002483463
+      ]
+    ]
+  },
+  "A baritone in this opera claims he is celebrating the King's naming day to explain a raucous crowd who sing the chorus \"O Welche Lust\" while recklessly running through the gardens. A couple sings the duet \"O namenlose Freude\" in the second act after hearing a trumpet call signaling the arrival of Don": {
+    "guess": "The Magic Flute",
+    "confidence": [
+      [
+        "The",
+        -0.9294357
+      ],
+      [
+        " Magic",
+        -0.23832288
+      ],
+      [
+        " Fl",
+        -1.4378848e-05
+      ],
+      [
+        "ute",
+        -4.632543e-05
+      ]
+    ]
+  },
+  "In basic solution, it can undergo the Cannizzaro reaction to produce methanol. Accidentally produced by Alexander Butlerov in 1859, credit for its identification is given to August Wilhelm von Hofmann. Capable of adding electrophilically to alkenes, it can be prepared industrially by heating dry air": {
+    "guess": "Formaldehyde",
+    "confidence": [
+      [
+        "Form",
+        -0.11431228
+      ],
+      [
+        "al",
+        -0.010397392
+      ],
+      [
+        "dehyde",
+        -0.0007014762
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity of this condition determines its namesake regime. The Ponderosa, longleaf, and slash (*) pines have adapted to survive this condition. These events play a large role in the evolution and maintenance of many ecosystems by doing things like creating gaps in the canopy, which allows shade-intolerant": {
+    "guess": "Fire ecology",
+    "confidence": [
+      [
+        "Fire",
+        -0.3429822
+      ],
+      [
+        " ecology",
+        -0.14195438
+      ]
+    ]
+  },
+  "The Barkhausen Effect is a series of minute jumps in this property.  It is believed to be caused by fields": {
+    "guess": "Magnetic domain",
+    "confidence": [
+      [
+        "M",
+        -0.25355285
+      ],
+      [
+        "agnetic",
+        -0.13044532
+      ],
+      [
+        " domain",
+        -1.4346694
+      ]
+    ]
+  },
+  "It was the base of operations for French forces during the Persian Gulf War, and although it was granted": {
+    "guess": "Operation Daguet",
+    "confidence": [
+      [
+        "Operation",
+        -1.5876578
+      ],
+      [
+        " Dag",
+        -0.33841488
+      ],
+      [
+        "uet",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Barkhausen Effect is a series of minute jumps in this property.  It is believed to be caused by fields generated by electron spins in combination with a mechanism known as exchange coupling.  Substances exhibit this property below the Curie temperature, and most substances that exhibit it are divided": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "F",
+        -0.011600741
+      ],
+      [
+        "er",
+        -5.3000836e-05
+      ],
+      [
+        "rom",
+        -3.888926e-06
+      ],
+      [
+        "agnet",
+        -0.012612195
+      ],
+      [
+        "ism",
+        -3.0113732e-05
+      ]
+    ]
+  },
+  "Based on the lengths of these structures, some cells are classified as Golgi One or Golgi Two. The  \uf0d9  A delta  and polymodal C  types of these structures transmit signals from nociceptors. A lack of  protection for these structures can cause Guillain-Barr\u00e9 syndrome. This part of some cells has branches  \uf0da called telodendria. Much of this structure is surrounded by cells that produce an insulating material,  and the gaps where this structure is not surrounded are called the nodes of Ranvier [ran-vee-ay]. The  other parts are protected by Schwann cells that produce myelin. Name these extensions from nerve  cells that send signals to dendrites.": {
+    "guess": "Axon",
+    "confidence": [
+      [
+        "Ax",
+        -0.03447987
+      ],
+      [
+        "on",
+        -0.01140548
+      ]
+    ]
+  },
+  "Based on their response to this condition, J. S. Rowe divided plants into invaders, evaders, avoiders, resisters, and endurers. The go-to example of an obligate seeder is manzanita, Arctostaphylos glauca, whose seeds only break dormancy in response to this condition. The pattern, frequency, and intensity": {
+    "guess": "Fire ecology",
+    "confidence": [
+      [
+        "Fire",
+        -0.0958887
+      ],
+      [
+        " ecology",
+        -1.1633978
+      ]
+    ]
+  },
+  "The B?art sisters acted lead roles in many plays by this author. In one of this author's plays, the daughters of Gorgibus spurn the advances of La Grange and Du Croisy, but fall in love with their valets.": {
+    "guess": "Moli\u00e8re",
+    "confidence": [
+      [
+        "M",
+        -0.008621432
+      ],
+      [
+        "oli",
+        -0.00022117885
+      ],
+      [
+        "\u00e8re",
+        -0.00040648188
+      ]
+    ]
+  }
+}

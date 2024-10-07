@@ -1,0 +1,94 @@
+{
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed himself. Her volumes included Ternura and Desolacion, while she gained immediate praise for her first collection, Sonnets of Death. For 10 points\u2014name this Chilean-born poet, the first Latin American winner of the Nobel in Literature.": {
+    "guess": "Gabriela Mistral",
+    "confidence": [
+      [
+        "Gab",
+        -0.007948945
+      ],
+      [
+        "ri",
+        -2.8444882e-05
+      ],
+      [
+        "ela",
+        -1.3544423e-05
+      ],
+      [
+        " Mist",
+        -0.00035953766
+      ],
+      [
+        "ral",
+        -5.216641e-05
+      ]
+    ]
+  },
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed himself. Her volumes included Ternura and Desolacion, while she gained immediate praise for her": {
+    "guess": "Gabriela Mistral",
+    "confidence": [
+      [
+        "Gab",
+        -0.008442118
+      ],
+      [
+        "ri",
+        -5.6100132e-05
+      ],
+      [
+        "ela",
+        -1.11603495e-05
+      ],
+      [
+        " Mist",
+        -0.0004353182
+      ],
+      [
+        "ral",
+        -0.00011522515
+      ]
+    ]
+  },
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed himself. Her volumes included Ternura and Desolacion, while she gained immediate praise for her first collection, Sonnets of Death. For 10 points\u2014name this Chilean-born poet, the first Latin American": {
+    "guess": "Gabriela Mistral",
+    "confidence": [
+      [
+        "Gab",
+        -0.0036465183
+      ],
+      [
+        "ri",
+        -2.0935051e-05
+      ],
+      [
+        "ela",
+        -8.776276e-06
+      ],
+      [
+        " Mist",
+        -0.000191024
+      ],
+      [
+        "ral",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed": {
+    "guess": "Anne Sexton",
+    "confidence": [
+      [
+        "Anne",
+        -1.3065954
+      ],
+      [
+        " Sext",
+        -0.1143227
+      ],
+      [
+        "on",
+        -7.612634e-05
+      ]
+    ]
+  }
+}

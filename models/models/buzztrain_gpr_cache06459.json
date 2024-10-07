@@ -1,0 +1,141 @@
+{
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated the forces of Hulegu Khan at the Battle of Ain Jalut, and members of this group also ruled the Delhi Sultanate in the Khilji Dynasty. Despite defeating the Mongols, this group was conquered by the janissaries of Selim I. This group's leaders were killed in the Massacre of the Citadel by Muhammad": {
+    "guess": "Mamluk",
+    "confidence": [
+      [
+        "M",
+        -0.020257242
+      ],
+      [
+        "aml",
+        -0.00359116
+      ],
+      [
+        "uk",
+        -0.66693723
+      ]
+    ]
+  },
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated": {
+    "guess": "Ghurid dynasty",
+    "confidence": [
+      [
+        "G",
+        -0.4078698
+      ],
+      [
+        "h",
+        -0.08951329
+      ],
+      [
+        "ur",
+        -0.08430468
+      ],
+      [
+        "id",
+        -0.3921367
+      ],
+      [
+        " dynasty",
+        -0.108612664
+      ]
+    ]
+  },
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated the forces of Hulegu Khan at the Battle of Ain Jalut, and members of this group also ruled the Delhi Sultanate in the Khilji Dynasty. Despite defeating the Mongols, this group was conquered by the janissaries of Selim I. This group's leaders were killed in the Massacre of the Citadel by Muhammad Ali Pasha, and this group that had led the Bahri and Burji dynasties had earlier lost the Battle of the Pyramids and fought at Madrid under Napoleon. FTP, name these former rulers of Egypt, a group of Islamic slave soldiers.": {
+    "guess": "Mamluk",
+    "confidence": [
+      [
+        "M",
+        -0.016765526
+      ],
+      [
+        "aml",
+        -0.0016273368
+      ],
+      [
+        "uk",
+        -0.185781
+      ]
+    ]
+  },
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated the forces of Hulegu Khan at the Battle of Ain Jalut, and members of this group also ruled the Delhi Sultanate in the Khilji Dynasty. Despite defeating the Mongols, this group was conquered by the janissaries of Selim I. This group's leaders were killed in the Massacre of the Citadel by Muhammad Ali Pasha, and this group that had led the Bahri and Burji dynasties had earlier lost the Battle of the Pyramids and fought at Madrid under Napoleon. FTP, name these former rulers of Egypt, a group": {
+    "guess": "Mamluks",
+    "confidence": [
+      [
+        "M",
+        -0.045605116
+      ],
+      [
+        "aml",
+        -0.0032453244
+      ],
+      [
+        "u",
+        -0.31968972
+      ],
+      [
+        "ks",
+        -9.849109e-06
+      ]
+    ]
+  },
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated the forces of Hulegu Khan at the Battle of Ain Jalut, and members of this group also ruled the Delhi Sultanate in the Khilji Dynasty. Despite defeating the Mongols, this group was conquered by the janissaries of Selim I. This group's leaders were killed in the Massacre of the Citadel by Muhammad Ali Pasha, and this group that had led the Bahri and Burji dynasties had earlier lost the Battle": {
+    "guess": "Mamluk",
+    "confidence": [
+      [
+        "M",
+        -0.03103169
+      ],
+      [
+        "aml",
+        -0.0016687574
+      ],
+      [
+        "uk",
+        -0.5055445
+      ]
+    ]
+  },
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated the forces of Hulegu Khan at the Battle of Ain Jalut, and members of this group also ruled the": {
+    "guess": "Mamluk dynasty",
+    "confidence": [
+      [
+        "M",
+        -0.45950857
+      ],
+      [
+        "aml",
+        -0.006598964
+      ],
+      [
+        "uk",
+        -0.034411926
+      ],
+      [
+        " dynasty",
+        -0.59454054
+      ]
+    ]
+  },
+  "The Qutb Minar's construction began under a dynasty of these people in northern India. This group defeated the forces of Hulegu Khan at the Battle of Ain Jalut, and members of this group also ruled the Delhi Sultanate in the Khilji Dynasty. Despite defeating the Mongols, this group was conquered by the": {
+    "guess": "Mamluks",
+    "confidence": [
+      [
+        "M",
+        -0.2700748
+      ],
+      [
+        "aml",
+        -0.017986393
+      ],
+      [
+        "u",
+        -0.22138853
+      ],
+      [
+        "ks",
+        -2.9352968e-06
+      ]
+    ]
+  }
+}
