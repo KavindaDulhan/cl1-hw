@@ -4,7 +4,7 @@ import json
 import time
 
 from typing import List, Dict, Iterable, Optional, Tuple, NamedTuple, Callable
-from collections import Counter
+from collections import Counter, defaultdict
 from random import random
 
 import logging
@@ -20,7 +20,7 @@ import torch.nn as nn
 import torch.nn.functional as ptfunc
 from torch import Tensor
 from torch.utils.data import Dataset, DataLoader
-from torch.nn.utils import clip_grad_norm_
+from torch.nn.utils import clip_grad_value_
 from torchtext.vocab import Vocab
 
 import nltk
@@ -47,36 +47,92 @@ class DanPlotter:
     def __init__(self, output_filename="state.pdf"):
         self.output_filename = output_filename
         self.observations = []
-    
+
+        self.gradients = {}
+        self.parameters = []
+        self.losses = defaultdict(list)
+
+    def accumulate_gradient(self, model_params):
+        for name, parameter in model_params:
+            if name not in self.gradients:
+                self.gradients[name] = torch.FloatTensor(parameter.shape)
+
+            self.gradients[name] += parameter.grad
+
+    def clear_gradient(self):
+        self.gradients = {}
+
+
+
+
+
+
+
+
+            
+            
+
+          
     def add_checkpoint(self, model, train_docs, dev_docs, iteration):
         vocab = train_docs.vocab
         
         # Plot the individual voab words
         for word_idx in range(len(vocab)):
             word = vocab.lookup_token(word_idx)
-            embedding = model.embeddings(torch.tensor(word_idx)).detach()
+            embedding = model.embeddings(torch.tensor(word_idx)).clone().detach()
             
-            self.observations.append({"text": word,
-                                      "dim_0": float(embedding[0]),
-                                      "dim_1": float(embedding[1]),
-                                      "layer": "Word Embedding",
-                                      "label": "word",
-                                      "fold": "word",
-                                      "iteration": iteration})
+            self.parameters.append({"text": word,
+                                       "dim_0": float(embedding[0]),
+                                       "dim_1": float(embedding[1]),
+                                       "layer": "Embedding",
+                                       "label": "",
+                                       "fold": "",
+                                       "iteration": iteration})
 
+        for name, parameter in model.named_parameters():
+            if name in ["embeddings.weight"]:
+                continue
+
+            if "bias" in name:
+                value = value.clone().detach()
+                print(name, row, value)
+                self.parameters.append({"dim_0": float(value[0]),
+                                        "dim_1": float(value[1]),
+                                        "text": name,
+                                        "layer": "bias",
+                                        "label": "",
+                                        "fold": "",
+                                        "grad_0": float(value[0] + self.gradients[name][0]),
+                                        "grad_1": float(value[1] + self.gradients[name][1]),
+                                        "iteration": iteration})
+
+            else:
+                for row, value in enumerate(parameter):
+                    value = value.clone().detach()
+                    print(name, row, value)
+                    self.parameters.append({"dim_0": float(value[0]),
+                                            "dim_1": float(value[1]),
+                                            "text": "%s_%i" % (name, row),
+                                            "layer": "param",
+                                            "label": "",
+                                            "fold": "",
+                                            "grad_0": float(value[0] + self.gradients[name][row][0]),
+                                            "grad_1": float(value[1] + self.gradients[name][row][1]),
+                                            "iteration": iteration})
+
+            
         # Plot document averages
         for fold, doc_set in [("train", train_docs),
                               ("dev", dev_docs)]:
             for doc_idx in range(len(doc_set)):
                 doc, pos, neg = doc_set[doc_idx]
                 embeddings = model.embeddings(doc)
-                average = model.average(embeddings, torch.IntTensor([len(doc)])).detach()
-                final = model.network(average).detach()
+                average = model.average(embeddings, torch.IntTensor([len(doc)])).clone().detach()
+                final = model.network(average).clone().detach()
                 
                 for layer, representation in [("average", average),
                                               ("output", final)]:
                     representation = representation[0]
-                    print(representation)
                     self.observations.append({"label": doc_set.answers[doc_idx],
                                               "dim_0": float(representation[0]),
                                               "dim_1": float(representation[1]),
@@ -95,7 +151,17 @@ class DanPlotter:
 
         plot = p9.ggplot(data=data, mapping=p9.aes(x='dim_0', y='dim_1', color='fold', shape='label', label='text')) + p9.geom_point() + p9.facet_grid("iteration ~ layer") + p9.geom_text(size=2, nudge_x=0.25, nudge_y=0.25)
 
-        plot.save(filename=self.output_filename)
+        plot.save(filename=self.output_filename + "_data.pdf")
+
+        data = DataFrame(self.parameters)
+        if data.isnull().any().any():
+            logging.warning("NaN values!")
+            print(data)
+            data = data.replace({np.nan: None})
+            
+        plot = p9.ggplot(data=data, mapping=p9.aes(x='dim_0', y='dim_1', label='text')) + p9.geom_point() + p9.facet_grid("iteration ~ layer") + p9.geom_text(size=3, nudge_x=0.25, nudge_y=0.25) + p9.geom_segment(p9.aes(x='dim_0', y='dim_1', xend='grad_0', yend='grad_1'))# , size=2, color="grey", arrow=p9.arrow()) 
+
+        plot.save(filename=self.output_filename + "_params.pdf")
 
         return plot
         
@@ -406,6 +472,11 @@ class DanGuesser(Guesser):
         self.training_data = None
         self.eval_data = None
         self.filename = self.params.dan_guesser_filename
+        self.plotter = None
+        self.plot_every = -1
+        if parameters.dan_guesser_plot_viz != "":
+            self.plotter = DanPlotter(parameters.dan_guesser_plot_viz)
+            self.plot_every = parameters.dan_guesser_plot_every = 10
 
     def set_model(self, model: DanModel):
         """
@@ -423,7 +494,7 @@ class DanGuesser(Guesser):
                                   n_hidden_units=self.params.dan_guesser_hidden_units,
                                   nn_dropout=self.params.dan_guesser_nn_dropout)        
     
-    def train_dan(self, raw_train: Iterable[Dict], raw_eval: Iterable[Dict], plot: str):
+    def train_dan(self, raw_train: Iterable[Dict], raw_eval: Iterable[Dict]):
         self.training_data = QuestionData(self.params)
         self.eval_data = QuestionData(self.params)
 
@@ -439,18 +510,10 @@ class DanGuesser(Guesser):
         dev_loader = DataLoader(self.eval_data, batch_size=self.params.dan_guesser_batch_size,
                                     sampler=dev_sampler, num_workers=self.params.dan_guesser_num_workers,
                                     collate_fn=DanGuesser.batchify)
-
-        if plot:
-            plotter = DanPlotter(plot)
-        else:
-            plotter = None
         
         self.best_accuracy = 0.0
 
-        for epoch in range(self.params.dan_guesser_num_epochs):
-            if plotter and epoch % 10 == 0:
-                plotter.add_checkpoint(self.dan_model, self.training_data, self.eval_data, epoch)
-                
+        for epoch in range(self.params.dan_guesser_num_epochs):               
             # We set the data again to update the positive and negative examples
             # self.training_data.set_data(raw_train)            
             train_loader = DataLoader(self.training_data,
@@ -460,11 +523,15 @@ class DanGuesser(Guesser):
                                           collate_fn=DanGuesser.batchify)
             logging.info('number of epoch: %d' % epoch)
             acc = self.run_epoch(train_loader, dev_loader)
+
+            if self.plotter and epoch % self.plot_every == 0:
+                self.plotter.add_checkpoint(self.dan_model, self.training_data, self.eval_data, epoch)
+            
             if acc > self.best_accuracy:
                 self.best_accuracy = acc
 
-        if plot:
-            plotter.save_plot()
+        if self.plotter:
+            self.plotter.save_plot()
 
 
     def set_eval_data(self, dev_data):
@@ -512,8 +579,11 @@ class DanGuesser(Guesser):
 
     @staticmethod
     def batch_step(optimizer, model, criterion, example, example_length,
-                   positive, positive_length, negative, negative_length):
+                   positive, positive_length, negative, negative_length,
+                   grad_clip):
         loss = None
+
+          assert(positive.shape == negative.shape), "Sizes don't match %s (pos) vs. %s (neg)" % (str(positive.shape), str(negative.shape))
 
           logging.info("Loss: %f" % loss)
         return loss
@@ -530,8 +600,8 @@ class DanGuesser(Guesser):
 
         model = self.dan_model
         model.train()
-        optimizer = torch.optim.SGD(self.dan_model.parameters())
-        criterion = nn.TripletMarginLoss()
+        optimizer = torch.optim.SGD(self.dan_model.parameters(), lr=0.001)
+        criterion = nn.MarginRankingLoss()
         print_loss_total = 0
         epoch_loss_total = 0
         start = time.time()
@@ -542,6 +612,9 @@ class DanGuesser(Guesser):
         
         #### modify the batch_step to complete the update
         for idx, batch in enumerate(train_data_loader):
+            if self.plotter:
+                self.plotter.clear_gradient()
+                
             anchor_text = batch['question_text'].to(self.params.dan_guesser_device)
             anchor_length = batch['question_len'].to(self.params.dan_guesser_device)
 
@@ -552,9 +625,12 @@ class DanGuesser(Guesser):
             neg_length = batch['neg_len'].to(self.params.dan_guesser_device)
 
             loss = self.batch_step(optimizer, model, criterion, anchor_text, anchor_length,
-                                   pos_text, pos_length, neg_text, neg_length)
+                                   pos_text, pos_length, neg_text, neg_length,
+                                   self.params.dan_guesser_grad_clipping)
+            
+            if self.plotter is not None:
+                self.plotter.accumulate_gradient(model.named_parameters())
 
-            clip_grad_norm_(model.parameters(), self.params.dan_guesser_grad_clipping)
             print_loss_total += loss.data.numpy()
             epoch_loss_total += loss.data.numpy()
 
@@ -569,7 +645,7 @@ class DanGuesser(Guesser):
                 # TODO: add in the ability to save the model
 
         self.training_data.refresh_index()
-        eval_acc = evaluate(dev_data_loader, self.dan_model, self.training_data, self.params.dan_guesser_device)
+        eval_acc = evaluate(dev_data_loader, model, self.training_data, self.params.dan_guesser_device)
         logging.info('Eval accuracy=%f' % eval_acc)
         return eval_acc    
 
@@ -584,28 +660,25 @@ class DanGuesser(Guesser):
         """
 
         num_examples = len(batch)
-        max_pos_length = 0
-        max_neg_length = 0
-        max_question_length = 0
+        max_length = 0
         for question, pos, neg in batch:
-            max_question_length = max(max_question_length, len(question[0]))            
-            max_pos_length = max(max_pos_length, len(pos[0]))
-            max_neg_length = max(max_neg_length, len(neg[0]))
+            for example in [question[0], pos[0], neg[0]]:
+                max_length = max(max_length, len(example))
 
         question_lengths = torch.LongTensor(len(batch)).zero_()
         pos_lengths = torch.LongTensor(len(batch)).zero_()
         neg_lengths = torch.LongTensor(len(batch)).zero_()
 
-        question_matrix = torch.LongTensor(num_examples, max_question_length).zero_()
-        positive_matrix = torch.LongTensor(num_examples, max_pos_length).zero_()
-        negative_matrix = torch.LongTensor(num_examples, max_neg_length).zero_()
+        question_matrix = torch.LongTensor(num_examples, max_length).zero_()
+        positive_matrix = torch.LongTensor(num_examples, max_length).zero_()
+        negative_matrix = torch.LongTensor(num_examples, max_length).zero_()
         
         ex_indices = list()
 
         logging.debug("Batch length: %i" % num_examples)
         logging.debug("Matrix dimensions: Q [%s] P [%s] N [%s]" % (str(question_matrix.shape),
-                                                                  str(positive_matrix.shape),
-                                                                  str(negative_matrix.shape)))
+                                                                   str(positive_matrix.shape),
+                                                                   str(negative_matrix.shape)))
                      
         
         num_examples = len(batch)
@@ -688,4 +761,4 @@ if __name__ == "__main__":
     logging.info("Example: %s" % str(train_exs[0]))
 
     guesser = instantiate_guesser("Dan", flags, guesser_params, False)
-    guesser.train_dan(train_exs, dev_exs, flags.dan_guesser_plot_viz)
+    guesser.train_dan(train_exs, dev_exs)
