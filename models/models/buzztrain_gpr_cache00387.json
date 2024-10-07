@@ -1,0 +1,99 @@
+{
+  "Baeyer and Villiger name one of these reactions, whose states name the two-dimensional version of a Latimer Diagram, also named for Frost. That state often sees Lanthanide elements form triatomic ions. The number associated with this process is usually constant for oxygen, except in peroxide. Disproportionation involves one of these reactions and a reduction in the same reaction. FTP, name this type of reaction, classified by the loss of an electron, a subset of redox reactions.": {
+    "guess": "Electrochemistry",
+    "confidence": [
+      [
+        "Elect",
+        -0.5927045
+      ],
+      [
+        "ro",
+        -0.16019152
+      ],
+      [
+        "chemistry",
+        -0.65806955
+      ]
+    ]
+  },
+  "Baeyer and Villiger name one of these reactions, whose states name the two-dimensional version of a Latimer Diagram, also named for Frost. That state often sees Lanthanide elements form triatomic ions. The number associated with this process is usually constant for oxygen, except in peroxide. Disproportionation": {
+    "guess": "Latimer diagram",
+    "confidence": [
+      [
+        "Lat",
+        -0.5157374
+      ],
+      [
+        "imer",
+        -4.310693e-05
+      ],
+      [
+        " diagram",
+        -0.25437516
+      ]
+    ]
+  },
+  "Baeyer and Villiger name one of these reactions, whose states name the two-dimensional version of a Latimer Diagram, also named for Frost. That state often sees Lanthanide elements form triatomic ions.": {
+    "guess": "Latimer diagram",
+    "confidence": [
+      [
+        "Lat",
+        -1.2633694
+      ],
+      [
+        "imer",
+        -1.5332478e-05
+      ],
+      [
+        " diagram",
+        -0.62725866
+      ]
+    ]
+  },
+  "Baeyer and Villiger name one of these reactions, whose states name the two-dimensional version of a Latimer Diagram, also named for Frost. That state often sees Lanthanide elements form triatomic ions. The number associated with this process is usually constant for oxygen, except in peroxide. Disproportionation involves one of these reactions and a reduction in the same reaction. FTP, name this type": {
+    "guess": "Latimer diagram",
+    "confidence": [
+      [
+        "Lat",
+        -1.2889365
+      ],
+      [
+        "imer",
+        -1.4498052e-05
+      ],
+      [
+        " diagram",
+        -0.47643226
+      ]
+    ]
+  },
+  "Baeyer and Villiger name one of these reactions, whose states name the two-dimensional version of a Latimer": {
+    "guess": "Baeyer-Villiger oxidation",
+    "confidence": [
+      [
+        "Ba",
+        -0.95288986
+      ],
+      [
+        "eyer",
+        -0.0007401806
+      ],
+      [
+        "-V",
+        -0.37208077
+      ],
+      [
+        "ill",
+        -0.0003647826
+      ],
+      [
+        "iger",
+        -0.00026217024
+      ],
+      [
+        " oxidation",
+        -0.33011815
+      ]
+    ]
+  }
+}

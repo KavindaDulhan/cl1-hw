@@ -1,0 +1,124 @@
+{
+  "In the emulsion method for this type of process, sodium stearate or another surfactant is used along": {
+    "guess": "Emulsion polymerization",
+    "confidence": [
+      [
+        "Em",
+        -0.1053727
+      ],
+      [
+        "ulsion",
+        -0.081205025
+      ],
+      [
+        " polymer",
+        -0.0107530225
+      ],
+      [
+        "ization",
+        -3.5954712e-05
+      ]
+    ]
+  },
+  "In the emulsion method for this type of process, sodium stearate or another surfactant is used along with a catalyst that is water-soluble, and the temperature of the medium determines the degree of branching in the product. In one version, the resultant tacticity can be specified by using a Ziegler-Natta catalyst. All methods for this process are divided into two kinds, chain-growth or addition and step-growth or condensation. For ten points, name this general process by which monomers join to form": {
+    "guess": "Polymerization",
+    "confidence": [
+      [
+        "Poly",
+        -0.027272064
+      ],
+      [
+        "mer",
+        -0.0008986006
+      ],
+      [
+        "ization",
+        -0.00010151673
+      ]
+    ]
+  },
+  "In the emulsion method for this type of process, sodium stearate or another surfactant is used along with a catalyst that is water-soluble, and the temperature of the medium determines the degree of branching in the product. In one version, the resultant tacticity can be specified by using a Ziegler-Natta catalyst. All methods for this process are divided into two kinds, chain-growth or addition and": {
+    "guess": "Polymerization of olefins",
+    "confidence": [
+      [
+        "Poly",
+        -0.65883696
+      ],
+      [
+        "mer",
+        -0.0020410565
+      ],
+      [
+        "ization",
+        -0.00020473242
+      ],
+      [
+        " of",
+        -0.5103076
+      ],
+      [
+        " ole",
+        -1.4054275
+      ],
+      [
+        "f",
+        -0.049790785
+      ],
+      [
+        "ins",
+        -0.00085012865
+      ]
+    ]
+  },
+  "In the emulsion method for this type of process, sodium stearate or another surfactant is used along with a catalyst that is water-soluble, and the temperature of the medium determines the degree of branching in the product. In one version, the resultant tacticity can be specified by using a Ziegler-Natta catalyst. All methods for this process are divided into two kinds, chain-growth or addition and step-growth or condensation. For ten points, name this general process by which monomers join to form very large molecules.": {
+    "guess": "Polymerization",
+    "confidence": [
+      [
+        "Poly",
+        -0.028768064
+      ],
+      [
+        "mer",
+        -0.00051728997
+      ],
+      [
+        "ization",
+        -0.00014513794
+      ]
+    ]
+  },
+  "In the emulsion method for this type of process, sodium stearate or another surfactant is used along with a catalyst that is water-soluble, and the temperature of the medium determines the degree of branching": {
+    "guess": "Polymerization",
+    "confidence": [
+      [
+        "Poly",
+        -0.13051626
+      ],
+      [
+        "mer",
+        -0.0017728773
+      ],
+      [
+        "ization",
+        -0.0009326598
+      ]
+    ]
+  },
+  "In the emulsion method for this type of process, sodium stearate or another surfactant is used along with a catalyst that is water-soluble, and the temperature of the medium determines the degree of branching in the product. In one version, the resultant tacticity can be specified by using a Ziegler-Natta": {
+    "guess": "Polymerization",
+    "confidence": [
+      [
+        "Poly",
+        -0.7922876
+      ],
+      [
+        "mer",
+        -0.02398225
+      ],
+      [
+        "ization",
+        -0.0002576442
+      ]
+    ]
+  }
+}

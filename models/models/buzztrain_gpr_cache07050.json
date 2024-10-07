@@ -1,0 +1,976 @@
+{
+  "In Sir Arthur Conan Doyle's The Sign of the Four, Jonathan Small admits to having escaped from a penal": {
+    "guess": "Sherlock Holmes",
+    "confidence": [
+      [
+        "Sher",
+        -0.365511
+      ],
+      [
+        "lock",
+        -2.4584822e-06
+      ],
+      [
+        " Holmes",
+        -0.0005655418
+      ]
+    ]
+  },
+  "A Sir Walter Scott story provided the inspiration for his Murder of the Archbishop of Liege, exhibited in the 1831 Salon. Idolized by Baudelaire, he modeled for the face-down man at the center of Raft of the Medusa, and rumor suggests he was the son of Talleyrand. His Orientalist works include The Fanatics": {
+    "guess": "Th\u00e9odore G\u00e9ricault",
+    "confidence": [
+      [
+        "Th",
+        -0.31934512
+      ],
+      [
+        "\u00e9",
+        -8.76891e-05
+      ],
+      [
+        "odore",
+        -3.9292416e-05
+      ],
+      [
+        " G",
+        -0.0055057607
+      ],
+      [
+        "\u00e9ric",
+        -4.0246043e-05
+      ],
+      [
+        "ault",
+        -0.00023500649
+      ]
+    ]
+  },
+  "A Sir Walter Scott story provided the inspiration for his Murder of the Archbishop of Liege, exhibited": {
+    "guess": "The Ayrshire Legatees",
+    "confidence": [
+      [
+        "The",
+        -0.75551254
+      ],
+      [
+        " A",
+        -1.7706988
+      ],
+      [
+        "yr",
+        -0.10428605
+      ],
+      [
+        "shire",
+        -0.027976295
+      ],
+      [
+        " Leg",
+        -0.13998449
+      ],
+      [
+        "ate",
+        -0.02376214
+      ],
+      [
+        "es",
+        -0.0006199849
+      ]
+    ]
+  },
+  "In Sir Arthur Conan Doyle's The Sign of the Four, Jonathan Small admits to having escaped from a penal colony on this island chain. To its east lies a group containing Henry Lawrence Island known as Ritchie's": {
+    "guess": "Andaman Islands",
+    "confidence": [
+      [
+        "And",
+        -0.0079995645
+      ],
+      [
+        "aman",
+        -0.00040111772
+      ],
+      [
+        " Islands",
+        -0.0024045508
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns.": {
+    "guess": "Anglo-Dutch Wars",
+    "confidence": [
+      [
+        "Ang",
+        -1.0439912
+      ],
+      [
+        "lo",
+        -0.0005226505
+      ],
+      [
+        "-D",
+        -0.044418126
+      ],
+      [
+        "utch",
+        -5.2001665e-06
+      ],
+      [
+        " Wars",
+        -0.009500947
+      ]
+    ]
+  },
+  "While Sir Thomas is visiting his plantations in Antigua in this work, Yates persuades his household to": {
+    "guess": "Mansfield Park",
+    "confidence": [
+      [
+        "M",
+        -0.007646495
+      ],
+      [
+        "ans",
+        -7.822647e-06
+      ],
+      [
+        "field",
+        -5.6457742e-05
+      ],
+      [
+        " Park",
+        -1.1398757e-05
+      ]
+    ]
+  },
+  "Sir Charles Trevelyan served as the Assistant Secretary to the Treasury during this event. Three years into this period, William Smith O'Brien led an armed rebellion against the English for ignoring this event. This event saw the phenomenon of \"souperism,\" where the afflicted converted simply to receive soup. This event spread as Munster, Mayo, and Connaught were struck by the namesake blight. For": {
+    "guess": "Great Famine (Ireland)",
+    "confidence": [
+      [
+        "Great",
+        -0.019707916
+      ],
+      [
+        " F",
+        -0.00073970755
+      ],
+      [
+        "amine",
+        -9.0883464e-07
+      ],
+      [
+        " (",
+        -0.0043059727
+      ],
+      [
+        "I",
+        -4.8113485e-05
+      ],
+      [
+        "reland",
+        -2.0696643e-05
+      ],
+      [
+        ")",
+        -3.2497806e-05
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign advertising \"Twelve (12!) Inches of Paradise.\" In this novel, Miss Annie is addicted to headache medication because she can't stand her neighbor, a former student of Doctor Talc who often curses, \"Fortuna, you tempestuous sprite\" because of his obsession with Boethius. Near its end, a cockatoo that was supposed to remove Darlene's clothes attacks the main character, who flees New Orleans with his friend Myrna Minkoff. This novel details a revolt led at the Levy Pants factory. For 10 points,": {
+    "guess": "A Confederacy of Dunces",
+    "confidence": [
+      [
+        "A",
+        -0.021666035
+      ],
+      [
+        " Confeder",
+        -0.00029804322
+      ],
+      [
+        "acy",
+        -2.2723105e-05
+      ],
+      [
+        " of",
+        -4.561021e-05
+      ],
+      [
+        " D",
+        -1.998142e-05
+      ],
+      [
+        "unc",
+        -8.5543434e-05
+      ],
+      [
+        "es",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "In Sir Arthur Conan Doyle's The Sign of the Four, Jonathan Small admits to having escaped from a penal colony on this island chain. To its east lies a group containing Henry Lawrence Island known as Ritchie's Archipelago. To its north lies the politically important Coco Islands and its principal town": {
+    "guess": "Andaman Islands",
+    "confidence": [
+      [
+        "And",
+        -0.04247549
+      ],
+      [
+        "aman",
+        -5.3358446e-05
+      ],
+      [
+        " Islands",
+        -0.003622047
+      ]
+    ]
+  },
+  "In Sir Arthur Conan Doyle's The Sign of the Four, Jonathan Small admits to having escaped from a penal colony on this island chain. To its east lies a group containing Henry Lawrence Island known as Ritchie's Archipelago. To its north lies the politically important Coco Islands and its principal town is Port Blair. They name a sea that lies to west of the Isthmus of Kra and they lie about 200 miles": {
+    "guess": "Andaman and Nicobar Islands",
+    "confidence": [
+      [
+        "And",
+        -0.020141
+      ],
+      [
+        "aman",
+        -0.0001975802
+      ],
+      [
+        " and",
+        -0.38732234
+      ],
+      [
+        " Nic",
+        -9.817902e-05
+      ],
+      [
+        "obar",
+        -2.4987974e-05
+      ],
+      [
+        " Islands",
+        -0.0017399129
+      ]
+    ]
+  },
+  "While Sir Thomas is visiting his plantations in Antigua in this work, Yates persuades his household to stage a romantic play. That results in some scandal, but not nearly so much as when he elopes with Julia. The return of the Crawfords only makes matters worse, as Mary is to keep Edmund from joining": {
+    "guess": "Mansfield Park",
+    "confidence": [
+      [
+        "M",
+        -0.01189128
+      ],
+      [
+        "ans",
+        -9.968313e-06
+      ],
+      [
+        "field",
+        -9.460292e-05
+      ],
+      [
+        " Park",
+        -9.610702e-06
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign advertising \"Twelve (12!) Inches of Paradise.\" In this novel, Miss Annie is addicted to headache medication because she can't stand her neighbor, a former student of Doctor Talc who often curses, \"Fortuna, you tempestuous sprite\" because of his obsession with Boethius. Near its end, a cockatoo that was supposed to remove Darlene's clothes attacks the main character, who flees New Orleans with his friend Myrna Minkoff. This novel details a revolt led at the Levy Pants factory. For 10 points, name this novel about Ignatius J. Reilly, by John Kennedy Toole.": {
+    "guess": "A Confederacy of Dunces",
+    "confidence": [
+      [
+        "A",
+        -0.0024294057
+      ],
+      [
+        " Confeder",
+        -0.0006305903
+      ],
+      [
+        "acy",
+        -2.0696643e-05
+      ],
+      [
+        " of",
+        -7.9418505e-06
+      ],
+      [
+        " D",
+        -7.58424e-06
+      ],
+      [
+        "unc",
+        -2.5107178e-05
+      ],
+      [
+        "es",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign": {
+    "guess": "The Great Gatsby",
+    "confidence": [
+      [
+        "The",
+        -0.78412336
+      ],
+      [
+        " Great",
+        -1.5366123
+      ],
+      [
+        " G",
+        -0.17217672
+      ],
+      [
+        "atsby",
+        -6.17027e-05
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty of (*) Dover set the stage for one of these campaigns, and Alexander Farnese led a protracted instance of this in the early 1580s. Cornelius Tromp was empowered by one of these campaigns, in which the": {
+    "guess": "Franco-Dutch War",
+    "confidence": [
+      [
+        "Fran",
+        -1.9097016
+      ],
+      [
+        "co",
+        -0.00023464888
+      ],
+      [
+        "-D",
+        -0.027251529
+      ],
+      [
+        "utch",
+        -2.5107178e-05
+      ],
+      [
+        " War",
+        -0.0075802435
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty of (*) Dover set the stage for one of these campaigns, and Alexander Farnese led a protracted instance of this in the early 1580s. Cornelius Tromp was empowered by one of these campaigns, in which the DeWitt brothers were deposed and lynched during the Disaster Year, and the Sack of Antwerp was the result of another; both led to eventual victories for the House of Orange. For 10 points, what is this military action undertaken multiple times by Hapsburg forces during the Eighty Years War and by": {
+    "guess": "Siege of Breda",
+    "confidence": [
+      [
+        "Sie",
+        -1.7127268
+      ],
+      [
+        "ge",
+        -0.002720349
+      ],
+      [
+        " of",
+        -0.032249227
+      ],
+      [
+        " B",
+        -0.3768859
+      ],
+      [
+        "red",
+        -0.0046163225
+      ],
+      [
+        "a",
+        -3.6789137e-05
+      ]
+    ]
+  },
+  "Sir Charles Trevelyan served as the Assistant Secretary to the Treasury during this event. Three years into this period, William Smith O'Brien led an armed rebellion against the English for ignoring this event. This event saw the phenomenon of \"souperism,\" where the afflicted converted simply to receive soup. This event spread as Munster, Mayo, and Connaught were struck by the namesake blight. For 10 points, identify this famine that, through death and migration, significantly decreased the population": {
+    "guess": "Great Famine (Ireland)",
+    "confidence": [
+      [
+        "Great",
+        -0.009413207
+      ],
+      [
+        " F",
+        -0.001071158
+      ],
+      [
+        "amine",
+        -1.2664457e-06
+      ],
+      [
+        " (",
+        -0.003576907
+      ],
+      [
+        "I",
+        -4.1080468e-05
+      ],
+      [
+        "reland",
+        -1.0921943e-05
+      ],
+      [
+        ")",
+        -1.2113979e-05
+      ]
+    ]
+  },
+  "A Sir Walter Scott story provided the inspiration for his Murder of the Archbishop of Liege, exhibited in the 1831 Salon. Idolized by Baudelaire, he modeled for the face-down man at the center of Raft of the Medusa, and rumor suggests he was the son of Talleyrand. His Orientalist works include The Fanatics of Tangiers and The Massacre at Chios. FTP, name this artist of Liberty Leading the People.": {
+    "guess": "Eug\u00e8ne Delacroix",
+    "confidence": [
+      [
+        "E",
+        -0.0024246485
+      ],
+      [
+        "ug",
+        -4.5371802e-05
+      ],
+      [
+        "\u00e8ne",
+        -0.0023768423
+      ],
+      [
+        " Del",
+        -1.50940705e-05
+      ],
+      [
+        "acro",
+        -3.357064e-05
+      ],
+      [
+        "ix",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign advertising \"Twelve (12!) Inches of Paradise.\" In this novel, Miss Annie is addicted to headache medication because she can't stand her neighbor, a former student of Doctor Talc who often curses, \"Fortuna, you tempestuous sprite\" because of his obsession with Boethius. Near its end, a cockatoo that was supposed to remove Darlene's clothes attacks the main character, who flees New Orleans with": {
+    "guess": "A Confederacy of Dunces",
+    "confidence": [
+      [
+        "A",
+        -0.053403944
+      ],
+      [
+        " Confeder",
+        -0.000509903
+      ],
+      [
+        "acy",
+        -3.059055e-05
+      ],
+      [
+        " of",
+        -0.00010640408
+      ],
+      [
+        " D",
+        -1.3067608e-05
+      ],
+      [
+        "unc",
+        -6.17027e-05
+      ],
+      [
+        "es",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "Sir Charles Trevelyan served as the Assistant Secretary to the Treasury during this event. Three years": {
+    "guess": "Great Famine (Ireland)",
+    "confidence": [
+      [
+        "Great",
+        -0.17616904
+      ],
+      [
+        " F",
+        -0.002313811
+      ],
+      [
+        "amine",
+        -4.723352e-06
+      ],
+      [
+        " (",
+        -0.00033284337
+      ],
+      [
+        "I",
+        -5.0735965e-05
+      ],
+      [
+        "reland",
+        -1.735894e-05
+      ],
+      [
+        ")",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Sir Charles Trevelyan served as the Assistant Secretary to the Treasury during this event. Three years into this period, William Smith O'Brien led an armed rebellion against the English for ignoring this event. This event saw the phenomenon of \"souperism,\" where the afflicted converted simply to receive soup. This event spread as Munster, Mayo, and Connaught were struck by the namesake blight. For 10 points, identify this famine that, through death and migration, significantly decreased the population of Ireland.": {
+    "guess": "Great Famine (Ireland)",
+    "confidence": [
+      [
+        "Great",
+        -0.009368212
+      ],
+      [
+        " F",
+        -0.00039218477
+      ],
+      [
+        "amine",
+        -1.2664457e-06
+      ],
+      [
+        " (",
+        -0.0020958956
+      ],
+      [
+        "I",
+        -3.6908343e-05
+      ],
+      [
+        "reland",
+        -1.4617256e-05
+      ],
+      [
+        ")",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "In Sir Arthur Conan Doyle's The Sign of the Four, Jonathan Small admits to having escaped from a penal colony on this island chain. To its east lies a group containing Henry Lawrence Island known as Ritchie's Archipelago. To its north lies the politically important Coco Islands and its principal town is Port Blair. They name a sea that lies to west of the Isthmus of Kra and they lie about 200 miles south of Myanmar. For 10 points, name this island group in the Indian Ocean that forms a political territory with the nearby Nicobar Islands.": {
+    "guess": "Andaman and Nicobar Islands",
+    "confidence": [
+      [
+        "And",
+        -0.0053466517
+      ],
+      [
+        "aman",
+        -8.375538e-05
+      ],
+      [
+        " and",
+        -0.29524076
+      ],
+      [
+        " Nic",
+        -1.6286107e-05
+      ],
+      [
+        "obar",
+        -1.2590794e-05
+      ],
+      [
+        " Islands",
+        -0.0003051918
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty of (*) Dover set the stage for one of these campaigns, and Alexander Farnese led a protracted instance": {
+    "guess": "French Revolutionary Wars",
+    "confidence": [
+      [
+        "French",
+        -1.531367
+      ],
+      [
+        " Revolutionary",
+        -0.047626123
+      ],
+      [
+        " Wars",
+        -0.027544055
+      ]
+    ]
+  },
+  "In Sir Arthur Conan Doyle's The Sign of the Four, Jonathan Small admits to having escaped from a penal colony on this island chain. To its east lies a group containing Henry Lawrence Island known as Ritchie's Archipelago. To its north lies the politically important Coco Islands and its principal town is Port Blair. They name a sea that lies to west of the Isthmus of Kra and they lie about 200 miles south of Myanmar. For 10 points, name this island group in the Indian Ocean that forms a political": {
+    "guess": "Andaman and Nicobar Islands",
+    "confidence": [
+      [
+        "And",
+        -0.0037511485
+      ],
+      [
+        "aman",
+        -0.00028648414
+      ],
+      [
+        " and",
+        -0.06897012
+      ],
+      [
+        " Nic",
+        -6.0272258e-05
+      ],
+      [
+        "obar",
+        -1.2352386e-05
+      ],
+      [
+        " Islands",
+        -0.00070242246
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty": {
+    "guess": "French Revolutionary Wars",
+    "confidence": [
+      [
+        "French",
+        -1.3619803
+      ],
+      [
+        " Revolutionary",
+        -0.006678075
+      ],
+      [
+        " Wars",
+        -0.043701556
+      ]
+    ]
+  },
+  "While Sir Thomas is visiting his plantations in Antigua in this work, Yates persuades his household to stage a romantic play. That results in some scandal, but not nearly so much as when he elopes with Julia. The return of the Crawfords only makes matters worse, as Mary is to keep Edmund from joining the clergy and Henry only wants to trick Fanny into loving him. For ten points, name this Jane Austen novel centering on the turmoil of Fanny Price.": {
+    "guess": "Mansfield Park",
+    "confidence": [
+      [
+        "M",
+        -0.0026836141
+      ],
+      [
+        "ans",
+        -4.9617593e-06
+      ],
+      [
+        "field",
+        -9.5198935e-05
+      ],
+      [
+        " Park",
+        -3.297462e-05
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign advertising \"Twelve (12!) Inches of Paradise.\" In this novel, Miss Annie is addicted to headache medication because she can't stand her neighbor, a former student of Doctor Talc who often curses,": {
+    "guess": "A Confederacy of Dunces",
+    "confidence": [
+      [
+        "A",
+        -0.061636757
+      ],
+      [
+        " Confeder",
+        -0.0005411197
+      ],
+      [
+        "acy",
+        -7.2907846e-05
+      ],
+      [
+        " of",
+        -0.00018589824
+      ],
+      [
+        " D",
+        -0.00016706773
+      ],
+      [
+        "unc",
+        -5.967624e-05
+      ],
+      [
+        "es",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "While Sir Thomas is visiting his plantations in Antigua in this work, Yates persuades his household to stage a romantic play. That results in some scandal, but not nearly so much as when he elopes with": {
+    "guess": "Mansfield Park",
+    "confidence": [
+      [
+        "M",
+        -0.009546881
+      ],
+      [
+        "ans",
+        -4.9617593e-06
+      ],
+      [
+        "field",
+        -6.253713e-05
+      ],
+      [
+        " Park",
+        -7.107425e-06
+      ]
+    ]
+  },
+  "Sir Charles Trevelyan served as the Assistant Secretary to the Treasury during this event. Three years into this period, William Smith O'Brien led an armed rebellion against the English for ignoring this event. This event saw the phenomenon of \"souperism,\" where the afflicted converted simply to receive": {
+    "guess": "Great Famine (Ireland)",
+    "confidence": [
+      [
+        "Great",
+        -0.014238964
+      ],
+      [
+        " F",
+        -0.0009359975
+      ],
+      [
+        "amine",
+        -2.1008714e-06
+      ],
+      [
+        " (",
+        -0.005219294
+      ],
+      [
+        "I",
+        -3.917321e-05
+      ],
+      [
+        "reland",
+        -3.5835506e-05
+      ],
+      [
+        ")",
+        -1.735894e-05
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign advertising \"Twelve (12!) Inches of Paradise.\" In this novel, Miss Annie is addicted to headache": {
+    "guess": "Geek Love",
+    "confidence": [
+      [
+        "Ge",
+        -0.62181854
+      ],
+      [
+        "ek",
+        -0.0027063233
+      ],
+      [
+        " Love",
+        -0.00020950058
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty of (*) Dover set the stage for one of these campaigns, and Alexander Farnese led a protracted instance of this in the early 1580s. Cornelius Tromp was empowered by one of these campaigns, in which the DeWitt brothers were deposed and lynched during the Disaster Year, and the Sack of Antwerp was the result of another; both led to eventual victories for the House of Orange. For 10 points, what is this military action undertaken multiple times by Hapsburg forces during the Eighty Years War and by the Nazis in 1940?": {
+    "guess": "Military campaign",
+    "confidence": [
+      [
+        "Military",
+        -1.2123816
+      ],
+      [
+        " campaign",
+        -0.58455396
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty of (*) Dover set the stage for one of these campaigns, and Alexander Farnese led a protracted instance of this in the early 1580s. Cornelius Tromp was empowered by one of these campaigns, in which the DeWitt brothers were deposed and lynched during the Disaster Year, and the Sack of Antwerp was the result of another; both led to eventual victories for the House of Orange. For 10 points, what is this": {
+    "guess": "Military campaign",
+    "confidence": [
+      [
+        "Military",
+        -0.89267504
+      ],
+      [
+        " campaign",
+        -0.031066822
+      ]
+    ]
+  },
+  "A Sir Walter Scott story provided the inspiration for his Murder of the Archbishop of Liege, exhibited in the 1831 Salon. Idolized by Baudelaire, he modeled for the face-down man at the center of Raft": {
+    "guess": "The Raft of the Medusa",
+    "confidence": [
+      [
+        "The",
+        -0.6420281
+      ],
+      [
+        " Ra",
+        -0.35245723
+      ],
+      [
+        "ft",
+        -7.107425e-06
+      ],
+      [
+        " of",
+        -2.677603e-05
+      ],
+      [
+        " the",
+        -0.00034368722
+      ],
+      [
+        " Med",
+        -0.00012701898
+      ],
+      [
+        "usa",
+        -0.00023309923
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter of 1795, Prussia signed the Treaty of Basel, taking itself out of the First Coalition. The Treaty of (*) Dover set the stage for one of these campaigns, and Alexander Farnese led a protracted instance of this in the early 1580s. Cornelius Tromp was empowered by one of these campaigns, in which the DeWitt brothers were deposed and lynched during the Disaster Year, and the Sack of Antwerp was the": {
+    "guess": "Campaign (military)",
+    "confidence": [
+      [
+        "Campaign",
+        -1.4362715
+      ],
+      [
+        " (",
+        -1.225234
+      ],
+      [
+        "m",
+        -0.00012380048
+      ],
+      [
+        "ilitary",
+        -5.5122365e-07
+      ],
+      [
+        ")",
+        -0.0035913987
+      ]
+    ]
+  },
+  "A siren is described as a \"cacophony of twelve wailing bobcats\" in this work, which also features a sign advertising \"Twelve (12!) Inches of Paradise.\" In this novel, Miss Annie is addicted to headache medication because she can't stand her neighbor, a former student of Doctor Talc who often curses, \"Fortuna, you tempestuous sprite\" because of his obsession with Boethius. Near its end, a cockatoo that": {
+    "guess": "A Confederacy of Dunces",
+    "confidence": [
+      [
+        "A",
+        -0.04298675
+      ],
+      [
+        " Confeder",
+        -0.0003681093
+      ],
+      [
+        "acy",
+        -6.682846e-05
+      ],
+      [
+        " of",
+        -0.00013274075
+      ],
+      [
+        " D",
+        -6.206032e-05
+      ],
+      [
+        "unc",
+        -8.888114e-05
+      ],
+      [
+        "es",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "While Sir Thomas is visiting his plantations in Antigua in this work, Yates persuades his household to stage a romantic play. That results in some scandal, but not nearly so much as when he elopes with Julia. The return of the Crawfords only makes matters worse, as Mary is to keep Edmund from joining the clergy and Henry only wants to trick Fanny into loving him. For ten points, name this Jane Austen": {
+    "guess": "Mansfield Park",
+    "confidence": [
+      [
+        "M",
+        -0.024199631
+      ],
+      [
+        "ans",
+        -0.0019962045
+      ],
+      [
+        "field",
+        -0.00014919086
+      ],
+      [
+        " Park",
+        -8.792751e-05
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign was betrayed by Colonel Hans Oster. Following its defeat in one of these campaigns in the winter": {
+    "guess": "Operation Pastorius",
+    "confidence": [
+      [
+        "Operation",
+        -1.7777705
+      ],
+      [
+        " Pastor",
+        -1.3600141
+      ],
+      [
+        "ius",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Sir Charles Trevelyan served as the Assistant Secretary to the Treasury during this event. Three years into this period, William Smith O'Brien led an armed rebellion against the English for ignoring this": {
+    "guess": "Great Famine (Ireland)",
+    "confidence": [
+      [
+        "Great",
+        -0.016216308
+      ],
+      [
+        " F",
+        -0.0019626515
+      ],
+      [
+        "amine",
+        -6.704273e-07
+      ],
+      [
+        " (",
+        -0.00028374247
+      ],
+      [
+        "I",
+        -3.8338785e-05
+      ],
+      [
+        "reland",
+        -1.6762922e-05
+      ],
+      [
+        ")",
+        -9.849109e-06
+      ]
+    ]
+  },
+  "Sir Robert Holmes' largely ineffectual raid on a Smyrna convoy was a prelude to one of these campaigns. The Mechelen Incident delayed a different instance of this action by several months, and that campaign": {
+    "guess": "Anglo-Dutch Wars",
+    "confidence": [
+      [
+        "Ang",
+        -0.8392396
+      ],
+      [
+        "lo",
+        -0.00022833108
+      ],
+      [
+        "-D",
+        -0.004005977
+      ],
+      [
+        "utch",
+        -6.9882217e-06
+      ],
+      [
+        " Wars",
+        -0.014625527
+      ]
+    ]
+  }
+}

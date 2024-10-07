@@ -1,0 +1,91 @@
+{
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing by incongruent freezing at its surface, providing chemical buoyancy and energy for driving the geodynamo in the layer above it. Fluctuations in the length of a day may be caused by super-rotation": {
+    "guess": "Outer Core",
+    "confidence": [
+      [
+        "Outer",
+        -1.1027815
+      ],
+      [
+        " Core",
+        -0.57108474
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry.": {
+    "guess": "Inner core of the Earth",
+    "confidence": [
+      [
+        "Inner",
+        -0.35173306
+      ],
+      [
+        " core",
+        -0.037482794
+      ],
+      [
+        " of",
+        -0.82223725
+      ],
+      [
+        " the",
+        -0.06364975
+      ],
+      [
+        " Earth",
+        -0.004425963
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing": {
+    "guess": "Inner core (Earth)",
+    "confidence": [
+      [
+        "Inner",
+        -0.24391416
+      ],
+      [
+        " core",
+        -0.049600676
+      ],
+      [
+        " (",
+        -0.4581304
+      ],
+      [
+        "Earth",
+        -0.03213495
+      ],
+      [
+        ")",
+        -0.04022494
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing by incongruent freezing at its surface, providing chemical buoyancy and energy for driving the": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.6476302
+      ],
+      [
+        " core",
+        -0.06557622
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing by incongruent freezing at its surface, providing chemical buoyancy and energy for driving the geodynamo in the layer above it. Fluctuations in the length of a day may be caused by super-rotation of this solid ball composed mainly of iron. FTP name this region at the center of the Earth.": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.0020141676
+      ],
+      [
+        " core",
+        -0.023761906
+      ]
+    ]
+  }
+}

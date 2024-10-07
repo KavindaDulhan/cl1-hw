@@ -1,0 +1,131 @@
+{
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.04504404
+      ],
+      [
+        "iosis",
+        -0.030756572
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint, and exit from this stage is regulated by middle meiotic gene expression. For ten points, name this third stage of meiotic prophase 1 that precedes diplotene and follows zygotene.": {
+    "guess": "Pachytene",
+    "confidence": [
+      [
+        "P",
+        -0.20284112
+      ],
+      [
+        "ach",
+        -1.2948405e-05
+      ],
+      [
+        "yt",
+        -7.822647e-06
+      ],
+      [
+        "ene",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint,": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.11992623
+      ],
+      [
+        "iosis",
+        -0.042934444
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.014692375
+      ],
+      [
+        "iosis",
+        -0.019671453
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint, and exit from this stage is regulated by middle meiotic gene expression. For ten points, name": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.043411106
+      ],
+      [
+        "iosis",
+        -0.12226999
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.059302114
+      ],
+      [
+        "iosis",
+        -0.044831615
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.23988795
+      ],
+      [
+        "iosis",
+        -0.12974554
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished": {
+    "guess": "Cilium",
+    "confidence": [
+      [
+        "C",
+        -0.91449004
+      ],
+      [
+        "il",
+        -0.3082034
+      ],
+      [
+        "ium",
+        -0.0017307489
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz),": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.065745465
+      ],
+      [
+        "iosis",
+        -0.11042858
+      ]
+    ]
+  }
+}

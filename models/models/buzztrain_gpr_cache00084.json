@@ -1,0 +1,490 @@
+{
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended, but the victorious army had beaten them back by one hour. The winning side captured seven of the opponent's ships, though Cynaegirus had his hand removed by an axe during one such capture and": {
+    "guess": "Battle of Marathon",
+    "confidence": [
+      [
+        "Battle",
+        -0.0833798
+      ],
+      [
+        " of",
+        -0.0007018264
+      ],
+      [
+        " Marathon",
+        -0.28916064
+      ]
+    ]
+  },
+  "In the aftermath of this battle, Philip Sheridan traveled to Butler's command at Bermuda Hundred for refitting, and rejoined the Army of the Potomac on May 25th to cross the Pamunkey. Sheridan had gone": {
+    "guess": "Overland Campaign",
+    "confidence": [
+      [
+        "Over",
+        -0.7845951
+      ],
+      [
+        "land",
+        -4.0842064e-05
+      ],
+      [
+        " Campaign",
+        -0.0028613433
+      ]
+    ]
+  },
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended, but the victorious army had beaten them back by one hour. The winning side captured seven of the opponent's ships, though Cynaegirus had his hand removed by an axe during one such capture and died soon after, and lost just 192 men as opposed to approximately six thousand of the opponent. Callimachus": {
+    "guess": "Battle of Marathon",
+    "confidence": [
+      [
+        "Battle",
+        -0.056292288
+      ],
+      [
+        " of",
+        -0.00025263763
+      ],
+      [
+        " Marathon",
+        -0.0072825267
+      ]
+    ]
+  },
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended, but the victorious army had beaten them back by one hour. The winning side captured seven": {
+    "guess": "Battle of Warsaw (1656)",
+    "confidence": [
+      [
+        "Battle",
+        -0.37086883
+      ],
+      [
+        " of",
+        -0.00054135814
+      ],
+      [
+        " Warsaw",
+        -2.905581
+      ],
+      [
+        " (",
+        -0.010547685
+      ],
+      [
+        "165",
+        -0.53517896
+      ],
+      [
+        "6",
+        -0.0002292847
+      ],
+      [
+        ")",
+        -8.89548e-06
+      ]
+    ]
+  },
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended,": {
+    "guess": "Battle of Saratoga",
+    "confidence": [
+      [
+        "Battle",
+        -0.30543035
+      ],
+      [
+        " of",
+        -0.0006108099
+      ],
+      [
+        " Sar",
+        -1.0455257
+      ],
+      [
+        "at",
+        -0.00084238406
+      ],
+      [
+        "oga",
+        -7.465036e-06
+      ]
+    ]
+  },
+  "Afterwards, King Jerome fled from Cassel and the kingdom of Westphalia collapsed, along with the grand duchies of Berg and Frankfurt. Beginning on October 16, with an inconclusive encounter at Wachau and the defeat of Marmont at Mockern, 100,000 Rus  sian reinforcements arrived under Bennigsen the next day, and the Allied attack on the eighteenth was a complete victory. FTP, identify this battle of 1813, known as the \"Battle of the Nations,\" which ended with the king of Saxony being captured and Napo  leon retreating.": {
+    "guess": "Battle of Leipzig",
+    "confidence": [
+      [
+        "Battle",
+        -0.001493438
+      ],
+      [
+        " of",
+        -7.77952e-05
+      ],
+      [
+        " Leipzig",
+        -0.19537319
+      ]
+    ]
+  },
+  "In the aftermath of this battle, Philip Sheridan traveled to Butler's command at Bermuda Hundred for refitting, and rejoined the Army of the Potomac on May 25th to cross the Pamunkey. Sheridan had gone on a cavalry raid against Richmond to disrupt Confederate road and rail communications. A small Confederate": {
+    "guess": "Overland Campaign",
+    "confidence": [
+      [
+        "Over",
+        -0.76219684
+      ],
+      [
+        "land",
+        -5.7172965e-05
+      ],
+      [
+        " Campaign",
+        -0.0027450775
+      ]
+    ]
+  },
+  "In the aftermath of this event, Deputy First Minister Nicola Sturgeon was predicted to lead the SNP after the resignation of First Minister Alex Salmond. Talking points in the leadup to this event included student tuition concerns, revenue from oil in the (*) North Sea, and whether to use the euro, the pound, or a new currency. For 10 points, name this September 18, 2014 event in which 55% of voters": {
+    "guess": "Scottish independence referendum",
+    "confidence": [
+      [
+        "Scott",
+        -0.4258412
+      ],
+      [
+        "ish",
+        -1.5809293e-05
+      ],
+      [
+        " independence",
+        -0.0015024792
+      ],
+      [
+        " referendum",
+        -3.631232e-05
+      ]
+    ]
+  },
+  "In the aftermath of this battle, Philip Sheridan traveled to Butler's command at Bermuda Hundred for refitting, and rejoined the Army of the Potomac on May 25th to cross the Pamunkey. Sheridan had gone on a cavalry raid against Richmond to disrupt Confederate road and rail communications. A small Confederate cavalry contingent followed Sheridan and engaged his troops in battle, but the outnumbered": {
+    "guess": "Sheridan's Richmond Raid",
+    "confidence": [
+      [
+        "Sher",
+        -0.4200909
+      ],
+      [
+        "idan",
+        -0.00031723134
+      ],
+      [
+        "'s",
+        -0.0007653143
+      ],
+      [
+        " Richmond",
+        -0.79179525
+      ],
+      [
+        " Raid",
+        -0.06077785
+      ]
+    ]
+  },
+  "Afterwards, King Jerome fled from Cassel and the kingdom of Westphalia collapsed, along with the grand duchies of Berg and Frankfurt. Beginning on October 16, with an inconclusive encounter at Wachau and the defeat of Marmont at Mockern, 100,000 Rus  sian reinforcements arrived under Bennigsen the next day, and the Allied attack on the eighteenth was a complete victory. FTP, identify this battle of": {
+    "guess": "Battle of Leipzig",
+    "confidence": [
+      [
+        "Battle",
+        -0.0013110747
+      ],
+      [
+        " of",
+        -6.122589e-05
+      ],
+      [
+        " Leipzig",
+        -0.022775292
+      ]
+    ]
+  },
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended, but the victorious army had beaten them back by one hour. The winning side captured seven of the opponent's ships, though Cynaegirus had his hand removed by an axe during one such capture and died soon after, and lost just 192 men as opposed to approximately six thousand of the opponent. Callimachus died during it, ensuring that Miltiades got the credit for the victory. For 10 points, name this 490 BC battle in which the Greeks defeated the Persians, after which Phidippides ran back to": {
+    "guess": "Battle of Marathon",
+    "confidence": [
+      [
+        "Battle",
+        -0.0005440961
+      ],
+      [
+        " of",
+        -2.5107178e-05
+      ],
+      [
+        " Marathon",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "In the aftermath of this battle, Philip Sheridan traveled to Butler's command at Bermuda Hundred for refitting, and rejoined the Army of the Potomac on May 25th to cross the Pamunkey. Sheridan had gone on a cavalry raid against Richmond to disrupt Confederate road and rail communications. A small Confederate cavalry contingent followed Sheridan and engaged his troops in battle, but the outnumbered Confederate cavalry was defeated. For ten points, name this May 11, 1864 cavalry battle, an offshoot of Spotsylvania, in which Confederate Major General J.E.B. Stuart was killed.": {
+    "guess": "Battle of Yellow Tavern",
+    "confidence": [
+      [
+        "Battle",
+        -0.0090344045
+      ],
+      [
+        " of",
+        -3.5716304e-05
+      ],
+      [
+        " Yellow",
+        -0.0001278534
+      ],
+      [
+        " Tavern",
+        -5.7292167e-05
+      ]
+    ]
+  },
+  "Afterwards, King Jerome fled from Cassel and the kingdom of Westphalia collapsed, along with the grand duchies of Berg and Frankfurt. Beginning on October 16, with an inconclusive encounter at Wachau and the defeat of Marmont at Mockern, 100,000 Rus  sian reinforcements arrived under Bennigsen the next day, and the Allied attack on the eighteenth was a complete victory. FTP, identify this battle of 1813, known as the \"Battle of the Nations,\" which ended with the king of Saxony being captured and": {
+    "guess": "Battle of Leipzig",
+    "confidence": [
+      [
+        "Battle",
+        -0.0016812482
+      ],
+      [
+        " of",
+        -2.7252845e-05
+      ],
+      [
+        " Leipzig",
+        -0.11091556
+      ]
+    ]
+  },
+  "In the aftermath of this event, Deputy First Minister Nicola Sturgeon was predicted to lead the SNP after": {
+    "guess": "Nicola Sturgeon",
+    "confidence": [
+      [
+        "Nic",
+        -0.46109745
+      ],
+      [
+        "ola",
+        -2.0339032e-05
+      ],
+      [
+        " St",
+        -0.00027218336
+      ],
+      [
+        "urgeon",
+        -0.00015312091
+      ]
+    ]
+  },
+  "In the aftermath of this event, Deputy First Minister Nicola Sturgeon was predicted to lead the SNP after the resignation of First Minister Alex Salmond. Talking points in the leadup to this event included student tuition concerns, revenue from oil in the (*) North Sea, and whether to use the euro, the": {
+    "guess": "Scottish independence referendum",
+    "confidence": [
+      [
+        "Scott",
+        -0.1385518
+      ],
+      [
+        "ish",
+        -9.253091e-06
+      ],
+      [
+        " independence",
+        -0.03877913
+      ],
+      [
+        " referendum",
+        -0.34103987
+      ]
+    ]
+  },
+  "Afterwards, King Jerome fled from Cassel and the kingdom of Westphalia collapsed, along with the grand": {
+    "guess": "Kingdom of Westphalia",
+    "confidence": [
+      [
+        "King",
+        -0.022771567
+      ],
+      [
+        "dom",
+        -0.0007260138
+      ],
+      [
+        " of",
+        -6.992776e-05
+      ],
+      [
+        " West",
+        -0.00016098835
+      ],
+      [
+        "ph",
+        -5.4385737e-06
+      ],
+      [
+        "alia",
+        -0.0001170132
+      ]
+    ]
+  },
+  "In the aftermath of this battle, Philip Sheridan traveled to Butler's command at Bermuda Hundred for refitting, and rejoined the Army of the Potomac on May 25th to cross the Pamunkey. Sheridan had gone on a cavalry raid against Richmond to disrupt Confederate road and rail communications. A small Confederate cavalry contingent followed Sheridan and engaged his troops in battle, but the outnumbered Confederate cavalry was defeated. For ten points, name this May 11, 1864 cavalry battle, an offshoot": {
+    "guess": "Battle of Yellow Tavern",
+    "confidence": [
+      [
+        "Battle",
+        -0.07009627
+      ],
+      [
+        " of",
+        -0.00037335427
+      ],
+      [
+        " Yellow",
+        -0.02008725
+      ],
+      [
+        " Tavern",
+        -7.588794e-05
+      ]
+    ]
+  },
+  "Afterwards, King Jerome fled from Cassel and the kingdom of Westphalia collapsed, along with the grand duchies of Berg and Frankfurt. Beginning on October 16, with an inconclusive encounter at Wachau and the defeat of Marmont at Mockern, 100,000 Rus  sian reinforcements arrived under Bennigsen the next": {
+    "guess": "Battle of Leipzig",
+    "confidence": [
+      [
+        "Battle",
+        -0.46379784
+      ],
+      [
+        " of",
+        -1.5213274e-05
+      ],
+      [
+        " Leipzig",
+        -0.036611926
+      ]
+    ]
+  },
+  "In the aftermath of this battle, Philip Sheridan traveled to Butler's command at Bermuda Hundred for": {
+    "guess": "Battle of Cold Harbor",
+    "confidence": [
+      [
+        "Battle",
+        -0.09826254
+      ],
+      [
+        " of",
+        -6.992776e-05
+      ],
+      [
+        " Cold",
+        -0.36464074
+      ],
+      [
+        " Harbor",
+        -0.00033915747
+      ]
+    ]
+  },
+  "In the aftermath of this event, Deputy First Minister Nicola Sturgeon was predicted to lead the SNP after the resignation of First Minister Alex Salmond. Talking points in the leadup to this event included": {
+    "guess": "Scottish independence referendum",
+    "confidence": [
+      [
+        "Scott",
+        -0.35387015
+      ],
+      [
+        "ish",
+        -1.0564331e-05
+      ],
+      [
+        " independence",
+        -0.17418969
+      ],
+      [
+        " referendum",
+        -0.65571636
+      ]
+    ]
+  },
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended, but the victorious army had beaten them back by one hour. The winning side captured seven of the opponent's ships, though Cynaegirus had his hand removed by an axe during one such capture and died soon after, and lost just 192 men as opposed to approximately six thousand of the opponent. Callimachus died during it, ensuring that Miltiades got the credit for the victory. For 10 points, name": {
+    "guess": "Battle of Marathon",
+    "confidence": [
+      [
+        "Battle",
+        -0.010602528
+      ],
+      [
+        " of",
+        -0.0010334034
+      ],
+      [
+        " Marathon",
+        -0.0001823258
+      ]
+    ]
+  },
+  "In the aftermath of this battle, the losing side travelled to the opponent's capital, believing it undefended, but the victorious army had beaten them back by one hour. The winning side captured seven of the opponent's ships, though Cynaegirus had his hand removed by an axe during one such capture and died soon after, and lost just 192 men as opposed to approximately six thousand of the opponent. Callimachus died during it, ensuring that Miltiades got the credit for the victory. For 10 points, name this 490 BC battle in which the Greeks defeated the Persians, after which Phidippides ran back to Athens carrying the news.": {
+    "guess": "Battle of Marathon",
+    "confidence": [
+      [
+        "Battle",
+        -0.00016957101
+      ],
+      [
+        " of",
+        -3.8934802e-05
+      ],
+      [
+        " Marathon",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "In the aftermath of this event, Deputy First Minister Nicola Sturgeon was predicted to lead the SNP after the resignation of First Minister Alex Salmond. Talking points in the leadup to this event included student tuition concerns, revenue from oil in the (*) North Sea, and whether to use the euro, the pound, or a new currency. For 10 points, name this September 18, 2014 event in which 55% of voters in a British country voted against independence.": {
+    "guess": "2014 Scottish independence referendum",
+    "confidence": [
+      [
+        "201",
+        -0.26160908
+      ],
+      [
+        "4",
+        -0.00048477305
+      ],
+      [
+        " Scottish",
+        -0.00020425562
+      ],
+      [
+        " independence",
+        -0.0012276083
+      ],
+      [
+        " referendum",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Afterwards, King Jerome fled from Cassel and the kingdom of Westphalia collapsed, along with the grand duchies of Berg and Frankfurt. Beginning on October 16, with an inconclusive encounter at Wachau and": {
+    "guess": "Battle of Leipzig",
+    "confidence": [
+      [
+        "Battle",
+        -0.52352226
+      ],
+      [
+        " of",
+        -6.086828e-05
+      ],
+      [
+        " Leipzig",
+        -0.31683764
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "A.J. Ayer claimed its propositions were meaningless in Language, Truth, and Logic, though Karl Popper claims it's more accurate to say its propositions are not fallible, testable, or provable. Ontology is the main segment of this branch of philosophy. Its name is derived from the Greek phrase translated as \"those on nature.\" For ten points, name this branch that is concerned with the nature of the universe and more specifically what is man's place and role in it all.": {
+    "guess": "Metaphysics",
+    "confidence": [
+      [
+        "Met",
+        -0.022886101
+      ],
+      [
+        "aph",
+        -8.061054e-06
+      ],
+      [
+        "ysics",
+        -0.00046784978
+      ]
+    ]
+  },
+  "A.J. Ayer claimed its propositions were meaningless in Language, Truth, and Logic, though Karl Popper claims it's more accurate to say its propositions are not fallible, testable, or provable. Ontology": {
+    "guess": "Verification principle",
+    "confidence": [
+      [
+        "Verification",
+        -0.96392745
+      ],
+      [
+        " principle",
+        -0.32441184
+      ]
+    ]
+  },
+  "A.J. Ayer claimed its propositions were meaningless in Language, Truth, and Logic, though Karl Popper claims it's more accurate to say its propositions are not fallible, testable, or provable. Ontology is the main segment of this branch of philosophy. Its name is derived from the Greek phrase translated": {
+    "guess": "Metaphysics",
+    "confidence": [
+      [
+        "Met",
+        -0.13978837
+      ],
+      [
+        "aph",
+        -0.00013166793
+      ],
+      [
+        "ysics",
+        -0.020972865
+      ]
+    ]
+  },
+  "A.J. Ayer claimed its propositions were meaningless in Language, Truth, and Logic, though Karl Popper": {
+    "guess": "Verification principle",
+    "confidence": [
+      [
+        "Verification",
+        -0.34830225
+      ],
+      [
+        " principle",
+        -0.7125504
+      ]
+    ]
+  },
+  "A.J. Ayer claimed its propositions were meaningless in Language, Truth, and Logic, though Karl Popper claims it's more accurate to say its propositions are not fallible, testable, or provable. Ontology is the main segment of this branch of philosophy. Its name is derived from the Greek phrase translated as \"those on nature.\" For ten points, name this branch that is concerned with the nature of the": {
+    "guess": "Metaphysics",
+    "confidence": [
+      [
+        "Met",
+        -0.02783799
+      ],
+      [
+        "aph",
+        -1.11603495e-05
+      ],
+      [
+        "ysics",
+        -0.001980618
+      ]
+    ]
+  }
+}

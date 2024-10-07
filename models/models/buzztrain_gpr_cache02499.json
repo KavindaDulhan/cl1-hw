@@ -1,0 +1,171 @@
+{
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was put to death by Otho in 69 A.D. after serving for four days as the successor to Galba. Lucan's collaboration with one of them resulted in his committing suicide by opening a vein. FTP, identify this family of Romans, which also included Caius, who led a namesake conspiracy in 65 A.D. against Nero.": {
+    "guess": "Julii",
+    "confidence": [
+      [
+        "Jul",
+        -0.42765006
+      ],
+      [
+        "ii",
+        -0.2644647
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was": {
+    "guess": "Lucius Cornelius Sulla",
+    "confidence": [
+      [
+        "Luc",
+        -0.11459669
+      ],
+      [
+        "ius",
+        -0.0006186736
+      ],
+      [
+        " Cornel",
+        -0.8294262
+      ],
+      [
+        "ius",
+        -3.2497806e-05
+      ],
+      [
+        " S",
+        -0.18764322
+      ],
+      [
+        "ulla",
+        -0.0003584648
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One": {
+    "guess": "Gnaeus Domitius Ahenobarbus",
+    "confidence": [
+      [
+        "G",
+        -0.5635158
+      ],
+      [
+        "na",
+        -0.0059840204
+      ],
+      [
+        "eus",
+        -3.9411618e-05
+      ],
+      [
+        " Dom",
+        -0.043267846
+      ],
+      [
+        "it",
+        -0.00094802247
+      ],
+      [
+        "ius",
+        -1.3902034e-05
+      ],
+      [
+        " A",
+        -0.026709286
+      ],
+      [
+        "hen",
+        -0.0011903453
+      ],
+      [
+        "obar",
+        -0.00016957101
+      ],
+      [
+        "bus",
+        -0.00025382967
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was put to death by Otho in 69 A.D. after serving for four days as the successor to Galba. Lucan's collaboration with one of them resulted in his committing suicide by opening a vein. FTP, identify this": {
+    "guess": "Lucius Annaeus Seneca",
+    "confidence": [
+      [
+        "Luc",
+        -0.11499184
+      ],
+      [
+        "ius",
+        -0.0014740335
+      ],
+      [
+        " Anna",
+        -0.2049796
+      ],
+      [
+        "eus",
+        -0.00021748354
+      ],
+      [
+        " Sen",
+        -0.004472016
+      ],
+      [
+        "eca",
+        -4.3226137e-05
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was put to death by Otho in 69 A.D. after serving for four days as the successor to Galba. Lucan's collaboration": {
+    "guess": "Lucius Calpurnius Piso Licinianus",
+    "confidence": [
+      [
+        "Luc",
+        -0.41988802
+      ],
+      [
+        "ius",
+        -0.004369948
+      ],
+      [
+        " Cal",
+        -0.9802211
+      ],
+      [
+        "p",
+        -8.776276e-06
+      ],
+      [
+        "urn",
+        -2.0339032e-05
+      ],
+      [
+        "ius",
+        -0.000509903
+      ],
+      [
+        " P",
+        -0.000385867
+      ],
+      [
+        "iso",
+        -0.00018816312
+      ],
+      [
+        " Lic",
+        -0.97764623
+      ],
+      [
+        "in",
+        -0.00019519613
+      ],
+      [
+        "ian",
+        -0.0002749214
+      ],
+      [
+        "us",
+        -0.00012380048
+      ]
+    ]
+  }
+}

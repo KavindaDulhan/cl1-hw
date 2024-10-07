@@ -1,0 +1,109 @@
+{
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are": {
+    "guess": "Foehn Wind",
+    "confidence": [
+      [
+        "Fo",
+        -0.70772237
+      ],
+      [
+        "eh",
+        -2.7133641e-05
+      ],
+      [
+        "n",
+        -9.6629374e-05
+      ],
+      [
+        " Wind",
+        -0.95258224
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags": {
+    "guess": "Wind barb",
+    "confidence": [
+      [
+        "Wind",
+        -0.037611622
+      ],
+      [
+        " bar",
+        -0.43019348
+      ],
+      [
+        "b",
+        -0.32886624
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes. It is rated on the Beaufort scale, and an anemometer measures its speed. The trade ones occur near the equator, and it causes ocean surface waves. Monsoons are seasonal types of, for ten points,": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.09858804
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes. It is rated on the Beaufort scale, and an anemometer measures its speed. The trade ones occur near the equator, and it causes ocean surface waves. Monsoons are seasonal types of, for ten points, what meteorological phenomenon, the movement of air?": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.037998337
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes. It is rated on the Beaufort scale, and an anemometer measures its speed. The trade ones occur": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.696533
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In": {
+    "guess": "Foehn wind",
+    "confidence": [
+      [
+        "Fo",
+        -0.03323447
+      ],
+      [
+        "eh",
+        -3.0828953e-05
+      ],
+      [
+        "n",
+        -0.000116417184
+      ],
+      [
+        " wind",
+        -1.1376342
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes.": {
+    "guess": "Foehn Wind",
+    "confidence": [
+      [
+        "Fo",
+        -0.03446674
+      ],
+      [
+        "eh",
+        -2.2484697e-05
+      ],
+      [
+        "n",
+        -9.5914154e-05
+      ],
+      [
+        " Wind",
+        -0.8867257
+      ]
+    ]
+  }
+}

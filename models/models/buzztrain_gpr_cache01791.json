@@ -1,0 +1,69 @@
+{
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point is the isotomic conjugate of the Gergonne point. Kimberling also cataloged the Spieker center and the Feuerbach point for one of these. The de Longchamps point for one lies on the Euler line, along with the nine point center, orthocenter, and circumcenter. Their area can be calculated using Heron's formula, and in non-Euclidean geometries, the sum of their angles differs from the usual 180 degrees. In ones with a right angle, the side-lengths can be calculated with the Pythagorean theorem. For": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point is the isotomic conjugate of the Gergonne point. Kimberling also cataloged the Spieker center and the Feuerbach point for one of these. The de Longchamps point for one lies on the Euler line, along with the nine point center, orthocenter, and circumcenter. Their area can be calculated using Heron's formula, and in non-Euclidean geometries, the sum of their angles differs from the usual 180 degrees. In ones with a right angle, the side-lengths can be calculated with the Pythagorean theorem. For 10 points, name these three-sided polygons.": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.00011069541
+      ]
+    ]
+  },
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point is the isotomic conjugate of the Gergonne point. Kimberling also cataloged the Spieker center and": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -1.3750683
+      ]
+    ]
+  },
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point": {
+    "guess": "Centroids",
+    "confidence": [
+      [
+        "Cent",
+        -1.2589047
+      ],
+      [
+        "roids",
+        -0.46865207
+      ]
+    ]
+  },
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point is the isotomic conjugate of the Gergonne point. Kimberling also cataloged the Spieker center and the Feuerbach point for one of these. The de Longchamps point for one lies on the Euler line, along with the nine point center, orthocenter, and circumcenter. Their area can be calculated using Heron's": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.006849523
+      ]
+    ]
+  },
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point is the isotomic conjugate of the Gergonne point. Kimberling also cataloged the Spieker center and the Feuerbach point for one of these. The de Longchamps point for one lies on the Euler line, along with the nine point center, orthocenter, and circumcenter. Their area can be calculated using Heron's formula, and in non-Euclidean geometries, the sum of their angles differs from the usual 180 degrees.": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -3.094816e-05
+      ]
+    ]
+  },
+  "The Erd?s [EHR-dish]-Mordell inequality applies to these entities, and in one of these, the Nagel point is the isotomic conjugate of the Gergonne point. Kimberling also cataloged the Spieker center and the Feuerbach point for one of these. The de Longchamps point for one lies on the Euler line, along": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.086729065
+      ]
+    ]
+  }
+}

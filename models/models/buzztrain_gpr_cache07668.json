@@ -1,0 +1,117 @@
+{
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita incomes rise with development. Capital in the Twenty-First Century predicts that developed countries will see large increases in this statistic, which is most commonly measured using the Gini coefficient. For 10 points, identify this statistic representing uneven distribution of economic resources.": {
+    "guess": "Gini coefficient",
+    "confidence": [
+      [
+        "G",
+        -0.18024537
+      ],
+      [
+        "ini",
+        -9.674858e-05
+      ],
+      [
+        " coefficient",
+        -0.0043845554
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita incomes rise with development. Capital in the Twenty-First Century predicts that developed countries will see large increases in this statistic, which is most commonly measured using the Gini coefficient.": {
+    "guess": "Income Inequality",
+    "confidence": [
+      [
+        "Income",
+        -0.21137851
+      ],
+      [
+        " In",
+        -0.36857727
+      ],
+      [
+        "equality",
+        -2.3319124e-05
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of": {
+    "guess": "Gini coefficient",
+    "confidence": [
+      [
+        "G",
+        -1.0391797
+      ],
+      [
+        "ini",
+        -0.17255838
+      ],
+      [
+        " coefficient",
+        -0.0037460483
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita incomes rise with development. Capital in the Twenty-First Century predicts that developed countries": {
+    "guess": "Economic inequality",
+    "confidence": [
+      [
+        "E",
+        -0.26634914
+      ],
+      [
+        "conomic",
+        -2.355753e-05
+      ],
+      [
+        " inequality",
+        -0.08457508
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally": {
+    "guess": "Global inequality",
+    "confidence": [
+      [
+        "Global",
+        -0.43455902
+      ],
+      [
+        " inequality",
+        -1.2006834
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita": {
+    "guess": "Kuznets curve",
+    "confidence": [
+      [
+        "K",
+        -0.6146157
+      ],
+      [
+        "uz",
+        -6.980855e-05
+      ],
+      [
+        "nets",
+        -0.00019078559
+      ],
+      [
+        " curve",
+        -0.014139999
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time": {
+    "guess": "Global poverty",
+    "confidence": [
+      [
+        "Global",
+        -0.07558346
+      ],
+      [
+        " poverty",
+        -0.30309936
+      ]
+    ]
+  }
+}

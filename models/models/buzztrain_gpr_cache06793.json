@@ -1,0 +1,86 @@
+{
+  "[RR-GR/DUKE]  26 This Greek shares his name with the monk who leapt into the Coliseum to stop a gladiator": {
+    "guess": "Telemachus",
+    "confidence": [
+      [
+        "Te",
+        -0.9828859
+      ],
+      [
+        "lem",
+        -0.004000277
+      ],
+      [
+        "ach",
+        -0.00033165133
+      ],
+      [
+        "us",
+        -0.004016784
+      ]
+    ]
+  },
+  "[RR-GR/DUKE]  26 This Greek shares his name with the monk who leapt into the Coliseum to stop a gladiator fight, leading to Honorius's abolition of the sport. He married Cassiphone, slew Cassiphone's mother [*] Circe, and was assisted as a youth by the goddess Athena, disguised as Mentor. For 10 points\u2014name this son of Penelope and Odysseus.": {
+    "guess": "Telemachus",
+    "confidence": [
+      [
+        "Te",
+        -0.021398272
+      ],
+      [
+        "lem",
+        -0.004895601
+      ],
+      [
+        "ach",
+        -0.00013047588
+      ],
+      [
+        "us",
+        -0.00018268342
+      ]
+    ]
+  },
+  "[RR-GR/DUKE]  26 This Greek shares his name with the monk who leapt into the Coliseum to stop a gladiator fight, leading to Honorius's abolition of the sport. He married Cassiphone, slew Cassiphone's mother [*] Circe, and was assisted as a youth by the goddess Athena, disguised as Mentor. For 10 points\u2014name": {
+    "guess": "Telemachus",
+    "confidence": [
+      [
+        "Te",
+        -0.36271
+      ],
+      [
+        "lem",
+        -0.011193889
+      ],
+      [
+        "ach",
+        -3.7265952e-05
+      ],
+      [
+        "us",
+        -0.0004690418
+      ]
+    ]
+  },
+  "[RR-GR/DUKE]  26 This Greek shares his name with the monk who leapt into the Coliseum to stop a gladiator fight, leading to Honorius's abolition of the sport. He married Cassiphone, slew Cassiphone's mother": {
+    "guess": "Telemachus",
+    "confidence": [
+      [
+        "Te",
+        -0.076600574
+      ],
+      [
+        "lem",
+        -0.00016098835
+      ],
+      [
+        "ach",
+        -0.00045736716
+      ],
+      [
+        "us",
+        -0.005384707
+      ]
+    ]
+  }
+}

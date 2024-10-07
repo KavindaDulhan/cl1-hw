@@ -1,0 +1,88 @@
+{
+  "The Royal Council of the Throne determines the king of this country, who currently is Norodom Sihanouk. Its capitol was moved from Longvek to Udong in 1618, and Lon Nol ruled this country until 1975. One": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.16045088
+      ],
+      [
+        "odia",
+        -0.00086644123
+      ]
+    ]
+  },
+  "The Royal Council of the Throne determines the king of this country, who currently is Norodom Sihanouk.": {
+    "guess": "Monarchy of Cambodia",
+    "confidence": [
+      [
+        "Mon",
+        -0.9146848
+      ],
+      [
+        "archy",
+        -0.022881093
+      ],
+      [
+        " of",
+        -0.14828452
+      ],
+      [
+        " Cambodia",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "The Royal Council of the Throne determines the king of this country, who currently is Norodom Sihanouk. Its capitol was moved from Longvek to Udong in 1618, and Lon Nol ruled this country until 1975. One leader of this country tried to cleanse the country and start over with a \"Year Zero.\" This nation became a French Protectorate in 1866, and was later renamed \"The Republic of Kampuchea\" by Pol Pot during the rule of the Khmer Rouge. For 10 points, name this Southeast Asian kingdom containing Angkor Watt with a capitol at Phnomh Phen.": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.08748222
+      ],
+      [
+        "odia",
+        -0.00019722259
+      ]
+    ]
+  },
+  "The Royal Council of the Throne determines the king of this country, who currently is Norodom Sihanouk. Its capitol was moved from Longvek to Udong in 1618, and Lon Nol ruled this country until 1975. One leader of this country tried to cleanse the country and start over with a \"Year Zero.\" This nation became a French Protectorate in 1866, and was later renamed \"The Republic of Kampuchea\" by Pol Pot during the rule of the Khmer Rouge. For 10 points, name this Southeast Asian kingdom containing Angkor": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.59680885
+      ],
+      [
+        "odia",
+        -0.00037549992
+      ]
+    ]
+  },
+  "The Royal Council of the Throne determines the king of this country, who currently is Norodom Sihanouk. Its capitol was moved from Longvek to Udong in 1618, and Lon Nol ruled this country until 1975. One leader of this country tried to cleanse the country and start over with a \"Year Zero.\" This nation became a French Protectorate in 1866, and was later renamed \"The Republic of Kampuchea\" by Pol Pot": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.26668367
+      ],
+      [
+        "odia",
+        -0.004613234
+      ]
+    ]
+  },
+  "The Royal Council of the Throne determines the king of this country, who currently is Norodom Sihanouk. Its capitol was moved from Longvek to Udong in 1618, and Lon Nol ruled this country until 1975. One leader of this country tried to cleanse the country and start over with a \"Year Zero.\" This nation": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.29600284
+      ],
+      [
+        "odia",
+        -0.0027693363
+      ]
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a pathetic attempt to perform this action after claiming he wants to hear \"A little \u2018Pac.\"  This action documented a namesake Fat Joe song that claims \"Yeah I'm in this business of terror,\" and an Usher song about this action claims that \"We keep that carpet green in the city.\"  It was notably performed": {
+    "guess": "Carpet cleaning",
+    "confidence": [
+      [
+        "Car",
+        -0.68774694
+      ],
+      [
+        "pet",
+        -0.039805636
+      ],
+      [
+        " cleaning",
+        -0.78591675
+      ]
+    ]
+  },
+  "DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a pathetic attempt to perform this action after claiming he wants to hear \"A little \u2018Pac.\"  This action documented a namesake Fat Joe song that claims \"Yeah I'm in this business of terror,\" and an Usher song about this action claims that \"We keep that carpet green in the city.\"  It was notably performed by \"Richard Rich,\" Nelly, and Pacman Jones with a garbage bag containing over $80,000 in ones.  For 10 points, name this action that involves going to a club and throwing lots of money in the air.": {
+    "guess": "Making it Rain",
+    "confidence": [
+      [
+        "Making",
+        -0.020182353
+      ],
+      [
+        " it",
+        -0.019821065
+      ],
+      [
+        " Rain",
+        -0.28653562
+      ]
+    ]
+  },
+  "DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a pathetic attempt to perform this action after claiming he wants to hear \"A little \u2018Pac.\"  This action documented a namesake Fat Joe song that claims \"Yeah I'm in this business of terror,\" and an Usher": {
+    "guess": "Terror Squad (group)",
+    "confidence": [
+      [
+        "T",
+        -1.2590445
+      ],
+      [
+        "error",
+        -0.61208284
+      ],
+      [
+        " Squad",
+        -0.041569997
+      ],
+      [
+        " (",
+        -0.3128548
+      ],
+      [
+        "group",
+        -0.7335515
+      ],
+      [
+        ")",
+        -0.0013048798
+      ]
+    ]
+  },
+  "DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a": {
+    "guess": "San Diego (DJ)",
+    "confidence": [
+      [
+        "San",
+        -1.3053906
+      ],
+      [
+        " Diego",
+        -0.0006551316
+      ],
+      [
+        " (",
+        -1.4963484
+      ],
+      [
+        "DJ",
+        -1.4216897
+      ],
+      [
+        ")",
+        -0.62921894
+      ]
+    ]
+  },
+  "DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a pathetic attempt to perform this action after claiming he wants to hear \"A little \u2018Pac.\"  This action": {
+    "guess": "Bottle service",
+    "confidence": [
+      [
+        "B",
+        -1.1418457
+      ],
+      [
+        "ottle",
+        -0.33086392
+      ],
+      [
+        " service",
+        -1.1845767
+      ]
+    ]
+  },
+  "DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a pathetic attempt to perform this action after claiming he wants to hear \"A little \u2018Pac.\"  This action documented a namesake Fat Joe song that claims \"Yeah I'm in this business of terror,\" and an Usher song about this action claims that \"We keep that carpet green in the city.\"  It was notably performed by \"Richard Rich,\" Nelly, and Pacman Jones with a garbage bag containing over $80,000 in ones.  For": {
+    "guess": "Making it rain",
+    "confidence": [
+      [
+        "Making",
+        -0.044388484
+      ],
+      [
+        " it",
+        -0.00985159
+      ],
+      [
+        " rain",
+        -0.6885803
+      ]
+    ]
+  }
+}

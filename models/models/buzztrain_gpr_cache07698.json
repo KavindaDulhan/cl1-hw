@@ -1,0 +1,67 @@
+{
+  "The U.S. Ambassador to this nation, Jon Huntsman, resigned effective April 2011. Human rights activists": {
+    "guess": "China\u2013United States relations",
+    "confidence": [
+      [
+        "China",
+        -0.7795724
+      ],
+      [
+        "\u2013",
+        -0.017155694
+      ],
+      [
+        "United",
+        -0.00042804674
+      ],
+      [
+        " States",
+        -0.00089121354
+      ],
+      [
+        " relations",
+        -0.0063220477
+      ]
+    ]
+  },
+  "The U.S. Ambassador to this nation, Jon Huntsman, resigned effective April 2011. Human rights activists in this country, including the currently-jailed 2010 Nobel Peace Prize winner, have signed Charter 08. Starting in March 2010, Google refused to follow this nation's Internet censorship policies. For 10 points, identify this nation whose current leader, Hu Jintao (hoo jin-\"TAO\"), visited the U.S. in January 2011.": {
+    "guess": "China",
+    "confidence": [
+      [
+        "China",
+        -0.78960687
+      ]
+    ]
+  },
+  "The U.S. Ambassador to this nation, Jon Huntsman, resigned effective April 2011. Human rights activists in this country, including the currently-jailed 2010 Nobel Peace Prize winner, have signed Charter 08. Starting in March 2010, Google refused to follow this nation's Internet censorship policies. For 10 points, identify this nation whose current leader, Hu Jintao (hoo jin-\"TAO\"), visited the U.S.": {
+    "guess": "China",
+    "confidence": [
+      [
+        "China",
+        -0.57822716
+      ]
+    ]
+  },
+  "The U.S. Ambassador to this nation, Jon Huntsman, resigned effective April 2011. Human rights activists in this country, including the currently-jailed 2010 Nobel Peace Prize winner, have signed Charter": {
+    "guess": "CHINA",
+    "confidence": [
+      [
+        "CH",
+        -0.5988276
+      ],
+      [
+        "INA",
+        -0.0014816516
+      ]
+    ]
+  },
+  "The U.S. Ambassador to this nation, Jon Huntsman, resigned effective April 2011. Human rights activists in this country, including the currently-jailed 2010 Nobel Peace Prize winner, have signed Charter 08. Starting in March 2010, Google refused to follow this nation's Internet censorship policies. For": {
+    "guess": "China",
+    "confidence": [
+      [
+        "China",
+        -0.28524074
+      ]
+    ]
+  }
+}

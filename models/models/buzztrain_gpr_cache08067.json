@@ -1,0 +1,91 @@
+{
+  "The Uzkok pirates harassed this polity throughout the 17th century. Earlier, its forces lost Famagusta to Lala Mustafa, and this city allied with Matthias Corvinus to defeat Mehmet the Conqueror. This city was subsumed by Austria in the Treaty of Campo Formio and instituted the (*) \"Marriage of the Sea\" ceremony. It had earlier allied with the Lombards and expanded to the Rialto. Lodovico Manin surrendered": {
+    "guess": "Republic of Venice",
+    "confidence": [
+      [
+        "Republic",
+        -0.021897571
+      ],
+      [
+        " of",
+        -0.00016814057
+      ],
+      [
+        " Venice",
+        -0.00018792471
+      ]
+    ]
+  },
+  "The Uzkok pirates harassed this polity throughout the 17th century. Earlier, its forces lost Famagusta to Lala Mustafa, and this city allied with Matthias Corvinus to defeat Mehmet the Conqueror. This city was subsumed by Austria in the Treaty of Campo Formio and instituted the (*) \"Marriage of the Sea\" ceremony. It had earlier allied with the Lombards and expanded to the Rialto. Lodovico Manin surrendered to Napoleon as the last doge of, for 10 points, what waterlogged city in modern-day Italy?": {
+    "guess": "Republic of Venice",
+    "confidence": [
+      [
+        "Republic",
+        -0.060488403
+      ],
+      [
+        " of",
+        -0.000119993296
+      ],
+      [
+        " Venice",
+        -0.00020628207
+      ]
+    ]
+  },
+  "The Uzkok pirates harassed this polity throughout the 17th century. Earlier, its forces lost Famagusta to Lala Mustafa, and this city allied with Matthias Corvinus to defeat Mehmet the Conqueror. This": {
+    "guess": "Kingdom of Hungary",
+    "confidence": [
+      [
+        "King",
+        -0.7851238
+      ],
+      [
+        "dom",
+        -7.362307e-05
+      ],
+      [
+        " of",
+        -0.0003275984
+      ],
+      [
+        " Hungary",
+        -0.2341468
+      ]
+    ]
+  },
+  "The Uzkok pirates harassed this polity throughout the 17th century. Earlier, its forces lost Famagusta to Lala Mustafa, and this city allied with Matthias Corvinus to defeat Mehmet the Conqueror. This city was subsumed by Austria in the Treaty of Campo Formio and instituted the (*) \"Marriage of the Sea\"": {
+    "guess": "Republic of Venice",
+    "confidence": [
+      [
+        "Republic",
+        -0.01056137
+      ],
+      [
+        " of",
+        -6.384837e-05
+      ],
+      [
+        " Venice",
+        -0.0005062077
+      ]
+    ]
+  },
+  "The Uzkok pirates harassed this polity throughout the 17th century. Earlier, its forces lost Famagusta": {
+    "guess": "Republic of Venice",
+    "confidence": [
+      [
+        "Republic",
+        -0.0828574
+      ],
+      [
+        " of",
+        -0.00047321027
+      ],
+      [
+        " Venice",
+        -0.014804896
+      ]
+    ]
+  }
+}

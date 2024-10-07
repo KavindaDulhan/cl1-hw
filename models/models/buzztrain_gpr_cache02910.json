@@ -1,0 +1,954 @@
+{
+  "In a House race, this man earned a lasting nickname from opponent Manchester Boddy because of a misleading pamphlet he distributed. This president, who signed the Anti-Ballistic Missile Treaty, employed the Southern Strategy to defeat a Minnesotan for the White House. This politician's first vice president, who resigned after a tax evasion scandal and decried \"nattering nabobs of negativism,\" was Maryland Governor Spiro Agnew. For 10 points, Gerald Ford succeeded what president who resigned in disgrace": {
+    "guess": "Richard Nixon",
+    "confidence": [
+      [
+        "Richard",
+        -0.025837822
+      ],
+      [
+        " Nixon",
+        -0.00034368722
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in this play despite revelations concerning his past. Molvik is a drunken theology student kept alive by his belief that he is possessed by a demon, an example of the sort of \"life illusions\" advocated by Doctor Relling. Hoping to avenge the scandal his father passed off on his former partner Ekdal, Gregers Werle forces Hjalmar Ekdal to confront the fact that his beloved daughter Hedvig might not be": {
+    "guess": "The Wild Duck",
+    "confidence": [
+      [
+        "The",
+        -0.009060868
+      ],
+      [
+        " Wild",
+        -0.0576142
+      ],
+      [
+        " Duck",
+        -1.6166903e-05
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known as \"Child of the Sun\" were designed by Frank Lloyd Wright for a college in this state. This home to the garish hotels of Morris Lapidus is the site of a lavish mansion called Ca'd'Zan, which was built to resemble the Doge's Palace by circus man John Ringling. Philip Johnson used dozens of white columns for his brick town hall in the town of (*) Celebration in this state. Perhaps the most famous building in this state is a castle inspired by Neuschwanstein which uses extreme forced perspective to appear bigger. For 10 points, name this state where Cinderella Castle can be found in Disney World.": {
+    "guess": "Florida",
+    "confidence": [
+      [
+        "Florida",
+        -0.020414002
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in": {
+    "guess": "Howards End",
+    "confidence": [
+      [
+        "How",
+        -1.5895127
+      ],
+      [
+        "ards",
+        -0.001513908
+      ],
+      [
+        " End",
+        -0.000562327
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in this play despite revelations concerning his past. Molvik is a drunken theology student kept alive by his belief that he is possessed by a demon, an example of the sort of \"life illusions\" advocated by Doctor Relling. Hoping to avenge the scandal his father passed off on his former partner Ekdal, Gregers Werle forces Hjalmar Ekdal to confront the fact that his beloved daughter Hedvig might not be his own, and after Hjalmar rejects her, Hedvig kills herself rather than sacrifice the title animal": {
+    "guess": "The Wild Duck",
+    "confidence": [
+      [
+        "The",
+        -0.016314823
+      ],
+      [
+        " Wild",
+        -0.0051480085
+      ],
+      [
+        " Duck",
+        -1.8908588e-05
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving as Secretary of War, he brought in camels for the U.S Cavalry. This man appointed Judah Benjamin as": {
+    "guess": "Jefferson Davis",
+    "confidence": [
+      [
+        "Jeff",
+        -0.5024808
+      ],
+      [
+        "erson",
+        -4.7040652e-05
+      ],
+      [
+        " Davis",
+        -6.146429e-05
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them beautiful in a story by this author, while in another a farmer, his son, and the hired man Big Hans find the title character nearly frozen to death. Those stories, \"The Order of Insects\" and \"The Pedersen Kid,\" are collected in a book named for this author's novella In the Heart of the Heart of the": {
+    "guess": "William H. Gass",
+    "confidence": [
+      [
+        "William",
+        -0.009670622
+      ],
+      [
+        " H",
+        -0.104149535
+      ],
+      [
+        ".",
+        -0.0015042672
+      ],
+      [
+        " G",
+        -3.2929079e-06
+      ],
+      [
+        "ass",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "In a House race, this man earned a lasting nickname from opponent Manchester Boddy because of a misleading pamphlet he distributed. This president, who signed the Anti-Ballistic Missile Treaty, employed the Southern Strategy to defeat a Minnesotan for the White House. This politician's first vice president, who resigned after a tax evasion scandal and decried \"nattering nabobs of negativism,\" was Maryland Governor Spiro Agnew. For 10 points, Gerald Ford succeeded what president who resigned in disgrace after the Watergate scandal?": {
+    "guess": "Richard Nixon",
+    "confidence": [
+      [
+        "Richard",
+        -0.024058014
+      ],
+      [
+        " Nixon",
+        -0.000110576206
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving as Secretary of War, he brought in camels for the U.S Cavalry. This man appointed Judah Benjamin as his Secretary of State after firing Robert Toombs. His first marriage was with Sarah Knox Taylor, daughter of Zachary Taylor, and he was ultimately arrested for treason but was actually not dressed as": {
+    "guess": "Jefferson Davis",
+    "confidence": [
+      [
+        "Jeff",
+        -0.2792431
+      ],
+      [
+        "erson",
+        -2.057744e-05
+      ],
+      [
+        " Davis",
+        -2.5226382e-05
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive": {
+    "guess": "Hotels in Nevada",
+    "confidence": [
+      [
+        "Hot",
+        -1.1179489
+      ],
+      [
+        "els",
+        -0.00014263466
+      ],
+      [
+        " in",
+        -0.18602689
+      ],
+      [
+        " Nevada",
+        -0.8939881
+      ]
+    ]
+  },
+  "In a House race, this man earned a lasting nickname from opponent Manchester Boddy because of a misleading pamphlet he distributed. This president, who signed the Anti-Ballistic Missile Treaty, employed": {
+    "guess": "Richard Nixon",
+    "confidence": [
+      [
+        "Richard",
+        -0.03901029
+      ],
+      [
+        " Nixon",
+        -0.0010469817
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving as Secretary of War, he brought in camels for the U.S Cavalry. This man appointed Judah Benjamin as his Secretary of State after firing Robert Toombs. His first marriage was with Sarah Knox Taylor, daughter": {
+    "guess": "Jefferson Davis",
+    "confidence": [
+      [
+        "Jeff",
+        -0.085561775
+      ],
+      [
+        "erson",
+        -3.9411618e-05
+      ],
+      [
+        " Davis",
+        -1.378283e-05
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known as \"Child of the Sun\" were designed by Frank Lloyd Wright for a college in this state. This home to the garish hotels of Morris Lapidus is the site of a lavish mansion called Ca'd'Zan, which was built to resemble the Doge's Palace by circus man John Ringling. Philip Johnson used dozens of white columns for his brick town hall in the town of (*) Celebration in this state. Perhaps the most famous building": {
+    "guess": "Florida",
+    "confidence": [
+      [
+        "Florida",
+        -0.43573198
+      ]
+    ]
+  },
+  "In a House race, this man earned a lasting nickname from opponent Manchester Boddy because of a misleading pamphlet he distributed. This president, who signed the Anti-Ballistic Missile Treaty, employed the Southern Strategy to defeat a Minnesotan for the White House. This politician's first vice president, who resigned after a tax evasion scandal and decried \"nattering nabobs of negativism,\" was Maryland": {
+    "guess": "Richard Nixon",
+    "confidence": [
+      [
+        "Richard",
+        -0.14811872
+      ],
+      [
+        " Nixon",
+        -5.8722613e-05
+      ]
+    ]
+  },
+  "In a House race, this man earned a lasting nickname from opponent Manchester Boddy because of a misleading": {
+    "guess": "Jerry Voorhis",
+    "confidence": [
+      [
+        "Jerry",
+        -0.5177463
+      ],
+      [
+        " Voor",
+        -0.0029658151
+      ],
+      [
+        "his",
+        -0.0002519224
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was formed by the Concepci\u00f3n and Maderas volcanos. The Mombacho Volcano within this lake formed its Granada": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.5993149
+      ],
+      [
+        " Nicaragua",
+        -0.0050106673
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was formed by the Concepci\u00f3n and Maderas volcanos. The Mombacho Volcano within this lake formed its Granada islets. Thomas Thorson's research in 1976 showed that a fish endemic to this lake is actually a common bull shark. Ometepe Island and the Solentiname archipelago are found within this lake, whose": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.01088605
+      ],
+      [
+        " Nicaragua",
+        -0.006772688
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was formed by the Concepci\u00f3n and Maderas volcanos. The Mombacho Volcano within this lake formed its Granada islets. Thomas Thorson's research in 1976 showed that a fish endemic to this lake is actually a common bull shark. Ometepe Island and the Solentiname archipelago are found within this lake, whose outflow is the San Juan River, which once made it a candidate for the centerpiece of a canal. Beyond": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.0036218085
+      ],
+      [
+        " Nicaragua",
+        -0.0040427833
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them beautiful in a story by this author, while in another a farmer, his son, and the hired man Big Hans find the title character nearly frozen to death. Those stories, \"The Order of Insects\" and \"The Pedersen": {
+    "guess": "Joy Williams",
+    "confidence": [
+      [
+        "Joy",
+        -0.7320315
+      ],
+      [
+        " Williams",
+        -0.1782588
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to": {
+    "guess": "Hotels in popular culture",
+    "confidence": [
+      [
+        "Hot",
+        -0.7699326
+      ],
+      [
+        "els",
+        -0.0055241347
+      ],
+      [
+        " in",
+        -0.22975948
+      ],
+      [
+        " popular",
+        -1.1957339
+      ],
+      [
+        " culture",
+        -0.0026736376
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick I. A man who tried to hold this title simultaneously with King of Poland and Lithuania lost the": {
+    "guess": "King of Sweden",
+    "confidence": [
+      [
+        "King",
+        -0.6098332
+      ],
+      [
+        " of",
+        -0.18180396
+      ],
+      [
+        " Sweden",
+        -0.43997955
+      ]
+    ]
+  },
+  "In 1822, the House of Iturbide (\"EE-tur-BEE-day\") assumed control of this nation for one year. This nation was ruled by an Austrian emperor installed by Napoleon III, Maximilian, although he was overthrown": {
+    "guess": "Second Mexican Empire",
+    "confidence": [
+      [
+        "Second",
+        -0.38543564
+      ],
+      [
+        " Mexican",
+        -0.00070707133
+      ],
+      [
+        " Empire",
+        -0.00015490896
+      ]
+    ]
+  },
+  "In 1822, the House of Iturbide (\"EE-tur-BEE-day\") assumed control of this nation for one year. This nation was ruled by an Austrian emperor installed by Napoleon III, Maximilian, although he was overthrown by Benito Juarez (\"WAHR-ezz\"). The Gadsden Purchase bought land from this country, whose victory at Puebla (\"PWAY-bluh\") is celebrated as Cinco de Mayo. For 10 points, identify this nation that once": {
+    "guess": "Mexico",
+    "confidence": [
+      [
+        "Mexico",
+        -0.5804084
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known as \"Child of the Sun\" were designed by Frank Lloyd Wright for a college in this state. This home to the garish hotels of Morris Lapidus is the site of a lavish mansion called Ca'd'Zan, which was built": {
+    "guess": "Florida Southern College",
+    "confidence": [
+      [
+        "Florida",
+        -0.14138004
+      ],
+      [
+        " Southern",
+        -0.5977809
+      ],
+      [
+        " College",
+        -0.00031389366
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving": {
+    "guess": "Jefferson Davis",
+    "confidence": [
+      [
+        "Jeff",
+        -0.78465086
+      ],
+      [
+        "erson",
+        -0.00014942927
+      ],
+      [
+        " Davis",
+        -0.0007773502
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick I. A man who tried to hold this title simultaneously with King of Poland and Lithuania lost the title in 1599 due to his Catholicism. That man in this position was Sigismund, who was a member of the (*) Vasa Dynasty started by the \"father of the nation\" who broke his country away from the Kalmar Union. Another man to hold this title saw his country's army defeated in the Battle of Poltava, part of the Great Northern War. For 10 points, give this title held by monarchs like Charles XII and Gustavus Adolphus.": {
+    "guess": "King of Sweden",
+    "confidence": [
+      [
+        "King",
+        -0.46981707
+      ],
+      [
+        " of",
+        -0.0004720219
+      ],
+      [
+        " Sweden",
+        -0.00021390743
+      ]
+    ]
+  },
+  "In 1822, the House of Iturbide (\"EE-tur-BEE-day\") assumed control of this nation for one year. This nation": {
+    "guess": "Mexico",
+    "confidence": [
+      [
+        "Mexico",
+        -0.5504844
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them beautiful in a story by this author, while in another a farmer, his son, and the hired man Big Hans find the title character nearly frozen to death. Those stories, \"The Order of Insects\" and \"The Pedersen Kid,\" are collected in a book named for this author's novella In the Heart of the Heart of the County.  Also known for his criticism, like On Being Blue, this author recently published a long account of his translation of The Duino Elegies called Reading Rilke. FTP name this author of novels": {
+    "guess": "William H. Gass",
+    "confidence": [
+      [
+        "William",
+        -0.38204375
+      ],
+      [
+        " H",
+        -0.07978548
+      ],
+      [
+        ".",
+        -0.00747009
+      ],
+      [
+        " G",
+        -0.0001242773
+      ],
+      [
+        "ass",
+        -2.4153549e-05
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them beautiful in a story by this author, while in another a farmer, his son, and the hired man Big Hans": {
+    "guess": "Kobo Abe",
+    "confidence": [
+      [
+        "K",
+        -1.2529861
+      ],
+      [
+        "obo",
+        -0.11432834
+      ],
+      [
+        " Abe",
+        -0.0015079589
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick": {
+    "guess": "Frederick I of Sweden",
+    "confidence": [
+      [
+        "Fre",
+        -0.5812223
+      ],
+      [
+        "der",
+        -1.11603495e-05
+      ],
+      [
+        "ick",
+        -0.00022392054
+      ],
+      [
+        " I",
+        -0.06405281
+      ],
+      [
+        " of",
+        -0.11049445
+      ],
+      [
+        " Sweden",
+        -0.001800008
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving as Secretary of War, he brought in camels for the U.S Cavalry. This man appointed Judah Benjamin as his Secretary of State after firing Robert Toombs. His first marriage was with Sarah Knox Taylor, daughter of Zachary Taylor, and he was ultimately arrested for treason but was actually not dressed as a woman at the time. His vice president was Alexander Stevens, and he appointed Robert E. Lee as commander of the Army of Northern Virginia. For 10  points, name this only president of the Confederate States of America, who led the South during the U.S Civil War.": {
+    "guess": "Jefferson Davis",
+    "confidence": [
+      [
+        "Jeff",
+        -0.035975147
+      ],
+      [
+        "erson",
+        -3.333223e-05
+      ],
+      [
+        " Davis",
+        -2.0696643e-05
+      ]
+    ]
+  },
+  "In a House race, this man earned a lasting nickname from opponent Manchester Boddy because of a misleading pamphlet he distributed. This president, who signed the Anti-Ballistic Missile Treaty, employed the Southern Strategy to defeat a Minnesotan for the White House. This politician's first vice president,": {
+    "guess": "Richard Nixon",
+    "confidence": [
+      [
+        "Richard",
+        -0.031217849
+      ],
+      [
+        " Nixon",
+        -0.00016408764
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them beautiful in a story by this author, while in another a farmer, his son, and the hired man Big Hans find the title character nearly frozen to death. Those stories, \"The Order of Insects\" and \"The Pedersen Kid,\" are collected in a book named for this author's novella In the Heart of the Heart of the County.  Also known for his criticism, like On Being Blue, this author recently published a long": {
+    "guess": "William H. Gass",
+    "confidence": [
+      [
+        "William",
+        -0.004077809
+      ],
+      [
+        " H",
+        -0.04250063
+      ],
+      [
+        ".",
+        -0.0003092447
+      ],
+      [
+        " G",
+        -3.7981175e-05
+      ],
+      [
+        "ass",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them beautiful in a story by this author, while in another a farmer, his son, and the hired man Big Hans find the title character nearly frozen to death. Those stories, \"The Order of Insects\" and \"The Pedersen Kid,\" are collected in a book named for this author's novella In the Heart of the Heart of the County.  Also known for his criticism, like On Being Blue, this author recently published a long account of his translation of The Duino Elegies called Reading Rilke. FTP name this author of novels like Omensetter's Luck and The Tunnel and critical works like A Temple of Texts.": {
+    "guess": "William H. Gass",
+    "confidence": [
+      [
+        "William",
+        -0.0012705894
+      ],
+      [
+        " H",
+        -0.026498731
+      ],
+      [
+        ".",
+        -0.000509903
+      ],
+      [
+        " G",
+        -7.58424e-06
+      ],
+      [
+        "ass",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known as \"Child of the Sun\" were designed by Frank Lloyd Wright for a college in this state. This home to the garish hotels of Morris Lapidus is the site of a lavish mansion called Ca'd'Zan, which was built to resemble the Doge's Palace by circus man John Ringling. Philip Johnson used dozens of white columns": {
+    "guess": "Florida",
+    "confidence": [
+      [
+        "Florida",
+        -0.089213826
+      ]
+    ]
+  },
+  "A housewife who is horrified by the dead, black bugs found in her house each morning comes to find them": {
+    "guess": "The Woman in the Dunes",
+    "confidence": [
+      [
+        "The",
+        -0.18510039
+      ],
+      [
+        " Woman",
+        -0.05189399
+      ],
+      [
+        " in",
+        -0.0012090419
+      ],
+      [
+        " the",
+        -0.00058746425
+      ],
+      [
+        " D",
+        -0.0002632431
+      ],
+      [
+        "unes",
+        -0.00029947367
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving as Secretary of War, he brought in camels for the U.S Cavalry. This man appointed Judah Benjamin as his Secretary of State after firing Robert Toombs. His first marriage was with Sarah Knox Taylor, daughter of Zachary Taylor, and he was ultimately arrested for treason but was actually not dressed as a woman at the time. His vice president was Alexander Stevens, and he appointed Robert E. Lee as commander of the Army of Northern Virginia. For 10  points, name this only president of the Confederate": {
+    "guess": "Jefferson Davis",
+    "confidence": [
+      [
+        "Jeff",
+        -0.031660967
+      ],
+      [
+        "erson",
+        -3.7385154e-05
+      ],
+      [
+        " Davis",
+        -5.1928004e-05
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in": {
+    "guess": "Prince Charles, Duke of Parma",
+    "confidence": [
+      [
+        "Prince",
+        -1.1574898
+      ],
+      [
+        " Charles",
+        -1.5539259
+      ],
+      [
+        ",",
+        -0.2933365
+      ],
+      [
+        " Duke",
+        -1.156334
+      ],
+      [
+        " of",
+        -0.00026133584
+      ],
+      [
+        " Par",
+        -0.42202783
+      ],
+      [
+        "ma",
+        -1.4259645e-05
+      ]
+    ]
+  },
+  "This man was under house arrest for six weeks due to an event known as the Eggnog Riot. While serving as Secretary of War, he brought in camels for the U.S Cavalry. This man appointed Judah Benjamin as his Secretary of State after firing Robert Toombs. His first marriage was with Sarah Knox Taylor, daughter of Zachary Taylor, and he was ultimately arrested for treason but was actually not dressed as a woman at the time. His vice president was Alexander Stevens, and he appointed Robert E. Lee as commander": {
+    "guess": "James Buchanan",
+    "confidence": [
+      [
+        "James",
+        -0.5561362
+      ],
+      [
+        " Buchanan",
+        -0.006874384
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in this play despite revelations concerning his past. Molvik is a drunken theology student kept alive by his belief that he is possessed by a demon, an example of the sort of \"life illusions\" advocated": {
+    "guess": "Ghosts (play)",
+    "confidence": [
+      [
+        "G",
+        -0.3006966
+      ],
+      [
+        "hosts",
+        -3.4524266e-05
+      ],
+      [
+        " (",
+        -0.5135583
+      ],
+      [
+        "play",
+        -0.0038843926
+      ],
+      [
+        ")",
+        -0.00015407454
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in this play despite revelations concerning his past. Molvik is a drunken theology student kept alive by his belief that he is possessed by a demon, an example of the sort of \"life illusions\" advocated by Doctor Relling. Hoping to avenge the scandal his father passed off on his former partner Ekdal, Gregers Werle forces Hjalmar Ekdal to confront the fact that his beloved daughter Hedvig might not be his own, and after Hjalmar rejects her, Hedvig kills herself rather than sacrifice the title animal for his love. FTP, what is this play by Henrik Ibsen?": {
+    "guess": "The Wild Duck",
+    "confidence": [
+      [
+        "The",
+        -0.0015292633
+      ],
+      [
+        " Wild",
+        -3.190179e-05
+      ],
+      [
+        " Duck",
+        -6.1537958e-06
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick I. A man who tried to hold this title simultaneously with King of Poland and Lithuania lost the title in 1599 due to his Catholicism. That man in this position was Sigismund, who was a member of the": {
+    "guess": "King of Sweden",
+    "confidence": [
+      [
+        "King",
+        -0.8872128
+      ],
+      [
+        " of",
+        -0.005082195
+      ],
+      [
+        " Sweden",
+        -0.006964131
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in this play despite revelations concerning his past. Molvik is a drunken theology student kept alive by his belief that he is possessed by a demon, an example of the sort of \"life illusions\" advocated by Doctor Relling. Hoping to avenge the scandal his father passed off on his former partner Ekdal,": {
+    "guess": "Hedda Gabler",
+    "confidence": [
+      [
+        "H",
+        -0.4019488
+      ],
+      [
+        "ed",
+        -0.00015955791
+      ],
+      [
+        "da",
+        -7.088138e-05
+      ],
+      [
+        " Gab",
+        -0.0004801241
+      ],
+      [
+        "ler",
+        -2.3915141e-05
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known": {
+    "guess": "Florida Hotels",
+    "confidence": [
+      [
+        "Florida",
+        -0.38505948
+      ],
+      [
+        " Hotels",
+        -1.7143675
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick I. A man who tried to hold this title simultaneously with King of Poland and Lithuania lost the title in 1599 due to his Catholicism. That man in this position was Sigismund, who was a member of the (*) Vasa Dynasty started by the \"father of the nation\" who broke his country away from the Kalmar Union. Another man to hold this title saw his country's army defeated in the Battle of Poltava, part of the Great Northern War. For 10 points, give this title held by monarchs like Charles XII and Gustavus": {
+    "guess": "King of Sweden",
+    "confidence": [
+      [
+        "King",
+        -0.30095947
+      ],
+      [
+        " of",
+        -0.00021474186
+      ],
+      [
+        " Sweden",
+        -0.0004730911
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick I. A man who tried to hold this title simultaneously with King of Poland and Lithuania lost the title in 1599 due to his Catholicism. That man in this position was Sigismund, who was a member of the (*) Vasa Dynasty started by the \"father of the nation\" who broke his country away from the Kalmar Union. Another man to hold this title saw his country's army defeated in the Battle of Poltava, part": {
+    "guess": "King of Sweden",
+    "confidence": [
+      [
+        "King",
+        -0.6701592
+      ],
+      [
+        " of",
+        -0.0020703254
+      ],
+      [
+        " Sweden",
+        -0.019402454
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known as \"Child of the Sun\" were designed by Frank Lloyd Wright for a college in this state. This home to": {
+    "guess": "Florida Southern College",
+    "confidence": [
+      [
+        "Florida",
+        -0.06792368
+      ],
+      [
+        " Southern",
+        -0.03593157
+      ],
+      [
+        " College",
+        -0.00036061046
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was formed by the Concepci\u00f3n and Maderas volcanos. The Mombacho Volcano within this lake formed its Granada islets. Thomas Thorson's research in 1976 showed that a fish endemic to this lake is actually a": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.03568324
+      ],
+      [
+        " Nicaragua",
+        -0.0063672937
+      ]
+    ]
+  },
+  "In 1822, the House of Iturbide (\"EE-tur-BEE-day\") assumed control of this nation for one year. This nation was ruled by an Austrian emperor installed by Napoleon III, Maximilian, although he was overthrown by Benito Juarez (\"WAHR-ezz\"). The Gadsden Purchase bought land from this country, whose victory at Puebla (\"PWAY-bluh\") is celebrated as Cinco de Mayo. For 10 points, identify this nation that once owned California and Texas.": {
+    "guess": "Mexico",
+    "confidence": [
+      [
+        "Mexico",
+        -0.02871397
+      ]
+    ]
+  },
+  "The only man from the House of Hesse to hold this title gained the throne when his wife abdicated in his favor in 1715; that man nominally ruled during the so-called Age of Freedom and was named Frederick I. A man who tried to hold this title simultaneously with King of Poland and Lithuania lost the title in 1599 due to his Catholicism. That man in this position was Sigismund, who was a member of the (*) Vasa Dynasty started by the \"father of the nation\" who broke his country away from the Kalmar": {
+    "guess": "King of Sweden",
+    "confidence": [
+      [
+        "King",
+        -0.27249992
+      ],
+      [
+        " of",
+        -0.00047928968
+      ],
+      [
+        " Sweden",
+        -0.0046013654
+      ]
+    ]
+  },
+  "In 1822, the House of Iturbide (\"EE-tur-BEE-day\") assumed control of this nation for one year. This nation was ruled by an Austrian emperor installed by Napoleon III, Maximilian, although he was overthrown by Benito Juarez (\"WAHR-ezz\"). The Gadsden Purchase bought land from this country, whose victory": {
+    "guess": "Second Mexican Empire",
+    "confidence": [
+      [
+        "Second",
+        -0.38592443
+      ],
+      [
+        " Mexican",
+        -0.042944152
+      ],
+      [
+        " Empire",
+        -0.00020306357
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was formed by the Concepci\u00f3n and Maderas volcanos. The Mombacho Volcano within this lake formed its Granada islets. Thomas Thorson's research in 1976 showed that a fish endemic to this lake is actually a common bull shark. Ometepe Island and the Solentiname archipelago are found within this lake, whose outflow is the San Juan River, which once made it a candidate for the centerpiece of a canal. Beyond Zapatera island in the northwest of this lake, the Tipitapa River connects it to Lake Managua. For 10 points, name this large lake in Central America.": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.0043922593
+      ],
+      [
+        " Nicaragua",
+        -0.00022368213
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was formed by the Concepci\u00f3n and Maderas volcanos. The Mombacho Volcano within this lake formed its Granada islets. Thomas Thorson's research in 1976 showed that a fish endemic to this lake is actually a common bull shark. Ometepe Island and the Solentiname archipelago are found within this lake, whose outflow is the San Juan River, which once made it a candidate for the centerpiece of a canal. Beyond Zapatera island in the northwest of this lake, the Tipitapa River connects it to Lake Managua. For": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.006258666
+      ],
+      [
+        " Nicaragua",
+        -0.00023810577
+      ]
+    ]
+  },
+  "The housekeeper Bertha Sorby fails to change her plans to marry the patriarch of one central family in this play despite revelations concerning his past. Molvik is a drunken theology student kept alive": {
+    "guess": "Ghosts (play)",
+    "confidence": [
+      [
+        "G",
+        -0.78655183
+      ],
+      [
+        "hosts",
+        -1.1041146e-05
+      ],
+      [
+        " (",
+        -0.29009607
+      ],
+      [
+        "play",
+        -0.0011992782
+      ],
+      [
+        ")",
+        -3.261701e-05
+      ]
+    ]
+  },
+  "A hotel in this state has a grand staircase leading only to a tiny coat check room, allowing guests to make a grand entrance into its lobby. Two post-modern hotels in this state are named for their massive rooftop animal sculptures and are Michael Graves' Swan and Dolphin. A group of buildings known as \"Child of the Sun\" were designed by Frank Lloyd Wright for a college in this state. This home to the garish hotels of Morris Lapidus is the site of a lavish mansion called Ca'd'Zan, which was built to resemble the Doge's Palace by circus man John Ringling. Philip Johnson used dozens of white columns for his brick town hall in the town of (*) Celebration in this state. Perhaps the most famous building in this state is a castle inspired by Neuschwanstein which uses extreme forced perspective to": {
+    "guess": "Florida",
+    "confidence": [
+      [
+        "Florida",
+        -0.0044469703
+      ]
+    ]
+  },
+  "An hourglass-shaped island within this lake is home to the \"bowling ball face\" stone figures and was": {
+    "guess": "Lake Titicaca",
+    "confidence": [
+      [
+        "Lake",
+        -0.7793946
+      ],
+      [
+        " Tit",
+        -0.23760378
+      ],
+      [
+        "ic",
+        -1.6166903e-05
+      ],
+      [
+        "aca",
+        -2.220075e-06
+      ]
+    ]
+  }
+}

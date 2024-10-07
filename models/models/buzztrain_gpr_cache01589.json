@@ -1,0 +1,83 @@
+{
+  "Edmund Phelps was a proponent of the natural rate theory of this phenomenon. Some temporary examples during searching are called frictional, while societal and economic mismatches lead to the structural form. This is compared to inflation on the Phillips curve. Discouraged people are not included in the official statistics relating to this. Those statistics are compiled from sources such as the payroll": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.0036189584
+      ],
+      [
+        "employment",
+        -3.106736e-05
+      ]
+    ]
+  },
+  "Edmund Phelps was a proponent of the natural rate theory of this phenomenon. Some temporary examples during searching are called frictional, while societal and economic mismatches lead to the structural form. This is compared to inflation on the Phillips curve. Discouraged people are not included in": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.003876435
+      ],
+      [
+        "employment",
+        -4.477578e-05
+      ]
+    ]
+  },
+  "Edmund Phelps was a proponent of the natural rate theory of this phenomenon. Some temporary examples during searching are called frictional, while societal and economic mismatches lead to the structural": {
+    "guess": "Natural rate of unemployment",
+    "confidence": [
+      [
+        "Natural",
+        -0.23297027
+      ],
+      [
+        " rate",
+        -0.02574418
+      ],
+      [
+        " of",
+        -0.059167523
+      ],
+      [
+        " unemployment",
+        -0.004837484
+      ]
+    ]
+  },
+  "Edmund Phelps was a proponent of the natural rate theory of this phenomenon. Some temporary examples during searching are called frictional, while societal and economic mismatches lead to the structural form. This is compared to inflation on the Phillips curve. Discouraged people are not included in the official statistics relating to this. Those statistics are compiled from sources such as the payroll survey. For 10 points, name this economic occurrence where people do not have jobs.": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.0017744269
+      ],
+      [
+        "employment",
+        -3.23786e-05
+      ]
+    ]
+  },
+  "Edmund Phelps was a proponent of the natural rate theory of this phenomenon. Some temporary examples": {
+    "guess": "Natural rate of unemployment",
+    "confidence": [
+      [
+        "Natural",
+        -0.025657276
+      ],
+      [
+        " rate",
+        -0.30927467
+      ],
+      [
+        " of",
+        -0.031145282
+      ],
+      [
+        " unemployment",
+        -0.027808426
+      ]
+    ]
+  }
+}

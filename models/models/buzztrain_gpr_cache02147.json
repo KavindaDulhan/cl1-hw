@@ -1,0 +1,355 @@
+{
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature so as to promote the evolution of sentient, civilized lifeforms. A number of scenarios and difficulties": {
+    "guess": "SimEarth",
+    "confidence": [
+      [
+        "Sim",
+        -0.0049506435
+      ],
+      [
+        "Earth",
+        -0.001337505
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game,": {
+    "guess": "List of Maxis games: SimAnt",
+    "confidence": [
+      [
+        "List",
+        -0.053815227
+      ],
+      [
+        " of",
+        -0.0015985335
+      ],
+      [
+        " M",
+        -0.05310624
+      ],
+      [
+        "axis",
+        -4.3202e-07
+      ],
+      [
+        " games",
+        -0.46673667
+      ],
+      [
+        ":",
+        -0.889958
+      ],
+      [
+        " Sim",
+        -1.3087863
+      ],
+      [
+        "Ant",
+        -0.80931085
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature so as to promote the evolution of sentient, civilized lifeforms. A number of scenarios and difficulties exist, including Daisyworld, a simulation designed to prove James Lovelock's theories about how plants regulate their environment.": {
+    "guess": "SimEarth: The Living Planet",
+    "confidence": [
+      [
+        "Sim",
+        -0.009395964
+      ],
+      [
+        "Earth",
+        -0.0012942853
+      ],
+      [
+        ":",
+        -0.58266026
+      ],
+      [
+        " The",
+        -4.8471098e-05
+      ],
+      [
+        " Living",
+        -0.000120708515
+      ],
+      [
+        " Planet",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist in a Soviet circus, Vladimir Ivanoff defects on a visit to Bloomingdales in New York City. He befriends the security guard there, Lionel Witherspoon, and falls in love with the saleswoman at the perfume counter, Lucia Lombardo, all while dealing with living in a new country with fears of being deported.": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "Mos",
+        -0.0072288006
+      ],
+      [
+        "cow",
+        -4.3202e-07
+      ],
+      [
+        " on",
+        -0.00019579215
+      ],
+      [
+        " the",
+        -0.0001407274
+      ],
+      [
+        " Hudson",
+        -4.7517467e-05
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature": {
+    "guess": "SimEarth",
+    "confidence": [
+      [
+        "Sim",
+        -0.0006266566
+      ],
+      [
+        "Earth",
+        -0.004477474
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern mathematical formulation of Maxwell's equations was the work of these two men, who reformulated Maxwell's original system of 20 equations into a far simpler representation using vector calculus. Name either of them.": {
+    "guess": "Oliver Heaviside",
+    "confidence": [
+      [
+        "Ol",
+        -0.5651042
+      ],
+      [
+        "iver",
+        -1.3856493e-06
+      ],
+      [
+        " He",
+        -3.1305768e-05
+      ],
+      [
+        "avis",
+        -4.85903e-05
+      ],
+      [
+        "ide",
+        -3.750436e-05
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern": {
+    "guess": "Maxwell's equations",
+    "confidence": [
+      [
+        "Max",
+        -0.3319968
+      ],
+      [
+        "well",
+        -2.2127088e-05
+      ],
+      [
+        "'s",
+        -0.0006267758
+      ],
+      [
+        " equations",
+        -0.013150462
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist in a Soviet circus, Vladimir Ivanoff defects on a visit to Bloomingdales in New York City. He befriends": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "Mos",
+        -0.41141012
+      ],
+      [
+        "cow",
+        -1.0683535e-05
+      ],
+      [
+        " on",
+        -0.00020282516
+      ],
+      [
+        " the",
+        -0.00023464888
+      ],
+      [
+        " Hudson",
+        -0.000105331244
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern mathematical formulation of Maxwell's equations was the work of these two men, who reformulated Maxwell's original system of 20 equations into a far simpler representation using vector calculus. Name": {
+    "guess": "Oliver Heaviside and Josiah Willard Gibbs",
+    "confidence": [
+      [
+        "Ol",
+        -0.9360453
+      ],
+      [
+        "iver",
+        -2.1008714e-06
+      ],
+      [
+        " He",
+        -2.0696643e-05
+      ],
+      [
+        "avis",
+        -3.6789137e-05
+      ],
+      [
+        "ide",
+        -3.9054008e-05
+      ],
+      [
+        " and",
+        -0.059281323
+      ],
+      [
+        " Jos",
+        -0.071233794
+      ],
+      [
+        "iah",
+        -0.000112960275
+      ],
+      [
+        " Will",
+        -0.00012213163
+      ],
+      [
+        "ard",
+        -0.00038491338
+      ],
+      [
+        " Gibbs",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist": {
+    "guess": "The Russians Are Coming, the Russians Are Coming",
+    "confidence": [
+      [
+        "The",
+        -0.41691664
+      ],
+      [
+        " Russians",
+        -0.23970993
+      ],
+      [
+        " Are",
+        -0.012994806
+      ],
+      [
+        " Coming",
+        -4.012684e-05
+      ],
+      [
+        ",",
+        -0.001236776
+      ],
+      [
+        " the",
+        -0.17091618
+      ],
+      [
+        " Russians",
+        -2.6299214e-05
+      ],
+      [
+        " Are",
+        -0.00040815072
+      ],
+      [
+        " Coming",
+        -1.1994775e-05
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern mathematical formulation of Maxwell's equations was the work of these two men, who reformulated Maxwell's": {
+    "guess": "Maxwell's equations",
+    "confidence": [
+      [
+        "Max",
+        -1.1194514
+      ],
+      [
+        "well",
+        -4.036525e-05
+      ],
+      [
+        "'s",
+        -0.0102076605
+      ],
+      [
+        " equations",
+        -0.027837073
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist in a Soviet circus, Vladimir Ivanoff defects on a visit to Bloomingdales in New York City. He befriends the security guard there, Lionel Witherspoon, and falls in love with the saleswoman at the perfume": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "Mos",
+        -0.04180737
+      ],
+      [
+        "cow",
+        -9.729906e-06
+      ],
+      [
+        " on",
+        -0.00025669055
+      ],
+      [
+        " the",
+        -0.00038348293
+      ],
+      [
+        " Hudson",
+        -0.00010402
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature so as to promote the evolution of sentient, civilized lifeforms. A number of scenarios and difficulties exist, including Daisyworld, a simulation designed to prove James Lovelock's theories about how": {
+    "guess": "SimEarth: The Living Planet",
+    "confidence": [
+      [
+        "Sim",
+        -0.012679163
+      ],
+      [
+        "Earth",
+        -0.0010022051
+      ],
+      [
+        ":",
+        -0.38284877
+      ],
+      [
+        " The",
+        -4.3822154e-05
+      ],
+      [
+        " Living",
+        -0.0001756504
+      ],
+      [
+        " Planet",
+        -5.4385737e-06
+      ]
+    ]
+  }
+}

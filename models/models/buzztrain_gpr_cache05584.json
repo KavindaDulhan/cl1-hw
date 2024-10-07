@@ -1,0 +1,127 @@
+{
+  "Onomastic comedy pervades this novel, in which the character of Thomas von der Trave represents Thomas Mann. Jakob Burckhardt makes an appearance as Father Jacobus, as does Friedrich Nietzsche as the brilliant but unbalanced Fritz Tegularius. FTP, identify the Bildungsroman featuring an activity invented": {
+    "guess": "The Glass Bead Game",
+    "confidence": [
+      [
+        "The",
+        -0.0010191137
+      ],
+      [
+        " Glass",
+        -1.8074163e-05
+      ],
+      [
+        " Be",
+        -4.3202e-07
+      ],
+      [
+        "ad",
+        -4.365741e-06
+      ],
+      [
+        " Game",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Onomastic comedy pervades this novel, in which the character of Thomas von der Trave represents Thomas": {
+    "guess": "The Glass Bead Game",
+    "confidence": [
+      [
+        "The",
+        -0.0008321399
+      ],
+      [
+        " Glass",
+        -3.5477897e-05
+      ],
+      [
+        " Be",
+        -1.6240566e-06
+      ],
+      [
+        "ad",
+        -7.107425e-06
+      ],
+      [
+        " Game",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "Onomastic comedy pervades this novel, in which the character of Thomas von der Trave represents Thomas Mann. Jakob Burckhardt makes an appearance as Father Jacobus, as does Friedrich Nietzsche as the brilliant but unbalanced Fritz Tegularius. FTP, identify the Bildungsroman featuring an activity invented by Bastion Perrot of Calw, who gets his name from the owner of a machine shop where Hermann Hesse": {
+    "guess": "The Glass Bead Game",
+    "confidence": [
+      [
+        "The",
+        -0.0013406005
+      ],
+      [
+        " Glass",
+        -5.6457742e-05
+      ],
+      [
+        " Be",
+        -1.8624639e-06
+      ],
+      [
+        "ad",
+        -4.4849444e-06
+      ],
+      [
+        " Game",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "Onomastic comedy pervades this novel, in which the character of Thomas von der Trave represents Thomas Mann. Jakob Burckhardt makes an appearance as Father Jacobus, as does Friedrich Nietzsche as the brilliant": {
+    "guess": "The Glass Bead Game",
+    "confidence": [
+      [
+        "The",
+        -0.00024299313
+      ],
+      [
+        " Glass",
+        -3.8696395e-05
+      ],
+      [
+        " Be",
+        -2.3392786e-06
+      ],
+      [
+        "ad",
+        -6.0345924e-06
+      ],
+      [
+        " Game",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "Onomastic comedy pervades this novel, in which the character of Thomas von der Trave represents Thomas Mann. Jakob Burckhardt makes an appearance as Father Jacobus, as does Friedrich Nietzsche as the brilliant but unbalanced Fritz Tegularius. FTP, identify the Bildungsroman featuring an activity invented by Bastion Perrot of Calw, who gets his name from the owner of a machine shop where Hermann Hesse once worked for a year after dropping out of school.": {
+    "guess": "The Glass Bead Game",
+    "confidence": [
+      [
+        "The",
+        -0.0014797443
+      ],
+      [
+        " Glass",
+        -3.500108e-05
+      ],
+      [
+        " Be",
+        -1.7432603e-06
+      ],
+      [
+        "ad",
+        -3.650519e-06
+      ],
+      [
+        " Game",
+        -3.0545007e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them into protons, producing neutrons and positrons. The Super-Kamiokande is an observatory built for the detection of these particles. They were first proposed by Wolfgang Pauli to preserve conservations of energy and momentum in beta decay. Although the Standard Model assumes that they are massless, their namesake oscillation between their flavors requires them to have mass. Coming in the electron, muon, and tau varieties, for 10 points, identify these particles with zero charge that rarely react with": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.0012158328
+      ],
+      [
+        "utr",
+        0.0
+      ],
+      [
+        "ino",
+        -7.886803e-05
+      ]
+    ]
+  },
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them into protons, producing neutrons and positrons. The Super-Kamiokande is an observatory built for the detection of these particles. They were first proposed by Wolfgang Pauli to preserve conservations of energy and momentum in beta decay. Although the Standard Model assumes that they are massless, their namesake oscillation between their flavors requires them to have mass. Coming in the electron, muon, and tau varieties, for 10 points, identify these particles with zero charge that rarely react with matter.": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.000866322
+      ],
+      [
+        "utr",
+        0.0
+      ],
+      [
+        "ino",
+        -0.00027623263
+      ]
+    ]
+  },
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them into protons, producing neutrons and positrons. The Super-Kamiokande is an observatory built for the detection of these particles. They were first proposed by Wolfgang Pauli to preserve conservations": {
+    "guess": "Neutrino oscillation",
+    "confidence": [
+      [
+        "Ne",
+        -0.0027625565
+      ],
+      [
+        "utr",
+        -6.8616515e-05
+      ],
+      [
+        "ino",
+        -0.002446758
+      ],
+      [
+        " oscill",
+        -0.42381147
+      ],
+      [
+        "ation",
+        -0.017283062
+      ]
+    ]
+  },
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.007738416
+      ],
+      [
+        "utr",
+        -0.0015537863
+      ],
+      [
+        "ino",
+        -0.06379739
+      ]
+    ]
+  },
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them into protons, producing neutrons and positrons. The Super-Kamiokande is an observatory built for the detection of these particles. They were first proposed by Wolfgang Pauli to preserve conservations of energy and momentum in beta decay. Although the Standard Model assumes that they are massless, their": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.0003092447
+      ],
+      [
+        "utr",
+        -4.3202e-07
+      ],
+      [
+        "ino",
+        -0.00022320532
+      ]
+    ]
+  },
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them into protons, producing neutrons and positrons. The Super-Kamiokande is an observatory built for the": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.0045121238
+      ],
+      [
+        "utr",
+        -7.3742274e-05
+      ],
+      [
+        "ino",
+        -0.00031448968
+      ]
+    ]
+  },
+  "Clyde Cowan et. al. won the 1995 Nobel Prize for their discovery of these particles by shooting them into protons, producing neutrons and positrons. The Super-Kamiokande is an observatory built for the detection of these particles. They were first proposed by Wolfgang Pauli to preserve conservations of energy and momentum in beta decay. Although the Standard Model assumes that they are massless, their namesake oscillation between their flavors requires them to have mass. Coming in the electron, muon,": {
+    "guess": "Neutrino oscillation",
+    "confidence": [
+      [
+        "Ne",
+        -0.0010816369
+      ],
+      [
+        "utr",
+        -2.3392786e-06
+      ],
+      [
+        "ino",
+        -0.00031997304
+      ],
+      [
+        " oscill",
+        -0.27461082
+      ],
+      [
+        "ation",
+        -0.010879917
+      ]
+    ]
+  }
+}

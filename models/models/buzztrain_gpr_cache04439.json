@@ -1,0 +1,182 @@
+{
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter future workers thinking of doing the same. According to Herodian, Elagabalus was eventually brought to this location after his assassination. Pliny the Elder emphasized how this structure remained intact": {
+    "guess": "Colosseum",
+    "confidence": [
+      [
+        "Col",
+        -0.5372265
+      ],
+      [
+        "os",
+        -0.00048703788
+      ],
+      [
+        "se",
+        -4.3202e-07
+      ],
+      [
+        "um",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter": {
+    "guess": "Mount Etna",
+    "confidence": [
+      [
+        "Mount",
+        -1.4599938
+      ],
+      [
+        " E",
+        -0.8820275
+      ],
+      [
+        "tn",
+        -0.03595733
+      ],
+      [
+        "a",
+        -9.610702e-06
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter future workers thinking of doing the same. According to Herodian, Elagabalus was eventually brought": {
+    "guess": "The Colosseum",
+    "confidence": [
+      [
+        "The",
+        -0.8314672
+      ],
+      [
+        " Col",
+        -0.22256376
+      ],
+      [
+        "os",
+        -0.0062136473
+      ],
+      [
+        "se",
+        -1.3186812e-05
+      ],
+      [
+        "um",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter future workers thinking of doing the same. According to Herodian, Elagabalus was eventually brought to this location after his assassination. Pliny the Elder emphasized how this structure remained intact for seven hundred years since the time of Tarquinius Priscus. As aedile, Marcus Agrippa worked to (*) enlarge this structure and is said to have personally sailed through it. This structure helped to reduce the prevalence of malaria in ancient Rome by draining the wetlands at the future site of the Roman Forum and redirecting the water to the Tiber. For 10 points, name this \"Great Sewer\" of Rome.": {
+    "guess": "Cloaca Maxima",
+    "confidence": [
+      [
+        "Clo",
+        -0.0022438697
+      ],
+      [
+        "aca",
+        -9.729906e-06
+      ],
+      [
+        " Max",
+        -1.7597347e-05
+      ],
+      [
+        "ima",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction": {
+    "guess": "Saint Sebastian (Rio de Janeiro)",
+    "confidence": [
+      [
+        "Saint",
+        -0.8153729
+      ],
+      [
+        " Sebastian",
+        -0.21325772
+      ],
+      [
+        " (",
+        -0.5554453
+      ],
+      [
+        "Rio",
+        -1.6977981
+      ],
+      [
+        " de",
+        -0.002335451
+      ],
+      [
+        " Janeiro",
+        -0.00030781425
+      ],
+      [
+        ")",
+        -0.002658297
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter future workers thinking of doing the same. According to Herodian, Elagabalus was eventually brought to this location after his assassination. Pliny the Elder emphasized how this structure remained intact for seven hundred years since the time of Tarquinius Priscus. As aedile, Marcus Agrippa worked to": {
+    "guess": "Pantheon",
+    "confidence": [
+      [
+        "Pan",
+        -0.06258542
+      ],
+      [
+        "theon",
+        -2.9160103e-05
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter future workers thinking of doing the same. According to Herodian, Elagabalus was eventually brought to this location after his assassination. Pliny the Elder emphasized how this structure remained intact for seven hundred years since the time of Tarquinius Priscus. As aedile, Marcus Agrippa worked to (*) enlarge this structure and is said to have personally sailed through it. This structure helped": {
+    "guess": "Sewer of Rome",
+    "confidence": [
+      [
+        "S",
+        -0.5048273
+      ],
+      [
+        "ew",
+        -0.38202184
+      ],
+      [
+        "er",
+        -0.03197436
+      ],
+      [
+        " of",
+        -0.2793075
+      ],
+      [
+        " Rome",
+        -0.018712752
+      ]
+    ]
+  },
+  "Lodovico Carracci painted Saint Sebastian's body being thrown into this location. During the construction of this location, so many laborers committed suicide that their bodies were crucified to deter future workers thinking of doing the same. According to Herodian, Elagabalus was eventually brought to this location after his assassination. Pliny the Elder emphasized how this structure remained intact for seven hundred years since the time of Tarquinius Priscus. As aedile, Marcus Agrippa worked to (*) enlarge this structure and is said to have personally sailed through it. This structure helped to reduce the prevalence of malaria in ancient Rome by draining the wetlands at the future site of": {
+    "guess": "Cloaca Maxima",
+    "confidence": [
+      [
+        "Clo",
+        -0.016359854
+      ],
+      [
+        "aca",
+        -9.968313e-06
+      ],
+      [
+        " Max",
+        -2.355753e-05
+      ],
+      [
+        "ima",
+        -9.0883464e-07
+      ]
+    ]
+  }
+}

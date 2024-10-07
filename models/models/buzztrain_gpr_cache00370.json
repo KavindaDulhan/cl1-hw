@@ -1,0 +1,147 @@
+{
+  "An aza modification of this reaction can create tetrahydropyridine from imines. Stereospecific in both reactants, this reaction is favored by withdrawing groups on the electrophile, which was ethylene in the original version. Often using an alkene of alkyne as its dienophile, this reaction is a form": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "Di",
+        -0.01571688
+      ],
+      [
+        "els",
+        -5.3193703e-06
+      ],
+      [
+        "\u2013",
+        -0.019739008
+      ],
+      [
+        "A",
+        -3.4121115e-06
+      ],
+      [
+        "lder",
+        -3.9530823e-05
+      ],
+      [
+        " reaction",
+        -0.00048215056
+      ]
+    ]
+  },
+  "An aza modification of this reaction can create tetrahydropyridine from imines. Stereospecific in both reactants, this reaction is favored by withdrawing groups on the electrophile, which was ethylene in the original version. Often using an alkene of alkyne as its dienophile, this reaction is a form of four-plus-two cycloaddition. For ten points, name this organic reaction that reacts a conjugated diene and dienophile, may be used to create cycloalkane rings, and is named for two German chemists.": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "Di",
+        -0.050368387
+      ],
+      [
+        "els",
+        -1.0280384e-06
+      ],
+      [
+        "\u2013",
+        -0.14943324
+      ],
+      [
+        "A",
+        0.0
+      ],
+      [
+        "lder",
+        -3.2929079e-06
+      ],
+      [
+        " reaction",
+        -0.00019936825
+      ]
+    ]
+  },
+  "An aza modification of this reaction can create tetrahydropyridine from imines. Stereospecific in both reactants, this reaction is favored by withdrawing groups on the electrophile, which was ethylene in the original version. Often using an alkene of alkyne as its dienophile, this reaction is a form of four-plus-two cycloaddition. For ten points, name this organic reaction that reacts a conjugated": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "Di",
+        -0.012612552
+      ],
+      [
+        "els",
+        -3.4121115e-06
+      ],
+      [
+        "\u2013",
+        -0.04543176
+      ],
+      [
+        "A",
+        -2.3392786e-06
+      ],
+      [
+        "lder",
+        -1.247159e-05
+      ],
+      [
+        " reaction",
+        -0.0003119864
+      ]
+    ]
+  },
+  "An aza modification of this reaction can create tetrahydropyridine from imines. Stereospecific in both reactants, this reaction is favored by withdrawing groups on the electrophile, which was ethylene": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "Di",
+        -0.005425966
+      ],
+      [
+        "els",
+        -1.3902034e-05
+      ],
+      [
+        "\u2013",
+        -0.13523187
+      ],
+      [
+        "A",
+        -1.7432603e-06
+      ],
+      [
+        "lder",
+        -3.261701e-05
+      ],
+      [
+        " reaction",
+        -0.0005966393
+      ]
+    ]
+  },
+  "An aza modification of this reaction can create tetrahydropyridine from imines. Stereospecific in both": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "Di",
+        -0.0040590484
+      ],
+      [
+        "els",
+        -4.723352e-06
+      ],
+      [
+        "\u2013",
+        -0.06106364
+      ],
+      [
+        "A",
+        -1.3856493e-06
+      ],
+      [
+        "lder",
+        -5.5265704e-05
+      ],
+      [
+        " reaction",
+        -0.0003495282
+      ]
+    ]
+  }
+}

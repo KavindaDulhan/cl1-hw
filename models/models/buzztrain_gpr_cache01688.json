@@ -1,0 +1,112 @@
+{
+  "He ekes out a living by carrying fuel every day from the jungle to the Bazar on his three asses. To weigh the Ashrafis he finds one day, he borrows scales from his brother Kasim. His nemesis comes to his house and asks for unsalted meat, intending to kill him, but the clever slave girl Morgiana saves him. Morgiana had earlier saved him by pouring boiling water in thirty-seven jars. Becoming rich after learning the magic words \"Open Sesame,\" FTP name this title character paired with forty thieves": {
+    "guess": "Ali Baba",
+    "confidence": [
+      [
+        "Ali",
+        -0.25000218
+      ],
+      [
+        " Baba",
+        -0.0002454854
+      ]
+    ]
+  },
+  "He ekes out a living by carrying fuel every day from the jungle to the Bazar on his three asses. To weigh the Ashrafis he finds one day, he borrows scales from his brother Kasim. His nemesis comes to his house and asks for unsalted meat, intending to kill him, but the clever slave girl Morgiana saves him. Morgiana had earlier saved him by pouring boiling water in thirty-seven jars. Becoming rich after learning the magic words \"Open Sesame,\" FTP name this title character paired with forty thieves in the Arabian Nights.": {
+    "guess": "Ali Baba",
+    "confidence": [
+      [
+        "Ali",
+        -0.00880743
+      ],
+      [
+        " Baba",
+        -0.00028386168
+      ]
+    ]
+  },
+  "He ekes out a living by carrying fuel every day from the jungle to the Bazar on his three asses. To weigh": {
+    "guess": "The Jungle",
+    "confidence": [
+      [
+        "The",
+        -1.611866
+      ],
+      [
+        " Jungle",
+        -0.14914052
+      ]
+    ]
+  },
+  "He ekes out a living by carrying fuel every day from the jungle to the Bazar on his three asses. To weigh the Ashrafis he finds one day, he borrows scales from his brother Kasim. His nemesis comes to his house and asks for unsalted meat, intending to kill him, but the clever slave girl Morgiana saves": {
+    "guess": "One Thousand and One Nights",
+    "confidence": [
+      [
+        "One",
+        -0.114423715
+      ],
+      [
+        " Thousand",
+        -0.00057924655
+      ],
+      [
+        " and",
+        -0.00039528406
+      ],
+      [
+        " One",
+        -4.2630116e-05
+      ],
+      [
+        " Nights",
+        -0.00018518302
+      ]
+    ]
+  },
+  "He ekes out a living by carrying fuel every day from the jungle to the Bazar on his three asses. To weigh the Ashrafis he finds one day, he borrows scales from his brother Kasim. His nemesis comes to his": {
+    "guess": "Ali Baba",
+    "confidence": [
+      [
+        "Ali",
+        -0.23300351
+      ],
+      [
+        " Baba",
+        -0.0009836276
+      ]
+    ]
+  },
+  "He ekes out a living by carrying fuel every day from the jungle to the Bazar on his three asses. To weigh the Ashrafis he finds one day, he borrows scales from his brother Kasim. His nemesis comes to his house and asks for unsalted meat, intending to kill him, but the clever slave girl Morgiana saves him. Morgiana had earlier saved him by pouring boiling water in thirty-seven jars. Becoming rich after": {
+    "guess": "Ali Baba and the Forty Thieves",
+    "confidence": [
+      [
+        "Ali",
+        -0.16138397
+      ],
+      [
+        " Baba",
+        -0.00021509947
+      ],
+      [
+        " and",
+        -0.47028157
+      ],
+      [
+        " the",
+        -0.0010064928
+      ],
+      [
+        " Forty",
+        -0.0004340069
+      ],
+      [
+        " Th",
+        -4.6206227e-05
+      ],
+      [
+        "ieves",
+        -7.703444e-06
+      ]
+    ]
+  }
+}

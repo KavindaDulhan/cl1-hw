@@ -1,0 +1,169 @@
+{
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity but never takes a value lower than one.  It describes the shape of a hanging cable-the caternary-and it repeats itself every 2-pi-i radians in complex space.  FTP, name this hyperbolic function,": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.5562597
+      ],
+      [
+        "aten",
+        -0.08949923
+      ],
+      [
+        "ary",
+        -0.012536373
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure": {
+    "guess": "STACK",
+    "confidence": [
+      [
+        "STACK",
+        -0.015162251
+      ]
+    ]
+  },
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity": {
+    "guess": "Hyperbolic cosine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.79510134
+      ],
+      [
+        "b",
+        -0.0009543365
+      ],
+      [
+        "olic",
+        -0.0022894256
+      ],
+      [
+        " cosine",
+        -0.8480346
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this": {
+    "guess": "STACK",
+    "confidence": [
+      [
+        "STACK",
+        -0.02331035
+      ]
+    ]
+  },
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity but never takes a value lower than one.  It describes the shape of a hanging cable-the caternary-and": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.10172047
+      ],
+      [
+        "aten",
+        -0.053754784
+      ],
+      [
+        "ary",
+        -0.0020460554
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but is built up and broken down using the operations push and pop. For 10 points, name this data structure that implements first-in last-out ordering, as contrasted with a queue.": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.050003193
+      ],
+      [
+        " (",
+        -0.33526945
+      ],
+      [
+        "abstract",
+        -0.011865949
+      ],
+      [
+        " data",
+        -4.179569e-05
+      ],
+      [
+        " type",
+        -0.0002105734
+      ],
+      [
+        ")",
+        -2.0935051e-05
+      ]
+    ]
+  },
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity but never takes a value lower than one.  It describes the shape of a hanging cable-the caternary-and it repeats itself every 2-pi-i radians in complex space.  FTP, name this hyperbolic function, defined as one-half times (e to the x) plus (e to the minus x).": {
+    "guess": "Hyperbolic cosine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.25681263
+      ],
+      [
+        "b",
+        -5.2001665e-06
+      ],
+      [
+        "olic",
+        -3.1737043e-06
+      ],
+      [
+        " cosine",
+        -0.042932507
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations": {
+    "guess": "Stack pointer",
+    "confidence": [
+      [
+        "Stack",
+        -0.056019433
+      ],
+      [
+        " pointer",
+        -0.9033783
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables": {
+    "guess": "Stack pointer",
+    "confidence": [
+      [
+        "Stack",
+        -0.4574725
+      ],
+      [
+        " pointer",
+        -0.27092382
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.4263595
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but is built up and broken down using the operations push and pop. For 10 points, name this data structure": {
+    "guess": "STACK",
+    "confidence": [
+      [
+        "STACK",
+        -0.617082
+      ]
+    ]
+  }
+}

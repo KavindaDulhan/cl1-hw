@@ -1,0 +1,197 @@
+{
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent bond between the phosphorus and the hydroxyl oxygen of the serine residue of the active site, barring this molecule's entry. Its receptor has a 43K cytoplasmic protein and 5 subunits of 4 transmembrane": {
+    "guess": "Acetylcholinesterase",
+    "confidence": [
+      [
+        "Ac",
+        -0.32720292
+      ],
+      [
+        "etyl",
+        -0.0006070063
+      ],
+      [
+        "ch",
+        -0.0007026608
+      ],
+      [
+        "olin",
+        -0.15497872
+      ],
+      [
+        "ester",
+        -0.00090407656
+      ],
+      [
+        "ase",
+        -0.00021807956
+      ]
+    ]
+  },
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent bond between the phosphorus and the hydroxyl oxygen of the serine residue of the active site, barring": {
+    "guess": "Acetylcholinesterase",
+    "confidence": [
+      [
+        "Ac",
+        -0.07779348
+      ],
+      [
+        "etyl",
+        -0.0006115251
+      ],
+      [
+        "ch",
+        -0.0007940204
+      ],
+      [
+        "olin",
+        -0.013440672
+      ],
+      [
+        "ester",
+        -0.00034762095
+      ],
+      [
+        "ase",
+        -0.0001503829
+      ]
+    ]
+  },
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent bond between the phosphorus and the hydroxyl oxygen of the serine residue of the active site, barring this molecule's entry. Its receptor has a 43K cytoplasmic protein and 5 subunits of 4 transmembrane segments, each with claw-like extracellular amino termini. The vasoline gap voltage clamp showed that it gates channels permeable to cesium, sodium, and less so to calcium. Antagonized by alpha-bungarotoxin, it is bound to nicotinic and muscarinic receptors.  FTP name this neurotransmitter of the neuromuscular junction synthesized from acetyl co-A.": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.0047018724
+      ],
+      [
+        "etyl",
+        -0.00017207429
+      ],
+      [
+        "ch",
+        -1.7239736e-05
+      ],
+      [
+        "oline",
+        -4.727906e-05
+      ]
+    ]
+  },
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent": {
+    "guess": "Acetylcholinesterase",
+    "confidence": [
+      [
+        "Ac",
+        -0.020165306
+      ],
+      [
+        "etyl",
+        -0.0003709702
+      ],
+      [
+        "ch",
+        -0.00049083773
+      ],
+      [
+        "olin",
+        -0.011920368
+      ],
+      [
+        "ester",
+        -0.00054862583
+      ],
+      [
+        "ase",
+        -0.00021188465
+      ]
+    ]
+  },
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent bond between the phosphorus and the hydroxyl oxygen of the serine residue of the active site, barring this molecule's entry. Its receptor has a 43K cytoplasmic protein and 5 subunits of 4 transmembrane segments, each with claw-like extracellular amino termini. The vasoline gap voltage clamp showed that it gates channels permeable to cesium, sodium, and less so to calcium. Antagonized by alpha-bungarotoxin, it is bound to nicotinic and muscarinic receptors.  FTP name this neurotransmitter of the": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.0031376742
+      ],
+      [
+        "etyl",
+        -0.00033725024
+      ],
+      [
+        "ch",
+        -2.677603e-05
+      ],
+      [
+        "oline",
+        -7.755679e-05
+      ]
+    ]
+  },
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent bond between the phosphorus and the hydroxyl oxygen of the serine residue of the active site, barring this molecule's entry. Its receptor has a 43K cytoplasmic protein and 5 subunits of 4 transmembrane segments, each with claw-like extracellular amino termini. The vasoline gap voltage clamp showed that it gates channels permeable to cesium, sodium, and less so to calcium. Antagonized by alpha-bungarotoxin,": {
+    "guess": "Nicotinic acetylcholine receptor",
+    "confidence": [
+      [
+        "Nic",
+        -0.16846204
+      ],
+      [
+        "ot",
+        -0.0008527512
+      ],
+      [
+        "inic",
+        -0.001029831
+      ],
+      [
+        " ac",
+        -0.18295595
+      ],
+      [
+        "etyl",
+        -0.002211039
+      ],
+      [
+        "ch",
+        -0.00043984794
+      ],
+      [
+        "oline",
+        -0.00010294717
+      ],
+      [
+        " receptor",
+        -0.013675518
+      ]
+    ]
+  },
+  "Diisopropyl phosphofluoridate binds to the enzyme that breaks down this molecule by forming a covalent bond between the phosphorus and the hydroxyl oxygen of the serine residue of the active site, barring this molecule's entry. Its receptor has a 43K cytoplasmic protein and 5 subunits of 4 transmembrane segments, each with claw-like extracellular amino termini. The vasoline gap voltage clamp showed": {
+    "guess": "Acetylcholinesterase",
+    "confidence": [
+      [
+        "Ac",
+        -1.1376035
+      ],
+      [
+        "etyl",
+        -0.0004738063
+      ],
+      [
+        "ch",
+        -0.00053063344
+      ],
+      [
+        "olin",
+        -0.37249425
+      ],
+      [
+        "ester",
+        -0.0010319767
+      ],
+      [
+        "ase",
+        -0.0002728986
+      ]
+    ]
+  }
+}

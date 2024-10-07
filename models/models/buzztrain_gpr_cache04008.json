@@ -1,0 +1,145 @@
+{
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country. Another author from this country created a work in which Captain von Toch discovers its titular intelligent reptiles, as well as one which popularized a word invented by that author's brother Josef which ends with Primus and Helena developing feelings. Teresa, Sabina, and Franz interact with the Communist-criticizing surgeon Tomas in another work from this country. War With the Newts, R.U.R., and The Unbearable Lightness of Being are all works from, for 10 points, which country, home to Karel Capek [CHA-pek], Milan Kundera, and former president Vaclav Havel?": {
+    "guess": "Czech Republic",
+    "confidence": [
+      [
+        "C",
+        -0.00250634
+      ],
+      [
+        "zech",
+        -1.6240566e-06
+      ],
+      [
+        " Republic",
+        -0.044559166
+      ]
+    ]
+  },
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country. Another author from this country created a work in which Captain von Toch discovers its titular intelligent reptiles, as well as one which popularized a word invented by that author's brother Josef which ends with Primus and Helena developing feelings. Teresa, Sabina, and Franz interact with": {
+    "guess": "Karel \u010capek",
+    "confidence": [
+      [
+        "K",
+        -1.4293232
+      ],
+      [
+        "arel",
+        -0.00064512214
+      ],
+      [
+        " \\xc4",
+        -0.027918112
+      ],
+      [
+        "\\x8c",
+        -2.057744e-05
+      ],
+      [
+        "ape",
+        -5.5122365e-07
+      ],
+      [
+        "k",
+        -5.4312077e-05
+      ]
+    ]
+  },
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country. Another author from this country created a work in which Captain von Toch discovers its titular": {
+    "guess": "Czech Republic",
+    "confidence": [
+      [
+        "C",
+        -0.04178038
+      ],
+      [
+        "zech",
+        -1.7835755e-05
+      ],
+      [
+        " Republic",
+        -0.056146234
+      ]
+    ]
+  },
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country.": {
+    "guess": "Czech Republic",
+    "confidence": [
+      [
+        "C",
+        -0.026462734
+      ],
+      [
+        "zech",
+        -1.342522e-05
+      ],
+      [
+        " Republic",
+        -0.0046144226
+      ]
+    ]
+  },
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country. Another author from this country created a work in which Captain von Toch discovers its titular intelligent reptiles, as well as one which popularized a word invented by that author's brother": {
+    "guess": "Karel \u010capek",
+    "confidence": [
+      [
+        "K",
+        -0.061892495
+      ],
+      [
+        "arel",
+        -0.0007275634
+      ],
+      [
+        " \\xc4",
+        -0.03552782
+      ],
+      [
+        "\\x8c",
+        -3.106736e-05
+      ],
+      [
+        "ape",
+        -6.704273e-07
+      ],
+      [
+        "k",
+        -3.8457987e-05
+      ]
+    ]
+  },
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country. Another author from this country created a work in which Captain von Toch discovers its titular intelligent reptiles, as well as one which popularized a word invented by that author's brother Josef which ends with Primus and Helena developing feelings. Teresa, Sabina, and Franz interact with the Communist-criticizing surgeon Tomas in another work from this country. War With the Newts, R.U.R.,": {
+    "guess": "Czech literature",
+    "confidence": [
+      [
+        "C",
+        -0.2363396
+      ],
+      [
+        "zech",
+        -3.650519e-06
+      ],
+      [
+        " literature",
+        -0.46162406
+      ]
+    ]
+  },
+  "Klapzuba's Eleven, about an invincible soccer team, was written by Eduard Bass, an author from this country. Another author from this country created a work in which Captain von Toch discovers its titular intelligent reptiles, as well as one which popularized a word invented by that author's brother Josef which ends with Primus and Helena developing feelings. Teresa, Sabina, and Franz interact with the Communist-criticizing surgeon Tomas in another work from this country. War With the Newts, R.U.R., and The Unbearable Lightness of Being are all works from, for 10 points, which country, home to": {
+    "guess": "Czech Republic",
+    "confidence": [
+      [
+        "C",
+        -0.0099534625
+      ],
+      [
+        "zech",
+        -1.9361265e-07
+      ],
+      [
+        " Republic",
+        -0.023653395
+      ]
+    ]
+  }
+}

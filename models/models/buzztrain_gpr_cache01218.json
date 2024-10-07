@@ -1,0 +1,139 @@
+{
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond to an increment and a decrement operation, and the blocked-queue implementation of these constructs keeps track of the next action to be invoked through a first-in-first-out mechanism. Usually": {
+    "guess": "Semaphore (programming)",
+    "confidence": [
+      [
+        "Semaphore",
+        -0.37677777
+      ],
+      [
+        " (",
+        -0.45150816
+      ],
+      [
+        "programming",
+        -0.0073031215
+      ],
+      [
+        ")",
+        -0.0011854689
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond to an increment and a decrement operation, and the blocked-queue implementation of these constructs keeps track of the next action to be invoked through a first-in-first-out mechanism. Usually used to solve common classes of problems like the producer-consumer problem, incorrect use of these constructs can lead to either starvation or a condition in which no processes are making progress, deadlock. Invented by Edsger Dijkstra as a solution to the \"dining philosophers\" problem, for ten points, identify these programming constructs which control access to shared resources between processes.": {
+    "guess": "Semaphore",
+    "confidence": [
+      [
+        "Semaphore",
+        -0.066918954
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond to an increment and a decrement operation, and the blocked-queue implementation of these constructs keeps track of the next action to be invoked through a first-in-first-out mechanism. Usually used to solve common classes of problems like the producer-consumer problem, incorrect use of these constructs can lead to either starvation or a condition in which no processes are making progress, deadlock. Invented by Edsger Dijkstra as a solution to the \"dining philosophers\" problem, for ten points,": {
+    "guess": "Semaphore (programming)",
+    "confidence": [
+      [
+        "Semaphore",
+        -0.14075008
+      ],
+      [
+        " (",
+        -0.085084856
+      ],
+      [
+        "programming",
+        -0.0028716847
+      ],
+      [
+        ")",
+        -0.00030161935
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond to an increment and a decrement operation, and the blocked-queue implementation of these constructs": {
+    "guess": "Semaphore",
+    "confidence": [
+      [
+        "Semaphore",
+        -0.34738106
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond to an increment and a decrement operation, and the blocked-queue implementation of these constructs keeps track of the next action to be invoked through a first-in-first-out mechanism. Usually used to solve common classes of problems like the producer-consumer problem, incorrect use of these": {
+    "guess": "Semaphore",
+    "confidence": [
+      [
+        "Semaphore",
+        -0.213324
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which": {
+    "guess": "Dekker's algorithm",
+    "confidence": [
+      [
+        "D",
+        -0.49657106
+      ],
+      [
+        "ek",
+        -0.007649103
+      ],
+      [
+        "ker",
+        -0.00046677692
+      ],
+      [
+        "'s",
+        -0.003560393
+      ],
+      [
+        " algorithm",
+        -0.014747818
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond": {
+    "guess": "Semaphores",
+    "confidence": [
+      [
+        "Sem",
+        -0.82365406
+      ],
+      [
+        "aph",
+        -0.005617077
+      ],
+      [
+        "ores",
+        -0.00036609382
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n greater than 2 my Hofri. These constructs usually support two operations denoted V and P, which correspond to an increment and a decrement operation, and the blocked-queue implementation of these constructs keeps track of the next action to be invoked through a first-in-first-out mechanism. Usually used to solve common classes of problems like the producer-consumer problem, incorrect use of these constructs can lead to either starvation or a condition in which no processes are making progress,": {
+    "guess": "Semaphore",
+    "confidence": [
+      [
+        "Semaphore",
+        -0.14775527
+      ]
+    ]
+  },
+  "Dekker's algorithm was the first to successfully apply these constructs, and Peterson's algorithm, which implements a bounded waiting scheme, also makes use of these constructs and was generalized to n": {
+    "guess": "Mutual exclusion",
+    "confidence": [
+      [
+        "Mut",
+        -0.48311824
+      ],
+      [
+        "ual",
+        -1.0325924e-05
+      ],
+      [
+        " exclusion",
+        -0.04153614
+      ]
+    ]
+  }
+}

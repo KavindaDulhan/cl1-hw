@@ -1,0 +1,94 @@
+{
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched": {
+    "guess": "Uranium enrichment",
+    "confidence": [
+      [
+        "U",
+        -0.013357507
+      ],
+      [
+        "ran",
+        -1.4974867e-05
+      ],
+      [
+        "ium",
+        -1.0683535e-05
+      ],
+      [
+        " enrichment",
+        -0.12896353
+      ]
+    ]
+  },
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched using this law.  It can determine the vapor pressure of some materials, as well as find the rate": {
+    "guess": "Uranium Enrichment",
+    "confidence": [
+      [
+        "U",
+        -0.2596315
+      ],
+      [
+        "ran",
+        -0.0008854918
+      ],
+      [
+        "ium",
+        -2.1173457e-05
+      ],
+      [
+        " En",
+        -0.2047766
+      ],
+      [
+        "rich",
+        0.0
+      ],
+      [
+        "ment",
+        -9.913265e-05
+      ]
+    ]
+  },
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched using this law.  It can determine the vapor pressure of some materials, as well as find the rate of evaporation from a surface. What law named for a British scientist states, for ten points, that the": {
+    "guess": "Graham's law",
+    "confidence": [
+      [
+        "G",
+        -0.08171839
+      ],
+      [
+        "raham",
+        -0.00035655755
+      ],
+      [
+        "'s",
+        -0.0001940041
+      ],
+      [
+        " law",
+        -0.06260826
+      ]
+    ]
+  },
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched using this law.  It can determine the vapor pressure of some materials, as well as find the rate of evaporation from a surface. What law named for a British scientist states, for ten points, that the square root of the inverse ratio of the molecular masses of two gases equals their rate of effusion?": {
+    "guess": "Graham's law",
+    "confidence": [
+      [
+        "G",
+        -0.0059218085
+      ],
+      [
+        "raham",
+        -0.0021058868
+      ],
+      [
+        "'s",
+        -8.780831e-05
+      ],
+      [
+        " law",
+        -0.029027013
+      ]
+    ]
+  }
+}

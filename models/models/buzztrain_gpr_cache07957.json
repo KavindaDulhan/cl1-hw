@@ -1,0 +1,84 @@
+{
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place.": {
+    "guess": "Mount Sinai",
+    "confidence": [
+      [
+        "Mount",
+        -0.07357637
+      ],
+      [
+        " Sinai",
+        -0.9745181
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many thought the church was the site of this important place in Christian beliefs. This place is mentioned in all four books of the gospels and is accepted as the place where Jesus was crucified. For ten points,": {
+    "guess": "Calvary",
+    "confidence": [
+      [
+        "Cal",
+        -0.34508964
+      ],
+      [
+        "vary",
+        -0.0010914006
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many": {
+    "guess": "Mount Zion",
+    "confidence": [
+      [
+        "Mount",
+        -0.86910784
+      ],
+      [
+        " Zion",
+        -0.21406442
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought": {
+    "guess": "Mount Calvary",
+    "confidence": [
+      [
+        "Mount",
+        -0.4554677
+      ],
+      [
+        " Cal",
+        -0.21995173
+      ],
+      [
+        "vary",
+        -0.0002513264
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many thought the church was the site of this important place in Christian beliefs. This place is mentioned": {
+    "guess": "Mount Zion",
+    "confidence": [
+      [
+        "Mount",
+        -0.8645951
+      ],
+      [
+        " Zion",
+        -0.5072451
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many thought the church was the site of this important place in Christian beliefs. This place is mentioned in all four books of the gospels and is accepted as the place where Jesus was crucified. For ten points, name this site whose name means the place of the skull.": {
+    "guess": "Calvary",
+    "confidence": [
+      [
+        "Cal",
+        -0.33495474
+      ],
+      [
+        "vary",
+        -0.0018931759
+      ]
+    ]
+  }
+}

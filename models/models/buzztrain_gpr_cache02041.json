@@ -1,0 +1,169 @@
+{
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement.": {
+    "guess": "Clara Middleton",
+    "confidence": [
+      [
+        "Cl",
+        -0.18216917
+      ],
+      [
+        "ara",
+        -0.00026836884
+      ],
+      [
+        " Middleton",
+        -0.0038665852
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.33362424
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement. In the end, the title character allows Crossjay to enter the Marines in order to gain Laetitia Dale's hand in marriage. FTP, identify this novel about the selfish Sir Willoughby Patterne, written by George": {
+    "guess": "The Egoist (novel)",
+    "confidence": [
+      [
+        "The",
+        -0.012863829
+      ],
+      [
+        " E",
+        -0.0015033135
+      ],
+      [
+        "go",
+        -0.00047654795
+      ],
+      [
+        "ist",
+        -5.0020742e-05
+      ],
+      [
+        " (",
+        -0.45406047
+      ],
+      [
+        "nov",
+        -0.029262405
+      ],
+      [
+        "el",
+        -0.00019007038
+      ],
+      [
+        ")",
+        -4.3464544e-05
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement. In the end, the title character allows Crossjay to enter the Marines in order to gain Laetitia Dale's": {
+    "guess": "Diana of the Crossways",
+    "confidence": [
+      [
+        "D",
+        -0.9020179
+      ],
+      [
+        "iana",
+        -0.00076186477
+      ],
+      [
+        " of",
+        -0.015365584
+      ],
+      [
+        " the",
+        -0.0014751063
+      ],
+      [
+        " Cross",
+        -0.0003034074
+      ],
+      [
+        "ways",
+        -0.0003213998
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with": {
+    "guess": "The Mill on the Floss",
+    "confidence": [
+      [
+        "The",
+        -1.4985908
+      ],
+      [
+        " Mill",
+        -0.851323
+      ],
+      [
+        " on",
+        -0.0009115827
+      ],
+      [
+        " the",
+        -0.00063678523
+      ],
+      [
+        " F",
+        -0.00010688089
+      ],
+      [
+        "loss",
+        -5.9914648e-05
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.45255765
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement. In the end, the title character allows Crossjay to enter the Marines in order to gain Laetitia Dale's hand in marriage. FTP, identify this novel about the selfish Sir Willoughby Patterne, written by George Meredith.": {
+    "guess": "The Egoist (periodical)",
+    "confidence": [
+      [
+        "The",
+        -0.0014439264
+      ],
+      [
+        " E",
+        -0.00026419671
+      ],
+      [
+        "go",
+        -3.488188e-05
+      ],
+      [
+        "ist",
+        -1.9385403e-05
+      ],
+      [
+        " (",
+        -0.053536046
+      ],
+      [
+        "period",
+        -0.04547823
+      ],
+      [
+        "ical",
+        -2.0339032e-05
+      ],
+      [
+        ")",
+        -8.776276e-06
+      ]
+    ]
+  }
+}

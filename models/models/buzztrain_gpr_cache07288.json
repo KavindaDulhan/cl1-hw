@@ -1,0 +1,1199 @@
+{
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64 degrees. This theory can be modified by considering the  impact of oscillatory forces or hydration forces in its (*) \"extended\" form. It fails when describing systems with highly  hydrophilic or hydrophobic particles.  The maximum value for a repulsion force considered in this theory is related to the surface  potential and zeta potential of the system this theory models. For 10 points, name this theory that uses electrostatic repulsions and  Van der Waals attractions to explain differential stability": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.010637331
+      ],
+      [
+        "VO",
+        -5.5122365e-07
+      ],
+      [
+        " theory",
+        -0.008491177
+      ]
+    ]
+  },
+  "Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing": {
+    "guess": "Lyapunov exponent",
+    "confidence": [
+      [
+        "Ly",
+        -0.39772615
+      ],
+      [
+        "ap",
+        -9.849109e-06
+      ],
+      [
+        "un",
+        -7.3458323e-06
+      ],
+      [
+        "ov",
+        -3.5597102e-05
+      ],
+      [
+        " exponent",
+        -0.19444086
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows solutions for these systems starting at their inverted positions. Two coupled ones are commonly used to represent chaotic systems. When their displacements are assumed to be small, the sine theta term in the equation is approximated to theta. Another of these was used to demonstrate the rotation of the earth and was named for Foucault. For 10 points, identify these physical systems which can be used to model simple harmonic motions, and which swing back and forth in some clocks.": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "P",
+        -0.037427325
+      ],
+      [
+        "end",
+        -2.1008714e-06
+      ],
+      [
+        "ulum",
+        -0.00058138854
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows solutions for these systems starting at their inverted positions. Two coupled ones are commonly used": {
+    "guess": "R\u00f6ssler attractor",
+    "confidence": [
+      [
+        "R",
+        -0.23869844
+      ],
+      [
+        "\u00f6",
+        -0.38256076
+      ],
+      [
+        "ss",
+        -4.9067115e-05
+      ],
+      [
+        "ler",
+        -4.310693e-05
+      ],
+      [
+        " attract",
+        -0.007893244
+      ],
+      [
+        "or",
+        -0.0022387549
+      ]
+    ]
+  },
+  "For a system with fixed volume, this quantity equals the mean square of the energy fluctuations divided by Boltzmann's constant times the temperature squared. In most crystals at low temperatures it is proportional to the cube of the temperature, a fact that is reproduced by the Debye model. For a diatomic ideal gas, the translational degrees of freedom contribute 3/2 N k, while rotations and vibrations each give N k. Equal to the molecular mass times the specific heat, for ten points, name this": {
+    "guess": "Debye model",
+    "confidence": [
+      [
+        "De",
+        -0.68269664
+      ],
+      [
+        "bye",
+        -3.3451433e-05
+      ],
+      [
+        " model",
+        -0.019909875
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another,": {
+    "guess": "Ergodic theory",
+    "confidence": [
+      [
+        "E",
+        -0.7515716
+      ],
+      [
+        "rg",
+        -0.0012772576
+      ],
+      [
+        "odic",
+        -2.7014437e-05
+      ],
+      [
+        " theory",
+        -0.14321144
+      ]
+    ]
+  },
+  "Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing if it is positive. One model exhibits this property as its parameter passes 3.57; the ratio of its period-doubling intervals approaches the (*) Feigenbaum constant. Systems exhibiting this phenomenon include the nonlinear damping present in the van der Pol oscillator, as well as the double pendulum and the logistic map. This theory was largely inspired by weather simulations performed by Edward Lorenz. For 10 points, name this theory that studies systems that are highly sensitive to initial conditions.": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.0183164
+      ],
+      [
+        "aos",
+        -4.365741e-06
+      ],
+      [
+        " theory",
+        -0.007234959
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains": {
+    "guess": "Lisp",
+    "confidence": [
+      [
+        "L",
+        -0.5161068
+      ],
+      [
+        "isp",
+        -0.21167336
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus. Backward- directed implementations of this system run breadth-first and employ regressions, and the original recursive forward-directed implementation of this system was subject to the Sussman Anomaly, becoming trapped in a loop while trying to stack three blocks in a particular order. Operators in this system consist of a set of preconditions about the state of the world, a delete list,": {
+    "guess": "STRIPS",
+    "confidence": [
+      [
+        "STR",
+        -0.0126371365
+      ],
+      [
+        "IPS",
+        -0.00032354548
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64 degrees. This theory can be modified by considering the  impact of oscillatory forces or hydration forces in its (*) \"extended\" form. It fails when describing systems with highly  hydrophilic or hydrophobic particles.  The maximum value for a repulsion force considered in this theory is related to the": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.04299326
+      ],
+      [
+        "VO",
+        -7.89631e-07
+      ],
+      [
+        " theory",
+        -0.0027519767
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another, due to topological mixing. By the Poincare-Bendixson theorem, this phenomenon is forbidden in systems with fewer than 3 phase-space dimensions, because strange attractors cannot form in those systems. Systems with this property, which requires nonlinear equations of motion, include dynamical billiards, the logistic map, and the double pendulum. Because systems with this property are highly sensitive to initial conditions, they are unpredictable yet deterministic. For 10 points, name this phenomenon": {
+    "guess": "CHAOS",
+    "confidence": [
+      [
+        "CHA",
+        -0.44943288
+      ],
+      [
+        "OS",
+        -0.00032914805
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64 degrees. This theory can be modified by considering the  impact of oscillatory forces or hydration forces in its (*) \"extended\" form. It fails when describing systems with highly  hydrophilic or hydrophobic particles.  The maximum value for a repulsion force considered in this theory is related to the surface  potential and zeta potential of the system this theory models. For 10 points, name this theory that uses electrostatic repulsions and  Van der Waals attractions to explain differential stability of colloids and is named for its four developers.": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.0071967244
+      ],
+      [
+        "VO",
+        -1.9361265e-07
+      ],
+      [
+        " theory",
+        -0.002916023
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory,": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.017429268
+      ],
+      [
+        "VO",
+        -5.5122365e-07
+      ],
+      [
+        " theory",
+        -0.0045565115
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution in a hydroxyapatite column. They never contain tryptophan and are usually rich in lysine and arginine. A type found in Euryarchaea may be the evolutionary precursor to those found in eukaryotes. Four of their classes form an octameric nucleosome, while the linker or H1 type regulates the formation": {
+    "guess": "Chromatin",
+    "confidence": [
+      [
+        "Ch",
+        -0.6606534
+      ],
+      [
+        "rom",
+        -0.0035140722
+      ],
+      [
+        "atin",
+        -0.008469311
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria.": {
+    "guess": "Rott's Equations",
+    "confidence": [
+      [
+        "R",
+        -1.6602341
+      ],
+      [
+        "ott",
+        -0.22083256
+      ],
+      [
+        "'s",
+        -1.2700766
+      ],
+      [
+        " Equ",
+        -0.8599091
+      ],
+      [
+        "ations",
+        -0.0055186846
+      ]
+    ]
+  },
+  "For a system with fixed volume, this quantity equals the mean square of the energy fluctuations divided by Boltzmann's constant times the temperature squared. In most crystals at low temperatures it is proportional to the cube of the temperature, a fact that is reproduced by the Debye model. For a diatomic ideal gas, the translational degrees of freedom contribute 3/2 N k, while rotations and vibrations each give N k. Equal to the molecular mass times the specific heat, for ten points, name this quantity defined as the partial derivative of energy with respect to temperature at fixed volume.": {
+    "guess": "Heat capacity",
+    "confidence": [
+      [
+        "Heat",
+        -0.14062612
+      ],
+      [
+        " capacity",
+        -0.007338503
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows solutions for these systems starting at their inverted positions. Two coupled ones are commonly used to represent chaotic systems. When their displacements are assumed to be small, the sine theta term in the equation is approximated to theta. Another of these was used to demonstrate the rotation of": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "P",
+        -0.15171911
+      ],
+      [
+        "end",
+        -4.465658e-05
+      ],
+      [
+        "ulum",
+        -0.0015600931
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.6485667
+      ],
+      [
+        "ose",
+        -0.7489507
+      ],
+      [
+        "\u2013",
+        -0.23319632
+      ],
+      [
+        "E",
+        -0.00014513794
+      ],
+      [
+        "instein",
+        -4.246537e-06
+      ],
+      [
+        " cond",
+        -0.026729498
+      ],
+      [
+        "ens",
+        -0.02731615
+      ],
+      [
+        "ate",
+        -0.0013404815
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus. Backward- directed implementations of this system run breadth-first and employ regressions, and the original recursive forward-directed implementation of this system was subject to the Sussman Anomaly, becoming trapped in a loop while trying to stack three blocks in a particular order. Operators": {
+    "guess": "STRIPS",
+    "confidence": [
+      [
+        "STR",
+        -0.45603043
+      ],
+      [
+        "IPS",
+        -0.00020842774
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this state, according to Earnshaw's theorem. Examples include rigid-body rotation about the principal axes": {
+    "guess": "Rigid Body Rotation",
+    "confidence": [
+      [
+        "R",
+        -1.062791
+      ],
+      [
+        "igid",
+        -0.0019170954
+      ],
+      [
+        " Body",
+        -0.23469138
+      ],
+      [
+        " Rotation",
+        -0.33845726
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed that if it obeys an equation more general than Schr?dinger's, as suggested by Hawking, locality or energy conservation would be violated. The von Neumann entropy is minus the trace of this matrix times": {
+    "guess": "Density matrix",
+    "confidence": [
+      [
+        "Density",
+        -0.7049608
+      ],
+      [
+        " matrix",
+        -0.52597135
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this state, according to Earnshaw's theorem. Examples include rigid-body rotation about the principal axes with the smallest and largest associated moments of inertia, but not the principal axis with the in-between value.  When the primary mass is much larger than the secondary mass, the last two Lagrange points, but not the first three, are examples. Configurations in a local minimum of the system's potential energy function are, FTP, what type of configuration where any small perturbation results": {
+    "guess": "Stable equilibrium",
+    "confidence": [
+      [
+        "St",
+        -0.9346857
+      ],
+      [
+        "able",
+        -0.23447472
+      ],
+      [
+        " equilibrium",
+        -0.745919
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64 degrees. This theory can be modified by considering the  impact of oscillatory forces or hydration forces in its (*) \"extended\" form. It fails when describing systems with highly  hydrophilic or hydrophobic particles.  The maximum value for a repulsion force considered in this theory is related to the surface  potential and zeta potential of the system this theory models. For 10 points, name this": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.00798762
+      ],
+      [
+        "VO",
+        -4.3202e-07
+      ],
+      [
+        " theory",
+        -0.0026936017
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows solutions for these systems starting at their inverted positions. Two coupled ones are commonly used to represent chaotic systems. When their displacements are assumed to be small, the sine theta term": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "P",
+        -0.8857381
+      ],
+      [
+        "end",
+        -0.0018245274
+      ],
+      [
+        "ulum",
+        -0.002141932
+      ]
+    ]
+  },
+  "For a system with fixed volume, this quantity equals the mean square of the energy fluctuations divided by Boltzmann's constant times the temperature squared. In most crystals at low temperatures it is proportional to the cube of the temperature, a fact that is reproduced by the Debye model. For a diatomic": {
+    "guess": "Heat capacity",
+    "confidence": [
+      [
+        "Heat",
+        -0.2162017
+      ],
+      [
+        " capacity",
+        -0.012329048
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution": {
+    "guess": "Histones",
+    "confidence": [
+      [
+        "Hist",
+        -0.10509479
+      ],
+      [
+        "ones",
+        -0.32205084
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus. Backward- directed implementations of this system run breadth-first and employ regressions,": {
+    "guess": "STRIPS",
+    "confidence": [
+      [
+        "STR",
+        -0.87788785
+      ],
+      [
+        "IPS",
+        -0.00018577903
+      ]
+    ]
+  },
+  "This system interacts with the Worthington and North Recirculating Gyres. An example of a western boundary current, it is responsible for the western isolation of the Sargasso Sea. Its namesake rings can be either warm- or cold-core, depending on the direction of the eddy. For 10 points, name this ocean": {
+    "guess": "North Atlantic Ocean",
+    "confidence": [
+      [
+        "North",
+        -0.570688
+      ],
+      [
+        " Atlantic",
+        -0.0009751862
+      ],
+      [
+        " Ocean",
+        -0.053675365
+      ]
+    ]
+  },
+  "This system interacts with the Worthington and North Recirculating Gyres. An example of a western boundary current, it is responsible for the western isolation of the Sargasso Sea. Its namesake rings can be either warm- or cold-core, depending on the direction of the eddy. For 10 points, name this ocean current that starts in the Gulf of Mexico, proceeds past Cape Hatteras and warms western Europe.": {
+    "guess": "North Atlantic Current",
+    "confidence": [
+      [
+        "North",
+        -0.054630388
+      ],
+      [
+        " Atlantic",
+        -3.5120287e-05
+      ],
+      [
+        " Current",
+        -0.06917961
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed that if it obeys an equation more general than Schr?dinger's, as suggested by Hawking, locality or energy conservation would be violated. The von Neumann entropy is minus the trace of this matrix times its logarithm. If and only if it is equal to its own square, it represents a pure state and could be alternately represented simply as a wavefunction. For 10 points, what is this mathematical description of general mixed states in quantum mechanics, with a name that evokes its use as a measure of": {
+    "guess": "Density matrix",
+    "confidence": [
+      [
+        "Density",
+        -0.002362802
+      ],
+      [
+        " matrix",
+        -0.030516906
+      ]
+    ]
+  },
+  "Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing if it is positive. One model exhibits this property as its parameter passes 3.57; the ratio of its period-doubling intervals approaches the (*) Feigenbaum constant. Systems exhibiting this phenomenon": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.16985343
+      ],
+      [
+        "aos",
+        -1.9743013e-05
+      ],
+      [
+        " theory",
+        -0.0029893517
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this state, according to Earnshaw's theorem. Examples include rigid-body rotation about the principal axes with the smallest and largest associated moments of inertia, but not the principal axis with the in-between value.  When the primary mass is much larger than the secondary mass, the last two Lagrange points, but not the first three, are examples. Configurations in a local minimum of the system's": {
+    "guess": "Earnshaw's theorem",
+    "confidence": [
+      [
+        "Earn",
+        -0.2565593
+      ],
+      [
+        "shaw",
+        -0.00021533787
+      ],
+      [
+        "'s",
+        -0.003919057
+      ],
+      [
+        " theorem",
+        -0.0068920315
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed that if it obeys an equation more general than Schr?dinger's, as suggested by Hawking, locality or energy conservation would be violated. The von Neumann entropy is minus the trace of this matrix times its logarithm. If and only if it is equal to its own square, it represents a pure state and could be alternately represented simply as a wavefunction. For 10 points, what is this mathematical description of general mixed states in quantum mechanics, with a name that evokes its use as a measure of the amount of \"weight\" of wave function per \"volume\" of configuration space?": {
+    "guess": "Density matrix",
+    "confidence": [
+      [
+        "Density",
+        -0.0067979023
+      ],
+      [
+        " matrix",
+        -0.015180918
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution in a hydroxyapatite column. They never contain tryptophan and are usually rich in lysine and arginine. A type found in Euryarchaea may be the evolutionary precursor to those found in eukaryotes. Four of their classes form an octameric nucleosome, while the linker or H1 type regulates the formation of thirty-nanometer fibers. FTP, name this class of proteins which forms chromatin when DNA coils": {
+    "guess": "Histone",
+    "confidence": [
+      [
+        "Hist",
+        -0.0009771943
+      ],
+      [
+        "one",
+        -0.048374653
+      ]
+    ]
+  },
+  "For a system with fixed volume, this quantity equals the mean square of the energy fluctuations divided": {
+    "guess": "Internal energy",
+    "confidence": [
+      [
+        "Internal",
+        -0.84893733
+      ],
+      [
+        " energy",
+        -0.24249147
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another, due to topological mixing. By the Poincare-Bendixson theorem, this phenomenon is forbidden in systems with fewer than 3 phase-space dimensions, because strange attractors cannot form in those systems.": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.41894057
+      ],
+      [
+        "aos",
+        -0.0002663424
+      ],
+      [
+        " theory",
+        -0.01234529
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus. Backward- directed implementations of this system run breadth-first and employ regressions, and the original recursive forward-directed implementation of this system was subject to the Sussman Anomaly, becoming trapped in a loop while trying to stack three blocks in a particular order. Operators in this system consist of a set of preconditions about the state of the world, a delete list, and an add list. Developed at (*) Stanford by Fikes and Nilsson, for 10 points, identify this AI planning system.": {
+    "guess": "STRIPS",
+    "confidence": [
+      [
+        "STR",
+        -0.0130295195
+      ],
+      [
+        "IPS",
+        -0.0002639583
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus. Backward- directed implementations of this system run breadth-first and employ regressions, and the original recursive forward-directed implementation of this system was subject to the Sussman Anomaly, becoming trapped in a loop while trying to stack three blocks in a particular order. Operators in this system consist of a set of preconditions about the state of the world, a delete list, and an add list. Developed at (*) Stanford by Fikes and Nilsson, for 10 points, identify this AI planning": {
+    "guess": "STRIPS",
+    "confidence": [
+      [
+        "STR",
+        -0.0051867976
+      ],
+      [
+        "IPS",
+        -0.0002600246
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows": {
+    "guess": "R\u00f6ssler attractor",
+    "confidence": [
+      [
+        "R",
+        -0.66920817
+      ],
+      [
+        "\u00f6",
+        -0.194764
+      ],
+      [
+        "ss",
+        -0.00019221604
+      ],
+      [
+        "ler",
+        -7.421909e-05
+      ],
+      [
+        " attract",
+        -0.042391516
+      ],
+      [
+        "or",
+        -0.0017164701
+      ]
+    ]
+  },
+  "This system interacts with the Worthington and North Recirculating Gyres. An example of a western boundary": {
+    "guess": "Agulhas Current",
+    "confidence": [
+      [
+        "Ag",
+        -1.4924319
+      ],
+      [
+        "ul",
+        -1.8624639e-06
+      ],
+      [
+        "has",
+        -5.4385737e-06
+      ],
+      [
+        " Current",
+        -0.031133497
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this state, according to Earnshaw's theorem. Examples include rigid-body rotation about the principal axes with the smallest and largest associated moments of inertia, but not the principal axis with the in-between value.  When the primary mass is much larger than the secondary mass, the last two Lagrange": {
+    "guess": "Earnshaw's theorem",
+    "confidence": [
+      [
+        "Earn",
+        -0.4171969
+      ],
+      [
+        "shaw",
+        -0.00021105022
+      ],
+      [
+        "'s",
+        -0.0035419788
+      ],
+      [
+        " theorem",
+        -0.0131583465
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed that if it obeys an equation more general than Schr?dinger's, as suggested by Hawking, locality or": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.39887077
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another, due to topological mixing. By the Poincare-Bendixson theorem, this phenomenon is forbidden in systems with fewer than 3 phase-space dimensions, because strange attractors cannot form in those systems. Systems with this property, which requires nonlinear equations of motion, include dynamical billiards,": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.011408189
+      ],
+      [
+        "aos",
+        -5.080963e-06
+      ],
+      [
+        " theory",
+        -0.003997546
+      ]
+    ]
+  },
+  "For a system with fixed volume, this quantity equals the mean square of the energy fluctuations divided by Boltzmann's constant times the temperature squared. In most crystals at low temperatures it is": {
+    "guess": "Specific heat capacity",
+    "confidence": [
+      [
+        "Specific",
+        -0.6839675
+      ],
+      [
+        " heat",
+        -0.025016272
+      ],
+      [
+        " capacity",
+        -0.33310637
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this": {
+    "guess": "Stability of a system",
+    "confidence": [
+      [
+        "St",
+        -0.92185175
+      ],
+      [
+        "ability",
+        -0.066283345
+      ],
+      [
+        " of",
+        -0.31401795
+      ],
+      [
+        " a",
+        -1.0020652
+      ],
+      [
+        " system",
+        -0.76163644
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent": {
+    "guess": "Histone proteins",
+    "confidence": [
+      [
+        "Hist",
+        -0.44873777
+      ],
+      [
+        "one",
+        -0.25784963
+      ],
+      [
+        " proteins",
+        -0.2792341
+      ]
+    ]
+  },
+  "This system interacts with the Worthington and North Recirculating Gyres. An example of a western boundary current, it is responsible for the western isolation of the Sargasso Sea. Its namesake rings can": {
+    "guess": "Gulf Stream",
+    "confidence": [
+      [
+        "G",
+        -0.42036363
+      ],
+      [
+        "ulf",
+        -0.0681649
+      ],
+      [
+        " Stream",
+        -0.00081260514
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed that if it obeys an equation more general than Schr?dinger's, as suggested by Hawking, locality or energy conservation would be violated. The von Neumann entropy is minus the trace of this matrix times its logarithm. If and only if it is equal to its own square, it represents a pure state and could be alternately represented simply as a wavefunction. For 10 points, what is this mathematical description": {
+    "guess": "Density Matrix",
+    "confidence": [
+      [
+        "Density",
+        -0.35935032
+      ],
+      [
+        " Matrix",
+        -0.029320182
+      ]
+    ]
+  },
+  "Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing if it is positive. One model exhibits this property as its parameter passes 3.57; the ratio of its period-doubling intervals approaches the (*) Feigenbaum constant. Systems exhibiting this phenomenon include the nonlinear damping present in the van der Pol oscillator, as well as the double pendulum and the logistic map. This theory was largely inspired by weather simulations performed by Edward": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.018528808
+      ],
+      [
+        "aos",
+        -2.4584822e-06
+      ],
+      [
+        " theory",
+        -0.0046829996
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.16354823
+      ],
+      [
+        "ose",
+        -0.037208322
+      ],
+      [
+        "\u2013",
+        -0.58758944
+      ],
+      [
+        "E",
+        -1.2829201e-05
+      ],
+      [
+        "instein",
+        -1.3856493e-06
+      ],
+      [
+        " cond",
+        -0.15856065
+      ],
+      [
+        "ens",
+        -0.014107207
+      ],
+      [
+        "ate",
+        -0.0005974737
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution in a hydroxyapatite column. They never contain tryptophan and are usually rich in lysine and arginine. A type found in Euryarchaea may be the evolutionary precursor to those found in eukaryotes. Four of their classes form an octameric nucleosome, while the linker or H1 type regulates the formation of thirty-nanometer fibers. FTP, name this class of proteins which forms chromatin when DNA coils around them.": {
+    "guess": "Histone",
+    "confidence": [
+      [
+        "Hist",
+        -0.0010507925
+      ],
+      [
+        "one",
+        -0.039599527
+      ]
+    ]
+  },
+  "A system of N interacting bosons can be regarded as a Bose-Einstein condensate if the single particle this has one eigenvalue of order N and all the others of order 1. Banks, Peskin, and Susskind showed that if it obeys an equation more general than Schr?dinger's, as suggested by Hawking, locality or energy conservation would be violated. The von Neumann entropy is minus the trace of this matrix times its logarithm. If and only if it is equal to its own square, it represents a pure state and could": {
+    "guess": "Density Matrix",
+    "confidence": [
+      [
+        "Density",
+        -1.2766643
+      ],
+      [
+        " Matrix",
+        -0.020333754
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this state, according to Earnshaw's theorem. Examples include rigid-body rotation about the principal axes with the smallest and largest associated moments of inertia, but not the principal axis with the": {
+    "guess": "Earnshaw's theorem",
+    "confidence": [
+      [
+        "Earn",
+        -0.49000093
+      ],
+      [
+        "shaw",
+        -0.00018685187
+      ],
+      [
+        "'s",
+        -0.004164826
+      ],
+      [
+        " theorem",
+        -0.034973137
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.1818142
+      ],
+      [
+        "VO",
+        -5.5122365e-07
+      ],
+      [
+        " theory",
+        -0.0032645767
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.0024252408
+      ],
+      [
+        "VO",
+        -2.4584822e-06
+      ],
+      [
+        " theory",
+        -0.0047728186
+      ]
+    ]
+  },
+  "Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing if it is positive. One model exhibits this property as its parameter passes 3.57; the ratio of its period-doubling intervals approaches the (*) Feigenbaum constant. Systems exhibiting this phenomenon include the nonlinear damping present in the van der Pol oscillator, as well as the double pendulum": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.15843388
+      ],
+      [
+        "aos",
+        -1.5928495e-05
+      ],
+      [
+        " theory",
+        -0.009505909
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64 degrees. This theory can be modified by considering the  impact of oscillatory forces or hydration forces in its (*) \"extended\" form. It fails when describing systems with highly  hydrophilic or hydrophobic": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.07425947
+      ],
+      [
+        "VO",
+        -4.365741e-06
+      ],
+      [
+        " theory",
+        -0.008747533
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution in a hydroxyapatite column. They never contain tryptophan and are usually rich in lysine and arginine. A type found in Euryarchaea may be the evolutionary precursor to those found in eukaryotes.": {
+    "guess": "Histones",
+    "confidence": [
+      [
+        "Hist",
+        -0.49139675
+      ],
+      [
+        "ones",
+        -0.6857113
+      ]
+    ]
+  },
+  "A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows solutions for these systems starting at their inverted positions. Two coupled ones are commonly used to represent chaotic systems. When their displacements are assumed to be small, the sine theta term in the equation is approximated to theta. Another of these was used to demonstrate the rotation of the earth and was named for Foucault. For 10 points, identify these physical systems which can be used": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "P",
+        -0.5825513
+      ],
+      [
+        "end",
+        -1.6286107e-05
+      ],
+      [
+        "ulum",
+        -0.032394078
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus.": {
+    "guess": "Stanford Research Institute Problem Solver",
+    "confidence": [
+      [
+        "Stan",
+        -1.3038408
+      ],
+      [
+        "ford",
+        -0.00019948746
+      ],
+      [
+        " Research",
+        -0.23024964
+      ],
+      [
+        " Institute",
+        -0.0020252352
+      ],
+      [
+        " Problem",
+        -0.0003976608
+      ],
+      [
+        " Solver",
+        -0.004927635
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another, due to topological mixing. By the Poincare-Bendixson theorem, this phenomenon is forbidden in systems": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.4559876
+      ],
+      [
+        "aos",
+        -0.00024251631
+      ],
+      [
+        " theory",
+        -0.025237845
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another, due to topological mixing. By the Poincare-Bendixson theorem, this phenomenon is forbidden in systems with fewer than 3 phase-space dimensions, because strange attractors cannot form in those systems. Systems with this property, which requires nonlinear equations of motion, include dynamical billiards, the logistic map, and the double pendulum. Because systems with this property are highly sensitive to initial conditions, they are unpredictable yet deterministic. For 10 points, name this phenomenon in which the butterfly effect might occur.": {
+    "guess": "CHAOS",
+    "confidence": [
+      [
+        "CHA",
+        -0.028380431
+      ],
+      [
+        "OS",
+        -0.00041529932
+      ]
+    ]
+  },
+  "This system and its associated represenatation language were originally designed to serve as the brains of a robot named \"Shakey\", and represents knowledge using formulas of the first-order predicate calculus. Backward- directed implementations of this system run breadth-first and employ regressions, and the original recursive forward-directed implementation of this system was subject to the Sussman": {
+    "guess": "DENDRAL",
+    "confidence": [
+      [
+        "D",
+        -1.2982019
+      ],
+      [
+        "END",
+        -0.61124074
+      ],
+      [
+        "RAL",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "In a system under the influence of inverse square-law forces, no static configuration can achieve this state, according to Earnshaw's theorem. Examples include rigid-body rotation about the principal axes with the smallest and largest associated moments of inertia, but not the principal axis with the in-between value.  When the primary mass is much larger than the secondary mass, the last two Lagrange points, but not the first three, are examples. Configurations in a local minimum of the system's potential energy function are, FTP, what type of configuration where any small perturbation results in a restoring force returning the system to the unperturbed configuration?": {
+    "guess": "Stable equilibrium",
+    "confidence": [
+      [
+        "St",
+        -0.34083298
+      ],
+      [
+        "able",
+        -0.4561337
+      ],
+      [
+        " equilibrium",
+        -0.043130957
+      ]
+    ]
+  },
+  "For a system with fixed volume, this quantity equals the mean square of the energy fluctuations divided by Boltzmann's constant times the temperature squared. In most crystals at low temperatures it is proportional to the cube of the temperature, a fact that is reproduced by the Debye model. For a diatomic ideal gas, the translational degrees of freedom contribute 3/2 N k, while rotations and vibrations": {
+    "guess": "Heat capacity",
+    "confidence": [
+      [
+        "Heat",
+        -0.5056536
+      ],
+      [
+        " capacity",
+        -0.00998497
+      ]
+    ]
+  },
+  "In systems with this behavior, all open sets of phase space will eventually overlap with one another, due to topological mixing. By the Poincare-Bendixson theorem, this phenomenon is forbidden in systems with fewer than 3 phase-space dimensions, because strange attractors cannot form in those systems. Systems with this property, which requires nonlinear equations of motion, include dynamical billiards, the logistic map, and the double pendulum. Because systems with this property are highly sensitive": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Ch",
+        -0.0029925592
+      ],
+      [
+        "aos",
+        -1.3856493e-06
+      ],
+      [
+        " theory",
+        -0.00790542
+      ]
+    ]
+  },
+  "Under this system, the C.C.C occurs when the tangent of the primary maximum of the potential energy diagram is zero.  The predictions of Schulze-Hardy rules are very similar to those made by this theory, which is only applicable to systems  in which the advancing contact angles lie between 15 and 64 degrees. This theory can be modified by considering the  impact of oscillatory forces or hydration forces": {
+    "guess": "DLVO theory",
+    "confidence": [
+      [
+        "DL",
+        -0.070426516
+      ],
+      [
+        "VO",
+        -2.220075e-06
+      ],
+      [
+        " theory",
+        -0.0043509603
+      ]
+    ]
+  },
+  "Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing if it is positive. One model exhibits this property as its parameter passes 3.57; the ratio of its": {
+    "guess": "CHAOS",
+    "confidence": [
+      [
+        "CHA",
+        -0.13213956
+      ],
+      [
+        "OS",
+        -0.043693807
+      ]
+    ]
+  },
+  "One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution in a hydroxyapatite column. They never contain tryptophan and are usually rich in lysine and": {
+    "guess": "Histones",
+    "confidence": [
+      [
+        "Hist",
+        -0.7933224
+      ],
+      [
+        "ones",
+        -0.16178052
+      ]
+    ]
+  }
+}

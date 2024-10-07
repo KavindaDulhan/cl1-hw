@@ -1,0 +1,97 @@
+{
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances.": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.10542215
+      ],
+      [
+        "zing",
+        -0.0015259294
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone this transition but are under the appropriate conditions to do so. Water notably expands when it": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.022686616
+      ],
+      [
+        "zing",
+        -0.002508359
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone this transition but are under the appropriate conditions to do so. Water notably expands when it undergoes this process. For 10 points, name this phase transition from a liquid to a solid, which for": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.001730868
+      ],
+      [
+        "zing",
+        -4.990154e-05
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.0073196893
+      ],
+      [
+        "zing",
+        -0.009945906
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.029475173
+      ],
+      [
+        "zing",
+        -0.037893202
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of": {
+    "guess": "Melting point",
+    "confidence": [
+      [
+        "Mel",
+        -0.43474776
+      ],
+      [
+        "ting",
+        -7.58424e-06
+      ],
+      [
+        " point",
+        -0.005759792
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone this transition but are under the appropriate conditions to do so. Water notably expands when it undergoes this process. For 10 points, name this phase transition from a liquid to a solid, which for water occurs at zero degrees Celsius.": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.0047982074
+      ],
+      [
+        "zing",
+        -3.035214e-05
+      ]
+    ]
+  }
+}

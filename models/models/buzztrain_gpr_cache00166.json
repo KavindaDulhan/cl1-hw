@@ -1,0 +1,1627 @@
+{
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated": {
+    "guess": "RSA (cryptosystem)",
+    "confidence": [
+      [
+        "RSA",
+        -0.012727659
+      ],
+      [
+        " (",
+        -0.044038117
+      ],
+      [
+        "crypt",
+        -0.0013905928
+      ],
+      [
+        "os",
+        -2.6895234e-05
+      ],
+      [
+        "ystem",
+        -4.739826e-05
+      ],
+      [
+        ")",
+        -6.0033854e-05
+      ]
+    ]
+  },
+  "An algebraic number raised to the power of a number with this property is transcendental according to the Gelfond-Schneider theorem. The value of the Riemann zeta function at three, Apery's constant, has this property, though it has not yet been proven for the Euler-Mascheroni constant. Their quadratic type has periodic continued fractions. The fact that the square of an even number must be divisible": {
+    "guess": "Gelfond-Schneider theorem",
+    "confidence": [
+      [
+        "G",
+        -0.8154761
+      ],
+      [
+        "elf",
+        -0.0009916032
+      ],
+      [
+        "ond",
+        -0.00022189408
+      ],
+      [
+        "-S",
+        -0.6750431
+      ],
+      [
+        "ch",
+        -1.0087517e-05
+      ],
+      [
+        "neider",
+        -2.7729659e-05
+      ],
+      [
+        " theorem",
+        -0.56936234
+      ]
+    ]
+  },
+  "The Alhambra Decree affected certain members of this group, which geography divides into the Ashkenazi and the Sephardi. This group was subject to the blood libel, which was responsible for several pogroms against it. The most notable action against this group saw the attack of (*) Kristallnacht and": {
+    "guess": "European Jews",
+    "confidence": [
+      [
+        "European",
+        -0.028927661
+      ],
+      [
+        " Jews",
+        -0.00012689977
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm used for accomplishing this task depends on the number of relaxation operations and has average complexity given by the product of the number of edges and vertices. In addition to the Bellman-Ford algorithm another method for approaching this task progressively closes the nearest node from an \"open\" set and adds its adjacent nodes, while computer games occasionally employ navigation meshes.": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.06322013
+      ],
+      [
+        "est",
+        -2.8564085e-05
+      ],
+      [
+        " path",
+        -0.5906167
+      ],
+      [
+        " problem",
+        -0.050533187
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence": {
+    "guess": "Wave function simulation",
+    "confidence": [
+      [
+        "Wave",
+        -0.072978474
+      ],
+      [
+        " function",
+        -0.865652
+      ],
+      [
+        " simulation",
+        -0.991386
+      ]
+    ]
+  },
+  "Alfven Waves occur in these substances, and the Langmuir Probe is used to measure them. The quark-gluon type of these may have been created at Brookhaven RHIC, and these entities are  studied in Tokamaks,": {
+    "guess": "Plasma (physics)",
+    "confidence": [
+      [
+        "Pl",
+        -0.0034342385
+      ],
+      [
+        "asma",
+        -5.145119e-05
+      ],
+      [
+        " (",
+        -0.00055827404
+      ],
+      [
+        "physics",
+        -0.00013524403
+      ],
+      [
+        ")",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "al highlights of this opera include the duet \"Libiamo,\" sung by the two principal characters at a party given by one of them, and the aria \"Di Provenza il mar,\" sung to the male lead by his father, who is trying to get him to come back home so that his sister can get married. Alfredo has up to that point been doing a lot of singing about how much he loves living with the title character in spite of her sketchy past. Violetta the courtesan sings awfully loud for someone who dies of TB at the end of,": {
+    "guess": "La traviata",
+    "confidence": [
+      [
+        "La",
+        -0.004607776
+      ],
+      [
+        " tr",
+        -0.04281236
+      ],
+      [
+        "avi",
+        -5.9080223e-05
+      ],
+      [
+        "ata",
+        -4.274932e-05
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed by Watkins and Dayan. The study of the multi-armed bandit in this field elucidates the tradeoff between exploitation and exploration. One form of this process is named for the function that calculates the desirability of a state-action pair, the quality function. When \"supervised,\" this process usually requires a human to select a training set. For 10 points, name this discipline of computer science": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.01949575
+      ],
+      [
+        "in",
+        -2.6656826e-05
+      ],
+      [
+        "forcement",
+        -0.00028100077
+      ],
+      [
+        " learning",
+        -0.059784725
+      ]
+    ]
+  },
+  "al highlights of this opera include the duet \"Libiamo,\" sung by the two principal characters at a party": {
+    "guess": "La traviata",
+    "confidence": [
+      [
+        "La",
+        -0.0011036602
+      ],
+      [
+        " tr",
+        -0.0027008548
+      ],
+      [
+        "avi",
+        -6.098748e-05
+      ],
+      [
+        "ata",
+        -2.188868e-05
+      ]
+    ]
+  },
+  "The Algeciras Conference of 1906 allowed France the right to supervise reforms in this country, ultimately": {
+    "guess": "Morocco",
+    "confidence": [
+      [
+        "Mor",
+        -0.0057238783
+      ],
+      [
+        "occo",
+        -0.00021474186
+      ]
+    ]
+  },
+  "An algebraic number raised to the power of a number with this property is transcendental according to the Gelfond-Schneider theorem. The value of the Riemann zeta function at three, Apery's constant, has this property, though it has not yet been proven for the Euler-Mascheroni constant. Their quadratic": {
+    "guess": "Gelfond-Schneider theorem",
+    "confidence": [
+      [
+        "G",
+        -0.3920172
+      ],
+      [
+        "elf",
+        -0.0004101772
+      ],
+      [
+        "ond",
+        -0.00024084747
+      ],
+      [
+        "-S",
+        -0.51018494
+      ],
+      [
+        "ch",
+        -8.776276e-06
+      ],
+      [
+        "neider",
+        -3.1544176e-05
+      ],
+      [
+        " theorem",
+        -0.20601228
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.6048703
+      ],
+      [
+        "in",
+        -8.75699e-05
+      ],
+      [
+        "forcement",
+        -4.739826e-05
+      ],
+      [
+        " learning",
+        -0.124653324
+      ]
+    ]
+  },
+  "al highlights of this opera include the duet \"Libiamo,\" sung by the two principal characters at a party given by one of them, and the aria \"Di Provenza il mar,\" sung to the male lead by his father, who": {
+    "guess": "La traviata",
+    "confidence": [
+      [
+        "La",
+        -0.019937923
+      ],
+      [
+        " tr",
+        -0.3201912
+      ],
+      [
+        "avi",
+        -2.5107178e-05
+      ],
+      [
+        "ata",
+        -3.3809047e-05
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated have a product congruent to 1 modulo lambda of n. One step involves computing the totient of": {
+    "guess": "RSA Digital Signature Algorithm",
+    "confidence": [
+      [
+        "RSA",
+        -0.07559916
+      ],
+      [
+        " Digital",
+        -1.1538811
+      ],
+      [
+        " Signature",
+        -0.17048612
+      ],
+      [
+        " Algorithm",
+        -0.46872863
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now": {
+    "guess": "Optimal Asymmetric Encryption Padding",
+    "confidence": [
+      [
+        "Opt",
+        -0.69838077
+      ],
+      [
+        "imal",
+        -0.0003857478
+      ],
+      [
+        " As",
+        -0.60594225
+      ],
+      [
+        "ymmetric",
+        -0.00081808487
+      ],
+      [
+        " Encryption",
+        -3.166338e-05
+      ],
+      [
+        " Padding",
+        -2.7014437e-05
+      ]
+    ]
+  },
+  "An algebraic number raised to the power of a number with this property is transcendental according to": {
+    "guess": "Gelfond\u2013Schneider theorem",
+    "confidence": [
+      [
+        "G",
+        -0.014267869
+      ],
+      [
+        "elf",
+        -0.0012832104
+      ],
+      [
+        "ond",
+        -0.00036715568
+      ],
+      [
+        "\u2013",
+        -0.55934966
+      ],
+      [
+        "Sch",
+        -5.5577775e-06
+      ],
+      [
+        "neider",
+        -1.4498052e-05
+      ],
+      [
+        " theorem",
+        -0.0009000237
+      ]
+    ]
+  },
+  "Alfven Waves occur in these substances, and the Langmuir Probe is used to measure them. The quark-gluon": {
+    "guess": "Plasma (physics)",
+    "confidence": [
+      [
+        "Pl",
+        -0.008003349
+      ],
+      [
+        "asma",
+        -3.464347e-05
+      ],
+      [
+        " (",
+        -9.3530085e-05
+      ],
+      [
+        "physics",
+        -0.00016706773
+      ],
+      [
+        ")",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "This algorithm can be interpretated as a sequence of projections between manifolds obtained by alternately minimizing the Kullback-Leibler Divergence between the empirical and complete model distributions.  Maximizing the auxiliary function with respect to the averaging distribution forms the step 1, while maximizing with respect to the parameters in step 2 is equivalent to maximizing the expected complete log likelihood. For ten points, name this hidden variable coordinate ascent algorithm that": {
+    "guess": "Expectation-maximization_algorithm",
+    "confidence": [
+      [
+        "Expect",
+        -0.03435548
+      ],
+      [
+        "ation",
+        -7.231183e-05
+      ],
+      [
+        "-max",
+        -0.04383905
+      ],
+      [
+        "imization",
+        -0.00012190055
+      ],
+      [
+        "_algorithm",
+        -0.29236656
+      ]
+    ]
+  },
+  "Algebra (30 Seconds)  Find the x- and y-coordinates for the one point of intersection between the circle": {
+    "guess": "Circle",
+    "confidence": [
+      [
+        "Circle",
+        -0.28960672
+      ]
+    ]
+  },
+  "An algebraic number raised to the power of a number with this property is transcendental according to the Gelfond-Schneider theorem. The value of the Riemann zeta function at three, Apery's constant, has this property, though it has not yet been proven for the Euler-Mascheroni constant. Their quadratic type has periodic continued fractions. The fact that the square of an even number must be divisible by four is invoked in the proof that this property is possessed by the square root of two. For 10": {
+    "guess": "Square root of two",
+    "confidence": [
+      [
+        "Square",
+        -1.2485324
+      ],
+      [
+        " root",
+        -0.34158877
+      ],
+      [
+        " of",
+        -0.00022964232
+      ],
+      [
+        " two",
+        -0.59554404
+      ]
+    ]
+  },
+  "al highlights of this opera include the duet \"Libiamo,\" sung by the two principal characters at a party given by one of them, and the aria \"Di Provenza il mar,\" sung to the male lead by his father, who is trying to get him to come back home so that his sister can get married. Alfredo has up to that point been doing a lot of singing about how much he loves living with the title character in spite of her sketchy past. Violetta the courtesan sings awfully loud for someone who dies of TB at the end of, for 10 points, what opera by Verdi whose title means \"the fallen woman.\"": {
+    "guess": "La traviata",
+    "confidence": [
+      [
+        "La",
+        -0.009501893
+      ],
+      [
+        " tr",
+        -0.022919195
+      ],
+      [
+        "avi",
+        -7.3742274e-05
+      ],
+      [
+        "ata",
+        -2.0815847e-05
+      ]
+    ]
+  },
+  "The Algeciras Conference of 1906 allowed France the right to supervise reforms in this country, ultimately resulting in the French occupation of a portion of it. The French occupation of this country angered Germany, however, who demanded compensation in the form of territory in the French Congo if France": {
+    "guess": "Morocco",
+    "confidence": [
+      [
+        "Mor",
+        -0.06369013
+      ],
+      [
+        "occo",
+        -0.0011498636
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm used for accomplishing this task depends on the number of relaxation operations and has average": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.24386764
+      ],
+      [
+        "est",
+        -2.2365493e-05
+      ],
+      [
+        " path",
+        -0.33784777
+      ],
+      [
+        " problem",
+        -0.08583346
+      ]
+    ]
+  },
+  "One algorithm of this type is composed of steps including SubBytes, ShiftRows, and MixColumns. That algorithm": {
+    "guess": "Advanced Encryption Standard",
+    "confidence": [
+      [
+        "Advanced",
+        -0.13939875
+      ],
+      [
+        " Encryption",
+        -0.00039825685
+      ],
+      [
+        " Standard",
+        -5.7768983e-05
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm used for accomplishing this task depends on the number of relaxation operations and has average complexity given by the product of the number of edges and vertices. In addition to the Bellman-Ford algorithm another method for approaching this task progressively closes the nearest node from an \"open\" set and adds its adjacent nodes, while computer games occasionally employ navigation meshes. For 10 points, name this process executed by algorithms like A* and Dijkstra's algorithm, which is": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.017558826
+      ],
+      [
+        "est",
+        -4.1273333e-06
+      ],
+      [
+        " path",
+        -0.22119218
+      ],
+      [
+        " problem",
+        -0.11358108
+      ]
+    ]
+  },
+  "The Algeciras Conference of 1906 allowed France the right to supervise reforms in this country, ultimately resulting in the French occupation of a portion of it. The French occupation of this country angered Germany, however, who demanded compensation in the form of territory in the French Congo if France was allowed to remain in this country. This African nation was the scene of an international event when the German gunboat the Panther arrived in its port city of Agadir. For 10 points, name this country where Churchill and FDR met during the Casablanca Conference.": {
+    "guess": "Morocco",
+    "confidence": [
+      [
+        "Mor",
+        -0.16768958
+      ],
+      [
+        "occo",
+        -0.00023834419
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed by Watkins and Dayan. The study of the multi-armed bandit in this field elucidates the tradeoff between exploitation and exploration. One form of this process is named for the function that calculates": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.06511436
+      ],
+      [
+        "in",
+        -1.5928495e-05
+      ],
+      [
+        "forcement",
+        -2.6299214e-05
+      ],
+      [
+        " learning",
+        -0.03511517
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known as A star. One way to represent this structure is through the use of a Kirchoff Matrix. This is the most general class of data structure on which one can perform breadth-first search and depth-first search. Typically, these data structures are represented using an adjacency matrix or an adjacency": {
+    "guess": "Graph data structure",
+    "confidence": [
+      [
+        "Graph",
+        -0.005051829
+      ],
+      [
+        " data",
+        -0.5883333
+      ],
+      [
+        " structure",
+        -0.11440947
+      ]
+    ]
+  },
+  "al highlights of this opera include the duet \"Libiamo,\" sung by the two principal characters at a party given by one of them, and the aria \"Di Provenza il mar,\" sung to the male lead by his father, who is trying to get him to come back home so that his sister can get married. Alfredo has up to that point": {
+    "guess": "La traviata",
+    "confidence": [
+      [
+        "La",
+        -0.04663653
+      ],
+      [
+        " tr",
+        -0.03904055
+      ],
+      [
+        "avi",
+        -9.436451e-05
+      ],
+      [
+        "ata",
+        -3.500108e-05
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known as A star. One way to represent this structure is through the use of a Kirchoff Matrix. This is the most general class of data structure on which one can perform breadth-first search and depth-first search. Typically, these data structures are represented using an adjacency matrix or an adjacency list. When these objects are directed and acyclic, they are isomorphic to trees. These data structures": {
+    "guess": "Graph data structure",
+    "confidence": [
+      [
+        "Graph",
+        -0.0010637711
+      ],
+      [
+        " data",
+        -0.62157166
+      ],
+      [
+        " structure",
+        -0.022327965
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known": {
+    "guess": "A* search algorithm",
+    "confidence": [
+      [
+        "A",
+        -0.03567726
+      ],
+      [
+        "*",
+        -0.0062932647
+      ],
+      [
+        " search",
+        -0.103948005
+      ],
+      [
+        " algorithm",
+        -0.018008757
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection": {
+    "guess": "Shortest Path Problem",
+    "confidence": [
+      [
+        "Short",
+        -0.21248199
+      ],
+      [
+        "est",
+        -0.00013905855
+      ],
+      [
+        " Path",
+        -0.43796274
+      ],
+      [
+        " Problem",
+        -0.03694239
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known as A star. One way to represent this structure is through the use of a Kirchoff Matrix. This is the most general class of data structure on which one can perform breadth-first search and depth-first search. Typically, these data structures are represented using an adjacency matrix or an adjacency list. When these objects are directed and acyclic, they are isomorphic to trees. These data structures consist of vertices and edges. For 10 points, name these data structures that share their name": {
+    "guess": "Graph (abstract data type)",
+    "confidence": [
+      [
+        "Graph",
+        -0.0015571167
+      ],
+      [
+        " (",
+        -0.44607
+      ],
+      [
+        "abstract",
+        -0.11673763
+      ],
+      [
+        " data",
+        -7.016616e-05
+      ],
+      [
+        " type",
+        -0.00053766277
+      ],
+      [
+        ")",
+        -4.0961266e-05
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm used for accomplishing this task depends on the number of relaxation operations and has average complexity given by the product of the number of edges and vertices. In addition to the Bellman-Ford algorithm another method for approaching this task progressively closes the nearest node from an \"open\" set and adds its adjacent nodes, while computer games occasionally employ navigation meshes. For 10 points, name this process executed by algorithms like A* and Dijkstra's algorithm, which is also the subject of the traveling salesman problem.": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.0620786
+      ],
+      [
+        "est",
+        -2.9279307e-05
+      ],
+      [
+        " path",
+        -0.3179576
+      ],
+      [
+        " problem",
+        -0.16359562
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.057552755
+      ],
+      [
+        "in",
+        -1.378283e-05
+      ],
+      [
+        "forcement",
+        -2.220075e-06
+      ],
+      [
+        " learning",
+        -0.04578219
+      ]
+    ]
+  },
+  "One algorithm of this type is composed of steps including SubBytes, ShiftRows, and MixColumns. That algorithm of this type, which is sometimes called Rijndael (RINE-dale), has been adopted by the U.S. government as AES. The difficulty of factoring a composite number composed of two large prime numbers": {
+    "guess": "Block cipher",
+    "confidence": [
+      [
+        "Block",
+        -0.59258187
+      ],
+      [
+        " cipher",
+        -0.036412396
+      ]
+    ]
+  },
+  "One algorithm of this type is composed of steps including SubBytes, ShiftRows, and MixColumns. That algorithm of this type, which is sometimes called Rijndael (RINE-dale), has been adopted by the U.S. government as AES. The difficulty of factoring a composite number composed of two large prime numbers is the basis of the RSA algorithm of this type. For 10 points, name these algorithms that transform": {
+    "guess": "Block cipher",
+    "confidence": [
+      [
+        "Block",
+        -0.029388009
+      ],
+      [
+        " cipher",
+        -0.091157936
+      ]
+    ]
+  },
+  "Alfven Waves occur in these substances, and the Langmuir Probe is used to measure them. The quark-gluon type of these may have been created at Brookhaven RHIC, and these entities are  studied in Tokamaks, which attempt to create nuclear fusion. Polar auroras and ball lightning are examples of this type": {
+    "guess": "Plasma (physics)",
+    "confidence": [
+      [
+        "Pl",
+        -0.0011172348
+      ],
+      [
+        "asma",
+        -1.92662e-05
+      ],
+      [
+        " (",
+        -0.00022177487
+      ],
+      [
+        "physics",
+        -0.00048928807
+      ],
+      [
+        ")",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The Alhambra Decree affected certain members of this group, which geography divides into the Ashkenazi and the Sephardi. This group was subject to the blood libel, which was responsible for several pogroms": {
+    "guess": "European Jews",
+    "confidence": [
+      [
+        "European",
+        -0.014486666
+      ],
+      [
+        " Jews",
+        -5.7768983e-05
+      ]
+    ]
+  },
+  "One algorithm of this type is composed of steps including SubBytes, ShiftRows, and MixColumns. That algorithm of this type, which is sometimes called Rijndael (RINE-dale), has been adopted by the U.S. government as AES. The difficulty of factoring a composite number composed of two large prime numbers is the basis of the RSA algorithm of this type. For 10 points, name these algorithms that transform plaintext into secure information.": {
+    "guess": "Block cipher",
+    "confidence": [
+      [
+        "Block",
+        -0.051125877
+      ],
+      [
+        " cipher",
+        -0.20430489
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm": {
+    "guess": "Probably Approximately Correct Learning",
+    "confidence": [
+      [
+        "Probably",
+        -0.5248065
+      ],
+      [
+        " Approximately",
+        -0.16419688
+      ],
+      [
+        " Correct",
+        -0.000102827966
+      ],
+      [
+        " Learning",
+        -0.26938993
+      ]
+    ]
+  },
+  "The Algeciras Conference of 1906 allowed France the right to supervise reforms in this country, ultimately resulting in the French occupation of a portion of it. The French occupation of this country angered Germany, however, who demanded compensation in the form of territory in the French Congo if France was allowed to remain in this country. This African nation was the scene of an international event when the German gunboat the Panther arrived in its port city of Agadir. For 10 points, name this": {
+    "guess": "Agadir Crisis",
+    "confidence": [
+      [
+        "Ag",
+        -0.9730638
+      ],
+      [
+        "adir",
+        -0.00020532844
+      ],
+      [
+        " Crisis",
+        -0.00058937154
+      ]
+    ]
+  },
+  "The Algeciras Conference of 1906 allowed France the right to supervise reforms in this country, ultimately resulting in the French occupation of a portion of it. The French occupation of this country angered": {
+    "guess": "Morocco",
+    "confidence": [
+      [
+        "Mor",
+        -0.2943987
+      ],
+      [
+        "occo",
+        -0.00039301923
+      ]
+    ]
+  },
+  "Alfven Waves occur in these substances, and the Langmuir Probe is used to measure them. The quark-gluon type of these may have been created at Brookhaven RHIC, and these entities are  studied in Tokamaks, which attempt to create nuclear fusion. Polar auroras and ball lightning are examples of this type of substance, and this state of matter exists when ionization occurs at extremely high temperatures,": {
+    "guess": "Plasma (physics)",
+    "confidence": [
+      [
+        "Pl",
+        -0.017368473
+      ],
+      [
+        "asma",
+        -0.00019865304
+      ],
+      [
+        " (",
+        -0.121388026
+      ],
+      [
+        "physics",
+        -0.0014045177
+      ],
+      [
+        ")",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known as A star. One way to represent this structure is through the use of a Kirchoff Matrix. This is": {
+    "guess": "Kirchhoff matrix",
+    "confidence": [
+      [
+        "Kir",
+        -0.9214986
+      ],
+      [
+        "ch",
+        -0.0046909493
+      ],
+      [
+        "hoff",
+        -1.27099975e-05
+      ],
+      [
+        " matrix",
+        -0.099540845
+      ]
+    ]
+  },
+  "This algorithm can be interpretated as a sequence of projections between manifolds obtained by alternately minimizing the Kullback-Leibler Divergence between the empirical and complete model distributions.  Maximizing the auxiliary function with respect to the averaging distribution forms the step 1, while maximizing with respect to the parameters in step 2 is equivalent to maximizing the expected complete log likelihood. For ten points, name this hidden variable coordinate ascent algorithm that averages over complete data before parameter estimation for the largest log likelihood.": {
+    "guess": "Expectation-maximization algorithm",
+    "confidence": [
+      [
+        "Expect",
+        -0.021020716
+      ],
+      [
+        "ation",
+        -5.347765e-05
+      ],
+      [
+        "-max",
+        -0.02786802
+      ],
+      [
+        "imization",
+        -0.00014215785
+      ],
+      [
+        " algorithm",
+        -0.68397486
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known as A star. One way to represent this structure is through the use of a Kirchoff Matrix. This is the most general class of data structure on which one can perform breadth-first search and depth-first search. Typically, these data structures are represented using an adjacency matrix or an adjacency list. When these objects are directed and acyclic, they are isomorphic to trees. These data structures consist of vertices and edges. For 10 points, name these data structures that share their name with a curve on a Cartesian plot.": {
+    "guess": "Graph (abstract data type)",
+    "confidence": [
+      [
+        "Graph",
+        -0.0033072312
+      ],
+      [
+        " (",
+        -0.23711845
+      ],
+      [
+        "abstract",
+        -0.12288565
+      ],
+      [
+        " data",
+        -0.00013274075
+      ],
+      [
+        " type",
+        -0.0008964549
+      ],
+      [
+        ")",
+        -8.75699e-05
+      ]
+    ]
+  },
+  "Algebra (30 Seconds)  Find the x- and y-coordinates for the one point of intersection between the circle given by equation quantity x minus three squared plus quantity y minus four squared equals twenty-five and the circle given by equation quantity x minus three squared plus quantity y plus four squared equals one hundred sixty-nine.": {
+    "guess": "Circle-Line Intersection",
+    "confidence": [
+      [
+        "Circle",
+        -0.1293809
+      ],
+      [
+        "-Line",
+        -1.6634661
+      ],
+      [
+        " Intersection",
+        -0.0063412306
+      ]
+    ]
+  },
+  "This algorithm can be interpretated as a sequence of projections between manifolds obtained by alternately minimizing the Kullback-Leibler Divergence between the empirical and complete model distributions.  Maximizing the auxiliary function with respect to the averaging distribution forms the step 1, while maximizing with respect to the parameters in step 2 is equivalent to maximizing the expected": {
+    "guess": "Expectation-maximization_algorithm",
+    "confidence": [
+      [
+        "Expect",
+        -0.122352794
+      ],
+      [
+        "ation",
+        -2.2127088e-05
+      ],
+      [
+        "-max",
+        -0.096927404
+      ],
+      [
+        "imization",
+        -4.632543e-05
+      ],
+      [
+        "_algorithm",
+        -0.4842194
+      ]
+    ]
+  },
+  "The Algeciras Conference of 1906 allowed France the right to supervise reforms in this country, ultimately resulting in the French occupation of a portion of it. The French occupation of this country angered Germany, however, who demanded compensation in the form of territory in the French Congo if France was allowed to remain in this country. This African nation was the scene of an international event": {
+    "guess": "Morocco",
+    "confidence": [
+      [
+        "Mor",
+        -0.067185834
+      ],
+      [
+        "occo",
+        -0.00056780665
+      ]
+    ]
+  },
+  "One algorithm that operates on these structures uses a heuristic function to guide searches and is known as A star. One way to represent this structure is through the use of a Kirchoff Matrix. This is the most general class of data structure on which one can perform breadth-first search and depth-first": {
+    "guess": "Graph data structure",
+    "confidence": [
+      [
+        "Graph",
+        -0.020260867
+      ],
+      [
+        " data",
+        -0.36168948
+      ],
+      [
+        " structure",
+        -0.046290703
+      ]
+    ]
+  },
+  "al highlights of this opera include the duet \"Libiamo,\" sung by the two principal characters at a party given by one of them, and the aria \"Di Provenza il mar,\" sung to the male lead by his father, who is trying to get him to come back home so that his sister can get married. Alfredo has up to that point been doing a lot of singing about how much he loves living with the title character in spite of": {
+    "guess": "La traviata",
+    "confidence": [
+      [
+        "La",
+        -0.0020060802
+      ],
+      [
+        " tr",
+        -0.0021094554
+      ],
+      [
+        "avi",
+        -5.6934558e-05
+      ],
+      [
+        "ata",
+        -9.968313e-06
+      ]
+    ]
+  },
+  "One algorithm of this type is composed of steps including SubBytes, ShiftRows, and MixColumns. That algorithm of this type, which is sometimes called Rijndael (RINE-dale), has been adopted by the U.S.": {
+    "guess": "Advanced Encryption Standard",
+    "confidence": [
+      [
+        "Advanced",
+        -0.026590778
+      ],
+      [
+        " Encryption",
+        -0.00037633438
+      ],
+      [
+        " Standard",
+        -9.114601e-05
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm used for accomplishing this task depends on the number of relaxation operations and has average complexity given by the product of the number of edges and vertices. In addition to the Bellman-Ford algorithm another method for approaching this task progressively closes the nearest node from": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.13755235
+      ],
+      [
+        "est",
+        -6.0345924e-06
+      ],
+      [
+        " path",
+        -0.373579
+      ],
+      [
+        " problem",
+        -0.035646204
+      ]
+    ]
+  },
+  "Algebra (30 Seconds)  Find the x- and y-coordinates for the one point of intersection between the circle given by equation quantity x minus three squared plus quantity y minus four squared equals twenty-five and the circle given by equation quantity x minus three squared plus quantity y plus four squared": {
+    "guess": "Circle#Equations of circles",
+    "confidence": [
+      [
+        "Circle",
+        -0.36026186
+      ],
+      [
+        "#",
+        -1.253242
+      ],
+      [
+        "Equ",
+        -0.041046567
+      ],
+      [
+        "ations",
+        -0.3218478
+      ],
+      [
+        " of",
+        -0.052458502
+      ],
+      [
+        " circles",
+        -0.7218853
+      ]
+    ]
+  },
+  "Alfven Waves occur in these substances, and the Langmuir Probe is used to measure them. The quark-gluon type of these may have been created at Brookhaven RHIC, and these entities are  studied in Tokamaks, which attempt to create nuclear fusion. Polar auroras and ball lightning are examples of this type of substance, and this state of matter exists when ionization occurs at extremely high temperatures, . For 10 points, name this substance similar to ionized gas, the  \"fourth state of matter.\"": {
+    "guess": "Plasma (physics)",
+    "confidence": [
+      [
+        "Pl",
+        -0.02211903
+      ],
+      [
+        "asma",
+        -1.0445127e-05
+      ],
+      [
+        " (",
+        -0.00028004716
+      ],
+      [
+        "physics",
+        -0.00091468205
+      ],
+      [
+        ")",
+        -7.226629e-06
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed by Watkins and Dayan. The study of the multi-armed bandit in this field elucidates the tradeoff": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.020842107
+      ],
+      [
+        "in",
+        -1.3902034e-05
+      ],
+      [
+        "forcement",
+        -1.60477e-05
+      ],
+      [
+        " learning",
+        -0.057860173
+      ]
+    ]
+  },
+  "The Alhambra Decree affected certain members of this group, which geography divides into the Ashkenazi and the Sephardi. This group was subject to the blood libel, which was responsible for several pogroms against it. The most notable action against this group saw the attack of (*) Kristallnacht and deportation of members of this group to places such as Dachau and Auschwitz. For 10 points, name this religious group persecuted during both the Spanish Inqusition and the Holocaust.": {
+    "guess": "European Jews",
+    "confidence": [
+      [
+        "European",
+        -0.022108177
+      ],
+      [
+        " Jews",
+        -0.00024108587
+      ]
+    ]
+  },
+  "The Alhambra Decree affected certain members of this group, which geography divides into the Ashkenazi and the Sephardi. This group was subject to the blood libel, which was responsible for several pogroms against it. The most notable action against this group saw the attack of (*) Kristallnacht and deportation of members of this group to places such as Dachau and Auschwitz. For 10 points, name this": {
+    "guess": "European Jews",
+    "confidence": [
+      [
+        "European",
+        -0.029415676
+      ],
+      [
+        " Jews",
+        -0.000442232
+      ]
+    ]
+  },
+  "This algorithm can be interpretated as a sequence of projections between manifolds obtained by alternately minimizing the Kullback-Leibler Divergence between the empirical and complete model distributions.": {
+    "guess": "Expectation-maximization algorithm",
+    "confidence": [
+      [
+        "Expect",
+        -0.030469844
+      ],
+      [
+        "ation",
+        -8.061054e-06
+      ],
+      [
+        "-max",
+        -0.02530713
+      ],
+      [
+        "imization",
+        -0.0001311911
+      ],
+      [
+        " algorithm",
+        -0.68422514
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed by Watkins and Dayan. The study of the multi-armed bandit in this field elucidates the tradeoff between exploitation and exploration. One form of this process is named for the function that calculates the desirability of a state-action pair, the quality function. When \"supervised,\" this process": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.38879904
+      ],
+      [
+        "in",
+        -1.4259645e-05
+      ],
+      [
+        "forcement",
+        -4.20341e-05
+      ],
+      [
+        " learning",
+        -0.08835189
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm,": {
+    "guess": "Bellman-Ford algorithm",
+    "confidence": [
+      [
+        "Bell",
+        -0.3791814
+      ],
+      [
+        "man",
+        -0.00017791527
+      ],
+      [
+        "-F",
+        -0.17210245
+      ],
+      [
+        "ord",
+        -0.00011880126
+      ],
+      [
+        " algorithm",
+        -0.14245518
+      ]
+    ]
+  },
+  "Algebra (30 Seconds)  Find the x- and y-coordinates for the one point of intersection between the circle given by equation quantity x minus three squared plus quantity y minus four squared equals twenty-five": {
+    "guess": "Circle-Line Intersection",
+    "confidence": [
+      [
+        "Circle",
+        -0.07439801
+      ],
+      [
+        "-Line",
+        -1.2892019
+      ],
+      [
+        " Intersection",
+        -0.015863795
+      ]
+    ]
+  },
+  "An algebraic number raised to the power of a number with this property is transcendental according to the Gelfond-Schneider theorem. The value of the Riemann zeta function at three, Apery's constant, has this property, though it has not yet been proven for the Euler-Mascheroni constant. Their quadratic type has periodic continued fractions. The fact that the square of an even number must be divisible by four is invoked in the proof that this property is possessed by the square root of two. For 10 points, name these objects which cannot be represented as one integer over another.": {
+    "guess": "Irrational numbers",
+    "confidence": [
+      [
+        "I",
+        -0.22256376
+      ],
+      [
+        "rr",
+        -1.504853e-06
+      ],
+      [
+        "ational",
+        -0.0002007987
+      ],
+      [
+        " numbers",
+        -0.7691234
+      ]
+    ]
+  },
+  "The Alhambra Decree affected certain members of this group, which geography divides into the Ashkenazi": {
+    "guess": "European Jews",
+    "confidence": [
+      [
+        "European",
+        -0.14888468
+      ],
+      [
+        " Jews",
+        -0.00019221604
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.5158384
+      ],
+      [
+        "est",
+        -2.0100624e-05
+      ],
+      [
+        " path",
+        -0.4318044
+      ],
+      [
+        " problem",
+        -0.18216649
+      ]
+    ]
+  },
+  "This algorithm can be interpretated as a sequence of projections between manifolds obtained by alternately minimizing the Kullback-Leibler Divergence between the empirical and complete model distributions.  Maximizing the auxiliary function with respect to the averaging distribution forms the step 1,": {
+    "guess": "Expectation-maximization algorithm",
+    "confidence": [
+      [
+        "Expect",
+        -0.28160828
+      ],
+      [
+        "ation",
+        -2.1173457e-05
+      ],
+      [
+        "-max",
+        -0.0335996
+      ],
+      [
+        "imization",
+        -8.947716e-05
+      ],
+      [
+        " algorithm",
+        -0.03924312
+      ]
+    ]
+  },
+  "An algebraic number raised to the power of a number with this property is transcendental according to the Gelfond-Schneider theorem. The value of the Riemann zeta function at three, Apery's constant, has": {
+    "guess": "Gelfond\u2013Schneider theorem",
+    "confidence": [
+      [
+        "G",
+        -0.40698487
+      ],
+      [
+        "elf",
+        -3.297462e-05
+      ],
+      [
+        "ond",
+        -0.0002700377
+      ],
+      [
+        "\u2013",
+        -0.62475735
+      ],
+      [
+        "Sch",
+        -2.319992e-05
+      ],
+      [
+        "neider",
+        -4.00813e-06
+      ],
+      [
+        " theorem",
+        -0.051046126
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed by Watkins and Dayan. The study of the multi-armed bandit in this field elucidates the tradeoff between exploitation and exploration. One form of this process is named for the function that calculates the desirability of a state-action pair, the quality function. When \"supervised,\" this process usually requires a human to select a training set. For 10 points, name this discipline of computer science which features the design of algorithms that allow computer agents to modify their behavior in accordance with gathered data.": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.0037655244
+      ],
+      [
+        "in",
+        -2.3392786e-06
+      ],
+      [
+        "forcement",
+        -6.0345924e-06
+      ],
+      [
+        " learning",
+        -0.061176226
+      ]
+    ]
+  },
+  "This algorithm can be interpretated as a sequence of projections between manifolds obtained by alternately": {
+    "guess": "Manifold_learning",
+    "confidence": [
+      [
+        "Man",
+        -1.198517
+      ],
+      [
+        "ifold",
+        -0.00015788905
+      ],
+      [
+        "_learning",
+        -0.5893382
+      ]
+    ]
+  },
+  "One algorithm for this task is characterized by propagating waves of RAISE and LOWER states. In the absence of negative cycles, this task can be achieved by a cubic-order dynamic programming algorithm, which subdivides this task into intermediate vertices and computes a bottom-up metric from the connection matrix; that is the Floyd-Warshall algorithm. In the presence of negative edge weights, the algorithm used for accomplishing this task depends on the number of relaxation operations and has average complexity given by the product of the number of edges and vertices. In addition to the Bellman-Ford": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Short",
+        -0.16412759
+      ],
+      [
+        "est",
+        -3.22594e-05
+      ],
+      [
+        " path",
+        -0.34760472
+      ],
+      [
+        " problem",
+        -0.099423744
+      ]
+    ]
+  },
+  "One algorithm in this field was proved Probably Approximately Correct by Littman et al.; that algorithm waits for m sample updates before making internal changes to average out random effects and is very optimistic. The aforementioned is one of a class of \"model-free\" algorithms, such as forms developed by Watkins and Dayan. The study of the multi-armed bandit in this field elucidates the tradeoff between exploitation and exploration. One form of this process is named for the function that calculates the desirability of a state-action pair, the quality function. When \"supervised,\" this process usually requires a human to select a training set. For 10 points, name this discipline of computer science which features the design of algorithms that allow computer agents to modify their behavior in": {
+    "guess": "Reinforcement learning",
+    "confidence": [
+      [
+        "Re",
+        -0.004684665
+      ],
+      [
+        "in",
+        -2.8160932e-06
+      ],
+      [
+        "forcement",
+        -1.1994775e-05
+      ],
+      [
+        " learning",
+        -0.13599017
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated have a product congruent to 1 modulo lambda of n. One step involves computing the totient of the product of two numbers and finding an integer that is coprime to that result. Another step in this": {
+    "guess": "RSA (cryptosystem)",
+    "confidence": [
+      [
+        "RSA",
+        -0.0061712326
+      ],
+      [
+        " (",
+        -1.0194328
+      ],
+      [
+        "crypt",
+        -0.0029178036
+      ],
+      [
+        "os",
+        -7.326546e-05
+      ],
+      [
+        "ystem",
+        -7.278864e-05
+      ],
+      [
+        ")",
+        -6.563642e-05
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated have a product congruent to 1 modulo lambda of n. One step involves computing the totient of the product of two numbers and finding an integer that is coprime to that result. Another step in this algorithm is to find the modular multiplicative inverse of e, and the efficacy of this algorithm": {
+    "guess": "RSA (cryptosystem)",
+    "confidence": [
+      [
+        "RSA",
+        -0.0032078961
+      ],
+      [
+        " (",
+        -0.37257564
+      ],
+      [
+        "crypt",
+        -0.032124676
+      ],
+      [
+        "os",
+        -8.7212284e-05
+      ],
+      [
+        "ystem",
+        -9.031158e-05
+      ],
+      [
+        ")",
+        -0.00025335286
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated have a product congruent to 1 modulo lambda of n. One step involves computing the totient of the product of two numbers and finding an integer that is coprime to that result. Another step in this algorithm is to find the modular multiplicative inverse of e, and the efficacy of this algorithm is proven by Fermat's Little Theorem. Its secure because of the difficulty in factoring large primes.": {
+    "guess": "RSA Digital Signature Algorithm",
+    "confidence": [
+      [
+        "RSA",
+        -0.032687742
+      ],
+      [
+        " Digital",
+        -1.1426965
+      ],
+      [
+        " Signature",
+        -0.09295939
+      ],
+      [
+        " Algorithm",
+        -0.16463086
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated have a product congruent to 1 modulo lambda of n. One step involves computing the totient of the product of two numbers and finding an integer that is coprime to that result. Another step in this algorithm is to find the modular multiplicative inverse of e, and the efficacy of this algorithm is proven by Fermat's Little Theorem. Its secure because of the difficulty in factoring large primes. For 10 points, name this public key encryption algorithm pioneered at MIT by the three scientists": {
+    "guess": "RSA (cryptosystem)",
+    "confidence": [
+      [
+        "RSA",
+        -0.007976503
+      ],
+      [
+        " (",
+        -0.6010973
+      ],
+      [
+        "crypt",
+        -0.26093355
+      ],
+      [
+        "os",
+        -0.00053575553
+      ],
+      [
+        "ystem",
+        -0.00014144262
+      ],
+      [
+        ")",
+        -0.00037037418
+      ]
+    ]
+  },
+  "This algorithm is often paired with OAEP, which makes it probabilistic by adding random oracles. Now implemented via the PCKS scheme, modern versions use the Carmichael function. One pair of values generated have a product congruent to 1 modulo lambda of n. One step involves computing the totient of the product of two numbers and finding an integer that is coprime to that result. Another step in this algorithm is to find the modular multiplicative inverse of e, and the efficacy of this algorithm is proven by Fermat's Little Theorem. Its secure because of the difficulty in factoring large primes. For 10 points, name this public key encryption algorithm pioneered at MIT by the three scientists whose initials give it its name.": {
+    "guess": "RSA (cryptosystem)",
+    "confidence": [
+      [
+        "RSA",
+        -0.01565562
+      ],
+      [
+        " (",
+        -0.4048822
+      ],
+      [
+        "crypt",
+        -0.20659819
+      ],
+      [
+        "os",
+        -0.00025359125
+      ],
+      [
+        "ystem",
+        -0.00016694854
+      ],
+      [
+        ")",
+        -0.00029828164
+      ]
+    ]
+  }
+}

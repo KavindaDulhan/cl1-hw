@@ -1,0 +1,84 @@
+{
+  "Aryl ones may be created through the Ullman reaction. Some of these compounds autooxidize in the presence": {
+    "guess": "Ullmann reaction",
+    "confidence": [
+      [
+        "U",
+        -1.3683748
+      ],
+      [
+        "ll",
+        -0.00022868869
+      ],
+      [
+        "mann",
+        -0.14391366
+      ],
+      [
+        " reaction",
+        -0.6842097
+      ]
+    ]
+  },
+  "Aryl ones may be created through the Ullman reaction. Some of these compounds autooxidize in the presence of metal and light to form explosive peroxide species. A linear analogue of one variety are called glymes, while the simplest cyclic one is called oxirane, and particularly useful as phase transfer catalysts are the \"crown\" type. They are synthesized in a simple SN2 reaction between an alkyl halide and an alkoxide ion, a reaction named for Williamson. For 10 points, identify these compounds,": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.0006915859
+      ]
+    ]
+  },
+  "Aryl ones may be created through the Ullman reaction. Some of these compounds autooxidize in the presence of metal and light to form explosive peroxide species. A linear analogue of one variety are called glymes, while the simplest cyclic one is called oxirane, and particularly useful as phase transfer catalysts are the \"crown\" type. They are synthesized in a simple SN2 reaction between an alkyl halide and an alkoxide ion, a reaction named for Williamson. For 10 points, identify these compounds, alkyl analogues of alcohols, which include a diethyl one, a common solvent and a formerly common anaesthetic.": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.21971463
+      ]
+    ]
+  },
+  "Aryl ones may be created through the Ullman reaction. Some of these compounds autooxidize in the presence of metal and light to form explosive peroxide species. A linear analogue of one variety are called": {
+    "guess": "Aryl halides",
+    "confidence": [
+      [
+        "A",
+        -1.2955124
+      ],
+      [
+        "ry",
+        -0.36775225
+      ],
+      [
+        "l",
+        -0.10626203
+      ],
+      [
+        " hal",
+        -1.056779
+      ],
+      [
+        "ides",
+        -0.120422214
+      ]
+    ]
+  },
+  "Aryl ones may be created through the Ullman reaction. Some of these compounds autooxidize in the presence of metal and light to form explosive peroxide species. A linear analogue of one variety are called glymes, while the simplest cyclic one is called oxirane, and particularly useful as phase transfer": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.6444541
+      ]
+    ]
+  },
+  "Aryl ones may be created through the Ullman reaction. Some of these compounds autooxidize in the presence of metal and light to form explosive peroxide species. A linear analogue of one variety are called glymes, while the simplest cyclic one is called oxirane, and particularly useful as phase transfer catalysts are the \"crown\" type. They are synthesized in a simple SN2 reaction between an alkyl halide": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.00114498
+      ]
+    ]
+  }
+}

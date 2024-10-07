@@ -1,0 +1,319 @@
+{
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.43560916
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance it can be stated that given N congruence relations of the form x equals a mod p, where the p's": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.008185573
+      ],
+      [
+        " remainder",
+        -0.0012457089
+      ],
+      [
+        " theorem",
+        -4.5133394e-05
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications,": {
+    "guess": "Abacus",
+    "confidence": [
+      [
+        "Ab",
+        -0.40920687
+      ],
+      [
+        "acus",
+        -0.00024323154
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance it can be stated that given N congruence relations of the form x equals a mod p, where the p's are relatively prime, there exists an integer solution. For 10 points, name this ancient theorem regarding": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.0010904471
+      ],
+      [
+        " remainder",
+        -0.00046427367
+      ],
+      [
+        " theorem",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.78841686
+      ],
+      [
+        " Erd",
+        -0.10742598
+      ],
+      [
+        "\u0151s",
+        -0.03319572
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume": {
+    "guess": "Penguin",
+    "confidence": [
+      [
+        "P",
+        -1.204357
+      ],
+      [
+        "enguin",
+        -0.82990617
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth. A Tennessee Williams play about the terminal cancer of Big Daddy is titled for one of these animals \"on a Hot Tin Roof.\" For ten points, name these animals, one of which appears \"in a Hat\" in a story": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.13184038
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance it can be stated that given N congruence relations of the form x equals a mod p, where the p's are relatively prime, there exists an integer solution. For 10 points, name this ancient theorem regarding simultaneous congruences, generally attributed to Sun Zi and Qin Jiushao.": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.0011833232
+      ],
+      [
+        " remainder",
+        -0.0033692543
+      ],
+      [
+        " theorem",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming": {
+    "guess": "Paul Erdos",
+    "confidence": [
+      [
+        "Paul",
+        -0.78669167
+      ],
+      [
+        " Erd",
+        -0.016173253
+      ],
+      [
+        "os",
+        -0.26765668
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.57498175
+      ],
+      [
+        " Erd",
+        -0.0019442226
+      ],
+      [
+        "\u0151s",
+        -0.24968539
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him": {
+    "guess": "L\u00e1szl\u00f3 Lov\u00e1sz",
+    "confidence": [
+      [
+        "L",
+        -0.7226238
+      ],
+      [
+        "\u00e1s",
+        -0.17082463
+      ],
+      [
+        "zl",
+        -0.00047499835
+      ],
+      [
+        "\u00f3",
+        -4.572941e-05
+      ],
+      [
+        " Lov",
+        -0.112728156
+      ],
+      [
+        "\u00e1s",
+        -1.3856493e-06
+      ],
+      [
+        "z",
+        -1.0802739e-05
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named for Mordell. He helped develop Ramsey theory and discovered an elementary proof of the prime number theorem, and believed that all beautiful proofs came from THE BOOK. FTP, name this prolific Hungarian mathematician, whose namesake number gives the publishing distance between him and a given mathematician.": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.084330656
+      ],
+      [
+        " Erd",
+        -0.00026753443
+      ],
+      [
+        "\u0151s",
+        -0.41595146
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth.": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.041320547
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth. A Tennessee Williams play about the terminal cancer of Big Daddy is titled for one of these animals": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.006011391
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named for Mordell. He helped develop Ramsey theory and discovered an elementary proof of the prime number": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.34090275
+      ],
+      [
+        " Erd",
+        -0.00239789
+      ],
+      [
+        "\u0151s",
+        -0.024786972
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named for Mordell. He helped develop Ramsey theory and discovered an elementary proof of the prime number theorem, and believed that all beautiful proofs came from THE BOOK. FTP, name this prolific Hungarian": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.0056228857
+      ],
+      [
+        " Erd",
+        -6.749814e-06
+      ],
+      [
+        "\u0151s",
+        -0.028732507
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.5877348
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth. A Tennessee Williams play about the terminal cancer of Big Daddy is titled for one of these animals \"on a Hot Tin Roof.\" For ten points, name these animals, one of which appears \"in a Hat\" in a story by Dr. Seuss.": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.054409917
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.61681485
+      ],
+      [
+        " remainder",
+        -0.0012769036
+      ],
+      [
+        " theorem",
+        -1.4021238e-05
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.36755073
+      ],
+      [
+        " remainder",
+        -0.011452495
+      ],
+      [
+        " theorem",
+        -1.1517961e-05
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a": {
+    "guess": "Paul Erdos",
+    "confidence": [
+      [
+        "Paul",
+        -0.6303737
+      ],
+      [
+        " Erd",
+        -0.0034736746
+      ],
+      [
+        "os",
+        -0.21973069
+      ]
+    ]
+  }
+}

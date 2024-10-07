@@ -1,0 +1,117 @@
+{
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river": {
+    "guess": "Adirondack Mountains",
+    "confidence": [
+      [
+        "Ad",
+        -0.02772031
+      ],
+      [
+        "ir",
+        -0.00014716439
+      ],
+      [
+        "ond",
+        -8.657073e-06
+      ],
+      [
+        "ack",
+        -0.0134402
+      ],
+      [
+        " Mountains",
+        -0.05341163
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state and its neighbor Vermont, and a canal connects Lake Erie to another river in this state, the Hudson. For 10 points, name this Mid-Atlantic state which contains the Catskill and Adirondack Mountains and has a capital at Albany.": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.0010211401
+      ],
+      [
+        " York",
+        -0.0007852103
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state and its neighbor Vermont, and a canal connects Lake Erie to another river in this state, the Hudson.": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.0036936589
+      ],
+      [
+        " York",
+        -0.00036287535
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this": {
+    "guess": "Adirondack Mountains",
+    "confidence": [
+      [
+        "Ad",
+        -0.018420557
+      ],
+      [
+        "ir",
+        -4.441817e-05
+      ],
+      [
+        "ond",
+        -8.180258e-06
+      ],
+      [
+        "ack",
+        -0.003615632
+      ],
+      [
+        " Mountains",
+        -0.03614545
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.006164482
+      ],
+      [
+        " York",
+        -0.00090860267
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state and its neighbor Vermont, and a canal connects Lake Erie to another river in this state, the Hudson. For 10 points, name this Mid-Atlantic state which contains the Catskill and Adirondack Mountains": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.0010407903
+      ],
+      [
+        " York",
+        -0.00093194464
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.0071909274
+      ],
+      [
+        " York",
+        -0.00091729354
+      ]
+    ]
+  }
+}

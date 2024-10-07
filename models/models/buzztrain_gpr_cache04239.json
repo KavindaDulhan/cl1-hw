@@ -1,0 +1,243 @@
+{
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity. This quantity is equal to the negative time derivative of the magnetic flux, and in an inductor,": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "M",
+        -0.91904396
+      ],
+      [
+        "agnetic",
+        -0.0035722693
+      ],
+      [
+        " field",
+        -0.39149508
+      ]
+    ]
+  },
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity. This quantity is equal to the negative time derivative of the magnetic flux, and in an inductor, it is equivalent to the inductance multiplied by the negative time derivative of the current. It is classically defined as Coulomb's constant multiplied by the sum of charge over distance, and also as the line integral of the electric field \"dot dl.\" When it is multiplied by current, it gives power dissipated by a resistor. Kirchoff's Loop Rule states that the sum of this value around a loop": {
+    "guess": "Electric potential",
+    "confidence": [
+      [
+        "Electric",
+        -0.9083306
+      ],
+      [
+        " potential",
+        -0.041552488
+      ]
+    ]
+  },
+  "The Laplace transform of this function is equal to s over the quantity s squared plus one. Its Taylor series expansion is represented by the sum as n goes from zero to infinity of negative one to the n times x to the two n over quantity two n factorial. The hyperbolic version of this function is equal": {
+    "guess": "Exponential function",
+    "confidence": [
+      [
+        "Ex",
+        -0.99522436
+      ],
+      [
+        "ponential",
+        -0.002411327
+      ],
+      [
+        " function",
+        -0.00093921233
+      ]
+    ]
+  },
+  "The Laplace transform of this function is equal to s over the quantity s squared plus one. Its Taylor series expansion is represented by the sum as n goes from zero to infinity of negative one to the n": {
+    "guess": "Hyperbolic functions",
+    "confidence": [
+      [
+        "Hyper",
+        -1.4682723
+      ],
+      [
+        "b",
+        -2.4391957e-05
+      ],
+      [
+        "olic",
+        -1.6643718e-05
+      ],
+      [
+        " functions",
+        -0.32658333
+      ]
+    ]
+  },
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity. This quantity is equal to the negative time derivative of the magnetic flux, and in an inductor, it is equivalent to the inductance multiplied by the negative time derivative of the current.": {
+    "guess": "Magnetic flux",
+    "confidence": [
+      [
+        "M",
+        -0.42042667
+      ],
+      [
+        "agnetic",
+        -0.000110457004
+      ],
+      [
+        " flux",
+        -0.8879837
+      ]
+    ]
+  },
+  "The Laplace transform of this function is equal to s over the quantity s squared plus one. Its Taylor series expansion is represented by the sum as n goes from zero to infinity of negative one to the n times x to the two n over quantity two n factorial. The hyperbolic version of this function is equal to the quantity (*) e to the x minus e to the negative x, all over two. A generalization of the Pythagorean theorem is known as the \"law of\" this function. For 10 points, name this reciprocal of the secant function, a trigonometric function often represented as adjacent over hypotenuse.": {
+    "guess": "Cosecant function",
+    "confidence": [
+      [
+        "C",
+        -0.058122825
+      ],
+      [
+        "ose",
+        -0.0016309093
+      ],
+      [
+        "cant",
+        -2.577686e-06
+      ],
+      [
+        " function",
+        -0.047713973
+      ]
+    ]
+  },
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity. This quantity is equal to the negative time derivative of the magnetic flux, and in an inductor, it is equivalent to the inductance multiplied by the negative time derivative of the current. It is classically defined as Coulomb's constant multiplied by the sum of charge over distance, and also as the line integral of the electric field \"dot dl.\" When it is multiplied by current, it gives": {
+    "guess": "Electric potential",
+    "confidence": [
+      [
+        "Electric",
+        -0.6847014
+      ],
+      [
+        " potential",
+        -0.07560059
+      ]
+    ]
+  },
+  "The Laplace transform of this function is equal to s over the quantity s squared plus one. Its Taylor": {
+    "guess": "Hyperbolic functions",
+    "confidence": [
+      [
+        "Hyper",
+        -0.66733336
+      ],
+      [
+        "b",
+        -6.897413e-05
+      ],
+      [
+        "olic",
+        -0.00018685187
+      ],
+      [
+        " functions",
+        -0.23820661
+      ]
+    ]
+  },
+  "The Laplace transform of this function is equal to s over the quantity s squared plus one. Its Taylor series expansion is represented by the sum as n goes from zero to infinity of negative one to the n times x to the two n over quantity two n factorial. The hyperbolic version of this function is equal to the quantity (*) e to the x minus e to the negative x, all over two. A generalization of the Pythagorean": {
+    "guess": "Cosh (hyperbolic cosine)",
+    "confidence": [
+      [
+        "C",
+        -0.8444454
+      ],
+      [
+        "osh",
+        -0.25148895
+      ],
+      [
+        " (",
+        -0.43617323
+      ],
+      [
+        "hyper",
+        -0.18693516
+      ],
+      [
+        "b",
+        -2.8921695e-05
+      ],
+      [
+        "olic",
+        -6.2729996e-06
+      ],
+      [
+        " cosine",
+        -0.0045024003
+      ],
+      [
+        ")",
+        -0.017970935
+      ]
+    ]
+  },
+  "The Laplace transform of this function is equal to s over the quantity s squared plus one. Its Taylor series expansion is represented by the sum as n goes from zero to infinity of negative one to the n times x to the two n over quantity two n factorial. The hyperbolic version of this function is equal to the quantity (*) e to the x minus e to the negative x, all over two. A generalization of the Pythagorean theorem is known as the \"law of\" this function. For 10 points, name this reciprocal of the": {
+    "guess": "Cosecant",
+    "confidence": [
+      [
+        "C",
+        -0.48708665
+      ],
+      [
+        "ose",
+        -0.34538725
+      ],
+      [
+        "cant",
+        -0.00019591136
+      ]
+    ]
+  },
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity.": {
+    "guess": "Permittivity",
+    "confidence": [
+      [
+        "Per",
+        -0.44464085
+      ],
+      [
+        "mitt",
+        -0.0009364743
+      ],
+      [
+        "ivity",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity. This quantity is equal to the negative time derivative of the magnetic flux, and in an inductor, it is equivalent to the inductance multiplied by the negative time derivative of the current. It is classically defined as Coulomb's constant multiplied by the sum of charge over distance, and also": {
+    "guess": "Electric Displacement Field",
+    "confidence": [
+      [
+        "Electric",
+        -0.20731348
+      ],
+      [
+        " Dis",
+        -1.2052691
+      ],
+      [
+        "placement",
+        -1.92662e-05
+      ],
+      [
+        " Field",
+        -0.32291803
+      ]
+    ]
+  },
+  "The Laplacian of an electric potential field is equal to the negative free charge density over this quantity. This quantity is equal to the negative time derivative of the magnetic flux, and in an inductor, it is equivalent to the inductance multiplied by the negative time derivative of the current. It is classically defined as Coulomb's constant multiplied by the sum of charge over distance, and also as the line integral of the electric field \"dot dl.\" When it is multiplied by current, it gives power dissipated by a resistor. Kirchoff's Loop Rule states that the sum of this value around a loop in a circuit is zero. Name this quantity this is equal to the current times resistance by Ohm's Law.": {
+    "guess": "Voltage",
+    "confidence": [
+      [
+        "Voltage",
+        -0.64976686
+      ]
+    ]
+  }
+}

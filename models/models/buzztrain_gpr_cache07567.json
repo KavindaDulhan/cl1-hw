@@ -1,0 +1,170 @@
+{
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on the day of ovulation, whereas in men, spermatogenesis requires that it be slightly lower in the testes": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.005352586
+      ],
+      [
+        "al",
+        -1.9816675e-06
+      ],
+      [
+        " Body",
+        -0.0015270021
+      ],
+      [
+        " Temperature",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.023653163
+      ],
+      [
+        "al",
+        -2.7133641e-05
+      ],
+      [
+        " Body",
+        -0.0033805454
+      ],
+      [
+        " Temperature",
+        -1.2352386e-05
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on the day of ovulation, whereas in men, spermatogenesis requires that it be slightly lower in the testes than in the rest of the body. A large drop in this variable results in hypothermia. For 10 points,": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.0052006748
+      ],
+      [
+        "al",
+        -1.2664457e-06
+      ],
+      [
+        " Body",
+        -0.0016147232
+      ],
+      [
+        " Temperature",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered,": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.014065125
+      ],
+      [
+        "al",
+        -1.4259645e-05
+      ],
+      [
+        " Body",
+        -0.017391672
+      ],
+      [
+        " Temperature",
+        -2.355753e-05
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.002726775
+      ],
+      [
+        "al",
+        -1.2664457e-06
+      ],
+      [
+        " Body",
+        -0.0012270159
+      ],
+      [
+        " Temperature",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms": {
+    "guess": "Hypothermia",
+    "confidence": [
+      [
+        "H",
+        -1.6699547
+      ],
+      [
+        "yp",
+        -0.0039672665
+      ],
+      [
+        "other",
+        -0.004977694
+      ],
+      [
+        "mia",
+        -0.0030830018
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.0070338547
+      ],
+      [
+        "al",
+        -3.1737043e-06
+      ],
+      [
+        " Body",
+        -0.003129352
+      ],
+      [
+        " Temperature",
+        -8.537869e-06
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on the day of ovulation, whereas in men, spermatogenesis requires that it be slightly lower in the testes than in the rest of the body. A large drop in this variable results in hypothermia. For 10 points, name this variable, which in the human body is optimally 98.6 degrees Fahrenheit.": {
+    "guess": "Basal Body Temperature",
+    "confidence": [
+      [
+        "Bas",
+        -0.005048625
+      ],
+      [
+        "al",
+        -1.9816675e-06
+      ],
+      [
+        " Body",
+        -0.001448214
+      ],
+      [
+        " Temperature",
+        -7.107425e-06
+      ]
+    ]
+  }
+}

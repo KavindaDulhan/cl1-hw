@@ -1,0 +1,293 @@
+{
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this": {
+    "guess": "Permutation group",
+    "confidence": [
+      [
+        "Per",
+        -0.3863075
+      ],
+      [
+        "mutation",
+        -0.0012027314
+      ],
+      [
+        " group",
+        -0.1762478
+      ]
+    ]
+  },
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this mathematical result. Despite this one can achieve good numerical results, for instance with Newton-Raphson": {
+    "guess": "Newton's method",
+    "confidence": [
+      [
+        "Newton",
+        -1.9439342
+      ],
+      [
+        "'s",
+        -0.068526626
+      ],
+      [
+        " method",
+        -0.0017749037
+      ]
+    ]
+  },
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this mathematical result. Despite this one can achieve good numerical results, for instance with Newton-Raphson methods. It shows that an analog of Cardano's formula cannot exist in some cases. In 1824,": {
+    "guess": "Abel-Ruffini theorem",
+    "confidence": [
+      [
+        "Ab",
+        -0.27438697
+      ],
+      [
+        "el",
+        -0.0066303513
+      ],
+      [
+        "-R",
+        -0.16981632
+      ],
+      [
+        "uff",
+        -2.6537622e-05
+      ],
+      [
+        "ini",
+        -0.00034368722
+      ],
+      [
+        " theorem",
+        -0.00035036262
+      ]
+    ]
+  },
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this mathematical result. Despite this one can achieve good numerical results, for instance with Newton-Raphson methods. It shows that an analog of Cardano's formula cannot exist in some cases. In 1824, it was shown that a certain group did not have a composition series with Abelian quotients, and hence was not solvable. The group of interest is called a Galois group. FTP, name this algebraic result": {
+    "guess": "Galois theory",
+    "confidence": [
+      [
+        "G",
+        -0.4572108
+      ],
+      [
+        "alo",
+        -3.7265952e-05
+      ],
+      [
+        "is",
+        -2.3915141e-05
+      ],
+      [
+        " theory",
+        -0.3701805
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery.. Theodore of Falconara appears in a work titled for one of these, which sees Manfred attempt to wed Isabella after his son Conrad is crushed by a giant, ghostly helmet. That work by Horace Walpole, considered the first Gothic novel, is named after one of these at Otranto. A work named for one of these sees the protagonist encounter Pepi, Jeremiah, Erlanger, and Freida while trying in vain to find": {
+    "guess": "White Castle",
+    "confidence": [
+      [
+        "White",
+        -1.1630102
+      ],
+      [
+        " Castle",
+        -0.73997223
+      ]
+    ]
+  },
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this mathematical result. Despite this one can achieve good numerical results, for instance with Newton-Raphson methods. It shows that an analog of Cardano's formula cannot exist in some cases. In 1824, it was shown that a certain group did not have a composition series with Abelian quotients, and hence was not solvable. The group of interest is called a Galois group. FTP, name this algebraic result proved by Niels Abel which demonstrates the inability to generalize the exact forms of solutions for": {
+    "guess": "Abel-Ruffini theorem",
+    "confidence": [
+      [
+        "Ab",
+        -0.22315446
+      ],
+      [
+        "el",
+        -0.003136482
+      ],
+      [
+        "-R",
+        -0.48673096
+      ],
+      [
+        "uff",
+        -0.00015765065
+      ],
+      [
+        "ini",
+        -0.00020020269
+      ],
+      [
+        " theorem",
+        -0.033597637
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery.. Theodore of Falconara appears in a work titled for one of these, which sees Manfred attempt to wed Isabella after his son Conrad is crushed by a giant, ghostly helmet. That work by Horace Walpole,": {
+    "guess": "Gothic fiction",
+    "confidence": [
+      [
+        "G",
+        -0.9772228
+      ],
+      [
+        "oth",
+        -0.00914911
+      ],
+      [
+        "ic",
+        -8.1490514e-05
+      ],
+      [
+        " fiction",
+        -0.836337
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery.. Theodore of Falconara appears in a work titled for one of these, which sees Manfred attempt to wed Isabella after his son Conrad is crushed by a giant, ghostly helmet. That work by Horace Walpole, considered the first Gothic novel, is named after one of these at Otranto. A work named for one of these sees the protagonist encounter Pepi, Jeremiah, Erlanger, and Freida while trying in vain to find the bureacrat Klamm. For ten points, identify these structures, one of which K. tries to enter in a Kafka novel, which also appear in literature through examples like Camelot.": {
+    "guess": "Castle",
+    "confidence": [
+      [
+        "Castle",
+        -0.34850115
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery.. Theodore of Falconara appears in a work titled for one of these, which sees Manfred attempt to": {
+    "guess": "Blue Castle",
+    "confidence": [
+      [
+        "Blue",
+        -1.5038188
+      ],
+      [
+        " Castle",
+        -0.026747478
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery.. Theodore of Falconara appears in a work titled for one of these, which sees Manfred attempt to wed Isabella after his son Conrad is crushed by a giant, ghostly helmet. That work by Horace Walpole, considered the first Gothic novel, is named after one of these at Otranto. A work named for one of these sees the protagonist encounter Pepi, Jeremiah, Erlanger, and Freida while trying in vain to find the bureacrat Klamm. For ten points, identify these structures, one of which K. tries to enter in": {
+    "guess": "Castle",
+    "confidence": [
+      [
+        "Castle",
+        -0.5285401
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named": {
+    "guess": "The White Castle",
+    "confidence": [
+      [
+        "The",
+        -0.004436055
+      ],
+      [
+        " White",
+        -0.0051543005
+      ],
+      [
+        " Castle",
+        -8.1609716e-05
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery.. Theodore of Falconara appears in a work titled for one of these, which sees Manfred attempt to wed Isabella after his son Conrad is crushed by a giant, ghostly helmet. That work by Horace Walpole, considered the first Gothic novel, is named after one of these at Otranto. A work named for one of": {
+    "guess": "Gothic_novel",
+    "confidence": [
+      [
+        "G",
+        -1.2079439
+      ],
+      [
+        "oth",
+        -0.49690047
+      ],
+      [
+        "ic",
+        -0.00071815
+      ],
+      [
+        "_n",
+        -0.31264353
+      ],
+      [
+        "ovel",
+        -0.029068243
+      ]
+    ]
+  },
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this mathematical result. Despite this one can achieve good numerical results, for instance with Newton-Raphson methods. It shows that an analog of Cardano's formula cannot exist in some cases. In 1824, it was shown that a certain group did not have a composition series with Abelian quotients, and hence was not solvable. The group of interest is called a Galois group. FTP, name this algebraic result proved by Niels Abel which demonstrates the inability to generalize the exact forms of solutions for polynomials above a certain degree.": {
+    "guess": "Abel-Ruffini theorem",
+    "confidence": [
+      [
+        "Ab",
+        -0.038050447
+      ],
+      [
+        "el",
+        -0.0026886098
+      ],
+      [
+        "-R",
+        -0.5050373
+      ],
+      [
+        "uff",
+        -0.0003576304
+      ],
+      [
+        "ini",
+        -0.00034404485
+      ],
+      [
+        " theorem",
+        -0.1621824
+      ]
+    ]
+  },
+  "In 1799 an Italian built upon the work of Joseph Lagrange and used permutation groups to approach this mathematical result. Despite this one can achieve good numerical results, for instance with Newton-Raphson methods. It shows that an analog of Cardano's formula cannot exist in some cases. In 1824, it was shown that a certain group did not have a composition series with Abelian quotients, and hence": {
+    "guess": "Abel-Ruffini theorem",
+    "confidence": [
+      [
+        "Ab",
+        -0.9417997
+      ],
+      [
+        "el",
+        -0.30246475
+      ],
+      [
+        "-R",
+        -0.19738369
+      ],
+      [
+        "uff",
+        -4.7994283e-05
+      ],
+      [
+        "ini",
+        -0.0005175284
+      ],
+      [
+        " theorem",
+        -0.0031608492
+      ]
+    ]
+  },
+  "An Italian scholar is taken prisoner by a strange doppelganger named Hoja in an Orhan Pamuk novel named after a white one of these, while a blue on titles a work about Valancy Stirling by Lucy Montgomery..": {
+    "guess": "Blue Castle",
+    "confidence": [
+      [
+        "Blue",
+        -0.7381158
+      ],
+      [
+        " Castle",
+        -0.0017670509
+      ]
+    ]
+  }
+}

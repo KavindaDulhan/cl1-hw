@@ -1,0 +1,784 @@
+{
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form of the Klein-Gordon equation in which the energy is given by the product of the momentum and the speed of light. This interaction is described by the U(1) symmetry group. Powers of its coupling constant appear in derivations of fine and hyperfine structure. The only interaction mediated by a massless particle, the Glashow-Weinberg-Salaam theory unifies this force with the weak force. Its quantized": {
+    "guess": "Electromagnetic interaction",
+    "confidence": [
+      [
+        "Elect",
+        -0.12211533
+      ],
+      [
+        "rom",
+        -0.076058395
+      ],
+      [
+        "agnetic",
+        -0.37251085
+      ],
+      [
+        " interaction",
+        -0.14843014
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to the theory of Lin and Shu. The critical version of this property for the universe is used in computing a parameter also named for this property, denoted omega, which is approximately equal to one. In one formulation of Bernoulli's principle, the dynamic pressure is given as one-half this times fluid velocity squared. This intensive property is constant in an isochoric process. A hydrometer can determine the specific gravity, and thus, this quantity, which determines whether or not an object will": {
+    "guess": "Density",
+    "confidence": [
+      [
+        "Density",
+        -0.5452303
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to": {
+    "guess": "Spiral density waves",
+    "confidence": [
+      [
+        "S",
+        -0.84755707
+      ],
+      [
+        "pir",
+        -6.682846e-05
+      ],
+      [
+        "al",
+        -0.00021236145
+      ],
+      [
+        " density",
+        -0.7791837
+      ],
+      [
+        " waves",
+        -0.46406108
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to the theory of Lin and Shu. The critical version of this property for the universe is used in computing": {
+    "guess": "Density",
+    "confidence": [
+      [
+        "Density",
+        -0.09288606
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to the theory of Lin and Shu. The critical version of this property for the universe is used in computing a parameter also named for this property, denoted omega, which is approximately equal to one. In": {
+    "guess": "Density",
+    "confidence": [
+      [
+        "Density",
+        -0.3275401
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined up to placement in a Brillouin zone. In a gas of them, their chemical potential is zero, so their thermal type can be created or destroyed by random fluctuations. Quantum mechanically, they can be obtained by adding translational symmetry to the Hamiltonian, and the optical variety can interact": {
+    "guess": "Electronic band structure",
+    "confidence": [
+      [
+        "Electronic",
+        -1.3428394
+      ],
+      [
+        " band",
+        -0.11740936
+      ],
+      [
+        " structure",
+        -0.020639757
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated by Gross and Pitaevskii. Its creation was first confirmed by the observation of a distinctive peak in the velocity-distribution graph of a gas of rubidium atoms cooled to 170 nanokelvin with the use": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.0011387886
+      ],
+      [
+        "ose",
+        -7.703444e-06
+      ],
+      [
+        "\u2013",
+        -0.012203983
+      ],
+      [
+        "E",
+        -3.1281633e-07
+      ],
+      [
+        "instein",
+        -1.9361265e-07
+      ],
+      [
+        " cond",
+        -3.917321e-05
+      ],
+      [
+        "ens",
+        -5.538491e-05
+      ],
+      [
+        "ate",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form of the Klein-Gordon equation in which the energy is given by the product of the momentum and the": {
+    "guess": "Quantum field theory",
+    "confidence": [
+      [
+        "Quant",
+        -0.04797546
+      ],
+      [
+        "um",
+        -5.550411e-05
+      ],
+      [
+        " field",
+        -0.65032595
+      ],
+      [
+        " theory",
+        -0.00021450345
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to": {
+    "guess": "Time-dependent Schr\u00f6dinger equation",
+    "confidence": [
+      [
+        "Time",
+        -0.21329279
+      ],
+      [
+        "-dependent",
+        -0.4737839
+      ],
+      [
+        " Sch",
+        -0.01382672
+      ],
+      [
+        "r",
+        -0.08666666
+      ],
+      [
+        "\u00f6",
+        -4.2153304e-05
+      ],
+      [
+        "d",
+        -7.7199176e-05
+      ],
+      [
+        "inger",
+        -7.703444e-06
+      ],
+      [
+        " equation",
+        -0.008121603
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined": {
+    "guess": "Brillouin zone",
+    "confidence": [
+      [
+        "Br",
+        -0.14872566
+      ],
+      [
+        "ill",
+        -0.004711596
+      ],
+      [
+        "ou",
+        -2.577686e-06
+      ],
+      [
+        "in",
+        -1.6762922e-05
+      ],
+      [
+        " zone",
+        -0.022655733
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to the theory of Lin and Shu. The critical version of this property for the universe is used in computing a parameter also named for this property, denoted omega, which is approximately equal to one. In one formulation of Bernoulli's principle, the dynamic pressure is given as one-half this times fluid velocity squared. This intensive property is constant in an isochoric process. A hydrometer can determine the specific gravity, and thus, this quantity, which determines whether or not an object will float in a fluid. For 10 points, what quantity is given as mass divided by volume?": {
+    "guess": "Density",
+    "confidence": [
+      [
+        "Density",
+        -0.0068246555
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to the theory of Lin and Shu. The critical version of this property for the universe is used in computing a parameter also named for this property, denoted omega, which is approximately equal to one. In one formulation of Bernoulli's principle, the dynamic pressure is given as one-half this times fluid": {
+    "guess": "Density",
+    "confidence": [
+      [
+        "Density",
+        -0.30074126
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n": {
+    "guess": "Wave impedance",
+    "confidence": [
+      [
+        "Wave",
+        -0.07816507
+      ],
+      [
+        " impedance",
+        -0.05143991
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined up to placement in a Brillouin zone. In a gas of them, their chemical potential is zero, so their": {
+    "guess": "Brillouin zone",
+    "confidence": [
+      [
+        "Br",
+        -0.39690477
+      ],
+      [
+        "ill",
+        -0.0027106039
+      ],
+      [
+        "ou",
+        -1.8550976e-05
+      ],
+      [
+        "in",
+        -2.9756122e-05
+      ],
+      [
+        " zone",
+        -0.11709906
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form of the Klein-Gordon equation in which the energy is given by the product of the momentum and the speed of light. This interaction is described by the U(1) symmetry group. Powers of its coupling constant appear in derivations of fine and hyperfine structure. The only interaction mediated by a massless": {
+    "guess": "Electromagnetic interaction",
+    "confidence": [
+      [
+        "Elect",
+        -0.17646626
+      ],
+      [
+        "rom",
+        -0.0045566307
+      ],
+      [
+        "agnetic",
+        -0.38628945
+      ],
+      [
+        " interaction",
+        -0.042496055
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated by Gross and Pitaevskii. Its creation was first confirmed by the observation of a distinctive peak in the velocity-distribution graph of a gas of rubidium atoms cooled to 170 nanokelvin with the use of lasers and evaporative cooling. That discovery, made in 1995 by Carl Wieman and Eric Cornell at the University of Colorado- Boulder, earned them the 2001 Nobel Prize in Physics, which they shared with Wolfgang Ketterle of MIT. FTP, name this doubly-eponymous state of matter observed near absolute": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.054728463
+      ],
+      [
+        "ose",
+        -0.00023298002
+      ],
+      [
+        "\u2013",
+        -0.016517216
+      ],
+      [
+        "E",
+        -1.9361265e-07
+      ],
+      [
+        "instein",
+        -1.147242e-06
+      ],
+      [
+        " cond",
+        -0.0018397523
+      ],
+      [
+        "ens",
+        -0.006954658
+      ],
+      [
+        "ate",
+        -3.190179e-05
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality": {
+    "guess": "Wave impedance",
+    "confidence": [
+      [
+        "Wave",
+        -0.0043288763
+      ],
+      [
+        " impedance",
+        -0.00597442
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality when the\n Poynting theorem is used to calculate the power flow into a given surface. This complex quantity is\n inversely proportional to the frequency for a capacitor and directly proportional to the frequency for an\n inductor. This is the ratio of the complex voltage to the complex current.": {
+    "guess": "Impedance",
+    "confidence": [
+      [
+        "Imp",
+        -0.33073932
+      ],
+      [
+        "ed",
+        -1.998142e-05
+      ],
+      [
+        "ance",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined up to placement in a Brillouin zone. In a gas of them, their chemical potential is zero, so their thermal type can be created or destroyed by random fluctuations. Quantum mechanically, they can be obtained by adding translational symmetry to the Hamiltonian, and the optical variety can interact with infrared light. However, most of these are of the acoustic variety, and their propagation speed": {
+    "guess": "Phonon",
+    "confidence": [
+      [
+        "Ph",
+        -0.03878108
+      ],
+      [
+        "on",
+        -0.0011267638
+      ],
+      [
+        "on",
+        -0.0038773888
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force": {
+    "guess": "Electromagnetic interaction",
+    "confidence": [
+      [
+        "Elect",
+        -0.72120655
+      ],
+      [
+        "rom",
+        -0.091319084
+      ],
+      [
+        "agnetic",
+        -0.48569867
+      ],
+      [
+        " interaction",
+        -0.43047622
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form": {
+    "guess": "Quantum chromodynamics",
+    "confidence": [
+      [
+        "Quant",
+        -0.71932226
+      ],
+      [
+        "um",
+        -2.0339032e-05
+      ],
+      [
+        " chrom",
+        -0.1028629
+      ],
+      [
+        "odynamics",
+        -2.057744e-05
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined up to placement in a Brillouin zone. In a gas of them, their chemical potential is zero, so their thermal type can be created or destroyed by random fluctuations. Quantum mechanically, they can be obtained by adding translational symmetry to the Hamiltonian, and the optical variety can interact with infrared light. However, most of these are of the acoustic variety, and their propagation speed is equal to the speed of sound in a solid. For 10 points, name these quantized vibrational modes in a crystal lattice that notably interact with Cooper pairs in BCS theory.": {
+    "guess": "Phonon",
+    "confidence": [
+      [
+        "Ph",
+        -0.0008450066
+      ],
+      [
+        "on",
+        -6.289474e-05
+      ],
+      [
+        "on",
+        -0.0016447149
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined up to placement in a Brillouin zone. In a gas of them, their chemical potential is zero, so their thermal type can be created or destroyed by random fluctuations. Quantum mechanically, they can": {
+    "guess": "Quasiparticle",
+    "confidence": [
+      [
+        "Qu",
+        -1.478751
+      ],
+      [
+        "as",
+        -0.029454686
+      ],
+      [
+        "ip",
+        -5.2001665e-06
+      ],
+      [
+        "article",
+        -0.01206584
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated by Gross and Pitaevskii. Its creation was first confirmed by the observation of a distinctive peak in the velocity-distribution graph of a gas of rubidium atoms cooled to 170 nanokelvin with the use of lasers and evaporative cooling. That discovery, made in 1995 by Carl Wieman and Eric Cornell at the University of Colorado- Boulder, earned them the 2001 Nobel Prize in Physics, which they shared with Wolfgang Ketterle of MIT. FTP, name this doubly-eponymous state of matter observed near absolute zero in which distinct particles of integer spin \"condense\" to the same quantum state.": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.0022963248
+      ],
+      [
+        "ose",
+        -5.9199425e-05
+      ],
+      [
+        "\u2013",
+        -0.017186977
+      ],
+      [
+        "E",
+        -1.9361265e-07
+      ],
+      [
+        "instein",
+        -4.3202e-07
+      ],
+      [
+        " cond",
+        -0.00061641244
+      ],
+      [
+        "ens",
+        -0.020771127
+      ],
+      [
+        "ate",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality when the\n Poynting theorem is used to calculate the power flow into a given surface. This complex quantity is\n inversely proportional to the frequency for a capacitor and directly proportional": {
+    "guess": "Wave impedance",
+    "confidence": [
+      [
+        "Wave",
+        -0.19840993
+      ],
+      [
+        " impedance",
+        -0.01712277
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated by Gross and Pitaevskii. Its creation was first confirmed by the observation of a distinctive peak in the velocity-distribution graph of a gas of rubidium atoms cooled to 170 nanokelvin with the use of lasers and evaporative cooling. That discovery, made in 1995 by Carl Wieman and Eric Cornell at the University of Colorado- Boulder, earned them the 2001 Nobel Prize in Physics, which they shared": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.09484501
+      ],
+      [
+        "ose",
+        -0.0005995002
+      ],
+      [
+        "\u2013",
+        -0.0071276003
+      ],
+      [
+        "E",
+        -9.0883464e-07
+      ],
+      [
+        "instein",
+        -7.89631e-07
+      ],
+      [
+        " cond",
+        -0.0012929741
+      ],
+      [
+        "ens",
+        -0.0062090238
+      ],
+      [
+        "ate",
+        -2.3676734e-05
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n": {
+    "guess": "Wave impedance",
+    "confidence": [
+      [
+        "Wave",
+        -0.044503417
+      ],
+      [
+        " impedance",
+        -0.009719492
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality when the\n Poynting theorem is used to calculate the power flow into a given surface. This complex": {
+    "guess": "Wave impedance",
+    "confidence": [
+      [
+        "Wave",
+        -0.0315226
+      ],
+      [
+        " impedance",
+        -0.005342975
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated by Gross and Pitaevskii. Its creation was first confirmed by the observation of a distinctive peak": {
+    "guess": "Bose\u2013Einstein condensate",
+    "confidence": [
+      [
+        "B",
+        -0.0012215362
+      ],
+      [
+        "ose",
+        -2.1411865e-05
+      ],
+      [
+        "\u2013",
+        -0.011877023
+      ],
+      [
+        "E",
+        -2.1008714e-06
+      ],
+      [
+        "instein",
+        -1.9361265e-07
+      ],
+      [
+        " cond",
+        -5.1808798e-05
+      ],
+      [
+        "ens",
+        -1.8789384e-05
+      ],
+      [
+        "ate",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated by Gross and Pitaevskii. Its creation was first confirmed by the observation of a distinctive peak in the velocity-distribution graph of a gas of rubidium atoms cooled to 170 nanokelvin with the use of lasers and evaporative cooling. That discovery, made in 1995 by Carl Wieman and Eric Cornell at": {
+    "guess": "Gross-Pitaevskii equation",
+    "confidence": [
+      [
+        "G",
+        -0.23530905
+      ],
+      [
+        "ross",
+        -4.1080468e-05
+      ],
+      [
+        "-P",
+        -0.47976303
+      ],
+      [
+        "ita",
+        -7.7079974e-05
+      ],
+      [
+        "ev",
+        -4.0842064e-05
+      ],
+      [
+        "sk",
+        -0.00070052256
+      ],
+      [
+        "ii",
+        -1.18755715e-05
+      ],
+      [
+        " equation",
+        -0.06282311
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form of the Klein-Gordon equation in which the energy is given by the product of the momentum and the speed of light. This interaction is described by the U(1) symmetry group. Powers of its coupling constant appear in derivations of fine and hyperfine structure. The only interaction mediated by a massless particle, the Glashow-Weinberg-Salaam theory unifies this force with the weak force. Its quantized form is graphically described by Feynman diagrams. For 10 points, name this fundamental force,": {
+    "guess": "Electromagnetic force",
+    "confidence": [
+      [
+        "Elect",
+        -0.099213816
+      ],
+      [
+        "rom",
+        -0.014413467
+      ],
+      [
+        "agnetic",
+        -0.026139466
+      ],
+      [
+        " force",
+        -0.71020573
+      ]
+    ]
+  },
+  "Their wavevectors can be placed in Brillouin zones in reciprocal space, and their pseudomomentum is defined up to placement in a Brillouin zone. In a gas of them, their chemical potential is zero, so their thermal type can be created or destroyed by random fluctuations. Quantum mechanically, they can be obtained by adding translational symmetry to the Hamiltonian, and the optical variety can interact with infrared light. However, most of these are of the acoustic variety, and their propagation speed is equal to the speed of sound in a solid. For 10 points, name these quantized vibrational modes": {
+    "guess": "Phonon",
+    "confidence": [
+      [
+        "Ph",
+        -0.00085512054
+      ],
+      [
+        "on",
+        -3.392825e-05
+      ],
+      [
+        "on",
+        -0.015522417
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality when the\n Poynting theorem is used to calculate the power flow into a given surface. This complex quantity is\n inversely proportional to the frequency for a capacitor and directly proportional to the frequency for an\n inductor. This is the ratio of the complex voltage to the complex current. For 10 points, identify this\n quantity composed of a real resistance and an imaginary reactance, the generalized resistance of alternating\n current flow.": {
+    "guess": "Electrical impedance",
+    "confidence": [
+      [
+        "Elect",
+        -0.006980937
+      ],
+      [
+        "rical",
+        -6.0749073e-05
+      ],
+      [
+        " impedance",
+        -0.017256
+      ]
+    ]
+  },
+  "In waveguides, this quantity is proportional to the square root of permeability over permittivity times\n either the wave number or the inverse of the wave number, depending on whether the wave is transverse\n magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality when the\n Poynting theorem is used to calculate the power flow into a given surface. This complex quantity is\n inversely proportional to the frequency for a capacitor and directly proportional to the frequency for an\n inductor. This is the ratio of the complex voltage to the complex current. For 10 points, identify this\n quantity composed of a real resistance and an imaginary reactance, the": {
+    "guess": "Electrical impedance",
+    "confidence": [
+      [
+        "Elect",
+        -0.01096092
+      ],
+      [
+        "rical",
+        -2.3915141e-05
+      ],
+      [
+        " impedance",
+        -0.025571402
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form of the Klein-Gordon equation in which the energy is given by the product of the momentum and the speed of light. This interaction is described by the U(1) symmetry group. Powers of its coupling constant": {
+    "guess": "Quantum electrodynamics",
+    "confidence": [
+      [
+        "Quant",
+        -0.19537397
+      ],
+      [
+        "um",
+        -2.8160932e-06
+      ],
+      [
+        " elect",
+        -0.16966644
+      ],
+      [
+        "rod",
+        -7.624555e-05
+      ],
+      [
+        "ynamics",
+        -5.080963e-06
+      ]
+    ]
+  },
+  "The wavefunction of a two-particle system in a bound state that interacts through this fundamental force is given by the Bethe-Saltpeter equation. The gauge boson controlling this interaction obeys a form of the Klein-Gordon equation in which the energy is given by the product of the momentum and the speed of light. This interaction is described by the U(1) symmetry group. Powers of its coupling constant appear in derivations of fine and hyperfine structure. The only interaction mediated by a massless particle, the Glashow-Weinberg-Salaam theory unifies this force with the weak force. Its quantized form is graphically described by Feynman diagrams. For 10 points, name this fundamental force, which is described by the Maxwell equations and which is mediated by photons.": {
+    "guess": "Electromagnetic interaction",
+    "confidence": [
+      [
+        "Elect",
+        -0.005941717
+      ],
+      [
+        "rom",
+        -0.0034009751
+      ],
+      [
+        "agnetic",
+        -0.2775912
+      ],
+      [
+        " interaction",
+        -0.47311327
+      ]
+    ]
+  },
+  "The wavefunction of this type of system can be approximated by modifying the Schrodinger Equation to account for the \"coupling\" interactions among the system's constituent particles, a method formulated": {
+    "guess": "Coupled cluster",
+    "confidence": [
+      [
+        "Cou",
+        -0.7117148
+      ],
+      [
+        "pled",
+        -0.023310818
+      ],
+      [
+        " cluster",
+        -0.11486112
+      ]
+    ]
+  },
+  "Waves of this quantity are responsible for maintaining the structure of spiral galaxies, according to the theory of Lin and Shu. The critical version of this property for the universe is used in computing a parameter also named for this property, denoted omega, which is approximately equal to one. In one formulation of Bernoulli's principle, the dynamic pressure is given as one-half this times fluid velocity squared. This intensive property is constant in an isochoric process. A hydrometer can determine": {
+    "guess": "Density",
+    "confidence": [
+      [
+        "Density",
+        -1.4718189
+      ]
+    ]
+  }
+}

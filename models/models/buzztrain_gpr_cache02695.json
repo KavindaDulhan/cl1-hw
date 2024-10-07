@@ -1,0 +1,78 @@
+{
+  "Haffkine created a vaccine for it, and its causative agent _pasturella pestis_ was isolated independently by Shibasabaru and Yersin. It is transmitted by _xenopsylla cheopsis_ and causes pain in the armpits,": {
+    "guess": "Bubonic plague",
+    "confidence": [
+      [
+        "B",
+        -0.3150907
+      ],
+      [
+        "ub",
+        -0.0008211842
+      ],
+      [
+        "onic",
+        -2.4034345e-05
+      ],
+      [
+        " plague",
+        -0.026384244
+      ]
+    ]
+  },
+  "Haffkine created a vaccine for it, and its causative agent _pasturella pestis_ was isolated independently": {
+    "guess": "Plague",
+    "confidence": [
+      [
+        "Pl",
+        -0.5880847
+      ],
+      [
+        "ague",
+        -2.5583993e-05
+      ]
+    ]
+  },
+  "Haffkine created a vaccine for it, and its causative agent _pasturella pestis_ was isolated independently by Shibasabaru and Yersin. It is transmitted by _xenopsylla cheopsis_ and causes pain in the armpits, neck, and groin as the lymph nodes swell and blood vessels break. FTP, identify this dreaded disease and principal contributor to the Black Death.": {
+    "guess": "Bubonic plague",
+    "confidence": [
+      [
+        "B",
+        -0.26833454
+      ],
+      [
+        "ub",
+        -0.00014585316
+      ],
+      [
+        "onic",
+        -1.1994775e-05
+      ],
+      [
+        " plague",
+        -0.04347001
+      ]
+    ]
+  },
+  "Haffkine created a vaccine for it, and its causative agent _pasturella pestis_ was isolated independently by Shibasabaru and Yersin. It is transmitted by _xenopsylla cheopsis_ and causes pain in the armpits, neck, and groin as the lymph nodes swell and blood vessels break. FTP, identify this dreaded": {
+    "guess": "Bubonic plague",
+    "confidence": [
+      [
+        "B",
+        -0.14906791
+      ],
+      [
+        "ub",
+        -0.0007696056
+      ],
+      [
+        "onic",
+        -0.00011200665
+      ],
+      [
+        " plague",
+        -0.2729161
+      ]
+    ]
+  }
+}

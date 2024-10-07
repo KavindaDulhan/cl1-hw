@@ -1,0 +1,144 @@
+{
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased": {
+    "guess": "Ideal gas law",
+    "confidence": [
+      [
+        "Ideal",
+        -1.3922589
+      ],
+      [
+        " gas",
+        -0.011711491
+      ],
+      [
+        " law",
+        -0.00033475063
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.005555909
+      ],
+      [
+        "mer",
+        -2.220075e-06
+      ],
+      [
+        "ase",
+        -1.9146995e-05
+      ],
+      [
+        " chain",
+        -0.1703121
+      ],
+      [
+        " reaction",
+        -3.2736214e-05
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus aquaticus. This process occurs via repeated steps of thermal cycling through denaturing, annealing, and elongating phases. That enzyme adds nucleotide bases to match a template strand, forming a copy.": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.023058766
+      ],
+      [
+        "mer",
+        -2.6968896e-06
+      ],
+      [
+        "ase",
+        -1.3306016e-05
+      ],
+      [
+        " chain",
+        -0.051591527
+      ],
+      [
+        " reaction",
+        -5.5265704e-05
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus aquaticus. This process occurs via repeated steps of thermal cycling through denaturing, annealing,": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.028440334
+      ],
+      [
+        "mer",
+        -3.0545007e-06
+      ],
+      [
+        "ase",
+        -3.0113732e-05
+      ],
+      [
+        " chain",
+        -0.040140893
+      ],
+      [
+        " reaction",
+        -4.310693e-05
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus aquaticus. This process occurs via repeated steps of thermal cycling through denaturing, annealing, and elongating phases. That enzyme adds nucleotide bases to match a template strand, forming a copy. For 10 points, name this technique to create many copies of a single piece of DNA.": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.014084992
+      ],
+      [
+        "mer",
+        -2.2723105e-05
+      ],
+      [
+        "ase",
+        -1.831257e-05
+      ],
+      [
+        " chain",
+        -0.041290462
+      ],
+      [
+        " reaction",
+        -9.031158e-05
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.09215306
+      ],
+      [
+        "mer",
+        -3.1737043e-06
+      ],
+      [
+        "ase",
+        -1.1994775e-05
+      ],
+      [
+        " chain",
+        -0.06758079
+      ],
+      [
+        " reaction",
+        -6.873572e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.005498053
+      ],
+      [
+        " Amb",
+        -0.00040195213
+      ],
+      [
+        "assadors",
+        -1.6286107e-05
+      ]
+    ]
+  },
+  "When its upper apo-physic growth area is irritated by repetitive stress, its attached tendons can become inflamed by Osgood-Schlatter disease. Near its top, Gerdy's tubercle allows for a namesake band of tissue to pass through it. The gracilis [gra-SIL-is] and semi-tendi-no-sus tendons insert into it, and the sartorius muscle is attached to its upper inner section. At its bottom, the medial malleolus articulates with the talus. Its two intercondylar tubercles meet the patella at its top.  FTP, name": {
+    "guess": "Tibia",
+    "confidence": [
+      [
+        "T",
+        -0.5455247
+      ],
+      [
+        "ibia",
+        -0.0028387532
+      ]
+    ]
+  },
+  "When its upper apo-physic growth area is irritated by repetitive stress, its attached tendons can become inflamed by Osgood-Schlatter disease. Near its top, Gerdy's tubercle allows for a namesake band": {
+    "guess": "Tibia",
+    "confidence": [
+      [
+        "T",
+        -0.57750297
+      ],
+      [
+        "ibia",
+        -0.015270373
+      ]
+    ]
+  },
+  "When its upper apo-physic growth area is irritated by repetitive stress, its attached tendons can become inflamed by Osgood-Schlatter disease. Near its top, Gerdy's tubercle allows for a namesake band of tissue to pass through it. The gracilis [gra-SIL-is] and semi-tendi-no-sus tendons insert into it, and the sartorius muscle is attached to its upper inner section. At its bottom, the medial malleolus articulates with the talus. Its two intercondylar tubercles meet the patella at its top.  FTP, name this bone which forms the shin and creates the structure of the lower leg along with the fibula.": {
+    "guess": "Tibia",
+    "confidence": [
+      [
+        "T",
+        -0.006213409
+      ],
+      [
+        "ibia",
+        -5.4550484e-05
+      ]
+    ]
+  },
+  "In the upper right of this work, a dark river flows from under a bridge in the foreground into the horizon. In the leftmost central region of the painting, two shadowy figures can be seen. The bright (*) orange and red sky coincides with those created by the eruption of Krakatoa in 1883, merely a decade before the painting was finished. FTP, name this expressionist painting by Edward Munch titled after the utterance of the figure in the foreground.": {
+    "guess": "The Scream",
+    "confidence": [
+      [
+        "The",
+        -0.0008628651
+      ],
+      [
+        " S",
+        -0.0011760591
+      ],
+      [
+        "cream",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of a human skull. At the top of this painting, an army of soldiers wearing gas masks march rightward; that army faces a procession of workers carrying red banners to celebrate May Day. In the center, two propeller-like shapes appear; one depicts a microscope as well as cells from the human body, while the other depicts a series of swirling galaxies. Removed from the Rockefeller Center due to its favorable depiction of Lenin, it focuses on a worker operating a huge machine above a hand grasping a glowing dial. FTP, name this mural by Diego Rivera.": {
+    "guess": "Man, Controller of the Universe",
+    "confidence": [
+      [
+        "Man",
+        -0.009323571
+      ],
+      [
+        ",",
+        -0.37914416
+      ],
+      [
+        " Controller",
+        -0.0013155935
+      ],
+      [
+        " of",
+        -2.2007884e-05
+      ],
+      [
+        " the",
+        -0.00017028624
+      ],
+      [
+        " Universe",
+        -0.00015121732
+      ]
+    ]
+  },
+  "In the upper right of this work, a dark river flows from under a bridge in the foreground into the horizon.": {
+    "guess": "The Hay Wain",
+    "confidence": [
+      [
+        "The",
+        -0.69992477
+      ],
+      [
+        " Hay",
+        -1.2097486
+      ],
+      [
+        " W",
+        -0.00345158
+      ],
+      [
+        "ain",
+        -0.000107000094
+      ]
+    ]
+  },
+  "In the upper right of this work, a dark river flows from under a bridge in the foreground into the horizon. In the leftmost central region of the painting, two shadowy figures can be seen. The bright (*)": {
+    "guess": "The Raft of the Medusa",
+    "confidence": [
+      [
+        "The",
+        -0.5669413
+      ],
+      [
+        " Ra",
+        -1.3525068
+      ],
+      [
+        "ft",
+        -2.8160932e-06
+      ],
+      [
+        " of",
+        -2.6968896e-06
+      ],
+      [
+        " the",
+        -0.0006747855
+      ],
+      [
+        " Med",
+        -5.8603408e-05
+      ],
+      [
+        "usa",
+        -0.00010330478
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting and surround a purple and red clad Virgin Mary, who looks over the title action, while St. John the Baptist and Christ form a triangle in position with her. At the far right of this work, a mourner carries a large silver and gold crucifix, and at the bottom left, a child bearing a torch points to the title figure. At the center of this work, St. Stephen and St. Augustine bend over the corpse": {
+    "guess": "The Entombment of Christ",
+    "confidence": [
+      [
+        "The",
+        -0.5943973
+      ],
+      [
+        " Ent",
+        -0.17148814
+      ],
+      [
+        "omb",
+        -2.3319124e-05
+      ],
+      [
+        "ment",
+        -0.00034309123
+      ],
+      [
+        " of",
+        -0.06094184
+      ],
+      [
+        " Christ",
+        -0.0011021106
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed": {
+    "guess": "Saint Eligius",
+    "confidence": [
+      [
+        "Saint",
+        -0.8990696
+      ],
+      [
+        " Elig",
+        -1.1243066
+      ],
+      [
+        "ius",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "When its upper apo-physic growth area is irritated by repetitive stress, its attached tendons can become inflamed by Osgood-Schlatter disease. Near its top, Gerdy's tubercle allows for a namesake band of tissue to pass through it. The gracilis [gra-SIL-is] and semi-tendi-no-sus tendons insert into it, and the sartorius muscle is attached to its upper inner section. At its bottom, the medial malleolus": {
+    "guess": "Tibia",
+    "confidence": [
+      [
+        "T",
+        -0.33036637
+      ],
+      [
+        "ibia",
+        -0.005416131
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of a human skull. At the top of this painting, an army of soldiers wearing gas masks march rightward; that army faces a procession of workers carrying red banners to celebrate May Day. In the center, two propeller-like shapes appear; one depicts a microscope as well as cells from the human body, while": {
+    "guess": "Man at the Crossroads",
+    "confidence": [
+      [
+        "Man",
+        -0.13541336
+      ],
+      [
+        " at",
+        -0.17574494
+      ],
+      [
+        " the",
+        -0.002173101
+      ],
+      [
+        " Cross",
+        -0.002339139
+      ],
+      [
+        "roads",
+        -0.0002751598
+      ]
+    ]
+  },
+  "In the upper right of this work, a dark river flows from under a bridge in the foreground into the horizon. In the leftmost central region of the painting, two shadowy figures can be seen. The bright (*) orange and red sky coincides with those created by the eruption of Krakatoa in 1883, merely a decade": {
+    "guess": "The Scream",
+    "confidence": [
+      [
+        "The",
+        -0.05712793
+      ],
+      [
+        " S",
+        -0.014492777
+      ],
+      [
+        "cream",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of a human skull. At the top of this painting, an army of soldiers wearing gas masks march rightward; that army faces a procession of workers carrying red banners to celebrate May Day. In the center, two": {
+    "guess": "Man, Controller of the Universe",
+    "confidence": [
+      [
+        "Man",
+        -0.011029198
+      ],
+      [
+        ",",
+        -0.06219242
+      ],
+      [
+        " Controller",
+        -6.206032e-05
+      ],
+      [
+        " of",
+        -6.869018e-06
+      ],
+      [
+        " the",
+        -0.00015097891
+      ],
+      [
+        " Universe",
+        -3.9530823e-05
+      ]
+    ]
+  },
+  "When its upper apo-physic growth area is irritated by repetitive stress, its attached tendons can become inflamed by Osgood-Schlatter disease. Near its top, Gerdy's tubercle allows for a namesake band of tissue to pass through it. The gracilis [gra-SIL-is] and semi-tendi-no-sus tendons insert into it,": {
+    "guess": "Patellar ligament",
+    "confidence": [
+      [
+        "Pat",
+        -0.46985826
+      ],
+      [
+        "ellar",
+        -0.26353225
+      ],
+      [
+        " lig",
+        -0.53596157
+      ],
+      [
+        "ament",
+        -0.00023178798
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting": {
+    "guess": "The Burial of the Count of Orgaz",
+    "confidence": [
+      [
+        "The",
+        -0.8787721
+      ],
+      [
+        " Bur",
+        -1.6998276
+      ],
+      [
+        "ial",
+        -9.221884e-05
+      ],
+      [
+        " of",
+        -0.00013488642
+      ],
+      [
+        " the",
+        -0.16426
+      ],
+      [
+        " Count",
+        -0.0020917344
+      ],
+      [
+        " of",
+        -0.00016814057
+      ],
+      [
+        " Org",
+        -1.7716551e-05
+      ],
+      [
+        "az",
+        -0.0001627764
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of a human skull. At the top of this painting, an army of soldiers wearing gas masks march rightward;": {
+    "guess": "Man, Controller of the Universe",
+    "confidence": [
+      [
+        "Man",
+        -0.85774696
+      ],
+      [
+        ",",
+        -0.1132402
+      ],
+      [
+        " Controller",
+        -0.00075983827
+      ],
+      [
+        " of",
+        -2.749125e-05
+      ],
+      [
+        " the",
+        -4.8351892e-05
+      ],
+      [
+        " Universe",
+        -8.45898e-05
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting and surround a purple and red clad Virgin Mary, who looks over the title action, while St. John the Baptist and Christ form a triangle in position with her. At the far right of this work, a mourner carries a large silver and gold crucifix, and at the bottom left, a child bearing a torch points": {
+    "guess": "The Disrobing of Christ",
+    "confidence": [
+      [
+        "The",
+        -0.24605377
+      ],
+      [
+        " Dis",
+        -0.87025154
+      ],
+      [
+        "ro",
+        -0.0005943781
+      ],
+      [
+        "bing",
+        -0.00088443
+      ],
+      [
+        " of",
+        -0.00015657782
+      ],
+      [
+        " Christ",
+        -0.0011868956
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting and surround a purple and red clad Virgin Mary, who looks over the title action, while St. John": {
+    "guess": "The Disrobing of Christ",
+    "confidence": [
+      [
+        "The",
+        -0.66696763
+      ],
+      [
+        " Dis",
+        -0.7867399
+      ],
+      [
+        "ro",
+        -0.0118048005
+      ],
+      [
+        "bing",
+        -0.002968192
+      ],
+      [
+        " of",
+        -0.00042340517
+      ],
+      [
+        " Christ",
+        -0.0014664155
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of a human skull. At the top of this painting, an army of soldiers wearing gas masks march rightward; that army faces a procession of workers carrying red banners to celebrate May Day. In the center, two propeller-like shapes appear; one depicts a microscope as well as cells from the human body, while the other depicts a series of swirling galaxies. Removed from the Rockefeller Center due to its favorable depiction of Lenin, it focuses on a worker operating a huge machine above a hand grasping a": {
+    "guess": "Man at the Crossroads",
+    "confidence": [
+      [
+        "Man",
+        -0.01525453
+      ],
+      [
+        " at",
+        -0.15470804
+      ],
+      [
+        " the",
+        -7.946405e-05
+      ],
+      [
+        " Cross",
+        -0.00019579215
+      ],
+      [
+        "roads",
+        -1.4498052e-05
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting and surround a purple and red clad Virgin Mary, who looks over the title action, while St. John the Baptist and Christ form a triangle in position with her. At the far right of this work, a mourner": {
+    "guess": "The Burial of the Count of Orgaz",
+    "confidence": [
+      [
+        "The",
+        -0.38030785
+      ],
+      [
+        " Bur",
+        -0.5568062
+      ],
+      [
+        "ial",
+        -0.00019603055
+      ],
+      [
+        " of",
+        -0.00020222914
+      ],
+      [
+        " the",
+        -0.0016860089
+      ],
+      [
+        " Count",
+        -0.0013042837
+      ],
+      [
+        " of",
+        -0.001081041
+      ],
+      [
+        " Org",
+        -4.143808e-05
+      ],
+      [
+        "az",
+        -3.035214e-05
+      ]
+    ]
+  },
+  "When its upper apo-physic growth area is irritated by repetitive stress, its attached tendons can become": {
+    "guess": "Growth plate injury",
+    "confidence": [
+      [
+        "G",
+        -0.40035567
+      ],
+      [
+        "rowth",
+        -0.30033985
+      ],
+      [
+        " plate",
+        -0.07839436
+      ],
+      [
+        " injury",
+        -0.8486416
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it,": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.044384945
+      ],
+      [
+        " Amb",
+        -0.0020321344
+      ],
+      [
+        "assadors",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "In the upper left corner, smoke rises from the beard of a marble statue wearing a crucifix. Below it, a group of children stare into a giant lens, which appears next to a machine displaying the x-ray of a human skull. At the top of this painting, an army of soldiers wearing gas masks march rightward; that army faces a procession of workers carrying red banners to celebrate May Day. In the center, two propeller-like shapes appear; one depicts a microscope as well as cells from the human body, while the other depicts a series of swirling galaxies. Removed from the Rockefeller Center due to its favorable": {
+    "guess": "Man at the Crossroads",
+    "confidence": [
+      [
+        "Man",
+        -0.00646039
+      ],
+      [
+        " at",
+        -0.1303363
+      ],
+      [
+        " the",
+        -0.00026264708
+      ],
+      [
+        " Cross",
+        -0.0005642342
+      ],
+      [
+        "roads",
+        -4.3583746e-05
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting and surround a purple and red clad Virgin Mary, who looks over the title action, while St. John the Baptist and Christ form a triangle in position with her. At the far right of this work, a mourner carries a large silver and gold crucifix, and at the bottom left, a child bearing a torch points to the title figure. At the center of this work, St. Stephen and St. Augustine bend over the corpse of the title armored figure. For 10 points, name this painting depicting the funeral of Don Gonzalo Ru\u00edz, a work by El Greco.": {
+    "guess": "The Burial of the Count of Orgaz",
+    "confidence": [
+      [
+        "The",
+        -0.032655563
+      ],
+      [
+        " Bur",
+        -0.013950758
+      ],
+      [
+        "ial",
+        -4.604148e-06
+      ],
+      [
+        " of",
+        -8.776276e-06
+      ],
+      [
+        " the",
+        -0.010839351
+      ],
+      [
+        " Count",
+        -0.0019264942
+      ],
+      [
+        " of",
+        -0.0013076179
+      ],
+      [
+        " Org",
+        -6.1821906e-05
+      ],
+      [
+        "az",
+        -6.229872e-05
+      ]
+    ]
+  },
+  "In the upper right of this work, a dark river flows from under a bridge in the foreground into the horizon. In the leftmost central region of the painting, two shadowy figures can be seen. The bright (*) orange and red sky coincides with those created by the eruption of Krakatoa in 1883, merely a decade before the painting was finished. FTP, name this expressionist painting by Edward Munch titled after": {
+    "guess": "The Scream",
+    "confidence": [
+      [
+        "The",
+        -0.002074956
+      ],
+      [
+        " S",
+        -0.010067353
+      ],
+      [
+        "cream",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "In the upper right of this painting, a saint holds a bent piece of iron, while in the upper left a yellow-robed St. Peter dangles a pair of keys in his hand. Icy clouds swirl on the top half of this painting and surround a purple and red clad Virgin Mary, who looks over the title action, while St. John the Baptist and Christ form a triangle in position with her. At the far right of this work, a mourner carries a large silver and gold crucifix, and at the bottom left, a child bearing a torch points to the title figure. At the center of this work, St. Stephen and St. Augustine bend over the corpse of the title armored figure. For 10 points, name this painting depicting the funeral of Don Gonzalo": {
+    "guess": "The Burial of the Count of Orgaz",
+    "confidence": [
+      [
+        "The",
+        -0.32733655
+      ],
+      [
+        " Bur",
+        -0.30046403
+      ],
+      [
+        "ial",
+        -2.220075e-06
+      ],
+      [
+        " of",
+        -2.2842309e-05
+      ],
+      [
+        " the",
+        -0.065663315
+      ],
+      [
+        " Count",
+        -0.005257953
+      ],
+      [
+        " of",
+        -0.0015255718
+      ],
+      [
+        " Org",
+        -6.241792e-05
+      ],
+      [
+        "az",
+        -5.6219335e-05
+      ]
+    ]
+  }
+}

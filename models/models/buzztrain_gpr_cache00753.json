@@ -1,0 +1,79 @@
+{
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described": {
+    "guess": "Column of Phocas",
+    "confidence": [
+      [
+        "Column",
+        -0.641333
+      ],
+      [
+        " of",
+        -0.0007015954
+      ],
+      [
+        " Ph",
+        -1.1062342
+      ],
+      [
+        "oc",
+        -0.004368171
+      ],
+      [
+        "as",
+        -0.00018411019
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim, his forty years as a slave are mentioned in Exodus, as is his selection to fight the people of Amalek.  Upon the death of Moses, this man led the Israelites.  FTP, identify this namesake of the sixth": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Josh",
+        -0.0070610736
+      ],
+      [
+        "ua",
+        -6.635165e-05
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim, his forty years as a slave are mentioned in Exodus, as is his selection to fight the people of Amalek.  Upon the death of Moses, this man led the Israelites.  FTP, identify this namesake of the sixth book of the Old-Testament, perhaps best known for conquering Jericho.": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Josh",
+        -0.017659448
+      ],
+      [
+        "ua",
+        -2.8325678e-05
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim, his forty years as a slave are mentioned in Exodus, as is his selection to fight the people of Amalek.": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Josh",
+        -0.016765878
+      ],
+      [
+        "ua",
+        -2.3915141e-05
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim,": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Josh",
+        -0.02904045
+      ],
+      [
+        "ua",
+        -0.00018720949
+      ]
+    ]
+  }
+}

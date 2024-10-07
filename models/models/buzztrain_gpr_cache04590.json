@@ -1,0 +1,98 @@
+{
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet above it. Founded as a monastery town in 1649, the Monastery District has been supplanted as the center of the city by Suhbaatar Square. With a population of 600,000, it lies on the Trans-Siberian Railroad, and has a name meaning \"red hero\". FTP, what is this capital of Mongolia?": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -0.0019237561
+      ],
+      [
+        "la",
+        -0.0009446957
+      ],
+      [
+        "an",
+        -0.000101993544
+      ],
+      [
+        "ba",
+        -0.0003618025
+      ],
+      [
+        "atar",
+        -0.00011951648
+      ]
+    ]
+  },
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -0.037450753
+      ],
+      [
+        "la",
+        -0.0102125
+      ],
+      [
+        "an",
+        -0.00031723134
+      ],
+      [
+        "ba",
+        -0.0019267326
+      ],
+      [
+        "atar",
+        -0.00026491194
+      ]
+    ]
+  },
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet above it. Founded as a monastery town in 1649, the Monastery District has been supplanted as the": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -1.4475293
+      ],
+      [
+        "la",
+        -0.05752349
+      ],
+      [
+        "an",
+        -6.992776e-05
+      ],
+      [
+        "ba",
+        -0.00062999426
+      ],
+      [
+        "atar",
+        -0.00017004783
+      ]
+    ]
+  },
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet above it. Founded as a monastery town in 1649, the Monastery District has been supplanted as the center of the city by Suhbaatar Square. With a population of 600,000, it lies on the Trans-Siberian": {
+    "guess": "Ulan-Ude",
+    "confidence": [
+      [
+        "U",
+        -0.028730309
+      ],
+      [
+        "lan",
+        -0.0022086622
+      ],
+      [
+        "-U",
+        -0.035540823
+      ],
+      [
+        "de",
+        -3.523949e-05
+      ]
+    ]
+  }
+}

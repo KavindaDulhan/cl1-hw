@@ -1,0 +1,201 @@
+{
+  "Ewald summation is used to determine the Madelung constant, which in turn figures in the numerator for": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.9958328
+      ],
+      [
+        "attice",
+        -0.001054365
+      ],
+      [
+        " energy",
+        -0.0027235637
+      ]
+    ]
+  },
+  "The Ewald-Oseen Theorem explains the cancellation of the primary wave when light propagates through them. Characterized by its relative permittivity, they can be damaged if the electrostatic field and its corresponding voltage become large enough to induce current. Examples of which include aluminum oxide, porcelain, and air, for ten points, name this type of material which is a poor conductor of electricity,": {
+    "guess": "Dielectric",
+    "confidence": [
+      [
+        "Die",
+        -0.6345287
+      ],
+      [
+        "lectric",
+        -0.0005477914
+      ]
+    ]
+  },
+  "The Ewald-Oseen Theorem explains the cancellation of the primary wave when light propagates through them. Characterized by its relative permittivity, they can be damaged if the electrostatic field and its corresponding voltage become large enough to induce current. Examples of which include aluminum": {
+    "guess": "Relative permittivity",
+    "confidence": [
+      [
+        "Relative",
+        -0.023587964
+      ],
+      [
+        " perm",
+        -0.0015590203
+      ],
+      [
+        "itt",
+        -6.2729996e-06
+      ],
+      [
+        "ivity",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "Ewald summation is used to determine the Madelung constant, which in turn figures in the numerator for determining this quantity. A low-precision value for it is given by the Kapustinskii equation. The inverse of a number between five and twelve is subtracted from one as one factor in another formulation": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.19752342
+      ],
+      [
+        "attice",
+        -8.959636e-05
+      ],
+      [
+        " energy",
+        -0.008535381
+      ]
+    ]
+  },
+  "The Ewald-Oseen Theorem explains the cancellation of the primary wave when light propagates through them. Characterized by its relative permittivity, they can be damaged if the electrostatic field and its corresponding voltage become large enough to induce current. Examples of which include aluminum oxide, porcelain, and air, for ten points, name this type of material which is a poor conductor of electricity, but an efficient supporter of electrostatic fields and is used in making capacitors.": {
+    "guess": "Dielectric",
+    "confidence": [
+      [
+        "Die",
+        -0.0154824965
+      ],
+      [
+        "lectric",
+        -9.233804e-05
+      ]
+    ]
+  },
+  "The Ewald-Oseen Theorem explains the cancellation of the primary wave when light propagates through them.": {
+    "guess": "Fraunhofer diffraction",
+    "confidence": [
+      [
+        "Fra",
+        -1.2965325
+      ],
+      [
+        "un",
+        -8.537869e-06
+      ],
+      [
+        "ho",
+        -9.698699e-05
+      ],
+      [
+        "fer",
+        -5.080963e-06
+      ],
+      [
+        " diff",
+        -0.015224945
+      ],
+      [
+        "raction",
+        -2.0219828e-05
+      ]
+    ]
+  },
+  "Ewald summation is used to determine the Madelung constant, which in turn figures in the numerator for determining this quantity. A low-precision value for it is given by the Kapustinskii equation. The": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.008974984
+      ],
+      [
+        "attice",
+        -3.0545007e-06
+      ],
+      [
+        " energy",
+        -0.00035000502
+      ]
+    ]
+  },
+  "The Ewald-Oseen Theorem explains the cancellation of the primary wave when light propagates through them. Characterized by its relative permittivity, they can be damaged if the electrostatic field and": {
+    "guess": "Relative permittivity",
+    "confidence": [
+      [
+        "Relative",
+        -0.014699417
+      ],
+      [
+        " perm",
+        -0.0015110509
+      ],
+      [
+        "itt",
+        -6.0345924e-06
+      ],
+      [
+        "ivity",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "Ewald summation is used to determine the Madelung constant, which in turn figures in the numerator for determining this quantity. A low-precision value for it is given by the Kapustinskii equation. The inverse of a number between five and twelve is subtracted from one as one factor in another formulation of it. That equation is named for Lande and a man who, with Haber, names a cycle that determines it, Born. Described as the enthalpy of formation of its namesake structure from gases, for 10 points,": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.13619357
+      ],
+      [
+        "attice",
+        -3.7697225e-06
+      ],
+      [
+        " energy",
+        -0.010394911
+      ]
+    ]
+  },
+  "Ewald summation is used to determine the Madelung constant, which in turn figures in the numerator for determining this quantity. A low-precision value for it is given by the Kapustinskii equation. The inverse of a number between five and twelve is subtracted from one as one factor in another formulation of it. That equation is named for Lande and a man who, with Haber, names a cycle that determines it, Born. Described as the enthalpy of formation of its namesake structure from gases, for 10 points, name this energy measuring the strength of bonds in an ionic solid.": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.049085636
+      ],
+      [
+        "attice",
+        -2.6968896e-06
+      ],
+      [
+        " energy",
+        -0.010084932
+      ]
+    ]
+  },
+  "Ewald summation is used to determine the Madelung constant, which in turn figures in the numerator for determining this quantity. A low-precision value for it is given by the Kapustinskii equation. The inverse of a number between five and twelve is subtracted from one as one factor in another formulation of it. That equation is named for Lande and a man who, with Haber, names a cycle that determines": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.5068025
+      ],
+      [
+        "attice",
+        -0.005548678
+      ],
+      [
+        " energy",
+        -0.030175066
+      ]
+    ]
+  }
+}

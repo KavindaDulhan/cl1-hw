@@ -1,0 +1,125 @@
+{
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower courses by the Ature [Ah-to-ray] and Maipures [My-poo-ress] cataracts. Its banks are often littered with a type of Brazil nut and its rare namesake crocodile can reach a length of 12 feet. Although its source in the Parima Range was only explored in 1951, Columbus discovered its mouth near the Gulf": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.010363529
+      ],
+      [
+        "in",
+        -1.6762922e-05
+      ],
+      [
+        "oco",
+        -0.00046784978
+      ]
+    ]
+  },
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower courses by the Ature [Ah-to-ray] and Maipures [My-poo-ress] cataracts. Its banks are often littered with a type of Brazil nut and its rare namesake crocodile can reach a length of 12 feet. Although its source in the Parima Range was only explored in 1951, Columbus discovered its mouth near the Gulf of Paria, at what is now called the Delta Amacuro. This waterway flows in a wide arc through the Llanos [ya-nos] or plains region, passing by Ciudad Bolivar. FTP, identify this river which joins the Amazon": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.0028310306
+      ],
+      [
+        "in",
+        -2.2961513e-05
+      ],
+      [
+        "oco",
+        -0.00041970983
+      ]
+    ]
+  },
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.005717128
+      ],
+      [
+        "in",
+        -8.061054e-06
+      ],
+      [
+        "oco",
+        -0.00035834563
+      ]
+    ]
+  },
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower courses by the Ature [Ah-to-ray] and Maipures [My-poo-ress] cataracts. Its banks are often littered with a type of Brazil nut and its rare namesake crocodile can reach a length of 12 feet. Although its source in the Parima Range was only explored in 1951, Columbus discovered its mouth near the Gulf of Paria, at what is now called the Delta Amacuro. This waterway flows in a wide arc through the Llanos [ya-nos] or plains region, passing by Ciudad Bolivar. FTP, identify this river which joins the Amazon via the Rio Negro and is mostly located in Venezuela.": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.0012623754
+      ],
+      [
+        "in",
+        -1.3544423e-05
+      ],
+      [
+        "oco",
+        -0.0002662232
+      ]
+    ]
+  },
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower courses by the Ature [Ah-to-ray] and Maipures [My-poo-ress] cataracts. Its banks are often littered": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.17637122
+      ],
+      [
+        "in",
+        -1.1041146e-05
+      ],
+      [
+        "oco",
+        -0.0005896099
+      ]
+    ]
+  },
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower courses by the Ature [Ah-to-ray] and Maipures [My-poo-ress] cataracts. Its banks are often littered with a type of Brazil nut and its rare namesake crocodile can reach a length of 12 feet. Although its": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.010631787
+      ],
+      [
+        "in",
+        -2.057744e-05
+      ],
+      [
+        "oco",
+        -0.00030400342
+      ]
+    ]
+  },
+  "The Llovizna Falls mark its confluence with the Caroni River, and it is divided into upper and lower courses by the Ature [Ah-to-ray] and Maipures [My-poo-ress] cataracts. Its banks are often littered with a type of Brazil nut and its rare namesake crocodile can reach a length of 12 feet. Although its source in the Parima Range was only explored in 1951, Columbus discovered its mouth near the Gulf of Paria, at what is now called the Delta Amacuro. This waterway flows in a wide arc through the Llanos": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -0.0007316164
+      ],
+      [
+        "in",
+        -1.569009e-05
+      ],
+      [
+        "oco",
+        -0.0006459566
+      ],
+      [
+        " River",
+        -0.009297111
+      ]
+    ]
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.026684454
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome. Another example, existing when a person does not create the protein dystrophin [DIS- truh-fin],": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -1.4217718
+      ],
+      [
+        "agen",
+        -0.00082356826
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42, \"Sicut cervus,\" and one of these works written for Pope Marcellus II by Palestrina is credited with saving polyphonic music. Verdi's work of this type includes the chorus whispering \"Quantus tremor\"": {
+    "guess": "Mass (music)",
+    "confidence": [
+      [
+        "Mass",
+        -0.17568643
+      ],
+      [
+        " (",
+        -0.7981073
+      ],
+      [
+        "music",
+        -0.00632454
+      ],
+      [
+        ")",
+        -0.0010092307
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42, \"Sicut cervus,\" and one of these works written for Pope Marcellus II by Palestrina is credited with saving polyphonic music. Verdi's work of this type includes the chorus whispering \"Quantus tremor\" in the Sequence after four terrifying timpani strikes. Mozart's presence at the performance of one of these works by Michael Haydn may have influenced his composition of one for the wife of Count von": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.14047365
+      ],
+      [
+        "qu",
+        -0.00055672805
+      ],
+      [
+        "iem",
+        -2.7252845e-05
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth higher, so that the famous opening is in E and the dominant key is A minor, because he believes it to be originally a composition for violin that had been transcribed to its usual instrument. Edith plays the piece in Strindberg's Dream Play and, because it was Stokowski's favorite piece, it famously appears in the opening scene of Fantasia. FTP, name this spooky-sounding organ work, a two-part piece": {
+    "guess": "Toccata and Fugue in D minor",
+    "confidence": [
+      [
+        "T",
+        -0.039492622
+      ],
+      [
+        "occ",
+        -0.032111745
+      ],
+      [
+        "ata",
+        -2.2127088e-05
+      ],
+      [
+        " and",
+        -6.659005e-05
+      ],
+      [
+        " F",
+        -1.6286107e-05
+      ],
+      [
+        "ug",
+        -7.8748824e-05
+      ],
+      [
+        "ue",
+        -5.0378356e-05
+      ],
+      [
+        " in",
+        -0.00012976067
+      ],
+      [
+        " D",
+        -0.0001005631
+      ],
+      [
+        " minor",
+        -0.02635813
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A": {
+    "guess": "Y chromosome",
+    "confidence": [
+      [
+        "Y",
+        -0.13957907
+      ],
+      [
+        " chromosome",
+        -0.048212565
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth higher, so that the famous opening is in E and the dominant key is A minor, because he believes it to": {
+    "guess": "Toccata and Fugue in D minor",
+    "confidence": [
+      [
+        "T",
+        -0.15338263
+      ],
+      [
+        "occ",
+        -0.0025008675
+      ],
+      [
+        "ata",
+        -2.3676734e-05
+      ],
+      [
+        " and",
+        -0.0014080901
+      ],
+      [
+        " F",
+        -2.0815847e-05
+      ],
+      [
+        "ug",
+        -8.613945e-05
+      ],
+      [
+        "ue",
+        -0.000108668944
+      ],
+      [
+        " in",
+        -0.0010606755
+      ],
+      [
+        " D",
+        -0.00021462266
+      ],
+      [
+        " minor",
+        -0.02426805
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.70395213
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth higher, so that the famous opening is in E and the dominant key is A minor, because he believes it to be originally a composition for violin that had been transcribed to its usual instrument. Edith plays the piece in Strindberg's Dream Play and, because it was Stokowski's favorite piece, it famously": {
+    "guess": "Toccata and Fugue in D minor (BWV 565)",
+    "confidence": [
+      [
+        "T",
+        -0.6076722
+      ],
+      [
+        "occ",
+        -0.006509317
+      ],
+      [
+        "ata",
+        -3.7027545e-05
+      ],
+      [
+        " and",
+        -0.00019662657
+      ],
+      [
+        " F",
+        -2.8325678e-05
+      ],
+      [
+        "ug",
+        -4.7755875e-05
+      ],
+      [
+        "ue",
+        -9.2695656e-05
+      ],
+      [
+        " in",
+        -0.00027194494
+      ],
+      [
+        " D",
+        -0.00020377879
+      ],
+      [
+        " minor",
+        -0.015267906
+      ],
+      [
+        " (",
+        -0.8091058
+      ],
+      [
+        "BW",
+        -0.38549873
+      ],
+      [
+        "V",
+        -1.1756368e-05
+      ],
+      [
+        " ",
+        -0.00017660404
+      ],
+      [
+        "565",
+        -0.004311311
+      ],
+      [
+        ")",
+        -0.00083333196
+      ]
+    ]
+  },
+  "Unusually for a Spanish-speaking South American nation, this country is less than fifty percent Catholic. Part of this country's border with Brazil runs through Lake Mirim, and this country is itself bisected east to west by the Rio Negro. Its capital sits on the north side of the estuary separating": {
+    "guess": "Uruguay",
+    "confidence": [
+      [
+        "Ur",
+        -0.007308803
+      ],
+      [
+        "uguay",
+        -0.00014835644
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes": {
+    "guess": "Toccata and Fugue in D minor, BWV 565",
+    "confidence": [
+      [
+        "T",
+        -0.56458926
+      ],
+      [
+        "occ",
+        -0.0030039698
+      ],
+      [
+        "ata",
+        -1.0325924e-05
+      ],
+      [
+        " and",
+        -0.0003781224
+      ],
+      [
+        " F",
+        -2.1008714e-06
+      ],
+      [
+        "ug",
+        -6.9882217e-06
+      ],
+      [
+        "ue",
+        -1.11603495e-05
+      ],
+      [
+        " in",
+        -4.3202e-07
+      ],
+      [
+        " D",
+        -3.0232935e-05
+      ],
+      [
+        " minor",
+        -0.0006359508
+      ],
+      [
+        ",",
+        -7.851042e-05
+      ],
+      [
+        " BW",
+        -2.9352968e-06
+      ],
+      [
+        "V",
+        -1.0445127e-05
+      ],
+      [
+        " ",
+        -7.89631e-07
+      ],
+      [
+        "565",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1353091
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome. Another example, existing when a person does not create the protein dystrophin [DIS- truh-fin], is known as Duchenne [doo-shen]  muscular dystrophy. One type of experiment on these was the reciprocal cross, which was used to study the occurrence of white eyes in fruit flies and can be explained using Punnett squares. A very common example is red-green color blindness. Name these characteristics which are passed on differently by fathers and mothers, usually because they are located on the": {
+    "guess": "Sex-linked traits",
+    "confidence": [
+      [
+        "Sex",
+        -0.80649364
+      ],
+      [
+        "-linked",
+        -1.1740655
+      ],
+      [
+        " traits",
+        -0.1604649
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42, \"Sicut cervus,\" and one of these works written for Pope Marcellus II by Palestrina is credited with saving polyphonic music. Verdi's work of this type includes the chorus whispering \"Quantus tremor\" in the Sequence after four terrifying timpani strikes. Mozart's presence at the performance of one of these works by Michael Haydn may have influenced his composition of one for the wife of Count von Walsegg. For 10 points, name this type of sacred music that includes sections like \"Dies irae,\" a mass to honor the dead.": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.0035674039
+      ],
+      [
+        "qu",
+        -1.0683535e-05
+      ],
+      [
+        "iem",
+        -2.939851e-05
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth higher, so that the famous opening is in E and the dominant key is A minor, because he believes it to be originally a composition for violin that had been transcribed to its usual instrument. Edith plays": {
+    "guess": "Toccata and Fugue in D minor",
+    "confidence": [
+      [
+        "T",
+        -0.37952462
+      ],
+      [
+        "occ",
+        -0.0036866518
+      ],
+      [
+        "ata",
+        -3.035214e-05
+      ],
+      [
+        " and",
+        -0.0014095204
+      ],
+      [
+        " F",
+        -3.4285862e-05
+      ],
+      [
+        "ug",
+        -0.0002227285
+      ],
+      [
+        "ue",
+        -0.00018518302
+      ],
+      [
+        " in",
+        -0.00012546933
+      ],
+      [
+        " D",
+        -0.00036084888
+      ],
+      [
+        " minor",
+        -0.033372827
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42, \"Sicut cervus,\" and one of these works written for Pope Marcellus II by Palestrina is credited with saving polyphonic music. Verdi's work of this type includes the chorus whispering \"Quantus tremor\" in the Sequence after four terrifying timpani strikes. Mozart's presence at the performance of one of": {
+    "guess": "Mass (music)",
+    "confidence": [
+      [
+        "Mass",
+        -0.121296056
+      ],
+      [
+        " (",
+        -0.30422506
+      ],
+      [
+        "music",
+        -0.00767997
+      ],
+      [
+        ")",
+        -0.0007454256
+      ]
+    ]
+  },
+  "Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth higher, so that the famous opening is in E and the dominant key is A minor, because he believes it to be originally a composition for violin that had been transcribed to its usual instrument. Edith plays the piece in Strindberg's Dream Play and, because it was Stokowski's favorite piece, it famously appears in the opening scene of Fantasia. FTP, name this spooky-sounding organ work, a two-part piece by Johann Sebastian Bach.": {
+    "guess": "Toccata and Fugue in D minor, BWV 565",
+    "confidence": [
+      [
+        "T",
+        -0.031685
+      ],
+      [
+        "occ",
+        -0.00053647073
+      ],
+      [
+        "ata",
+        -8.506662e-05
+      ],
+      [
+        " and",
+        -0.00018720949
+      ],
+      [
+        " F",
+        -4.8471098e-05
+      ],
+      [
+        "ug",
+        -1.60477e-05
+      ],
+      [
+        "ue",
+        -1.247159e-05
+      ],
+      [
+        " in",
+        -1.2352386e-05
+      ],
+      [
+        " D",
+        -0.00015467056
+      ],
+      [
+        " minor",
+        -0.026031915
+      ],
+      [
+        ",",
+        -0.34126607
+      ],
+      [
+        " BW",
+        -2.451116e-05
+      ],
+      [
+        "V",
+        -1.1041146e-05
+      ],
+      [
+        " ",
+        -1.3186812e-05
+      ],
+      [
+        "565",
+        -0.0004189946
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome. Another example, existing when a person does not create the protein dystrophin [DIS- truh-fin], is known as Duchenne [doo-shen]  muscular dystrophy. One type of experiment on these was the reciprocal cross, which was used to study the occurrence of white eyes in fruit flies and can be explained using Punnett squares. A very common example is red-green color blindness. Name these characteristics which are passed on differently by fathers and mothers, usually because they are located on the X chromosome.": {
+    "guess": "Sex-linked traits",
+    "confidence": [
+      [
+        "Sex",
+        -0.039545782
+      ],
+      [
+        "-linked",
+        -0.15632764
+      ],
+      [
+        " traits",
+        -0.12160919
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are responsible for synthesizing serum albumin, fibrinogen and thrombin, and they also synthesize apoproteins": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.049266767
+      ]
+    ]
+  },
+  "Unusually for a Spanish-speaking South American nation, this country is less than fifty percent Catholic. Part of this country's border with Brazil runs through Lake Mirim, and this country is itself bisected": {
+    "guess": "Uruguay",
+    "confidence": [
+      [
+        "Ur",
+        -0.011110782
+      ],
+      [
+        "uguay",
+        -5.6457742e-05
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are responsible for synthesizing serum albumin, fibrinogen and thrombin, and they also synthesize apoproteins in order to export LDL and HDL. Separated form endothelial cells by the Space of Disse, these cells are also the main site of gluconeogenesis. These cells express carbamoyl phosphate synthase and arginase I as part of the urea cycle. Existing alongside Ito and Kupffer cells and responsible": {
+    "guess": "Hepatocyte",
+    "confidence": [
+      [
+        "H",
+        -0.037104376
+      ],
+      [
+        "ep",
+        -0.00012344286
+      ],
+      [
+        "at",
+        -5.4669687e-05
+      ],
+      [
+        "ocyte",
+        -0.0026347535
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are responsible for synthesizing serum albumin, fibrinogen and thrombin, and they also synthesize apoproteins in order to export LDL and HDL. Separated form endothelial cells by the Space of Disse, these cells are also the main site of gluconeogenesis. These cells express carbamoyl phosphate synthase and arginase I as part of the urea cycle. Existing alongside Ito and Kupffer cells and responsible for bile production, for 10 points, name this cell type responsible for detoxification, named for and found in the liver.": {
+    "guess": "Hepatocyte",
+    "confidence": [
+      [
+        "H",
+        -0.026176047
+      ],
+      [
+        "ep",
+        -1.1041146e-05
+      ],
+      [
+        "at",
+        -2.6968896e-06
+      ],
+      [
+        "ocyte",
+        -0.010084343
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42, \"Sicut cervus,\" and one of these works written for Pope Marcellus II by Palestrina is credited with": {
+    "guess": "Masses",
+    "confidence": [
+      [
+        "Mass",
+        -0.72148144
+      ],
+      [
+        "es",
+        -0.071867354
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome. Another example, existing when a person does not create the protein dystrophin [DIS- truh-fin], is known as Duchenne [doo-shen]  muscular dystrophy. One type of experiment on these was the reciprocal": {
+    "guess": "Chromosome",
+    "confidence": [
+      [
+        "Ch",
+        -1.5237952
+      ],
+      [
+        "romosome",
+        -0.30727687
+      ]
+    ]
+  },
+  "Unusually for a Spanish-speaking South American nation, this country is less than fifty percent Catholic. Part of this country's border with Brazil runs through Lake Mirim, and this country is itself bisected east to west by the Rio Negro. Its capital sits on the north side of the estuary separating it from (*) Argentina, the Rio de la Plata. For 10 points, identify this country in the southeastern part of South America, whose capital has a name meaning \"I see a mountain,\" Montevideo.": {
+    "guess": "Uruguay",
+    "confidence": [
+      [
+        "Ur",
+        -0.0071150567
+      ],
+      [
+        "uguay",
+        -3.8219583e-05
+      ]
+    ]
+  },
+  "Unusually for a Spanish-speaking South American nation, this country is less than fifty percent Catholic. Part of this country's border with Brazil runs through Lake Mirim, and this country is itself bisected east to west by the Rio Negro. Its capital sits on the north side of the estuary separating it from (*) Argentina, the Rio de la Plata. For 10 points, identify this country in the southeastern": {
+    "guess": "Uruguay",
+    "confidence": [
+      [
+        "Ur",
+        -0.014442838
+      ],
+      [
+        "uguay",
+        -7.278864e-05
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are responsible for synthesizing serum albumin, fibrinogen and thrombin, and they also synthesize apoproteins in order to export LDL and HDL. Separated form endothelial cells by the Space of Disse, these cells are also the main site of gluconeogenesis. These cells express carbamoyl phosphate synthase": {
+    "guess": "Hepatocyte",
+    "confidence": [
+      [
+        "H",
+        -0.53414303
+      ],
+      [
+        "ep",
+        -0.00016170357
+      ],
+      [
+        "at",
+        -2.3915141e-05
+      ],
+      [
+        "ocyte",
+        -0.08504588
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42,": {
+    "guess": "Missa Prolationum",
+    "confidence": [
+      [
+        "M",
+        -0.5342821
+      ],
+      [
+        "issa",
+        -0.008953479
+      ],
+      [
+        " P",
+        -1.0509241
+      ],
+      [
+        "rol",
+        -0.00016539889
+      ],
+      [
+        "ation",
+        -0.00012499251
+      ],
+      [
+        "um",
+        -0.008893694
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome. Another example, existing when a person does not create the protein dystrophin [DIS- truh-fin], is known as Duchenne [doo-shen]  muscular dystrophy. One type of experiment on these was the reciprocal cross, which was used to study the occurrence of white eyes in fruit flies and can be explained": {
+    "guess": "Chromosome",
+    "confidence": [
+      [
+        "Ch",
+        -1.1300107
+      ],
+      [
+        "romosome",
+        -0.16906583
+      ]
+    ]
+  },
+  "Unusually, an early example of this type of work by Johannes Ockeghem includes a setting of Psalm 42, \"Sicut cervus,\" and one of these works written for Pope Marcellus II by Palestrina is credited with saving polyphonic music. Verdi's work of this type includes the chorus whispering \"Quantus tremor\" in the Sequence after four terrifying timpani strikes. Mozart's presence at the performance of one of these works by Michael Haydn may have influenced his composition of one for the wife of Count von Walsegg. For 10 points, name this type of sacred music that includes sections like \"Dies irae,\" a mass": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.0080260495
+      ],
+      [
+        "qu",
+        -2.355753e-05
+      ],
+      [
+        "iem",
+        -2.6418418e-05
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome. Another example, existing when a person does not create the protein dystrophin [DIS- truh-fin], is known as Duchenne [doo-shen]  muscular dystrophy. One type of experiment on these was the reciprocal cross, which was used to study the occurrence of white eyes in fruit flies and can be explained using Punnett squares. A very common example is red-green color blindness. Name these characteristics": {
+    "guess": "Sex-linked traits",
+    "confidence": [
+      [
+        "Sex",
+        -0.8713486
+      ],
+      [
+        "-linked",
+        -0.16728313
+      ],
+      [
+        " traits",
+        -0.036084272
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are responsible for synthesizing serum albumin, fibrinogen and thrombin, and they also synthesize apoproteins in order to export LDL and HDL. Separated form endothelial cells by the Space of Disse, these cells are also the main site of gluconeogenesis. These cells express carbamoyl phosphate synthase and arginase I as part of the urea cycle. Existing alongside Ito and Kupffer cells and responsible for bile production, for 10 points, name this cell type responsible for detoxification, named for and": {
+    "guess": "Hepatocyte",
+    "confidence": [
+      [
+        "H",
+        -0.0054528858
+      ],
+      [
+        "ep",
+        -5.080963e-06
+      ],
+      [
+        "at",
+        -1.147242e-06
+      ],
+      [
+        "ocyte",
+        -0.0010188753
+      ]
+    ]
+  },
+  "Unusually for a Spanish-speaking South American nation, this country is less than fifty percent Catholic.": {
+    "guess": "Religion in Uruguay",
+    "confidence": [
+      [
+        "Rel",
+        -0.051121682
+      ],
+      [
+        "igion",
+        -1.1517961e-05
+      ],
+      [
+        " in",
+        -6.241792e-05
+      ],
+      [
+        " Uruguay",
+        -0.6550446
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged into sheets supported by reticulin networks, and surround vascular areas called sinusoids. They are responsible for synthesizing serum albumin, fibrinogen and thrombin, and they also synthesize apoproteins in order to export LDL and HDL. Separated form endothelial cells by the Space of Disse, these": {
+    "guess": "Liver sinusoidal endothelial cells",
+    "confidence": [
+      [
+        "Liver",
+        -0.010770835
+      ],
+      [
+        " sinus",
+        -0.47573033
+      ],
+      [
+        "oidal",
+        -0.0286169
+      ],
+      [
+        " endoth",
+        -0.15140603
+      ],
+      [
+        "elial",
+        -0.00024358915
+      ],
+      [
+        " cells",
+        -0.25218296
+      ]
+    ]
+  },
+  "Unusually for human cells, around 50% of them are polyploid and multinucleate. These cells are arranged": {
+    "guess": "Cardiomyocyte",
+    "confidence": [
+      [
+        "Card",
+        -1.2932117
+      ],
+      [
+        "i",
+        -0.19230027
+      ],
+      [
+        "omy",
+        -3.464347e-05
+      ],
+      [
+        "ocyte",
+        -0.68176794
+      ]
+    ]
+  },
+  "An unusual type of these entities is holandric, which probably is responsible for some infertility. A genetically dominant example, which leads to severe kidney disease and poor hearing, is Alport syndrome.": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.9527416
+      ],
+      [
+        "agen",
+        -0.0017531298
+      ]
+    ]
+  }
+}

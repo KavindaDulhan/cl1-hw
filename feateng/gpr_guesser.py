@@ -11,7 +11,8 @@ from json import JSONDecodeError
 from tqdm import tqdm
 import logging
 
-
+import sys
+sys.path.append(r'E:\Fall_2024\CMSC723\cl1-hw\feateng\.venv\Lib\site-packages')
 from baseconv import BaseConverter
 
 

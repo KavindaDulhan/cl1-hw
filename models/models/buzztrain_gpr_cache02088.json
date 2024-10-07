@@ -1,0 +1,128 @@
+{
+  "The Fleischmann-Pons experiment supposedly detected cold fusion during a routine run of this procedure. One scientist's laws of this procedure suggest that the product of molar mass and total charge divided by the product of his constant and valence number is equal to the altered mass. Faraday also observed that platinum was ideal for this process, since iron, for example, will often react with the product generated at the anode. For 10 points, identify this process used to break down compounds, most often used to extract hydrogen and oxygen from water, by employing a current.": {
+    "guess": "Electrolysis",
+    "confidence": [
+      [
+        "Elect",
+        -0.007458257
+      ],
+      [
+        "ro",
+        -5.8245798e-05
+      ],
+      [
+        "ly",
+        -1.3902034e-05
+      ],
+      [
+        "sis",
+        -4.7994283e-05
+      ]
+    ]
+  },
+  "The Fleischmann-Pons experiment supposedly detected cold fusion during a routine run of this procedure. One scientist's laws of this procedure suggest that the product of molar mass and total charge divided by the product of his constant and valence number is equal to the altered mass. Faraday also observed that platinum was ideal for this process, since iron, for example, will often react with the": {
+    "guess": "Electrolysis",
+    "confidence": [
+      [
+        "Elect",
+        -0.016712543
+      ],
+      [
+        "ro",
+        -0.00035858402
+      ],
+      [
+        "ly",
+        -0.0017581218
+      ],
+      [
+        "sis",
+        -0.0005408813
+      ]
+    ]
+  },
+  "The Fleischmann-Pons experiment supposedly detected cold fusion during a routine run of this procedure. One scientist's laws of this procedure suggest that the product of molar mass and total charge divided by the product of his constant and valence number is equal to the altered mass. Faraday also observed that platinum was ideal for this process, since iron, for example, will often react with the product generated at the anode. For 10 points, identify this process used to break down compounds,": {
+    "guess": "Electrolysis",
+    "confidence": [
+      [
+        "Elect",
+        -0.009450762
+      ],
+      [
+        "ro",
+        -0.0002162915
+      ],
+      [
+        "ly",
+        -0.00011164904
+      ],
+      [
+        "sis",
+        -0.00018565984
+      ]
+    ]
+  },
+  "The Fleischmann-Pons experiment supposedly detected cold fusion during a routine run of this procedure. One scientist's laws of this procedure suggest that the product of molar mass and total charge divided by the product of his constant and valence number is equal to the altered mass. Faraday also observed": {
+    "guess": "Electrolysis",
+    "confidence": [
+      [
+        "Elect",
+        -0.028011654
+      ],
+      [
+        "ro",
+        -5.121278e-05
+      ],
+      [
+        "ly",
+        -0.0008183233
+      ],
+      [
+        "sis",
+        -0.00012606535
+      ]
+    ]
+  },
+  "The Fleischmann-Pons experiment supposedly detected cold fusion during a routine run of this procedure. One scientist's laws of this procedure suggest that the product of molar mass and total charge divided": {
+    "guess": "Electrolysis",
+    "confidence": [
+      [
+        "Elect",
+        -0.101953335
+      ],
+      [
+        "ro",
+        -0.00055815483
+      ],
+      [
+        "ly",
+        -0.0068826764
+      ],
+      [
+        "sis",
+        -0.00019030878
+      ]
+    ]
+  },
+  "The Fleischmann-Pons experiment supposedly detected cold fusion during a routine run of this procedure.": {
+    "guess": "Electrolysis",
+    "confidence": [
+      [
+        "Elect",
+        -0.0047828997
+      ],
+      [
+        "ro",
+        -5.7649777e-05
+      ],
+      [
+        "ly",
+        -0.00028266964
+      ],
+      [
+        "sis",
+        -5.4788892e-05
+      ]
+    ]
+  }
+}

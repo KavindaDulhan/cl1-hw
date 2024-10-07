@@ -1,0 +1,167 @@
+{
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.002943471
+      ],
+      [
+        "opl",
+        -4.1080468e-05
+      ],
+      [
+        "asm",
+        -6.372917e-05
+      ],
+      [
+        "ic",
+        -4.0246043e-05
+      ],
+      [
+        " ret",
+        -0.034851793
+      ],
+      [
+        "ic",
+        -9.729906e-06
+      ],
+      [
+        "ulum",
+        -3.166338e-05
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids in adrenal cells and metabolizes glycogen in the liver, while another synthesizes proteins from structures on its surface. For 10 points, name this cellular organelle with \"smooth\" and ribosome-rich": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0015943651
+      ],
+      [
+        "opl",
+        -2.6968896e-06
+      ],
+      [
+        "asm",
+        -5.8722613e-05
+      ],
+      [
+        "ic",
+        -6.897413e-05
+      ],
+      [
+        " ret",
+        -0.047123026
+      ],
+      [
+        "ic",
+        -2.2603901e-05
+      ],
+      [
+        "ulum",
+        -5.025915e-05
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.16404574
+      ],
+      [
+        "opl",
+        -0.00016480287
+      ],
+      [
+        "asm",
+        -2.5941605e-05
+      ],
+      [
+        "ic",
+        -0.00027134892
+      ],
+      [
+        " ret",
+        -0.12150068
+      ],
+      [
+        "ic",
+        -9.610702e-06
+      ],
+      [
+        "ulum",
+        -3.3213026e-05
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids in adrenal cells and metabolizes glycogen in the liver, while another synthesizes proteins from structures on its surface. For 10 points, name this cellular organelle with \"smooth\" and ribosome-rich \"rough\" varieties that aids in the transport of cellular materials.": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0048370073
+      ],
+      [
+        "opl",
+        -6.704273e-07
+      ],
+      [
+        "asm",
+        -1.6524515e-05
+      ],
+      [
+        "ic",
+        -2.4272753e-05
+      ],
+      [
+        " ret",
+        -0.19649743
+      ],
+      [
+        "ic",
+        -7.465036e-06
+      ],
+      [
+        "ulum",
+        -2.546479e-05
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids in adrenal cells and metabolizes glycogen in the liver, while another synthesizes proteins from": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0050641643
+      ],
+      [
+        "opl",
+        -9.133887e-06
+      ],
+      [
+        "asm",
+        -3.9292416e-05
+      ],
+      [
+        "ic",
+        -7.7199176e-05
+      ],
+      [
+        " ret",
+        -0.012119074
+      ],
+      [
+        "ic",
+        -1.8431772e-05
+      ],
+      [
+        "ulum",
+        -3.9411618e-05
+      ]
+    ]
+  }
+}

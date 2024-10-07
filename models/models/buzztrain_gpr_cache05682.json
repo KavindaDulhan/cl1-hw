@@ -1,0 +1,124 @@
+{
+  "Ouessant Island lies at the northern end of this body of water whose Abyssal Plain reaches depths of 15,000 feet. A triangle with an area of about 86,000 square miles, its southeast is home to Cape Breton, and its Gironde Estuary is formed by the mouths of the Garonne and Dordogne Rivers, which, with the Adour and Loire, are the major rivers which empty into this bay. Home to the ports of Gijon, Bilbao,": {
+    "guess": "Bay of Biscay",
+    "confidence": [
+      [
+        "Bay",
+        -0.013926539
+      ],
+      [
+        " of",
+        -8.602025e-05
+      ],
+      [
+        " B",
+        -3.368984e-05
+      ],
+      [
+        "isc",
+        -1.3186812e-05
+      ],
+      [
+        "ay",
+        -0.0001820874
+      ]
+    ]
+  },
+  "Ouessant Island lies at the northern end of this body of water whose Abyssal Plain reaches depths of 15,000 feet. A triangle with an area of about 86,000 square miles, its southeast is home to Cape Breton,": {
+    "guess": "North Atlantic Ocean",
+    "confidence": [
+      [
+        "North",
+        -0.6442368
+      ],
+      [
+        " Atlantic",
+        -0.021085853
+      ],
+      [
+        " Ocean",
+        -0.0010269738
+      ]
+    ]
+  },
+  "Ouessant Island lies at the northern end of this body of water whose Abyssal Plain reaches depths of 15,000 feet. A triangle with an area of about 86,000 square miles, its southeast is home to Cape Breton, and its Gironde Estuary is formed by the mouths of the Garonne and Dordogne Rivers, which, with the Adour and Loire, are the major rivers which empty into this bay. Home to the ports of Gijon, Bilbao, La Rochelle, and Bordeaux, FTP, what is this wide bay bounded by the north coast of Spain and the west coast of France?": {
+    "guess": "Bay of Biscay",
+    "confidence": [
+      [
+        "Bay",
+        -0.015111171
+      ],
+      [
+        " of",
+        -4.7994283e-05
+      ],
+      [
+        " B",
+        -0.00027170655
+      ],
+      [
+        "isc",
+        -3.888926e-06
+      ],
+      [
+        "ay",
+        -0.00020234835
+      ]
+    ]
+  },
+  "Ouessant Island lies at the northern end of this body of water whose Abyssal Plain reaches depths of 15,000 feet. A triangle with an area of about 86,000 square miles, its southeast is home to Cape Breton, and its Gironde Estuary is formed by the mouths of the Garonne and Dordogne Rivers, which, with": {
+    "guess": "North Atlantic Ocean",
+    "confidence": [
+      [
+        "North",
+        -0.60477805
+      ],
+      [
+        " Atlantic",
+        -0.007918667
+      ],
+      [
+        " Ocean",
+        -0.00060236105
+      ]
+    ]
+  },
+  "Ouessant Island lies at the northern end of this body of water whose Abyssal Plain reaches depths of": {
+    "guess": "English Channel",
+    "confidence": [
+      [
+        "English",
+        -0.784615
+      ],
+      [
+        " Channel",
+        -0.0007890212
+      ]
+    ]
+  },
+  "Ouessant Island lies at the northern end of this body of water whose Abyssal Plain reaches depths of 15,000 feet. A triangle with an area of about 86,000 square miles, its southeast is home to Cape Breton, and its Gironde Estuary is formed by the mouths of the Garonne and Dordogne Rivers, which, with the Adour and Loire, are the major rivers which empty into this bay. Home to the ports of Gijon, Bilbao, La Rochelle, and Bordeaux, FTP, what is this wide bay bounded by the north coast of Spain and": {
+    "guess": "Bay of Biscay",
+    "confidence": [
+      [
+        "Bay",
+        -0.021680614
+      ],
+      [
+        " of",
+        -3.6789137e-05
+      ],
+      [
+        " B",
+        -0.00016039233
+      ],
+      [
+        "isc",
+        -3.650519e-06
+      ],
+      [
+        "ay",
+        -9.019238e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked by electrically stimulating his ears, and current manufacturers include Med-El and Advanced Bionics. Sometimes called the \"bionic ear\", for 10 points, name this device that restores hearing to deaf people, an implant in the part of the ear containing hair cells.": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -0.009950276
+      ],
+      [
+        "och",
+        -1.7432603e-06
+      ],
+      [
+        "lear",
+        -2.0219828e-05
+      ],
+      [
+        " implant",
+        -0.080493964
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this": {
+    "guess": "Tuskegee Syphilis Study",
+    "confidence": [
+      [
+        "T",
+        -1.3780391
+      ],
+      [
+        "us",
+        -0.14454263
+      ],
+      [
+        "ke",
+        -0.0037738355
+      ],
+      [
+        "gee",
+        -9.865584e-05
+      ],
+      [
+        " Sy",
+        -0.3540288
+      ],
+      [
+        "phil",
+        -0.00028398086
+      ],
+      [
+        "is",
+        -1.3067608e-05
+      ],
+      [
+        " Study",
+        -0.011673083
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked by electrically stimulating his ears, and current manufacturers include Med-El and Advanced Bionics. Sometimes called the \"bionic ear\", for 10 points, name this device that restores hearing to deaf": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -0.022600025
+      ],
+      [
+        "och",
+        -4.4849444e-06
+      ],
+      [
+        "lear",
+        -9.0883464e-07
+      ],
+      [
+        " implant",
+        -0.04760634
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -0.06637048
+      ],
+      [
+        "och",
+        -2.2603901e-05
+      ],
+      [
+        "lear",
+        -1.92662e-05
+      ],
+      [
+        " implant",
+        -0.25602347
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked by electrically stimulating his ears, and current manufacturers include Med-El and Advanced Bionics.": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -0.028634628
+      ],
+      [
+        "och",
+        -5.4385737e-06
+      ],
+      [
+        "lear",
+        -3.0545007e-06
+      ],
+      [
+        " implant",
+        -0.10617455
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -0.03516167
+      ],
+      [
+        "och",
+        -2.188868e-05
+      ],
+      [
+        "lear",
+        -6.2729996e-06
+      ],
+      [
+        " implant",
+        -0.11476707
+      ]
+    ]
+  }
+}

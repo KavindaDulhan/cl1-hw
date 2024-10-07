@@ -1,0 +1,165 @@
+{
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be applied in conditions where this relation holds. Its namesake also names the cryoscopic and ebullioscopic constants used in Van't Hoff's rule. Positive and negative deviations from it are characteristic of azeotropes, and another formulation of this statement, which applies to components whose concentration limits to zero, is called Henry's law. For 10 points, identify this eponymous law which states that for an ideal solution, the vapor pressure can be described as a sum of the products of the pressure for each component times the mole fraction.": {
+    "guess": "Raoult's Law",
+    "confidence": [
+      [
+        "Ra",
+        -0.0008702484
+      ],
+      [
+        "ou",
+        -0.00027778227
+      ],
+      [
+        "lt",
+        -3.1281633e-07
+      ],
+      [
+        "'s",
+        -1.4855664e-05
+      ],
+      [
+        " Law",
+        -0.00037561916
+      ]
+    ]
+  },
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be applied in conditions where this relation holds. Its namesake also names the cryoscopic and ebullioscopic constants used in Van't Hoff's rule. Positive and negative deviations from it are characteristic of azeotropes, and another formulation of this statement, which applies to components whose concentration limits to zero, is called Henry's law. For 10 points, identify this eponymous law which states that for an ideal solution, the vapor pressure can be described as a sum of the products of the": {
+    "guess": "Raoult's Law",
+    "confidence": [
+      [
+        "Ra",
+        -0.00057543203
+      ],
+      [
+        "ou",
+        -0.00029518234
+      ],
+      [
+        "lt",
+        -6.704273e-07
+      ],
+      [
+        "'s",
+        -1.378283e-05
+      ],
+      [
+        " Law",
+        -0.0006713286
+      ]
+    ]
+  },
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be": {
+    "guess": "Boiling-point elevation",
+    "confidence": [
+      [
+        "Bo",
+        -0.42663538
+      ],
+      [
+        "iling",
+        -6.706687e-05
+      ],
+      [
+        "-point",
+        -0.04216182
+      ],
+      [
+        " elevation",
+        -0.0010390023
+      ]
+    ]
+  },
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be applied in conditions where this relation holds. Its namesake also names the cryoscopic and ebullioscopic constants used in Van't Hoff's rule. Positive and negative deviations from it are characteristic of azeotropes, and another formulation of this statement, which applies to components whose concentration": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -0.031850703
+      ],
+      [
+        "ou",
+        -0.00012856863
+      ],
+      [
+        "lt",
+        -9.0883464e-07
+      ],
+      [
+        "'s",
+        -5.6934558e-05
+      ],
+      [
+        " law",
+        -0.3978614
+      ]
+    ]
+  },
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be applied in conditions where this relation holds. Its namesake also names the cryoscopic and ebullioscopic": {
+    "guess": "Colligative properties",
+    "confidence": [
+      [
+        "Coll",
+        -1.0204546
+      ],
+      [
+        "ig",
+        -0.00012987986
+      ],
+      [
+        "ative",
+        -5.5577775e-06
+      ],
+      [
+        " properties",
+        -0.07544961
+      ]
+    ]
+  },
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be applied in conditions where this relation holds. Its namesake also names the cryoscopic and ebullioscopic constants used in Van't Hoff's rule. Positive and negative deviations from it are characteristic": {
+    "guess": "Colligative properties",
+    "confidence": [
+      [
+        "Coll",
+        -1.5153589
+      ],
+      [
+        "ig",
+        -5.669615e-05
+      ],
+      [
+        "ative",
+        -2.1008714e-06
+      ],
+      [
+        " properties",
+        -0.028767716
+      ]
+    ]
+  },
+  "Duhring plots, which relate the boiling point of a solution to the boiling point of water, can only be applied in conditions where this relation holds. Its namesake also names the cryoscopic and ebullioscopic constants used in Van't Hoff's rule. Positive and negative deviations from it are characteristic of azeotropes, and another formulation of this statement, which applies to components whose concentration limits to zero, is called Henry's law. For 10 points, identify this eponymous law which states": {
+    "guess": "Raoult's Law",
+    "confidence": [
+      [
+        "Ra",
+        -0.042869236
+      ],
+      [
+        "ou",
+        -0.00032926726
+      ],
+      [
+        "lt",
+        -1.9816675e-06
+      ],
+      [
+        "'s",
+        -0.00016623331
+      ],
+      [
+        " Law",
+        -0.019037724
+      ]
+    ]
+  }
+}

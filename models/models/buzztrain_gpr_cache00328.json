@@ -1,0 +1,121 @@
+{
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans and crocodiles. The Inga Dams lie on this river, which features the Malebo Pool. This river is": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00038491338
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -1.0087517e-05
+      ]
+    ]
+  },
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans and crocodiles. The Inga Dams lie on this river, which features the Malebo Pool. This river is the second most voluminous but the deepest in the world and its tributaries include the Lomami and": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00048608426
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -6.253713e-05
+      ]
+    ]
+  },
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans and crocodiles. The Inga Dams lie on this river, which features the Malebo Pool. This river is the second most voluminous but the deepest in the world and its tributaries include the Lomami and the Kasai, which runs through Angola. The Livingston Falls prevent boat access to the sea through this river, and it also includes the Stanley Falls. Sources of this river include Lake Tanganyika. Kinshasa and Brazzaville lie on, for 10 points, what second largest river in Africa and namesake of two": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.0010793721
+      ],
+      [
+        "ongo",
+        -9.0883464e-07
+      ],
+      [
+        " River",
+        -0.00074935204
+      ]
+    ]
+  },
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans and crocodiles. The Inga Dams lie on this river, which features the Malebo Pool. This river is the second most voluminous but the deepest in the world and its tributaries include the Lomami and the Kasai, which runs through Angola. The Livingston Falls prevent boat access to the sea through this river, and it also includes the Stanley Falls. Sources of this river include Lake Tanganyika. Kinshasa": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.002229237
+      ],
+      [
+        "ongo",
+        -9.0883464e-07
+      ],
+      [
+        " River",
+        -0.00014323067
+      ]
+    ]
+  },
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans and crocodiles. The Inga Dams lie on this river, which features the Malebo Pool. This river is the second most voluminous but the deepest in the world and its tributaries include the Lomami and the Kasai, which runs through Angola. The Livingston Falls prevent boat access to the sea through this": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00056339975
+      ],
+      [
+        "ongo",
+        -3.1281633e-07
+      ],
+      [
+        " River",
+        -3.7385154e-05
+      ]
+    ]
+  },
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans and crocodiles. The Inga Dams lie on this river, which features the Malebo Pool. This river is the second most voluminous but the deepest in the world and its tributaries include the Lomami and the Kasai, which runs through Angola. The Livingston Falls prevent boat access to the sea through this river, and it also includes the Stanley Falls. Sources of this river include Lake Tanganyika. Kinshasa and Brazzaville lie on, for 10 points, what second largest river in Africa and namesake of two central African countries.": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.0009866041
+      ],
+      [
+        "ongo",
+        -3.1281633e-07
+      ],
+      [
+        " River",
+        -0.00041446486
+      ]
+    ]
+  },
+  "One awesome species that lives in this river is the Giant Tigerfish, which has been known to attack humans": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.13245328
+      ],
+      [
+        "ongo",
+        -2.6895234e-05
+      ],
+      [
+        " River",
+        -0.0017777572
+      ]
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to": {
+    "guess": "Zimm-Bragg model",
+    "confidence": [
+      [
+        "Z",
+        -1.0006313
+      ],
+      [
+        "imm",
+        -0.042518683
+      ],
+      [
+        "-B",
+        -0.04363343
+      ],
+      [
+        "rag",
+        -0.00016289561
+      ],
+      [
+        "g",
+        -0.00016790217
+      ],
+      [
+        " model",
+        -0.19545908
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them. Histidine stabilizes O2 in a bent position above the porphyrin ring of hemoglobin using them. This interaction is responsible for the dimerization of carboxylic acids and the negative azeotropy of hydrogen flouride solutions, and their increased occurence in GC-rich DNA gives those segments their stability. Its responsible for giving alpha helices their shape, and also grants water its high boiling": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hy",
+        -0.012060422
+      ],
+      [
+        "dro",
+        -3.1544176e-05
+      ],
+      [
+        "gen",
+        -0.00012272765
+      ],
+      [
+        " bond",
+        -0.6490225
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them. Histidine stabilizes O2 in a bent position above the porphyrin ring of hemoglobin using them. This interaction is responsible for the dimerization of carboxylic acids and the negative azeotropy of hydrogen": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hy",
+        -0.037219
+      ],
+      [
+        "dro",
+        -0.0002631239
+      ],
+      [
+        "gen",
+        -0.0004983439
+      ],
+      [
+        " bond",
+        -0.059436243
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them.": {
+    "guess": "Hydrogen Bonding",
+    "confidence": [
+      [
+        "Hy",
+        -0.8821959
+      ],
+      [
+        "dro",
+        -0.029779539
+      ],
+      [
+        "gen",
+        -0.014390555
+      ],
+      [
+        " Bond",
+        -0.41920486
+      ],
+      [
+        "ing",
+        -0.2584574
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them. Histidine stabilizes O2 in a bent position above the porphyrin ring of hemoglobin using them. This": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hy",
+        -0.9208529
+      ],
+      [
+        "dro",
+        -0.0024363087
+      ],
+      [
+        "gen",
+        -0.0005710252
+      ],
+      [
+        " bond",
+        -0.71607935
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them. Histidine stabilizes O2 in a bent position above the porphyrin ring of hemoglobin using them. This interaction is responsible for the dimerization of carboxylic acids and the negative azeotropy of hydrogen flouride solutions, and their increased occurence in GC-rich DNA gives those segments their stability. Its responsible for giving alpha helices their shape, and also grants water its high boiling point. For 10 points, name this non-covalent interaction in which an electronegative acceptor pulls on a donor containing a namesake atom.": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hy",
+        -0.012995856
+      ],
+      [
+        "dro",
+        -0.00013154872
+      ],
+      [
+        "gen",
+        -5.5577775e-06
+      ],
+      [
+        " bond",
+        -0.17737347
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them. Histidine stabilizes O2 in a bent position above the porphyrin ring of hemoglobin using them. This interaction is responsible for the dimerization of carboxylic acids and the negative azeotropy of hydrogen flouride solutions, and their increased occurence in GC-rich DNA gives those segments their stability.": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hy",
+        -0.03810392
+      ],
+      [
+        "dro",
+        -0.0002450086
+      ],
+      [
+        "gen",
+        -0.0033020012
+      ],
+      [
+        " bond",
+        -0.108096324
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain": {
+    "guess": "DNA supercoiling",
+    "confidence": [
+      [
+        "DNA",
+        -1.1209078
+      ],
+      [
+        " super",
+        -0.6925864
+      ],
+      [
+        "co",
+        -0.14544813
+      ],
+      [
+        "iling",
+        -0.020611143
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.7890286
+      ]
+    ]
+  },
+  "In the Zimm-Bragg model, these interactions are responsible for moving molecules from the C state to the H state, and a double version of this phenomenon was discovered by Brown and Haseltine between certain metallic compounds and acidic groups. A bifurcated form of this phenomenon is present when two centers are involved, while a carbonylated aza-crown ether will show the low-barrier type of them. Histidine stabilizes O2 in a bent position above the porphyrin ring of hemoglobin using them. This interaction is responsible for the dimerization of carboxylic acids and the negative azeotropy of hydrogen flouride solutions, and their increased occurence in GC-rich DNA gives those segments their stability. Its responsible for giving alpha helices their shape, and also grants water its high boiling point. For 10 points, name this non-covalent interaction in which an electronegative acceptor pulls": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hy",
+        -0.020630762
+      ],
+      [
+        "dro",
+        -0.00014692599
+      ],
+      [
+        "gen",
+        -1.998142e-05
+      ],
+      [
+        " bond",
+        -0.24335814
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties on their pots by not salting their (*) pasta water. In September 2014, it sold $100 passes for seven weeks of all-you-can-eat food. For 10 points, name this Italian chain restaurant which offers unlimited": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "O",
+        -0.02364293
+      ],
+      [
+        "live",
+        -8.537869e-06
+      ],
+      [
+        " Garden",
+        -0.0007297091
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "O",
+        -0.0029715186
+      ],
+      [
+        "live",
+        -5.2001665e-06
+      ],
+      [
+        " Garden",
+        -0.0007149352
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "O",
+        -0.26836255
+      ],
+      [
+        "live",
+        -0.0027715939
+      ],
+      [
+        " Garden",
+        -0.00012916465
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties on their pots by not salting their (*) pasta water. In September 2014, it sold $100 passes for seven weeks of all-you-can-eat food. For 10 points, name this Italian chain restaurant which offers unlimited salad and breadsticks with its \"Never-Ending Pasta Bowl.\"": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "O",
+        -0.006691561
+      ],
+      [
+        "live",
+        -1.8624639e-06
+      ],
+      [
+        " Garden",
+        -0.00052574975
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties on their pots by not salting their (*) pasta water. In September 2014, it sold $100 passes for seven": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "O",
+        -0.016832111
+      ],
+      [
+        "live",
+        -3.9292416e-05
+      ],
+      [
+        " Garden",
+        -0.0033052159
+      ]
+    ]
+  }
+}

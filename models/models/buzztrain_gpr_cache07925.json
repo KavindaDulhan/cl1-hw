@@ -1,0 +1,108 @@
+{
+  "Upward sliding avalanches occur in this region. This region is composed of dense iron and nickel left from the accretion of the planet. Convection currents that cause tectonic plates to shift originate in this layer of the Earth. Those same convection currents combined with the Coriolis effect create": {
+    "guess": "Mantle",
+    "confidence": [
+      [
+        "M",
+        -1.0002011
+      ],
+      [
+        "ant",
+        -0.00080438744
+      ],
+      [
+        "le",
+        -2.618001e-05
+      ]
+    ]
+  },
+  "Upward sliding avalanches occur in this region. This region is composed of dense iron and nickel left from the accretion of the planet. Convection currents that cause tectonic plates to shift originate in this layer of the Earth. Those same convection currents combined with the Coriolis effect create the Earth's magnetic field according to Dynamo theory. S waves do not pass through the outer part of this layer of the Earth because it is liquid, and P waves are slowed in the inner solid part. For": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.67435396
+      ],
+      [
+        " core",
+        -0.3667806
+      ]
+    ]
+  },
+  "Upward sliding avalanches occur in this region. This region is composed of dense iron and nickel left from the accretion of the planet. Convection currents that cause tectonic plates to shift originate in this layer of the Earth. Those same convection currents combined with the Coriolis effect create the Earth's magnetic field according to Dynamo theory. S waves do not pass through the outer part of": {
+    "guess": "Mantle",
+    "confidence": [
+      [
+        "M",
+        -0.26121166
+      ],
+      [
+        "ant",
+        -0.00016623331
+      ],
+      [
+        "le",
+        -1.867018e-05
+      ]
+    ]
+  },
+  "Upward sliding avalanches occur in this region. This region is composed of dense iron and nickel left from the accretion of the planet. Convection currents that cause tectonic plates to shift originate in this layer of the Earth. Those same convection currents combined with the Coriolis effect create the Earth's magnetic field according to Dynamo theory. S waves do not pass through the outer part of this layer of the Earth because it is liquid, and P waves are slowed in the inner solid part. For 10 points, name this innermost layer of the earth.": {
+    "guess": "The Core",
+    "confidence": [
+      [
+        "The",
+        -0.66278535
+      ],
+      [
+        " Core",
+        -0.07714887
+      ]
+    ]
+  },
+  "Upward sliding avalanches occur in this region. This region is composed of dense iron and nickel left from the accretion of the planet. Convection currents that cause tectonic plates to shift originate": {
+    "guess": "Mantle (geology)",
+    "confidence": [
+      [
+        "M",
+        -0.75659156
+      ],
+      [
+        "ant",
+        -0.0020518855
+      ],
+      [
+        "le",
+        -1.9027791e-05
+      ],
+      [
+        " (",
+        -0.1199441
+      ],
+      [
+        "ge",
+        -0.007348447
+      ],
+      [
+        "ology",
+        -0.00013643607
+      ],
+      [
+        ")",
+        -0.00032533353
+      ]
+    ]
+  },
+  "Upward sliding avalanches occur in this region. This region is composed of dense iron and nickel left": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.1171877
+      ],
+      [
+        " core",
+        -0.050816596
+      ]
+    ]
+  }
+}

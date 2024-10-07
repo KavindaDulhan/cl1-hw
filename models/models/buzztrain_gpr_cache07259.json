@@ -1,0 +1,83 @@
+{
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk": {
+    "guess": "Moirai",
+    "confidence": [
+      [
+        "M",
+        -0.27228212
+      ],
+      [
+        "oir",
+        -0.00015550498
+      ],
+      [
+        "ai",
+        -2.8921695e-05
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk to save his friend Admetus from death. Their names are typically given as Clotho, Lachesis, and Atropos, and symbols associated with them include a rod, a spindle, and a pair of shears. For 10 points, name this trio from Greek myth who were given charge of measuring out the spans of mortal lives.": {
+    "guess": "Fates",
+    "confidence": [
+      [
+        "F",
+        -0.030139321
+      ],
+      [
+        "ates",
+        -0.0009094371
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk to save his friend Admetus from death. Their names are typically given as Clotho, Lachesis, and Atropos, and symbols associated with them include a rod, a spindle, and a pair of shears. For 10 points,": {
+    "guess": "Fates",
+    "confidence": [
+      [
+        "F",
+        -0.17566423
+      ],
+      [
+        "ates",
+        -0.003629766
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave": {
+    "guess": "Hecatoncheires",
+    "confidence": [
+      [
+        "H",
+        -0.5643765
+      ],
+      [
+        "ec",
+        -0.60123914
+      ],
+      [
+        "aton",
+        -0.0023770807
+      ],
+      [
+        "che",
+        -0.1677704
+      ],
+      [
+        "ires",
+        -0.0016101972
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk to save his friend Admetus from death. Their names are typically given as Clotho, Lachesis, and Atropos,": {
+    "guess": "Fates",
+    "confidence": [
+      [
+        "F",
+        -0.036142696
+      ],
+      [
+        "ates",
+        -0.00034106473
+      ]
+    ]
+  }
+}

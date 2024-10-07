@@ -1,0 +1,71 @@
+{
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and another lies at the foot of a bed in Venus of Urbino. For 10 points, name these creatures who, in a series by C.M. Coolidge, are depicted playing poker.": {
+    "guess": "DOG",
+    "confidence": [
+      [
+        "DOG",
+        -0.69076556
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's": {
+    "guess": "Equivalent",
+    "confidence": [
+      [
+        "Equivalent",
+        -2.0803149
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present": {
+    "guess": "Saturn Devouring His Son",
+    "confidence": [
+      [
+        "Sat",
+        -0.25008035
+      ],
+      [
+        "urn",
+        -9.4914985e-06
+      ],
+      [
+        " Dev",
+        -0.030130764
+      ],
+      [
+        "our",
+        -2.3795938e-05
+      ],
+      [
+        "ing",
+        -2.577686e-06
+      ],
+      [
+        " His",
+        -0.00048857287
+      ],
+      [
+        " Son",
+        -0.00030042732
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and another lies at the foot of a bed in Venus of Urbino. For 10 points, name these creatures who, in": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.43453556
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.03378148
+      ]
+    ]
+  }
+}

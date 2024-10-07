@@ -1,0 +1,168 @@
+{
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.67984855
+      ],
+      [
+        " Thames",
+        -5.669615e-05
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes a girl who holds a goblet while her belt holds a pistol and a dead chicken. The yellow-clad girl symbolizes the Arquebusiers, and the two men to her right are the officers of the company. FTP, name": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.03884598
+      ],
+      [
+        " Night",
+        -0.00020556684
+      ],
+      [
+        " Watch",
+        -4.2272506e-05
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.7952667
+      ],
+      [
+        " Thames",
+        -0.00024631983
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition occurs at Battersea. The Jubilee River was built during the 1990s to divert floodwater from": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.10404083
+      ],
+      [
+        " Thames",
+        -5.50273e-05
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and": {
+    "guess": "The Garden of Earthly Delights",
+    "confidence": [
+      [
+        "The",
+        -0.9777157
+      ],
+      [
+        " Garden",
+        -0.7035396
+      ],
+      [
+        " of",
+        -0.003431031
+      ],
+      [
+        " Earth",
+        -1.1279553e-05
+      ],
+      [
+        "ly",
+        -0.0006125979
+      ],
+      [
+        " Del",
+        0.0
+      ],
+      [
+        "ights",
+        -0.00027134892
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition occurs at Battersea. The Jubilee River was built during the 1990s to divert floodwater from this river, which originates near Kemble village in the Cotswold Hills of Gloucestershire County. It is called the Isis when it flows through Oxford. FTP, connects London to the sea.": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.03368685
+      ],
+      [
+        " Thames",
+        -0.00022952311
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.22987518
+      ],
+      [
+        " Night",
+        -0.34287155
+      ],
+      [
+        " Watch",
+        -0.0008572662
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes a girl who holds a goblet while her belt holds a pistol and a dead chicken. The yellow-clad girl": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.19474624
+      ],
+      [
+        " Night",
+        -0.0024044316
+      ],
+      [
+        " Watch",
+        -1.473646e-05
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition occurs at Battersea. The Jubilee River was built during the 1990s to divert floodwater from this river, which originates near Kemble village in the Cotswold Hills of Gloucestershire County. It": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.117966324
+      ],
+      [
+        " Thames",
+        -6.146429e-05
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes a girl who holds a goblet while her belt holds a pistol and a dead chicken. The yellow-clad girl symbolizes the Arquebusiers, and the two men to her right are the officers of the company. FTP, name this Rembrandt painting that actually depicts a daytime scene.          |": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.010528926
+      ],
+      [
+        " Night",
+        -0.00064249965
+      ],
+      [
+        " Watch",
+        -4.7517467e-05
+      ]
+    ]
+  }
+}

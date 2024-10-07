@@ -1,0 +1,112 @@
+{
+  "Abhisheka is a form of this in Hinduism often performed with models of deities, and in Baha'i, this must": {
+    "guess": "Puja",
+    "confidence": [
+      [
+        "Pu",
+        -0.228873
+      ],
+      [
+        "ja",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "Abhisheka is a form of this in Hinduism often performed with models of deities, and in Baha'i, this must be performed before the recitation of the 95 names. In Islam, this action varies depending on whether": {
+    "guess": "Ritual",
+    "confidence": [
+      [
+        "R",
+        -1.156189
+      ],
+      [
+        "it",
+        -0.00024488938
+      ],
+      [
+        "ual",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Abhisheka is a form of this in Hinduism often performed with models of deities, and in Baha'i, this must be performed before the recitation of the 95 names. In Islam, this action varies depending on whether or not its practitioner has a beard. Wudu is an example of this action in Islam, and ghusl is": {
+    "guess": "Ritual purification",
+    "confidence": [
+      [
+        "R",
+        -0.2791765
+      ],
+      [
+        "it",
+        -1.7432603e-06
+      ],
+      [
+        "ual",
+        0.0
+      ],
+      [
+        " purification",
+        -0.062990695
+      ]
+    ]
+  },
+  "Abhisheka is a form of this in Hinduism often performed with models of deities, and in Baha'i, this must be performed before the recitation of the 95 names. In Islam, this action varies depending on whether or not its practitioner has a beard. Wudu is an example of this action in Islam, and ghusl is the greater form of this often performed on bodies. In Christianity, Jesus performs this action at the last supper on the feet of his disciples. For ten points, name this ritual action in many religions that involves cleansing with water.": {
+    "guess": "Ablution",
+    "confidence": [
+      [
+        "A",
+        -0.13754675
+      ],
+      [
+        "bl",
+        -7.89631e-07
+      ],
+      [
+        "ution",
+        -0.000232384
+      ]
+    ]
+  },
+  "Abhisheka is a form of this in Hinduism often performed with models of deities, and in Baha'i, this must be performed before the recitation of the 95 names. In Islam, this action varies depending on whether or not its practitioner has a beard. Wudu is an example of this action in Islam, and ghusl is the greater form of this often performed on bodies. In Christianity, Jesus performs this action at the": {
+    "guess": "Ritual purification",
+    "confidence": [
+      [
+        "R",
+        -1.0099231
+      ],
+      [
+        "it",
+        -7.0285365e-05
+      ],
+      [
+        "ual",
+        -6.869018e-06
+      ],
+      [
+        " purification",
+        -0.59789115
+      ]
+    ]
+  },
+  "Abhisheka is a form of this in Hinduism often performed with models of deities, and in Baha'i, this must be performed before the recitation of the 95 names. In Islam, this action varies depending on whether or not its practitioner has a beard. Wudu is an example of this action in Islam, and ghusl is the greater form of this often performed on bodies. In Christianity, Jesus performs this action at the last supper on the feet of his disciples. For ten points, name this ritual action in many religions": {
+    "guess": "Ritual purification",
+    "confidence": [
+      [
+        "R",
+        -0.63194764
+      ],
+      [
+        "it",
+        -5.5122365e-07
+      ],
+      [
+        "ual",
+        -3.1281633e-07
+      ],
+      [
+        " purification",
+        -0.25828055
+      ]
+    ]
+  }
+}

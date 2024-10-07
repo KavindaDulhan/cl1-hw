@@ -1,0 +1,78 @@
+{
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere. It also explains why bubbles come out of solution when a carbonated beverage is opened. It holds whenever Raoult's law holds for a solvent. For 10 points\u2014name this law which states that the": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.00032998246
+      ],
+      [
+        "'s",
+        -5.6769813e-06
+      ],
+      [
+        " law",
+        -0.28945467
+      ]
+    ]
+  },
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere.": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.018159663
+      ],
+      [
+        "'s",
+        -0.000112245056
+      ],
+      [
+        " law",
+        -0.3947652
+      ]
+    ]
+  },
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere. It also explains why bubbles come out of solution when a carbonated beverage is opened. It": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.0023398506
+      ],
+      [
+        "'s",
+        -3.2736214e-05
+      ],
+      [
+        " law",
+        -0.16957195
+      ]
+    ]
+  },
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere. It also explains why bubbles come out of solution when a carbonated beverage is opened. It holds whenever Raoult's law holds for a solvent. For 10 points\u2014name this law which states that the vapor pressure of a solute is proportional to the solute's mole fraction.": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -0.05602823
+      ],
+      [
+        "ou",
+        -0.00051609793
+      ],
+      [
+        "lt",
+        -5.5122365e-07
+      ],
+      [
+        "'s",
+        -2.4987974e-05
+      ],
+      [
+        " law",
+        -0.045487117
+      ]
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "The curl of the field of this quantity for a fluid is the vorticity. One type of this quantity is equal in magnitude to the square root of quantity 2 times big G times M divided by r, and is the value": {
+    "guess": "Vorticity",
+    "confidence": [
+      [
+        "V",
+        -1.248706
+      ],
+      [
+        "ort",
+        -0.082164094
+      ],
+      [
+        "icity",
+        -0.0003185426
+      ]
+    ]
+  },
+  "The curl of this physical quantity is given by the vorticity, and a terminal value for this quantity is achieved when the accelerating force on an object is equal to its drag force. The magnetic force on a particle is proportional to the cross product of this quantity and the magnetic field. Kinetic": {
+    "guess": "Kinetic energy",
+    "confidence": [
+      [
+        "Kin",
+        -0.35689583
+      ],
+      [
+        "etic",
+        -0.015755486
+      ],
+      [
+        " energy",
+        -0.053821553
+      ]
+    ]
+  },
+  "The curl of the field of this quantity for a fluid is the vorticity. One type of this quantity is equal in magnitude to the square root of quantity 2 times big G times M divided by r, and is the value needed to escape an object's gravitational pull. The (*) terminal variety of it is reached when the": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.38010067
+      ]
+    ]
+  },
+  "The curl of the field of this quantity for a fluid is the vorticity. One type of this quantity is equal in magnitude to the square root of quantity 2 times big G times M divided by r, and is the value needed to escape an object's gravitational pull. The (*) terminal variety of it is reached when the drag force is equal to the gravitational force, so an object experiences no acceleration. Its second": {
+    "guess": "Gravitational field",
+    "confidence": [
+      [
+        "Gr",
+        -0.46829286
+      ],
+      [
+        "avit",
+        -0.0004925066
+      ],
+      [
+        "ational",
+        -2.9040899e-05
+      ],
+      [
+        " field",
+        -0.4259926
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia and stasis surround the zone of (*) coagulation in the affected organ in this condition. The": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.004949462
+      ],
+      [
+        "s",
+        -0.31204146
+      ]
+    ]
+  },
+  "The curl of the field of this quantity for a fluid is the vorticity. One type of this quantity is equal": {
+    "guess": "Magnetic Field",
+    "confidence": [
+      [
+        "M",
+        -0.6003515
+      ],
+      [
+        "agnetic",
+        -0.1708574
+      ],
+      [
+        " Field",
+        -0.5299021
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia and stasis surround the zone of (*) coagulation in the affected organ in this condition. The bacteria that most commonly infects the wounds produced by this condition is Pseudomonas aeruginosa.": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.008578759
+      ],
+      [
+        "s",
+        -0.10515252
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia and stasis surround the zone of (*) coagulation in the affected organ in this condition. The bacteria that most commonly infects the wounds produced by this condition is Pseudomonas aeruginosa. It's not psoriasis, but the palm is often used as a reference for 1% of total body surface area when evaluating the severity of this condition. When this condition spreads to the entire dermis, it is denoted third-degree. For 10 points, identify this skin-affecting condition caused by electricity,": {
+    "guess": "Electrical burn",
+    "confidence": [
+      [
+        "Elect",
+        -0.62953246
+      ],
+      [
+        "rical",
+        -0.0107395835
+      ],
+      [
+        " burn",
+        -0.27726313
+      ]
+    ]
+  },
+  "The curl of this physical quantity is given by the vorticity, and a terminal value for this quantity is achieved when the accelerating force on an object is equal to its drag force. The magnetic force on a particle is proportional to the cross product of this quantity and the magnetic field. Kinetic energy is equal to one-half times mass times the magnitude of this quantity squared. Acceleration is": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.3736211
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition.": {
+    "guess": "Curling's ulcer",
+    "confidence": [
+      [
+        "C",
+        -1.0106919
+      ],
+      [
+        "url",
+        -0.13962138
+      ],
+      [
+        "ing",
+        -0.0018616419
+      ],
+      [
+        "'s",
+        -0.5604704
+      ],
+      [
+        " ulcer",
+        -0.24865504
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.011457205
+      ],
+      [
+        "s",
+        -0.33916348
+      ]
+    ]
+  },
+  "The curl of the field of this quantity for a fluid is the vorticity. One type of this quantity is equal in magnitude to the square root of quantity 2 times big G times M divided by r, and is the value needed to escape an object's gravitational pull. The (*) terminal variety of it is reached when the drag force is equal to the gravitational force, so an object experiences no acceleration. Its second derivative with respect to time is jerk, and it is the time-derivative of position. For ten points,": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.26814622
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.00585117
+      ],
+      [
+        "s",
+        -0.19900079
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.012576642
+      ],
+      [
+        "s",
+        -0.07465438
+      ]
+    ]
+  },
+  "The curl of this physical quantity is given by the vorticity, and a terminal value for this quantity": {
+    "guess": "Vorticity",
+    "confidence": [
+      [
+        "V",
+        -0.21012558
+      ],
+      [
+        "ort",
+        -0.035930306
+      ],
+      [
+        "icity",
+        -0.00018804391
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.0044485126
+      ],
+      [
+        "s",
+        -0.39529738
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia and stasis surround the zone of (*) coagulation in the affected organ in this condition. The bacteria that most commonly infects the wounds produced by this condition is Pseudomonas aeruginosa. It's not psoriasis, but the palm is often used as a reference for 1% of total body surface area when evaluating the severity of this condition. When this condition spreads to the entire dermis, it": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.0052947155
+      ],
+      [
+        "s",
+        -0.48203716
+      ]
+    ]
+  },
+  "The curl of this physical quantity is given by the vorticity, and a terminal value for this quantity is achieved when the accelerating force on an object is equal to its drag force. The magnetic force on a particle is proportional to the cross product of this quantity and the magnetic field. Kinetic energy is equal to one-half times mass times the magnitude of this quantity squared. Acceleration is the rate of change in this vector quantity, which is the time derivative of position. For 10 points,": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.4248667
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia and stasis surround the zone of (*) coagulation in the affected organ in this condition. The bacteria that most commonly infects the wounds produced by this condition is Pseudomonas aeruginosa. It's not psoriasis, but the palm is often used as a reference for 1% of total body surface area": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.013075403
+      ],
+      [
+        "s",
+        -0.3156935
+      ]
+    ]
+  },
+  "Curling's ulcer is an acute peptic ulcer of the duodenum that develops as a complication of this condition. Wallace's rule of nines and the Lund and Browder chart are tools used to quantify the severity of this condition. The Parkland formula can be used to calculate the amount of resuscitation fluid required to ensure that sufferers of this condition remain stable. In very rare cases, patients with tattoos or piercings can experience this kind of condition while undergoing an MRI. The zones of hyperaemia and stasis surround the zone of (*) coagulation in the affected organ in this condition. The bacteria that most commonly infects the wounds produced by this condition is Pseudomonas aeruginosa. It's not psoriasis, but the palm is often used as a reference for 1% of total body surface area when evaluating the severity of this condition. When this condition spreads to the entire dermis, it is denoted third-degree. For 10 points, identify this skin-affecting condition caused by electricity, chemicals, or heat.": {
+    "guess": "Burns",
+    "confidence": [
+      [
+        "Burn",
+        -0.010178521
+      ],
+      [
+        "s",
+        -0.2692311
+      ]
+    ]
+  },
+  "The curl of the field of this quantity for a fluid is the vorticity. One type of this quantity is equal in magnitude to the square root of quantity 2 times big G times M divided by r, and is the value needed to escape an object's gravitational pull. The (*) terminal variety of it is reached when the drag force is equal to the gravitational force, so an object experiences no acceleration. Its second derivative with respect to time is jerk, and it is the time-derivative of position. For ten points, identify this vector quantity from physics, consisting of an object's speed and direction.": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.041761052
+      ]
+    ]
+  },
+  "The curl of this physical quantity is given by the vorticity, and a terminal value for this quantity is achieved when the accelerating force on an object is equal to its drag force. The magnetic force": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -1.0593122
+      ]
+    ]
+  },
+  "The curl of this physical quantity is given by the vorticity, and a terminal value for this quantity is achieved when the accelerating force on an object is equal to its drag force. The magnetic force on a particle is proportional to the cross product of this quantity and the magnetic field. Kinetic energy is equal to one-half times mass times the magnitude of this quantity squared. Acceleration is the rate of change in this vector quantity, which is the time derivative of position. For 10 points, name this quantity which describes an objects speed and direction.": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.029405372
+      ]
+    ]
+  }
+}

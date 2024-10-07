@@ -1,0 +1,144 @@
+{
+  "Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change,": {
+    "guess": "Atmospheric thermodynamics",
+    "confidence": [
+      [
+        "At",
+        -0.2923986
+      ],
+      [
+        "mos",
+        -5.9153886e-06
+      ],
+      [
+        "pheric",
+        -0.03148448
+      ],
+      [
+        " therm",
+        -0.23651792
+      ],
+      [
+        "odynamics",
+        -0.00094826083
+      ]
+    ]
+  },
+  "Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change, defining a dry and moist lapse rate given this adjective, and adequately gradual perturbations": {
+    "guess": "Adiabatic process",
+    "confidence": [
+      [
+        "Ad",
+        -0.32537422
+      ],
+      [
+        "i",
+        -0.00037859922
+      ],
+      [
+        "ab",
+        -6.81397e-05
+      ],
+      [
+        "atic",
+        -0.00012035091
+      ],
+      [
+        " process",
+        -0.046017177
+      ]
+    ]
+  },
+  "Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change, defining a dry and moist lapse rate given this adjective, and adequately gradual perturbations do not take a system out of its original eigenstate according to a theorem called this formulated": {
+    "guess": "Adiabatic theorem",
+    "confidence": [
+      [
+        "Ad",
+        -0.016723795
+      ],
+      [
+        "i",
+        -9.372295e-06
+      ],
+      [
+        "ab",
+        -2.2007884e-05
+      ],
+      [
+        "atic",
+        -2.8160932e-06
+      ],
+      [
+        " theorem",
+        -0.009658927
+      ]
+    ]
+  },
+  "Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change, defining a dry and moist lapse rate given this adjective, and adequately gradual perturbations do not take a system out of its original eigenstate according to a theorem called this formulated by Fock and Born. In a reversible one of these processes, the product of pressure with volume raised": {
+    "guess": "Adiabatic process",
+    "confidence": [
+      [
+        "Ad",
+        -0.123865515
+      ],
+      [
+        "i",
+        -3.786197e-05
+      ],
+      [
+        "ab",
+        -0.00014275387
+      ],
+      [
+        "atic",
+        -0.00012225083
+      ],
+      [
+        " process",
+        -0.031016089
+      ]
+    ]
+  },
+  "Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change, defining a dry and moist lapse rate given this adjective, and adequately gradual perturbations do not take a system out of its original eigenstate according to a theorem called this formulated by Fock and Born. In a reversible one of these processes, the product of pressure with volume raised to gamma is held constant. For 10 points, give this adjective that describes all thermodynamic processes": {
+    "guess": "Adiabatic",
+    "confidence": [
+      [
+        "Ad",
+        -0.05845199
+      ],
+      [
+        "i",
+        -1.147242e-06
+      ],
+      [
+        "ab",
+        -1.4378848e-05
+      ],
+      [
+        "atic",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change, defining a dry and moist lapse rate given this adjective, and adequately gradual perturbations do not take a system out of its original eigenstate according to a theorem called this formulated by Fock and Born. In a reversible one of these processes, the product of pressure with volume raised to gamma is held constant. For 10 points, give this adjective that describes all thermodynamic processes that do not involve a transfer of heat.": {
+    "guess": "Adiabatic",
+    "confidence": [
+      [
+        "Ad",
+        -0.30168402
+      ],
+      [
+        "i",
+        -1.0683535e-05
+      ],
+      [
+        "ab",
+        -0.00011462913
+      ],
+      [
+        "atic",
+        -7.58424e-06
+      ]
+    ]
+  }
+}

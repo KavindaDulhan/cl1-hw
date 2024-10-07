@@ -1,0 +1,82 @@
+{
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with a lower refractive index. Due to signal losses through optical attenuation and dispersion, repeaters must be used in these networks to keep signals clean.  For ten points, name this technology that": {
+    "guess": "Optical fiber communication",
+    "confidence": [
+      [
+        "Opt",
+        -0.113493614
+      ],
+      [
+        "ical",
+        -3.070975e-05
+      ],
+      [
+        " fiber",
+        -0.03106636
+      ],
+      [
+        " communication",
+        -0.47071356
+      ]
+    ]
+  },
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with a lower refractive index. Due to signal losses through optical attenuation and dispersion, repeaters": {
+    "guess": "Optical fiber cable",
+    "confidence": [
+      [
+        "Opt",
+        -0.015952256
+      ],
+      [
+        "ical",
+        -2.129266e-05
+      ],
+      [
+        " fiber",
+        -0.046982232
+      ],
+      [
+        " cable",
+        -0.2030414
+      ]
+    ]
+  },
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with": {
+    "guess": "Optical Fiber Cable",
+    "confidence": [
+      [
+        "Opt",
+        -0.00094861846
+      ],
+      [
+        "ical",
+        -7.016616e-05
+      ],
+      [
+        " Fiber",
+        -0.49950078
+      ],
+      [
+        " Cable",
+        -0.70238096
+      ]
+    ]
+  },
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with a lower refractive index. Due to signal losses through optical attenuation and dispersion, repeaters must be used in these networks to keep signals clean.  For ten points, name this technology that uses total internal reflection to transfer light signals.": {
+    "guess": "Optical fiber",
+    "confidence": [
+      [
+        "Opt",
+        -0.18044168
+      ],
+      [
+        "ical",
+        -7.302705e-05
+      ],
+      [
+        " fiber",
+        -0.2945088
+      ]
+    ]
+  }
+}

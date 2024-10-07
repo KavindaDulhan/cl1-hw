@@ -1,0 +1,97 @@
+{
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux component of blast furnaces. This mineral found in Karst topography makes up stalagmites and stalactites. For 10 points, name this sedimentary rock that often metamorphoses into marble and is mostly made up of calcium carbonate.": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.00021557629
+      ],
+      [
+        "imestone",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.25454596
+      ],
+      [
+        "imestone",
+        -3.368984e-05
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed": {
+    "guess": "Calcite",
+    "confidence": [
+      [
+        "Calc",
+        -0.06152221
+      ],
+      [
+        "ite",
+        -0.007102621
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Qu",
+        -0.12661149
+      ],
+      [
+        "artz",
+        -2.5107178e-05
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux component of blast furnaces. This mineral found in Karst topography makes up stalagmites and stalactites. For 10 points, name this sedimentary rock that often metamorphoses into marble and is mostly": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.0020579502
+      ],
+      [
+        "imestone",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux component of blast furnaces. This mineral found in Karst topography makes up stalagmites and stalactites.": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.12673078
+      ],
+      [
+        "imestone",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from": {
+    "guess": "Dolomite",
+    "confidence": [
+      [
+        "D",
+        -1.1731744
+      ],
+      [
+        "ol",
+        -4.310693e-05
+      ],
+      [
+        "omite",
+        -0.0004891689
+      ]
+    ]
+  }
+}

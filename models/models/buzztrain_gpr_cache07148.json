@@ -1,0 +1,70 @@
+{
+  "The Sphinx is a muta persona while the Memnon-statue sings in this play, whose characters include Master Cotton, Monsieur Ballon, and Herren von Eberkopf. Solveig and Little Helga are the daughters of": {
+    "guess": "Peer Gynt",
+    "confidence": [
+      [
+        "Peer",
+        -0.00012904544
+      ],
+      [
+        " Gy",
+        -0.0004123192
+      ],
+      [
+        "nt",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "The Sphinx is a muta persona while the Memnon-statue sings in this play, whose characters include Master Cotton, Monsieur Ballon, and Herren von Eberkopf. Solveig and Little Helga are the daughters of newcomers, Ase is a peasant's widow, and the title character her son. For 10 points -- name the Henrik": {
+    "guess": "Peer Gynt",
+    "confidence": [
+      [
+        "Peer",
+        -0.029421577
+      ],
+      [
+        " Gy",
+        -0.010583777
+      ],
+      [
+        "nt",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "The Sphinx is a muta persona while the Memnon-statue sings in this play, whose characters include Master Cotton, Monsieur Ballon, and Herren von Eberkopf. Solveig and Little Helga are the daughters of newcomers, Ase is a peasant's widow, and the title character her son. For 10 points -- name the Henrik Ibsen play whose incidental music was written by Edvard Grieg.": {
+    "guess": "Peer Gynt",
+    "confidence": [
+      [
+        "Peer",
+        -0.00028374247
+      ],
+      [
+        " Gy",
+        -7.89631e-07
+      ],
+      [
+        "nt",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "The Sphinx is a muta persona while the Memnon-statue sings in this play, whose characters include Master": {
+    "guess": "Peer Gynt",
+    "confidence": [
+      [
+        "Peer",
+        -0.011057726
+      ],
+      [
+        " Gy",
+        -0.0009582703
+      ],
+      [
+        "nt",
+        -5.9153886e-06
+      ]
+    ]
+  }
+}

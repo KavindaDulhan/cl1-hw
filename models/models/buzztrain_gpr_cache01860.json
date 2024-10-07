@@ -1,0 +1,80 @@
+{
+  "The E\u00f6vt\u00f6s rule states that this property decreases as temperature increases. The Young-Laplace equation relates pressure to the total vertical force produced by this phenomenon as a function of the radius of curvature. Emulsifying agents belong to a class of compounds that decrease this property, surfactants, and within a capillary, a meniscus forms as a result of this phenomenon. For 10 points, name this property of fluids, which arises from the attraction between molecules located on the liquid's": {
+    "guess": "Surface tension",
+    "confidence": [
+      [
+        "Surface",
+        -0.0120195495
+      ],
+      [
+        " tension",
+        -0.020171145
+      ]
+    ]
+  },
+  "The E\u00f6vt\u00f6s rule states that this property decreases as temperature increases. The Young-Laplace equation relates pressure to the total vertical force produced by this phenomenon as a function of the radius of curvature. Emulsifying agents belong to a class of compounds that decrease this property, surfactants,": {
+    "guess": "Surface tension",
+    "confidence": [
+      [
+        "Surface",
+        -0.0058965613
+      ],
+      [
+        " tension",
+        -0.049077004
+      ]
+    ]
+  },
+  "The E\u00f6vt\u00f6s rule states that this property decreases as temperature increases. The Young-Laplace equation relates pressure to the total vertical force produced by this phenomenon as a function of the radius": {
+    "guess": "Surface tension",
+    "confidence": [
+      [
+        "Surface",
+        -0.041515432
+      ],
+      [
+        " tension",
+        -0.00280191
+      ]
+    ]
+  },
+  "The E\u00f6vt\u00f6s rule states that this property decreases as temperature increases. The Young-Laplace equation": {
+    "guess": "Surface tension",
+    "confidence": [
+      [
+        "Surface",
+        -0.0055780793
+      ],
+      [
+        " tension",
+        -0.10849951
+      ]
+    ]
+  },
+  "The E\u00f6vt\u00f6s rule states that this property decreases as temperature increases. The Young-Laplace equation relates pressure to the total vertical force produced by this phenomenon as a function of the radius of curvature. Emulsifying agents belong to a class of compounds that decrease this property, surfactants, and within a capillary, a meniscus forms as a result of this phenomenon. For 10 points, name": {
+    "guess": "Surface tension",
+    "confidence": [
+      [
+        "Surface",
+        -0.01586789
+      ],
+      [
+        " tension",
+        -0.00017410076
+      ]
+    ]
+  },
+  "The E\u00f6vt\u00f6s rule states that this property decreases as temperature increases. The Young-Laplace equation relates pressure to the total vertical force produced by this phenomenon as a function of the radius of curvature. Emulsifying agents belong to a class of compounds that decrease this property, surfactants, and within a capillary, a meniscus forms as a result of this phenomenon. For 10 points, name this property of fluids, which arises from the attraction between molecules located on the liquid's surface with each other and nearby molecules.": {
+    "guess": "Surface tension",
+    "confidence": [
+      [
+        "Surface",
+        -0.022250775
+      ],
+      [
+        " tension",
+        -0.009458556
+      ]
+    ]
+  }
+}

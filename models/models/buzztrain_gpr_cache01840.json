@@ -1,0 +1,200 @@
+{
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan influence. One legend his him killed in a lovers' quarrel by the sword of Miming, but the better known one has this denizen of Breidhablik in Asgard slain by an arrow armed with mistletoe. FTP identify": {
+    "guess": "Baldr",
+    "confidence": [
+      [
+        "Bal",
+        -0.23351993
+      ],
+      [
+        "dr",
+        -0.6191752
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.22372447
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan": {
+    "guess": "John Ruskin",
+    "confidence": [
+      [
+        "John",
+        -1.4628795
+      ],
+      [
+        " Rus",
+        -0.21573342
+      ],
+      [
+        "kin",
+        -0.00013560164
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid": {
+    "guess": "Euler Line",
+    "confidence": [
+      [
+        "E",
+        -0.35432258
+      ],
+      [
+        "uler",
+        -1.2590794e-05
+      ],
+      [
+        " Line",
+        -0.15342598
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is the only polygon that cannot be concave, because its angles must add to 180 degrees. For 10 points, name this polygon with three sides.": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.0009476648
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is": {
+    "guess": "Complex exponential function",
+    "confidence": [
+      [
+        "Complex",
+        -0.033179116
+      ],
+      [
+        " exponential",
+        -0.048823196
+      ],
+      [
+        " function",
+        -0.000397184
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value of a unit circle arc. For 10 points, identify this trigonometric function that is the inverse of": {
+    "guess": "Sine function",
+    "confidence": [
+      [
+        "S",
+        -0.35338426
+      ],
+      [
+        "ine",
+        -6.511407e-06
+      ],
+      [
+        " function",
+        -0.35673797
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value": {
+    "guess": "Sine wave",
+    "confidence": [
+      [
+        "S",
+        -0.7445898
+      ],
+      [
+        "ine",
+        -1.7239736e-05
+      ],
+      [
+        " wave",
+        -0.51101595
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan influence. One legend his him killed in a lovers' quarrel by the sword of Miming, but the better": {
+    "guess": "Beowulf",
+    "confidence": [
+      [
+        "Be",
+        -0.7185779
+      ],
+      [
+        "ow",
+        -0.0015092702
+      ],
+      [
+        "ulf",
+        -5.9080223e-05
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is the only polygon that cannot be concave, because its angles must add to 180 degrees. For 10 points,": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.00023750975
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value of a unit circle arc. For 10 points, identify this trigonometric function that is the inverse of cosecant and, for a right triangle, gives the ratio of the opposite side over the hypotenuse.": {
+    "guess": "Sine function",
+    "confidence": [
+      [
+        "S",
+        -0.010734625
+      ],
+      [
+        "ine",
+        -7.107425e-06
+      ],
+      [
+        " function",
+        -0.17563763
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan influence. One legend his him killed in a lovers' quarrel by the sword of Miming, but the better known one has this denizen of Breidhablik in Asgard slain by an arrow armed with mistletoe. FTP identify this Norse deity, the god of light, purity, and \"the good.\"": {
+    "guess": "Baldr",
+    "confidence": [
+      [
+        "Bal",
+        -0.0011508173
+      ],
+      [
+        "dr",
+        -0.0035957908
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier": {
+    "guess": "Sine function",
+    "confidence": [
+      [
+        "S",
+        -0.53374535
+      ],
+      [
+        "ine",
+        -7.064298e-05
+      ],
+      [
+        " function",
+        -0.13590953
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.23197481
+      ]
+    ]
+  }
+}

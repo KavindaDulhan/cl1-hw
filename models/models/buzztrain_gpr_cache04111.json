@@ -1,0 +1,174 @@
+{
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's": {
+    "guess": "State space (controls)",
+    "confidence": [
+      [
+        "State",
+        -1.526229
+      ],
+      [
+        " space",
+        -0.2933486
+      ],
+      [
+        " (",
+        -0.76674587
+      ],
+      [
+        "controls",
+        -0.21648832
+      ],
+      [
+        ")",
+        -0.0012353455
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space": {
+    "guess": "Linear time-invariant system",
+    "confidence": [
+      [
+        "Linear",
+        -0.14785933
+      ],
+      [
+        " time",
+        -0.042570423
+      ],
+      [
+        "-in",
+        -0.016278226
+      ],
+      [
+        "variant",
+        -0.000267296
+      ],
+      [
+        " system",
+        -0.02562462
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures": {
+    "guess": "Krylov subspace",
+    "confidence": [
+      [
+        "K",
+        -1.0356168
+      ],
+      [
+        "ry",
+        -0.00019710339
+      ],
+      [
+        "lov",
+        -0.00010139752
+      ],
+      [
+        " subs",
+        -0.02772692
+      ],
+      [
+        "pace",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all": {
+    "guess": "Partial Differential Equations",
+    "confidence": [
+      [
+        "Partial",
+        -0.42444524
+      ],
+      [
+        " Differential",
+        -0.38984329
+      ],
+      [
+        " Equ",
+        -0.06342612
+      ],
+      [
+        "ations",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method": {
+    "guess": "Partial Differential Equations",
+    "confidence": [
+      [
+        "Partial",
+        -0.613337
+      ],
+      [
+        " Differential",
+        -0.06300737
+      ],
+      [
+        " Equ",
+        -0.010689454
+      ],
+      [
+        "ations",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method for root-finding has this type of convergence, and the worst-case of sequential search proceeds": {
+    "guess": "Partial Differential Equations",
+    "confidence": [
+      [
+        "Partial",
+        -0.5277389
+      ],
+      [
+        " Differential",
+        -0.06534186
+      ],
+      [
+        " Equ",
+        -0.0042823465
+      ],
+      [
+        "ations",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method for root-finding has this type of convergence, and the worst-case of sequential search proceeds in this type of time. For 10 points, name this property in mathematics, which for a function f means": {
+    "guess": "Linear Time-Invariant",
+    "confidence": [
+      [
+        "Linear",
+        -0.31576854
+      ],
+      [
+        " Time",
+        -0.57552296
+      ],
+      [
+        "-In",
+        -0.23052727
+      ],
+      [
+        "variant",
+        -0.006104878
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method for root-finding has this type of convergence, and the worst-case of sequential search proceeds in this type of time. For 10 points, name this property in mathematics, which for a function f means that f of A times x plus B times y equals A times f of x plus B times f of y.": {
+    "guess": "Linear Property",
+    "confidence": [
+      [
+        "Linear",
+        -0.101190984
+      ],
+      [
+        " Property",
+        -1.0782785
+      ]
+    ]
+  }
+}

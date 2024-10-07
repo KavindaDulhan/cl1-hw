@@ -1,0 +1,642 @@
+{
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates by adding dioxane. A palladium catalyst and one of these compounds can be used in a form of coupling that removes a carboxylic acid functionality from an R-COOH and attaches the R to an R' in an R' (R prime)-halide. Besides Tebbe's and Gilman's reagents, the best-known type of these compounds exists in a Schlenk equilibrium and can be added to carbonyl carbons to yield some form of alcohol. For 10 points, identify these compounds which include Grignard reagents, which contain metals bound to carbon atoms.": {
+    "guess": "Organometallic compound",
+    "confidence": [
+      [
+        "Organ",
+        -0.009342706
+      ],
+      [
+        "omet",
+        -0.032251418
+      ],
+      [
+        "al",
+        -2.5703197e-05
+      ],
+      [
+        "lic",
+        -1.640531e-05
+      ],
+      [
+        " compound",
+        -1.1938595
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic type can be created by the oxidation of benzene. They may be symmetrical or mixed, which affects the complexity of their nomenclature, and their oxygen atom may be replaced by sulfur, in which case": {
+    "guess": "Anhydride",
+    "confidence": [
+      [
+        "An",
+        -1.124923
+      ],
+      [
+        "hy",
+        -0.012106594
+      ],
+      [
+        "d",
+        -2.220075e-06
+      ],
+      [
+        "ride",
+        -0.0051290314
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.29479387
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic type can be created by the oxidation of benzene. They may be symmetrical or mixed, which affects the": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "Di",
+        -0.7237204
+      ],
+      [
+        "els",
+        -0.6140047
+      ],
+      [
+        "-A",
+        -0.16873015
+      ],
+      [
+        "lder",
+        -0.00034332962
+      ],
+      [
+        " reaction",
+        -0.7309569
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used as a protecting group. Aryl versions of this functional group can be made in the Ullmann condensation, while cyclic ones can result from the oxidation of an alkene with a peroxyacid. Asymmetric ones are often formed by a reaction that uses a strong base to deprotonate an alcohol, which can then serve": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.11138352
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used as a protecting group. Aryl versions of this functional group can be made in the Ullmann condensation, while cyclic ones can result from the oxidation of an alkene with a peroxyacid. Asymmetric ones": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.012363546
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of this work that asks to \"pray for those who \u2026 ended their voyage in sand\" wonders if the future is a faded song, a royal rose, or a lavender spray. This work also wonders what Krishna meant, and begins by noting \"if all time is eternally present, All time is unredeemable.\" Stating that \"the fire and": {
+    "guess": "The Waste Land",
+    "confidence": [
+      [
+        "The",
+        -0.53460175
+      ],
+      [
+        " Waste",
+        -0.012322212
+      ],
+      [
+        " Land",
+        -0.000114033115
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used as a protecting group. Aryl versions of this functional group can be made in the Ullmann condensation, while cyclic ones can result from the oxidation of an alkene with a peroxyacid. Asymmetric ones are often formed by a reaction that uses a strong base to deprotonate an alcohol, which can then serve as a nucleophile in an SN2 reaction; that reaction is called the Williamson synthesis of these. For ten points, identify this functional group in which an oxygen is singly bonded to two different carbon": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.0032349902
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates by adding dioxane. A palladium catalyst and one of these compounds can be used in a form of coupling that removes a carboxylic acid functionality from an R-COOH and attaches the R to an R' in an R' (R prime)-halide. Besides Tebbe's and Gilman's reagents, the best-known type of these compounds exists in a Schlenk equilibrium and can be added to carbonyl carbons to yield some form of alcohol.": {
+    "guess": "Organometallic compound",
+    "confidence": [
+      [
+        "Organ",
+        -0.1187305
+      ],
+      [
+        "omet",
+        -0.11077664
+      ],
+      [
+        "al",
+        -0.00014358829
+      ],
+      [
+        "lic",
+        -3.7742768e-05
+      ],
+      [
+        " compound",
+        -0.8403651
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer": {
+    "guess": "Tamoxifen",
+    "confidence": [
+      [
+        "Tam",
+        -1.1789201
+      ],
+      [
+        "ox",
+        -5.121278e-05
+      ],
+      [
+        "ifen",
+        -0.0001789881
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic type can be created by the oxidation of benzene. They may be symmetrical or mixed, which affects the complexity of their nomenclature, and their oxygen atom may be replaced by sulfur, in which case the molecule may be given the designation \"sulfane.\" Consisting of two carbonyl groups with only an oxygen between them, the acetic type is a quite common reagent that is created when two molecules of acetic acid come together and kick off water. FTP, name this functional group with a name that literally": {
+    "guess": "Carbonyl group",
+    "confidence": [
+      [
+        "Car",
+        -0.64497155
+      ],
+      [
+        "b",
+        -0.24279638
+      ],
+      [
+        "ony",
+        -0.0016239991
+      ],
+      [
+        "l",
+        -0.00081200915
+      ],
+      [
+        " group",
+        -0.40337688
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of this work that asks to \"pray for those who \u2026 ended their voyage in sand\" wonders if the future is a faded song, a royal rose, or a lavender spray. This work also wonders what Krishna meant, and begins by noting \"if all time is eternally present, All time is unredeemable.\" Stating that \"the fire and rose are one,\" Its author said \"In my end is my beginning,\" laying the ground for him to be buried in East Coker. For ten points, identify this literary work whose individual parts represent the classical elements, such as Burnt Norton and Little Gidding, a tetrad of poems by T.S. Eliot.": {
+    "guess": "Four Quartets",
+    "confidence": [
+      [
+        "Four",
+        -0.0067848777
+      ],
+      [
+        " Quart",
+        -4.6206227e-05
+      ],
+      [
+        "ets",
+        -0.0001242773
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic type can be created by the oxidation of benzene. They may be symmetrical or mixed, which affects the complexity of their nomenclature, and their oxygen atom may be replaced by sulfur, in which case the molecule may be given the designation \"sulfane.\" Consisting of two carbonyl groups with only an oxygen between them, the acetic type is a quite common reagent that is created when two molecules of acetic acid come together and kick off water. FTP, name this functional group with a name that literally means \"without water.\"": {
+    "guess": "Anhydride",
+    "confidence": [
+      [
+        "An",
+        -0.12029254
+      ],
+      [
+        "hy",
+        -0.00024631983
+      ],
+      [
+        "d",
+        -2.220075e-06
+      ],
+      [
+        "ride",
+        -0.007561433
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used as a protecting group. Aryl versions of this functional group can be made in the Ullmann condensation,": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -1.122982
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of this work that asks to \"pray for those who \u2026 ended their voyage in sand\" wonders if the future is a faded song, a royal rose, or a lavender spray. This work also wonders what Krishna meant, and begins": {
+    "guess": "The Waste Land",
+    "confidence": [
+      [
+        "The",
+        -0.6219624
+      ],
+      [
+        " Waste",
+        -0.0066585345
+      ],
+      [
+        " Land",
+        -2.808727e-05
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates by adding dioxane. A palladium catalyst and one of these compounds can be used in a form of": {
+    "guess": "Chiral auxiliary",
+    "confidence": [
+      [
+        "Ch",
+        -1.380499
+      ],
+      [
+        "iral",
+        -0.043418292
+      ],
+      [
+        " auxiliary",
+        -0.45755953
+      ]
+    ]
+  },
+  "In this cycle's twelfth song, \"Olim lacus colueram,\" the tenor and the bassoon perform at an abnormally high register to recreate the wailing of the unfortunate roasted swan. The beginning and ending pieces": {
+    "guess": "Carmina Burana",
+    "confidence": [
+      [
+        "Car",
+        -0.073343106
+      ],
+      [
+        "mina",
+        -0.0001719551
+      ],
+      [
+        " Bur",
+        -0.0024465197
+      ],
+      [
+        "ana",
+        -9.8536635e-05
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of this work that asks to \"pray for those who \u2026 ended their voyage in sand\" wonders if the future is a": {
+    "guess": "Four Quartets",
+    "confidence": [
+      [
+        "Four",
+        -0.5142603
+      ],
+      [
+        " Quart",
+        -3.0828953e-05
+      ],
+      [
+        "ets",
+        -0.000105331244
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates": {
+    "guess": "Epoxide",
+    "confidence": [
+      [
+        "Ep",
+        -1.3755873
+      ],
+      [
+        "oxide",
+        -0.036425732
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used as a protecting group. Aryl versions of this functional group can be made in the Ullmann condensation, while cyclic ones can result from the oxidation of an alkene with a peroxyacid. Asymmetric ones are often formed by a reaction that uses a strong base to deprotonate an alcohol, which can then serve as a nucleophile in an SN2 reaction; that reaction is called the Williamson synthesis of these. For": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.027143642
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates by adding dioxane. A palladium catalyst and one of these compounds can be used in a form of coupling that removes a carboxylic acid functionality from an R-COOH and attaches the R to an R' in an R' (R prime)-halide. Besides Tebbe's and Gilman's reagents, the best-known type of these compounds": {
+    "guess": "Organometallic compound",
+    "confidence": [
+      [
+        "Organ",
+        -0.05820269
+      ],
+      [
+        "omet",
+        -0.042252563
+      ],
+      [
+        "al",
+        -9.0788395e-05
+      ],
+      [
+        "lic",
+        -4.6683042e-05
+      ],
+      [
+        " compound",
+        -0.7555767
+      ]
+    ]
+  },
+  "In this cycle's twelfth song, \"Olim lacus colueram,\" the tenor and the bassoon perform at an abnormally": {
+    "guess": "Carmina Burana",
+    "confidence": [
+      [
+        "Car",
+        -0.12631115
+      ],
+      [
+        "mina",
+        -7.703444e-06
+      ],
+      [
+        " Bur",
+        -0.0013694038
+      ],
+      [
+        "ana",
+        -4.179569e-05
+      ]
+    ]
+  },
+  "In this cycle's twelfth song, \"Olim lacus colueram,\" the tenor and the bassoon perform at an abnormally high register to recreate the wailing of the unfortunate roasted swan. The beginning and ending pieces are identical, with the choruses singing at a slightly different rhythm from the orchestra in imitation of a turning wheel. For 10 points\u2014name this work based on thirteenth-century poems including \"O Fortuna,\" written by Carl Orff.": {
+    "guess": "Carmina Burana",
+    "confidence": [
+      [
+        "Car",
+        -0.0051335427
+      ],
+      [
+        "mina",
+        -9.066919e-05
+      ],
+      [
+        " Bur",
+        -0.00026813045
+      ],
+      [
+        "ana",
+        -5.109358e-05
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the": {
+    "guess": "Carbene",
+    "confidence": [
+      [
+        "Car",
+        -1.3671551
+      ],
+      [
+        "b",
+        -0.14459102
+      ],
+      [
+        "ene",
+        -0.0569399
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates by adding dioxane. A palladium catalyst and one of these compounds can be used in a form of coupling that removes a carboxylic acid functionality from an R-COOH and attaches the R to an R' in an R' (R prime)-halide. Besides Tebbe's and Gilman's reagents, the best-known type of these compounds exists in a Schlenk equilibrium and can be added to carbonyl carbons to yield some form of alcohol. For 10 points, identify these compounds which include Grignard reagents, which contain metals bound": {
+    "guess": "Organometallic compound",
+    "confidence": [
+      [
+        "Organ",
+        -0.009962069
+      ],
+      [
+        "omet",
+        -0.042667072
+      ],
+      [
+        "al",
+        -2.451116e-05
+      ],
+      [
+        "lic",
+        -1.1398757e-05
+      ],
+      [
+        " compound",
+        -1.1354977
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of this work that asks to \"pray for those who \u2026 ended their voyage in sand\" wonders if the future is a faded song, a royal rose, or a lavender spray. This work also wonders what Krishna meant, and begins by noting \"if all time is eternally present, All time is unredeemable.\" Stating that \"the fire and rose are one,\" Its author said \"In my end is my beginning,\" laying the ground for him to be buried in East Coker. For ten points, identify this literary work whose individual parts represent the classical": {
+    "guess": "Four Quartets",
+    "confidence": [
+      [
+        "Four",
+        -0.034961626
+      ],
+      [
+        " Quart",
+        -2.577686e-06
+      ],
+      [
+        "ets",
+        -6.8854926e-05
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after": {
+    "guess": "Four Quartets",
+    "confidence": [
+      [
+        "Four",
+        -0.5295046
+      ],
+      [
+        " Quart",
+        -5.080963e-06
+      ],
+      [
+        "ets",
+        -2.5941605e-05
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of this work that asks to \"pray for those who \u2026 ended their voyage in sand\" wonders if the future is a faded song, a royal rose, or a lavender spray. This work also wonders what Krishna meant, and begins by noting \"if all time is eternally present, All time is unredeemable.\" Stating that \"the fire and rose are one,\" Its author said \"In my end is my beginning,\" laying the ground for him to be buried": {
+    "guess": "Four Quartets",
+    "confidence": [
+      [
+        "Four",
+        -0.046193164
+      ],
+      [
+        " Quart",
+        -9.610702e-06
+      ],
+      [
+        "ets",
+        -7.255024e-05
+      ]
+    ]
+  },
+  "In this cycle's twelfth song, \"Olim lacus colueram,\" the tenor and the bassoon perform at an abnormally high register to recreate the wailing of the unfortunate roasted swan. The beginning and ending pieces are identical, with the choruses singing at a slightly different rhythm from the orchestra in": {
+    "guess": "Carmina Burana",
+    "confidence": [
+      [
+        "Car",
+        -0.05825735
+      ],
+      [
+        "mina",
+        -0.00013893934
+      ],
+      [
+        " Bur",
+        -0.0054157735
+      ],
+      [
+        "ana",
+        -0.00011796683
+      ]
+    ]
+  },
+  "This cycle of poems contends that \"here or there does not matter,\" \"old men ought to be explorers,\" after concluding \"to arrive at what you do not know,\" travel by the way of ignorance. Another part of": {
+    "guess": "Four Quartets",
+    "confidence": [
+      [
+        "Four",
+        -0.47981283
+      ],
+      [
+        " Quart",
+        -1.504853e-06
+      ],
+      [
+        "ets",
+        -4.274932e-05
+      ]
+    ]
+  },
+  "In this cycle's twelfth song, \"Olim lacus colueram,\" the tenor and the bassoon perform at an abnormally high register to recreate the wailing of the unfortunate roasted swan. The beginning and ending pieces are identical, with the choruses singing at a slightly different rhythm from the orchestra in imitation of a turning wheel. For 10 points\u2014name this work based on thirteenth-century poems including": {
+    "guess": "Carmina Burana",
+    "confidence": [
+      [
+        "Car",
+        -0.04289938
+      ],
+      [
+        "mina",
+        -6.563642e-05
+      ],
+      [
+        " Bur",
+        -0.0018176246
+      ],
+      [
+        "ana",
+        -0.00011892046
+      ]
+    ]
+  },
+  "Cyclopropanols are synthesized from esters via an in situ formation of one of these compounds in the Kulinkovich reaction. The industrial synthesis of the anti-estrogen receptor positive breast cancer drug Tamoxifen uses a specific kind of these compounds, one type of which can be resolved into precipitates by adding dioxane. A palladium catalyst and one of these compounds can be used in a form of coupling that removes a carboxylic acid functionality from an R-COOH and attaches the R to an R' in": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Al",
+        -0.9604949
+      ],
+      [
+        "cohol",
+        -0.1257452
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic type can be created by the oxidation of benzene. They may be symmetrical or mixed, which affects the complexity of their nomenclature, and their oxygen atom may be replaced by sulfur, in which case the molecule may be given the designation \"sulfane.\" Consisting of two carbonyl groups with only an oxygen between them, the acetic type is a quite common reagent that is created when two molecules of": {
+    "guess": "Diketone",
+    "confidence": [
+      [
+        "D",
+        -0.64101005
+      ],
+      [
+        "ik",
+        -0.5507377
+      ],
+      [
+        "et",
+        -9.014684e-06
+      ],
+      [
+        "one",
+        -0.04576284
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic type can be created by the oxidation of benzene. They may be symmetrical or mixed, which affects the complexity of their nomenclature, and their oxygen atom may be replaced by sulfur, in which case the molecule may be given the designation \"sulfane.\" Consisting of two carbonyl groups with only an": {
+    "guess": "Dicarbonyl",
+    "confidence": [
+      [
+        "Dic",
+        -0.93991673
+      ],
+      [
+        "arb",
+        -0.16204596
+      ],
+      [
+        "ony",
+        -3.7385154e-05
+      ],
+      [
+        "l",
+        -0.06634371
+      ]
+    ]
+  },
+  "The cyclic type of these compounds may undergo de-symmetrization in the Evans reaction, and the maleic": {
+    "guess": "Cycloalkene",
+    "confidence": [
+      [
+        "C",
+        -1.3486542
+      ],
+      [
+        "yc",
+        -0.051154535
+      ],
+      [
+        "lo",
+        -0.10897277
+      ],
+      [
+        "alk",
+        -0.70425093
+      ],
+      [
+        "ene",
+        -0.97434103
+      ]
+    ]
+  },
+  "A cyclical five-carbon member of this class of compounds is called tetrahydropyran, which can be used as a protecting group. Aryl versions of this functional group can be made in the Ullmann condensation, while cyclic ones can result from the oxidation of an alkene with a peroxyacid. Asymmetric ones are often formed by a reaction that uses a strong base to deprotonate an alcohol, which can then serve as a nucleophile in an SN2 reaction; that reaction is called the Williamson synthesis of these. For ten points, identify this functional group in which an oxygen is singly bonded to two different carbon atoms.": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.01438632
+      ]
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated by the Cdc20 cofactor. This event proceeds when a complex alternatively called the cyclosome degrades securins, leading to the activation of separases which cleave residual cohesin; that complex is an": {
+    "guess": "Anaphase",
+    "confidence": [
+      [
+        "An",
+        -0.02217302
+      ],
+      [
+        "aph",
+        -3.1737043e-06
+      ],
+      [
+        "ase",
+        -1.2233183e-05
+      ]
+    ]
+  },
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated by the Cdc20 cofactor. This event proceeds when a complex alternatively called the cyclosome degrades securins, leading to the activation of separases which cleave residual cohesin; that complex is an E3 ubiquitin ligase, the APC/C. Spindle poles begin to move apart during the later part of this stage, and its early portion sees the shortening of microtubules due to depolymerization at the plus ends.": {
+    "guess": "Anaphase",
+    "confidence": [
+      [
+        "An",
+        -0.541708
+      ],
+      [
+        "aph",
+        -4.3202e-07
+      ],
+      [
+        "ase",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated by the Cdc20 cofactor. This event proceeds when a complex alternatively called the cyclosome degrades securins, leading to the activation of separases which cleave residual cohesin; that complex is an E3 ubiquitin ligase, the APC/C. Spindle poles begin to move apart during the later part of this stage, and its early portion sees the shortening of microtubules due to depolymerization at the plus ends. For 10 points, identify this event in which sister chromatids begin to move towards opposite poles": {
+    "guess": "Anaphase",
+    "confidence": [
+      [
+        "An",
+        -0.16656141
+      ],
+      [
+        "aph",
+        -4.6206227e-05
+      ],
+      [
+        "ase",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated by the Cdc20 cofactor. This event proceeds when a complex alternatively called the cyclosome degrades securins, leading to the activation of separases which cleave residual cohesin; that complex is an E3 ubiquitin ligase, the APC/C. Spindle poles begin to move apart during the later part of this stage, and its early portion sees the shortening of microtubules due to depolymerization at the plus ends. For 10 points, identify this event in which sister chromatids begin to move towards opposite poles of the cell, a stage of mitosis which precedes telophase.": {
+    "guess": "Anaphase",
+    "confidence": [
+      [
+        "An",
+        -0.0028941554
+      ],
+      [
+        "aph",
+        -1.0280384e-06
+      ],
+      [
+        "ase",
+        -1.4259645e-05
+      ]
+    ]
+  },
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated": {
+    "guess": "Cell cycle",
+    "confidence": [
+      [
+        "Cell",
+        -1.6067147
+      ],
+      [
+        " cycle",
+        -0.1251411
+      ]
+    ]
+  },
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated by the Cdc20 cofactor. This event proceeds when a complex alternatively called the cyclosome degrades securins, leading to the activation of separases which cleave residual cohesin; that complex is an E3 ubiquitin ligase, the APC/C. Spindle poles begin to move apart during the later part of this stage,": {
+    "guess": "Anaphase",
+    "confidence": [
+      [
+        "An",
+        -0.3222881
+      ],
+      [
+        "aph",
+        -5.5122365e-07
+      ],
+      [
+        "ase",
+        -8.776276e-06
+      ]
+    ]
+  },
+  "The onset of this event is regulated by levels of RCS1, and a complex key to this event is activated by the Cdc20 cofactor. This event proceeds when a complex alternatively called the cyclosome degrades": {
+    "guess": "Anaphase",
+    "confidence": [
+      [
+        "An",
+        -0.07607707
+      ],
+      [
+        "aph",
+        -1.9361265e-07
+      ],
+      [
+        "ase",
+        -2.8160932e-06
+      ]
+    ]
+  }
+}

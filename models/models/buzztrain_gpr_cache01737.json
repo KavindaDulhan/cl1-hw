@@ -1,0 +1,111 @@
+{
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of the base's newspaper the Command Courier was arrested, he found his calling filling the shoes, and he eventually hung around the Hell's Angels to write a chronicle and inspired the character of Uncle Duke in Doonesvbury. For 10 points\u2014name this \"gonzo journalist\" of Fear and Loathing in Las Vegas.": {
+    "guess": "Hunter S. Thompson",
+    "confidence": [
+      [
+        "Hunter",
+        -0.008853755
+      ],
+      [
+        " S",
+        -4.441817e-05
+      ],
+      [
+        ".",
+        -0.0051543005
+      ],
+      [
+        " Thompson",
+        -3.297462e-05
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of the base's newspaper the Command Courier was arrested, he found his calling filling the shoes, and he eventually hung around the Hell's Angels to write a chronicle and inspired the character of Uncle": {
+    "guess": "Hunter S. Thompson",
+    "confidence": [
+      [
+        "Hunter",
+        -0.03074535
+      ],
+      [
+        " S",
+        -0.0006295175
+      ],
+      [
+        ".",
+        -0.0011571278
+      ],
+      [
+        " Thompson",
+        -0.00013631687
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation,": {
+    "guess": "Juvenile delinquency",
+    "confidence": [
+      [
+        "Ju",
+        -0.3368934
+      ],
+      [
+        "venile",
+        -0.0006963504
+      ],
+      [
+        " del",
+        -0.71491903
+      ],
+      [
+        "inqu",
+        -0.005959965
+      ],
+      [
+        "ency",
+        -0.00027313698
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of": {
+    "guess": "Alan Paton",
+    "confidence": [
+      [
+        "Alan",
+        -1.4561845
+      ],
+      [
+        " Pat",
+        -0.35427418
+      ],
+      [
+        "on",
+        -1.4378848e-05
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of the base's newspaper the Command Courier was arrested, he found his calling filling the shoes, and he": {
+    "guess": "Airman Snuffy Smith",
+    "confidence": [
+      [
+        "Air",
+        -2.0884268
+      ],
+      [
+        "man",
+        -0.5428266
+      ],
+      [
+        " Sn",
+        -0.33734083
+      ],
+      [
+        "uffy",
+        -0.13619202
+      ],
+      [
+        " Smith",
+        -0.052844387
+      ]
+    ]
+  }
+}

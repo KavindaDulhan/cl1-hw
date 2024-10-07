@@ -1,0 +1,95 @@
+{
+  "This US state was once home to the Cahokia culture. During the War of 1812 American soldiers were massacred at this state's Fort Dearborn. Later, settlers and Indians fought the Black Hawk War in this": {
+    "guess": "Illinois",
+    "confidence": [
+      [
+        "Ill",
+        -0.0124647925
+      ],
+      [
+        "inois",
+        -0.00048763392
+      ]
+    ]
+  },
+  "This US state was once home to the Cahokia culture. During the War of 1812 American soldiers were massacred": {
+    "guess": "Illinois in the War of 1812",
+    "confidence": [
+      [
+        "Ill",
+        -0.12720075
+      ],
+      [
+        "inois",
+        -0.00027313698
+      ],
+      [
+        " in",
+        -0.57958484
+      ],
+      [
+        " the",
+        -0.00012260844
+      ],
+      [
+        " War",
+        -0.00024251631
+      ],
+      [
+        " of",
+        -1.9862217e-05
+      ],
+      [
+        " ",
+        -1.640531e-05
+      ],
+      [
+        "181",
+        -7.445749e-05
+      ],
+      [
+        "2",
+        -1.9385403e-05
+      ]
+    ]
+  },
+  "This US state was once home to the Cahokia culture. During the War of 1812 American soldiers were massacred at this state's Fort Dearborn. Later, settlers and Indians fought the Black Hawk War in this state. A senate race in this state led to a series of debates where the losing candidate made the \"house divided\" speech. For 10 points, name this Midwestern state with capital Springfield, nicknamed": {
+    "guess": "Illinois",
+    "confidence": [
+      [
+        "Ill",
+        -0.0050493334
+      ],
+      [
+        "inois",
+        -0.00023417205
+      ]
+    ]
+  },
+  "This US state was once home to the Cahokia culture. During the War of 1812 American soldiers were massacred at this state's Fort Dearborn. Later, settlers and Indians fought the Black Hawk War in this state. A senate race in this state led to a series of debates where the losing candidate made the \"house": {
+    "guess": "Illinois",
+    "confidence": [
+      [
+        "Ill",
+        -0.0132094165
+      ],
+      [
+        "inois",
+        -0.00123618
+      ]
+    ]
+  },
+  "This US state was once home to the Cahokia culture. During the War of 1812 American soldiers were massacred at this state's Fort Dearborn. Later, settlers and Indians fought the Black Hawk War in this state. A senate race in this state led to a series of debates where the losing candidate made the \"house divided\" speech. For 10 points, name this Midwestern state with capital Springfield, nicknamed the \"Land of Lincoln\".": {
+    "guess": "Illinois",
+    "confidence": [
+      [
+        "Ill",
+        -0.009723151
+      ],
+      [
+        "inois",
+        -0.0002899374
+      ]
+    ]
+  }
+}

@@ -1,0 +1,843 @@
+{
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting it to Ossus, and the Corellian Run. The Luskanya, an Executor-class Super (*) Star Destroyer was once buried beneath its surface. It was the main planet in Sector Zero, and had the coordinates Triple": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.01948511
+      ],
+      [
+        "usc",
+        -0.00022809267
+      ],
+      [
+        "ant",
+        -4.2391708e-05
+      ]
+    ]
+  },
+  "Abbot Thayer's A Virgin and Augustus Saint Gaudens's Sherman Monument were both modeled on this work, which was made to honor the Cabeiri after the events of either Side or (*) Myonnisos.  Perhaps executed by Pythokritos, it was placed on top of a model ship's prow around 200 BCE. For 10  points\u2014 name this work recovered from a Greek island in 1863, a fragmentary statue honoring a Rhodian naval triumph.": {
+    "guess": "Nike of Samothrace",
+    "confidence": [
+      [
+        "Nike",
+        -0.794609
+      ],
+      [
+        " of",
+        -0.016674446
+      ],
+      [
+        " Sam",
+        -0.003745452
+      ],
+      [
+        "oth",
+        -2.1769476e-05
+      ],
+      [
+        "race",
+        -6.0345924e-06
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and this operation applied to the Mobius functions of all divisors of a given integer yields zero. The degree of a multivariate polynomial is equal to the largest value of this operation applied to the exponents of a single term, and the result of this operation on two vectors can be found with the (*)": {
+    "guess": "Addition",
+    "confidence": [
+      [
+        "Add",
+        -0.009902111
+      ],
+      [
+        "ition",
+        -7.266944e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime": {
+    "guess": "Chronicle of the Twenty-One Generals",
+    "confidence": [
+      [
+        "Chron",
+        -1.0364951
+      ],
+      [
+        "icle",
+        -0.867739
+      ],
+      [
+        " of",
+        -0.0026118057
+      ],
+      [
+        " the",
+        -0.4215751
+      ],
+      [
+        " Twenty",
+        -1.6412057
+      ],
+      [
+        "-One",
+        -0.43325922
+      ],
+      [
+        " Gener",
+        -0.28582042
+      ],
+      [
+        "als",
+        -0.008920865
+      ]
+    ]
+  },
+  "This man abandoned the notion of collective conscience in favor of collective representations. He differentiated material from non-material social fact, and posited that totemism is the most elementary level of religion. He divided the main characteristic of religion between sacred and profane, and contrasted": {
+    "guess": "\u00c9mile Durkheim",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.062555745
+      ],
+      [
+        "mile",
+        -4.0722858e-05
+      ],
+      [
+        " Dur",
+        -4.167649e-05
+      ],
+      [
+        "k",
+        -2.8444882e-05
+      ],
+      [
+        "heim",
+        -5.085517e-05
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed": {
+    "guess": "Mars",
+    "confidence": [
+      [
+        "M",
+        -0.4600568
+      ],
+      [
+        "ars",
+        -0.6777534
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting it to Ossus, and the Corellian Run. The Luskanya, an Executor-class Super (*) Star Destroyer was once buried beneath its surface. It was the main planet in Sector Zero, and had the coordinates Triple Zero, fitting since this planet was called Imperial Centre during the Galactic Empire. Dooku and": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.0012288004
+      ],
+      [
+        "usc",
+        -4.4537377e-05
+      ],
+      [
+        "ant",
+        -2.7848862e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to a rebellion against him. Served by Ranulph Flambard and known for two unsuccessful invasions of Wales, he reached a concordat with Urban II after holding the council at Rockingham, which failed to reign in his nemesis Saint Anselm. This man defeated Odo of Bayeaux, the leader of rebels loyal to this man's brother Robert Curthose. While hunting with Walter Tirel in the New Forest, this man was killed by an arrow that pierced his lung. For 10 points, name this unpopular Norman king, the successor": {
+    "guess": "William II of England",
+    "confidence": [
+      [
+        "William",
+        -0.0037357067
+      ],
+      [
+        " II",
+        -0.13322464
+      ],
+      [
+        " of",
+        -0.66142243
+      ],
+      [
+        " England",
+        -5.1331983e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to a rebellion against him. Served by Ranulph Flambard and known for two unsuccessful invasions of Wales, he reached a concordat with Urban II after holding the council at Rockingham, which failed to reign": {
+    "guess": "William II",
+    "confidence": [
+      [
+        "William",
+        -0.018487386
+      ],
+      [
+        " II",
+        -0.81865233
+      ]
+    ]
+  },
+  "This man abandoned his project of composing an opera based on S. Ansky's play The Dybbuk. He composed a stage work based on a novel by DuBose Heyward. Joseph Vass claims that this man based one tune from": {
+    "guess": "Porgy and Bess",
+    "confidence": [
+      [
+        "P",
+        -0.39956203
+      ],
+      [
+        "org",
+        -7.255024e-05
+      ],
+      [
+        "y",
+        -7.4576696e-05
+      ],
+      [
+        " and",
+        -0.004051802
+      ],
+      [
+        " B",
+        -6.897413e-05
+      ],
+      [
+        "ess",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "This man abandoned the notion of collective conscience in favor of collective representations. He differentiated material from non-material social fact, and posited that totemism is the most elementary level of religion. He divided the main characteristic of religion between sacred and profane, and contrasted organic and mechanical solidarity in The Division of Labor in Society. For 10 points, name this author of The Elementary Forms of Religious Life who described altruistic, egoistic, anomic, and": {
+    "guess": "\u00c9mile Durkheim",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.63191545
+      ],
+      [
+        "mile",
+        -6.706687e-05
+      ],
+      [
+        " Dur",
+        -6.289474e-05
+      ],
+      [
+        "k",
+        -3.3809047e-05
+      ],
+      [
+        "heim",
+        -7.862962e-05
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting it to Ossus, and the Corellian Run. The Luskanya, an Executor-class Super (*) Star Destroyer was once buried beneath its surface. It was the main planet in Sector Zero, and had the coordinates Triple Zero, fitting since this planet was called Imperial Centre during the Galactic Empire. Dooku and Grievous led a CIS fleet over its surface after kidnapping Palpatine in Revenge of the Sith. For 10 points, the Jedi Temple and Galactic Senate are on which city-planet and galactic capital of the Star": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.0028222315
+      ],
+      [
+        "usc",
+        -0.00019150082
+      ],
+      [
+        "ant",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and this operation applied to the Mobius functions of all divisors of a given integer yields zero. The degree of a multivariate polynomial is equal to the largest value of this operation applied to the exponents of a single term, and the result of this operation on two vectors can be found with the (*) \"parallelogram rule.\" A capital sigma can denote repeated applications of it, and 0 is the identity of this operation. For ten points, identify this operation which yields a sum, symbolized by a plus sign.": {
+    "guess": "Addition",
+    "confidence": [
+      [
+        "Add",
+        -0.00055898924
+      ],
+      [
+        "ition",
+        -9.372295e-06
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to a rebellion against him. Served by Ranulph Flambard and known for two unsuccessful invasions of Wales,": {
+    "guess": "William II of England",
+    "confidence": [
+      [
+        "William",
+        -0.01112434
+      ],
+      [
+        " II",
+        -0.038074434
+      ],
+      [
+        " of",
+        -0.030468334
+      ],
+      [
+        " England",
+        -0.00029899686
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and this operation applied to the Mobius functions of all divisors of a given integer yields zero. The degree of a multivariate polynomial is equal to the largest value of this operation applied to the": {
+    "guess": "Addition",
+    "confidence": [
+      [
+        "Add",
+        -0.006847981
+      ],
+      [
+        "ition",
+        -2.7252845e-05
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and this operation applied to the Mobius functions of all divisors of a given integer yields zero. The": {
+    "guess": "ABC conjecture",
+    "confidence": [
+      [
+        "ABC",
+        -0.1015584
+      ],
+      [
+        " conject",
+        -0.7265065
+      ],
+      [
+        "ure",
+        -2.486877e-05
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting it to Ossus, and the Corellian Run. The Luskanya, an Executor-class Super (*) Star Destroyer was once buried beneath its surface. It was the main planet in Sector Zero, and had the coordinates Triple Zero, fitting since this planet was called Imperial Centre during the Galactic Empire. Dooku and Grievous led a CIS fleet over its surface after kidnapping Palpatine in Revenge of the Sith. For 10 points, the Jedi Temple and Galactic Senate are on which city-planet and galactic capital of the Star Wars universe?": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.0031424202
+      ],
+      [
+        "usc",
+        -0.00017588881
+      ],
+      [
+        "ant",
+        -5.347765e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to a rebellion against him. Served by Ranulph Flambard and known for two unsuccessful invasions of Wales, he reached a concordat with Urban II after holding the council at Rockingham, which failed to reign in his nemesis Saint Anselm. This man defeated Odo of Bayeaux, the leader of rebels loyal to this man's brother Robert Curthose. While hunting with Walter Tirel in the New Forest, this man was killed by an arrow that pierced his lung. For 10 points, name this unpopular Norman king, the successor to his father William the Conqueror.": {
+    "guess": "William II of England",
+    "confidence": [
+      [
+        "William",
+        -0.0016637546
+      ],
+      [
+        " II",
+        -0.0853246
+      ],
+      [
+        " of",
+        -0.28956926
+      ],
+      [
+        " England",
+        -2.3438328e-05
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting it to Ossus, and the Corellian Run. The Luskanya, an Executor-class Super (*) Star Destroyer was": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.016609257
+      ],
+      [
+        "usc",
+        -0.00020330198
+      ],
+      [
+        "ant",
+        -6.086828e-05
+      ]
+    ]
+  },
+  "This man abandoned his project of composing an opera based on S. Ansky's play The Dybbuk. He composed a stage work based on a novel by DuBose Heyward. Joseph Vass claims that this man based one tune from that work on the melody of Avinu Malkeinu, although the singer of that song is dismissive of \"things that you're liable to read in the Bible.\" Besides the song \"It Ain't Necessarily So,\" that work": {
+    "guess": "George Gershwin",
+    "confidence": [
+      [
+        "George",
+        -0.21539672
+      ],
+      [
+        " G",
+        -0.00031377445
+      ],
+      [
+        "ersh",
+        -0.0005276534
+      ],
+      [
+        "win",
+        -4.036525e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to a rebellion against him. Served by Ranulph Flambard and known for two unsuccessful invasions of Wales, he reached a concordat with Urban II after holding the council at Rockingham, which failed to reign in his nemesis Saint Anselm. This man defeated Odo of Bayeaux, the leader of rebels loyal to this": {
+    "guess": "William II of England",
+    "confidence": [
+      [
+        "William",
+        -0.0076741837
+      ],
+      [
+        " II",
+        -0.008877622
+      ],
+      [
+        " of",
+        -0.0002939903
+      ],
+      [
+        " England",
+        -6.6113236e-05
+      ]
+    ]
+  },
+  "This man abandoned the notion of collective conscience in favor of collective representations. He differentiated material from non-material social fact, and posited that totemism is the most elementary level of religion. He divided the main characteristic of religion between sacred and profane, and contrasted organic and mechanical solidarity in The Division of Labor in Society. For 10 points, name this author of The Elementary Forms of Religious Life who described altruistic, egoistic, anomic, and fatalistic types of the title action in Suicide.": {
+    "guess": "\u00c9mile Durkheim",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.0050992724
+      ],
+      [
+        "mile",
+        -3.190179e-05
+      ],
+      [
+        " Dur",
+        -1.2233183e-05
+      ],
+      [
+        "k",
+        -3.094816e-05
+      ],
+      [
+        "heim",
+        -7.362307e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to": {
+    "guess": "William the Conqueror",
+    "confidence": [
+      [
+        "William",
+        -0.2261043
+      ],
+      [
+        " the",
+        -0.665504
+      ],
+      [
+        " Con",
+        -0.00073589303
+      ],
+      [
+        "quer",
+        -0.0002100966
+      ],
+      [
+        "or",
+        -0.00013929696
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and this operation applied to the Mobius functions of all divisors of a given integer yields zero. The degree of a multivariate polynomial is equal to the largest value of this operation applied to the exponents of a single term, and the result of this operation on two vectors can be found with the (*) \"parallelogram rule.\" A capital sigma can denote repeated applications of it, and 0 is the identity": {
+    "guess": "Addition",
+    "confidence": [
+      [
+        "Add",
+        -0.15996248
+      ],
+      [
+        "ition",
+        -0.0001039008
+      ]
+    ]
+  },
+  "This man abandoned the notion of collective conscience in favor of collective representations. He differentiated": {
+    "guess": "\u00c9mile Durkheim",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.04512416
+      ],
+      [
+        "mile",
+        -3.3809047e-05
+      ],
+      [
+        " Dur",
+        -0.00013154872
+      ],
+      [
+        "k",
+        -2.3915141e-05
+      ],
+      [
+        "heim",
+        -6.8854926e-05
+      ]
+    ]
+  },
+  "This man abandoned his project of composing an opera based on S. Ansky's play The Dybbuk. He composed a stage work based on a novel by DuBose Heyward. Joseph Vass claims that this man based one tune from that work on the melody of Avinu Malkeinu, although the singer of that song is dismissive of \"things that you're liable to read in the Bible.\" Besides the song \"It Ain't Necessarily So,\" that work by this composer contains the songs \"Oh, Doctor Jesus,\" \"I Got Plenty o' Nuttin',\" and \"Summertime.\"": {
+    "guess": "Porgy and Bess",
+    "confidence": [
+      [
+        "P",
+        -0.5090853
+      ],
+      [
+        "org",
+        -6.3490756e-05
+      ],
+      [
+        "y",
+        -4.5491004e-05
+      ],
+      [
+        " and",
+        -0.0019205523
+      ],
+      [
+        " B",
+        -3.8219583e-05
+      ],
+      [
+        "ess",
+        -9.729906e-06
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting it to Ossus, and the Corellian Run. The Luskanya, an Executor-class Super (*) Star Destroyer was once buried beneath its surface. It was the main planet in Sector Zero, and had the coordinates Triple Zero, fitting since this planet was called Imperial Centre during the Galactic Empire. Dooku and Grievous led a CIS fleet over its surface after kidnapping Palpatine in Revenge of the Sith. For 10": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.0055632633
+      ],
+      [
+        "usc",
+        -6.098748e-05
+      ],
+      [
+        "ant",
+        -2.8564085e-05
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and this operation applied to the Mobius functions of all divisors of a given integer yields zero. The degree of a multivariate polynomial is equal to the largest value of this operation applied to the exponents of a single term, and the result of this operation on two vectors can be found with the (*) \"parallelogram rule.\" A capital sigma can denote repeated applications of it, and 0 is the identity of this operation. For ten points, identify this operation which yields a sum, symbolized by a plus": {
+    "guess": "Addition",
+    "confidence": [
+      [
+        "Add",
+        -0.00039789922
+      ],
+      [
+        "ition",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "Abbot Thayer's A Virgin and Augustus Saint Gaudens's Sherman Monument were both modeled on this work, which was made to honor the Cabeiri after the events of either Side or (*) Myonnisos.  Perhaps executed by Pythokritos, it was placed on top of a model ship's prow around 200 BCE. For 10  points\u2014 name": {
+    "guess": "Nike of Samothrace",
+    "confidence": [
+      [
+        "Nike",
+        -0.9844343
+      ],
+      [
+        " of",
+        -0.013359512
+      ],
+      [
+        " Sam",
+        -0.0044424627
+      ],
+      [
+        "oth",
+        -0.00023977463
+      ],
+      [
+        "race",
+        -4.7159858e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis thrice-annualy, which his former general Robert of Mowbray decided once to boycott as a prelude to a rebellion against him. Served by Ranulph Flambard and known for two unsuccessful invasions of Wales, he reached a concordat with Urban II after holding the council at Rockingham, which failed to reign in his nemesis Saint Anselm. This man defeated Odo of Bayeaux, the leader of rebels loyal to this man's brother Robert Curthose. While hunting with Walter Tirel in the New Forest, this man was killed": {
+    "guess": "William II of England",
+    "confidence": [
+      [
+        "William",
+        -0.0018718787
+      ],
+      [
+        " II",
+        -0.22583044
+      ],
+      [
+        " of",
+        -0.68329155
+      ],
+      [
+        " England",
+        -0.00016301482
+      ]
+    ]
+  },
+  "Abbot Thayer's A Virgin and Augustus Saint Gaudens's Sherman Monument were both modeled on this work, which was made to honor the Cabeiri after the events of either Side or (*) Myonnisos.  Perhaps executed": {
+    "guess": "Winged Victory of Samothrace",
+    "confidence": [
+      [
+        "W",
+        -1.1493292
+      ],
+      [
+        "inged",
+        -0.006132134
+      ],
+      [
+        " Victory",
+        -0.0023995552
+      ],
+      [
+        " of",
+        -0.0042948076
+      ],
+      [
+        " Sam",
+        -0.003839502
+      ],
+      [
+        "oth",
+        -8.5781845e-05
+      ],
+      [
+        "race",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "This man abandoned the notion of collective conscience in favor of collective representations. He differentiated material from non-material social fact, and posited that totemism is the most elementary level of religion. He divided the main characteristic of religion between sacred and profane, and contrasted organic and mechanical solidarity in The Division of Labor in Society. For 10 points, name": {
+    "guess": "\u00c9mile Durkheim",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.01527272
+      ],
+      [
+        "mile",
+        -2.5226382e-05
+      ],
+      [
+        " Dur",
+        -5.7961847e-06
+      ],
+      [
+        "k",
+        -3.059055e-05
+      ],
+      [
+        "heim",
+        -6.1821906e-05
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was identified. A homage to Asimov's Trantor, this location borders the Perlemian Trade Route connecting": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.01725846
+      ],
+      [
+        "usc",
+        -0.00033248574
+      ],
+      [
+        "ant",
+        -2.7252845e-05
+      ]
+    ]
+  },
+  "Abandoned sectors in its largest city include the Factory District and the Works. It was heavily terraformed during the Yuuzhan Vong war, and its CoCo Town has Dex's Diner where a Kaminoan saberdart was": {
+    "guess": "Coruscant",
+    "confidence": [
+      [
+        "Cor",
+        -0.012560628
+      ],
+      [
+        "usc",
+        -0.00019281206
+      ],
+      [
+        "ant",
+        -4.3226137e-05
+      ]
+    ]
+  },
+  "This man abandoned his project of composing an opera based on S. Ansky's play The Dybbuk. He composed a stage work based on a novel by DuBose Heyward. Joseph Vass claims that this man based one tune from that work on the melody of Avinu Malkeinu, although the singer of that song is dismissive of \"things that you're liable to read in the Bible.\" Besides the song \"It Ain't Necessarily So,\" that work by this composer contains the songs \"Oh, Doctor Jesus,\" \"I Got Plenty o' Nuttin',\" and \"Summertime.\" For 10 points, name this composer of Porgy and Bess.": {
+    "guess": "George Gershwin",
+    "confidence": [
+      [
+        "George",
+        -0.0022286447
+      ],
+      [
+        " G",
+        -1.504853e-06
+      ],
+      [
+        "ersh",
+        -9.698699e-05
+      ],
+      [
+        "win",
+        -3.357064e-05
+      ]
+    ]
+  },
+  "This man abandoned his project of composing an opera based on S. Ansky's play The Dybbuk. He composed a stage work based on a novel by DuBose Heyward. Joseph Vass claims that this man based one tune from that work on the melody of Avinu Malkeinu, although the singer of that song is dismissive of \"things": {
+    "guess": "George Gershwin",
+    "confidence": [
+      [
+        "George",
+        -0.27609485
+      ],
+      [
+        " G",
+        -0.00012380048
+      ],
+      [
+        "ersh",
+        -0.00034476008
+      ],
+      [
+        "win",
+        -3.523949e-05
+      ]
+    ]
+  },
+  "One abbot chronicler described \"Fountains flowing with blood\" and \"infinite calamities to the maritime places\" as features of this man's reign. A prime donor to Bermondsey Abbey, he held the Curia Regis": {
+    "guess": "Henry I of England",
+    "confidence": [
+      [
+        "Henry",
+        -1.1063845
+      ],
+      [
+        " I",
+        -0.41214207
+      ],
+      [
+        " of",
+        -0.007777933
+      ],
+      [
+        " England",
+        -0.00046367763
+      ]
+    ]
+  },
+  "Abbot Thayer's A Virgin and Augustus Saint Gaudens's Sherman Monument were both modeled on this work,": {
+    "guess": "The Parthenon",
+    "confidence": [
+      [
+        "The",
+        -1.8587857
+      ],
+      [
+        " Par",
+        -1.2682148
+      ],
+      [
+        "then",
+        -0.0012335648
+      ],
+      [
+        "on",
+        -2.0100624e-05
+      ]
+    ]
+  },
+  "The ABC conjecture considers three numbers such that the largest is this function of the other two, and": {
+    "guess": "ABC conjecture",
+    "confidence": [
+      [
+        "ABC",
+        -1.246817
+      ],
+      [
+        " conject",
+        -0.59964204
+      ],
+      [
+        "ure",
+        -0.00026753443
+      ]
+    ]
+  },
+  "This man abandoned his project of composing an opera based on S. Ansky's play The Dybbuk. He composed": {
+    "guess": "Leonard Bernstein",
+    "confidence": [
+      [
+        "Leon",
+        -1.2691641
+      ],
+      [
+        "ard",
+        -0.0029294419
+      ],
+      [
+        " Bernstein",
+        -0.0002854113
+      ]
+    ]
+  },
+  "This man abandoned the notion of collective conscience in favor of collective representations. He differentiated material from non-material social fact, and posited that totemism is the most elementary": {
+    "guess": "\u00c9mile Durkheim",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.011286668
+      ],
+      [
+        "mile",
+        -1.5570886e-05
+      ],
+      [
+        " Dur",
+        -1.7716551e-05
+      ],
+      [
+        "k",
+        -2.4153549e-05
+      ],
+      [
+        "heim",
+        -4.2868523e-05
+      ]
+    ]
+  }
+}

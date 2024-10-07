@@ -1,0 +1,162 @@
+{
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The biogenesis of snRNPs [\"snurps\"] is thought to be regulated by this organelle's (*) Cajal bodies,": {
+    "guess": "Nucleolus",
+    "confidence": [
+      [
+        "N",
+        -0.12565018
+      ],
+      [
+        "ucle",
+        -0.29473263
+      ],
+      [
+        "ol",
+        -0.1285051
+      ],
+      [
+        "us",
+        -6.289474e-05
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The biogenesis of snRNPs [\"snurps\"] is thought to be regulated by this organelle's (*) Cajal bodies, and it can be visualized through Hoechst and DAPI staining. Movement in and out of these organelles is regulated by RAN proteins at its namesake pores, and this organelle is  not found in erythrocytes. This organelle is surrounded by a namesake \"envelope\" which is continuous with rough ER, and it is the site of transcription. For ten points, name this organelle only found in eukaryotes which contains": {
+    "guess": "NuCLEus",
+    "confidence": [
+      [
+        "Nu",
+        -0.1422396
+      ],
+      [
+        "CLE",
+        -0.0036490108
+      ],
+      [
+        "us",
+        -0.0011793931
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The biogenesis of snRNPs [\"snurps\"] is thought to be regulated by this organelle's (*) Cajal bodies, and it can be visualized through Hoechst and DAPI staining. Movement in and out of these organelles is regulated by RAN proteins at its namesake pores, and this organelle is  not found in erythrocytes. This organelle is surrounded by a namesake \"envelope\" which is continuous with rough ER, and it is": {
+    "guess": "NuCLEus",
+    "confidence": [
+      [
+        "Nu",
+        -0.16967931
+      ],
+      [
+        "CLE",
+        -0.004028176
+      ],
+      [
+        "us",
+        -0.0019426802
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The biogenesis of snRNPs [\"snurps\"] is thought to be regulated by this organelle's (*) Cajal bodies, and it can be visualized through Hoechst and DAPI staining. Movement in and out of these organelles": {
+    "guess": "Nucleolus",
+    "confidence": [
+      [
+        "N",
+        -0.14463735
+      ],
+      [
+        "ucle",
+        -0.09646009
+      ],
+      [
+        "ol",
+        -0.3732748
+      ],
+      [
+        "us",
+        -0.00026383912
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The biogenesis of snRNPs [\"snurps\"] is thought to be regulated by this organelle's (*) Cajal bodies, and it can be visualized through Hoechst and DAPI staining. Movement in and out of these organelles is regulated by RAN proteins at its namesake pores, and this organelle is  not found in erythrocytes. This organelle is surrounded by a namesake \"envelope\" which is continuous with rough ER, and it is the site of transcription. For ten points, name this organelle only found in eukaryotes which contains the nucleolus as well as the genetic material of the cell.": {
+    "guess": "NuCLEus",
+    "confidence": [
+      [
+        "Nu",
+        -0.061128
+      ],
+      [
+        "CLE",
+        -0.0012601143
+      ],
+      [
+        "us",
+        -0.0008796619
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.85899043
+      ],
+      [
+        "opl",
+        -0.0032170457
+      ],
+      [
+        "asm",
+        -2.4272753e-05
+      ],
+      [
+        "ic",
+        -0.000119993296
+      ],
+      [
+        " ret",
+        -0.07522174
+      ],
+      [
+        "ic",
+        -1.7432603e-06
+      ],
+      [
+        "ulum",
+        -1.9862217e-05
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The": {
+    "guess": "Nucleus",
+    "confidence": [
+      [
+        "N",
+        -0.005505407
+      ],
+      [
+        "ucle",
+        -0.06384873
+      ],
+      [
+        "us",
+        -0.2011595
+      ]
+    ]
+  },
+  "Irregularly shaped compartments of this organelle which change in response to cellular metabolic activity are called paraspeckles, and promyelocytic leukemia bodies are often found in this organelle. The biogenesis of snRNPs [\"snurps\"] is thought to be regulated by this organelle's (*) Cajal bodies, and it can be visualized through Hoechst and DAPI staining. Movement in and out of these organelles is regulated by RAN proteins at its namesake pores, and this organelle is  not found in erythrocytes.": {
+    "guess": "NuCLEus",
+    "confidence": [
+      [
+        "Nu",
+        -0.1421213
+      ],
+      [
+        "CLE",
+        -0.002072825
+      ],
+      [
+        "us",
+        -0.0003649018
+      ]
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving this problem. Gonthier recently verified an earlier solution of this problem that ran in quadratic time by Robertson et al, while Birkhoff and Franklin were able to prove that it held when the number of (*) nodes was less than 25, a problem originally put forth by Guthrie. It was first solved by Appel": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.008906096
+      ],
+      [
+        " color",
+        -0.019312438
+      ],
+      [
+        " theorem",
+        -0.0029778217
+      ]
+    ]
+  },
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving": {
+    "guess": "Vizing's theorem",
+    "confidence": [
+      [
+        "V",
+        -0.45257092
+      ],
+      [
+        "izing",
+        -5.7530575e-05
+      ],
+      [
+        "'s",
+        -0.00082737545
+      ],
+      [
+        " theorem",
+        -0.00582511
+      ]
+    ]
+  },
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving this problem. Gonthier recently verified an earlier solution of this problem that ran in quadratic": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.46057063
+      ],
+      [
+        " color",
+        -0.056948107
+      ],
+      [
+        " theorem",
+        -0.00074471044
+      ]
+    ]
+  },
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving this problem. Gonthier recently verified an earlier solution of this problem that ran in quadratic time by Robertson et al, while Birkhoff and Franklin were able to prove that it held when the number": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.03946775
+      ],
+      [
+        " color",
+        -0.030265741
+      ],
+      [
+        " theorem",
+        -0.0019816873
+      ]
+    ]
+  },
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving this problem. Gonthier recently verified an earlier solution of this problem that ran in quadratic time by Robertson et al, while Birkhoff and Franklin were able to prove that it held when the number of (*) nodes was less than 25, a problem originally put forth by Guthrie. It was first solved by Appel and Haken who used a computer to prove all 1,936 cases in this special case of the Heawood Conjecture. For 10 points, name this theorem stating that any two regions sharing a common boundary on a 2D map can have dissimilar markings with less than a certain number of colors.": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.006692869
+      ],
+      [
+        " color",
+        -0.005137812
+      ],
+      [
+        " theorem",
+        -0.00037442712
+      ]
+    ]
+  },
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving this problem. Gonthier recently verified an earlier solution of this problem that ran in quadratic time by Robertson et al, while Birkhoff and Franklin were able to prove that it held when the number of (*) nodes was less than 25, a problem originally put forth by Guthrie. It was first solved by Appel and Haken who used a computer to prove all 1,936 cases in this special case of the Heawood Conjecture. For 10 points, name this theorem stating that any two regions sharing a common boundary on a": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.0031774754
+      ],
+      [
+        " color",
+        -0.025384417
+      ],
+      [
+        " theorem",
+        -0.00046963783
+      ]
+    ]
+  },
+  "Vizing's theorem proves the swapping property of Kempe Chains holds, constructs often used in solving this problem. Gonthier recently verified an earlier solution of this problem that ran in quadratic time by Robertson et al, while Birkhoff and Franklin were able to prove that it held when the number of (*) nodes was less than 25, a problem originally put forth by Guthrie. It was first solved by Appel and Haken who used a computer to prove all 1,936 cases in this special case of the Heawood Conjecture.": {
+    "guess": "Four Color Theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.008099373
+      ],
+      [
+        " Color",
+        -0.51296186
+      ],
+      [
+        " The",
+        -0.00058460707
+      ],
+      [
+        "orem",
+        -5.0735965e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married Harmonia, this deity's daughter. This deity was wounded by Diomedes (die-AHM- ee-dees) during the Trojan War when he appeared on the battlefield helping the Trojans. This deity's union with Aphrodite yielded Eros (AIR-ohs) and his attendants Phobos (FOE-bows) and Deimos (DAY-mows). For 10 points,": {
+    "guess": "Ares",
+    "confidence": [
+      [
+        "A",
+        -0.014931979
+      ],
+      [
+        "res",
+        -0.00067955
+      ]
+    ]
+  },
+  "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married Harmonia, this deity's daughter. This deity was wounded by Diomedes (die-AHM- ee-dees) during": {
+    "guess": "Ares",
+    "confidence": [
+      [
+        "A",
+        -0.17579663
+      ],
+      [
+        "res",
+        -0.005123227
+      ]
+    ]
+  },
+  "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married Harmonia, this deity's daughter. This deity was wounded by Diomedes (die-AHM- ee-dees) during the Trojan War when he appeared on the battlefield helping the Trojans. This deity's union with Aphrodite yielded Eros (AIR-ohs) and his attendants Phobos (FOE-bows) and Deimos (DAY-mows). For 10 points, which son of Zeus and Hera is the Greek god of war?": {
+    "guess": "Ares",
+    "confidence": [
+      [
+        "A",
+        -0.0012871404
+      ],
+      [
+        "res",
+        -0.0023603097
+      ]
+    ]
+  },
+  "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married Harmonia, this deity's daughter. This deity was wounded by Diomedes (die-AHM- ee-dees) during the Trojan War when he appeared on the battlefield helping the Trojans. This deity's union with Aphrodite": {
+    "guess": "Ares",
+    "confidence": [
+      [
+        "A",
+        -0.017736621
+      ],
+      [
+        "res",
+        -0.0007275634
+      ]
+    ]
+  },
+  "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married": {
+    "guess": "Ares",
+    "confidence": [
+      [
+        "A",
+        -0.008447915
+      ],
+      [
+        "res",
+        -0.0009838623
+      ]
+    ]
+  }
+}

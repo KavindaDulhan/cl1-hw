@@ -1,0 +1,143 @@
+{
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup": {
+    "guess": "Orthomyxoviridae",
+    "confidence": [
+      [
+        "Orth",
+        -0.36664346
+      ],
+      [
+        "omy",
+        -0.00014251545
+      ],
+      [
+        "x",
+        -0.00015145572
+      ],
+      [
+        "ov",
+        -2.577686e-06
+      ],
+      [
+        "ir",
+        -0.04639928
+      ],
+      [
+        "ida",
+        -1.7954959e-05
+      ],
+      [
+        "e",
+        -1.247159e-05
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment.": {
+    "guess": "Orthomyxoviridae",
+    "confidence": [
+      [
+        "Orth",
+        -0.1900289
+      ],
+      [
+        "omy",
+        -0.00012821102
+      ],
+      [
+        "x",
+        -0.00027420983
+      ],
+      [
+        "ov",
+        -1.1279553e-05
+      ],
+      [
+        "ir",
+        -0.007873487
+      ],
+      [
+        "ida",
+        -1.2829201e-05
+      ],
+      [
+        "e",
+        -1.7478143e-05
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup and cause tissue damage in the (*) lungs. The types of  hemagglutinin and neuraminidase proteins are": {
+    "guess": "Orthomyxoviridae",
+    "confidence": [
+      [
+        "Orth",
+        -0.35499167
+      ],
+      [
+        "omy",
+        -0.00011343709
+      ],
+      [
+        "x",
+        -4.465658e-05
+      ],
+      [
+        "ov",
+        -3.0545007e-06
+      ],
+      [
+        "ir",
+        -0.06437399
+      ],
+      [
+        "ida",
+        -1.4498052e-05
+      ],
+      [
+        "e",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup and cause tissue damage in the (*) lungs. The types of  hemagglutinin and neuraminidase proteins are used to name strains of this virus, like the H5N1  strain. For 10 points, name this common virus": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "In",
+        -0.20684431
+      ],
+      [
+        "fl",
+        -1.9361265e-07
+      ],
+      [
+        "uen",
+        -1.1398757e-05
+      ],
+      [
+        "za",
+        -6.289474e-05
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup and cause tissue damage in the (*) lungs. The types of  hemagglutinin and neuraminidase proteins are used to name strains of this virus, like the H5N1  strain. For 10 points, name this common virus that has bird and swine varieties.": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "In",
+        -0.56550765
+      ],
+      [
+        "fl",
+        -1.9361265e-07
+      ],
+      [
+        "uen",
+        -7.58424e-06
+      ],
+      [
+        "za",
+        -3.297462e-05
+      ]
+    ]
+  }
+}

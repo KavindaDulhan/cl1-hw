@@ -1,0 +1,268 @@
+{
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side": {
+    "guess": "Sagitta",
+    "confidence": [
+      [
+        "S",
+        -1.4958963
+      ],
+      [
+        "ag",
+        -0.0058073285
+      ],
+      [
+        "itta",
+        -0.00092813733
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor": {
+    "guess": "Quantum Hall effect",
+    "confidence": [
+      [
+        "Quant",
+        -0.7293648
+      ],
+      [
+        "um",
+        -0.008252376
+      ],
+      [
+        " Hall",
+        -0.016704226
+      ],
+      [
+        " effect",
+        -0.013380917
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance": {
+    "guess": "Sagitta",
+    "confidence": [
+      [
+        "S",
+        -0.43448454
+      ],
+      [
+        "ag",
+        -0.0007342241
+      ],
+      [
+        "itta",
+        -0.00017708084
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because the Lorentz force pushes charge carriers to one side of the conductor, producing a measurable voltage. Used to determine the sign of the charge carriers, for 10 points, name this effect in which a": {
+    "guess": "Hall Effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.39649913
+      ],
+      [
+        " Effect",
+        -0.08428496
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular polygon, this distance is twice the area divided by the perimeter. Contrasted with the radius of a polygon, name this distance, or segment, from the center of a regular polygon to the midpoint of one of its edges.": {
+    "guess": "Apotome",
+    "confidence": [
+      [
+        "Ap",
+        -0.6849891
+      ],
+      [
+        "ot",
+        -0.5988151
+      ],
+      [
+        "ome",
+        -0.024772547
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular polygon, this distance is twice the area divided by the perimeter. Contrasted with the radius of a polygon, name this distance, or segment, from the center of a regular polygon to the midpoint of one": {
+    "guess": "Apotome",
+    "confidence": [
+      [
+        "Ap",
+        -0.75912476
+      ],
+      [
+        "ot",
+        -0.8098223
+      ],
+      [
+        "ome",
+        -0.04267781
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because the Lorentz force pushes charge carriers to one side of the conductor, producing a measurable voltage.": {
+    "guess": "Quantum Hall effect",
+    "confidence": [
+      [
+        "Quant",
+        -0.86340326
+      ],
+      [
+        "um",
+        -0.00044973815
+      ],
+      [
+        " Hall",
+        -0.0053447555
+      ],
+      [
+        " effect",
+        -0.012969741
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for": {
+    "guess": "Sagitta",
+    "confidence": [
+      [
+        "S",
+        -1.0133444
+      ],
+      [
+        "ag",
+        -0.041070014
+      ],
+      [
+        "itta",
+        -0.00018518302
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular": {
+    "guess": "Apollonian circle",
+    "confidence": [
+      [
+        "Ap",
+        -0.21873662
+      ],
+      [
+        "oll",
+        -0.47224984
+      ],
+      [
+        "onian",
+        -0.6722265
+      ],
+      [
+        " circle",
+        -0.6532804
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.00546854
+      ],
+      [
+        " effect",
+        -0.0018459363
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular polygon, this distance is twice the area divided by the perimeter. Contrasted with the radius of": {
+    "guess": "Apollonius of Perga",
+    "confidence": [
+      [
+        "Ap",
+        -0.18357116
+      ],
+      [
+        "oll",
+        -0.4682121
+      ],
+      [
+        "on",
+        -0.6576705
+      ],
+      [
+        "ius",
+        -0.00057388237
+      ],
+      [
+        " of",
+        -1.158503
+      ],
+      [
+        " P",
+        -0.004720853
+      ],
+      [
+        "erg",
+        -1.1637165e-05
+      ],
+      [
+        "a",
+        -0.00020258676
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large": {
+    "guess": "Quantum Hall effect",
+    "confidence": [
+      [
+        "Quant",
+        -0.17779978
+      ],
+      [
+        "um",
+        -0.002217465
+      ],
+      [
+        " Hall",
+        -0.0019854947
+      ],
+      [
+        " effect",
+        -0.011292786
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because the Lorentz force pushes charge carriers to one side of the conductor, producing a measurable voltage. Used to determine the sign of the charge carriers, for 10 points, name this effect in which a perpendicular potential difference arises in a current-carrying conductor placed in a magnetic field.": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.011088148
+      ],
+      [
+        " effect",
+        -0.26878068
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because": {
+    "guess": "Quantum Hall effect",
+    "confidence": [
+      [
+        "Quant",
+        -0.1163992
+      ],
+      [
+        "um",
+        -0.00053659
+      ],
+      [
+        " Hall",
+        -0.013257407
+      ],
+      [
+        " effect",
+        -0.03603322
+      ]
+    ]
+  }
+}

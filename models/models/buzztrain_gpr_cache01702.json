@@ -1,0 +1,104 @@
+{
+  "This man and his elder brother negotiated a peace treaty at Margus after he razed Singidunum. Honoria sent him a ring asking him to save her from an arranged marriage, and this man murdered his brother and co-ruler Bleda. Theodosius II negotiated tribute to this man, and he was planning to invade (*) the eastern Roman empire when he died on his wedding night. Valentinian the third allied with the Visigoth": {
+    "guess": "Attila",
+    "confidence": [
+      [
+        "At",
+        -0.013183059
+      ],
+      [
+        "til",
+        -0.0011774895
+      ],
+      [
+        "a",
+        -4.0961266e-05
+      ]
+    ]
+  },
+  "This man and his elder brother negotiated a peace treaty at Margus after he razed Singidunum. Honoria sent him a ring asking him to save her from an arranged marriage, and this man murdered his brother and co-ruler Bleda. Theodosius II negotiated tribute to this man, and he was planning to invade (*) the eastern Roman empire when he died on his wedding night. Valentinian the third allied with the Visigoth Theodoric the first to defeat this man at the Catalaunian Planes near Chalons. For 10 points, name this \"scourge of God\" and ruler of the Huns.": {
+    "guess": "Attila",
+    "confidence": [
+      [
+        "At",
+        -0.013658703
+      ],
+      [
+        "til",
+        -0.004284485
+      ],
+      [
+        "a",
+        -2.1769476e-05
+      ]
+    ]
+  },
+  "This man and his elder brother negotiated a peace treaty at Margus after he razed Singidunum. Honoria sent him a ring asking him to save her from an arranged marriage, and this man murdered his brother": {
+    "guess": "Attila",
+    "confidence": [
+      [
+        "At",
+        -0.06461988
+      ],
+      [
+        "til",
+        -0.00081105554
+      ],
+      [
+        "a",
+        -7.5530326e-05
+      ]
+    ]
+  },
+  "This man and his elder brother negotiated a peace treaty at Margus after he razed Singidunum. Honoria sent him a ring asking him to save her from an arranged marriage, and this man murdered his brother and co-ruler Bleda. Theodosius II negotiated tribute to this man, and he was planning to invade (*) the eastern Roman empire when he died on his wedding night. Valentinian the third allied with the Visigoth Theodoric the first to defeat this man at the Catalaunian Planes near Chalons. For 10 points,": {
+    "guess": "Attila",
+    "confidence": [
+      [
+        "At",
+        -0.085292086
+      ],
+      [
+        "til",
+        -0.0040546525
+      ],
+      [
+        "a",
+        -9.317247e-05
+      ]
+    ]
+  },
+  "This man and his elder brother negotiated a peace treaty at Margus after he razed Singidunum. Honoria": {
+    "guess": "Attila",
+    "confidence": [
+      [
+        "At",
+        -0.8627675
+      ],
+      [
+        "til",
+        -0.00090038124
+      ],
+      [
+        "a",
+        -0.0001277342
+      ]
+    ]
+  },
+  "This man and his elder brother negotiated a peace treaty at Margus after he razed Singidunum. Honoria sent him a ring asking him to save her from an arranged marriage, and this man murdered his brother and co-ruler Bleda. Theodosius II negotiated tribute to this man, and he was planning to invade (*)": {
+    "guess": "Attila",
+    "confidence": [
+      [
+        "At",
+        -0.038376413
+      ],
+      [
+        "til",
+        -0.001845221
+      ],
+      [
+        "a",
+        -0.00011856285
+      ]
+    ]
+  }
+}

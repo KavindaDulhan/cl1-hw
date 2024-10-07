@@ -1,0 +1,97 @@
+{
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety. The chain, product, and quotient rules are commonly used in performing this operation for a function. For 10 points, identify this process whose \"anti\" variety, according to the Fundamental Theorem of Calculus, is the same as an integral.": {
+    "guess": "Differentiation",
+    "confidence": [
+      [
+        "Different",
+        -0.35656416
+      ],
+      [
+        "iation",
+        -5.347765e-05
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.33531806
+      ],
+      [
+        "ivative",
+        -0.0045024003
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety.": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Der",
+        -0.1977404
+      ],
+      [
+        "ivative",
+        -0.0008824035
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while": {
+    "guess": "Gradient",
+    "confidence": [
+      [
+        "Gradient",
+        -0.9681298
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its": {
+    "guess": "Fr\u00e9chet derivative",
+    "confidence": [
+      [
+        "Fr",
+        -0.62943596
+      ],
+      [
+        "\u00e9",
+        -0.0018430864
+      ],
+      [
+        "chet",
+        -0.00010545045
+      ],
+      [
+        " derivative",
+        -0.1396841
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety. The chain, product, and quotient rules are commonly used in performing this operation for a": {
+    "guess": "Differentiation",
+    "confidence": [
+      [
+        "Different",
+        -0.4323535
+      ],
+      [
+        "iation",
+        -0.004834038
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety. The chain, product, and quotient rules are commonly used in performing this operation for a function. For 10 points, identify this process whose \"anti\" variety, according to the Fundamental Theorem": {
+    "guess": "Differentiation",
+    "confidence": [
+      [
+        "Different",
+        -0.10695874
+      ],
+      [
+        "iation",
+        -6.6232446e-05
+      ]
+    ]
+  }
+}

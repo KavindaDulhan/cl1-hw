@@ -1,0 +1,173 @@
+{
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.0054148235
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This organ is attached to the abdominal wall by the falciform ligament, and has macrophages called Kupffer cells. Blood is supplied by the portal vein to this organ, which stores glycogen and secretes bile. For 10 points, name this organ in which excessive alcohol can cause cirrhosis.": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.0028464834
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.0007908092
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.013801921
+      ],
+      [
+        "inson",
+        -2.618001e-05
+      ],
+      [
+        "'s",
+        -1.7239736e-05
+      ],
+      [
+        " disease",
+        -0.002349719
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes treated with L-dopa. For 10 points, name this neural disease that results in a loss of motor skill, often causing tremor and rigidity in muscles.": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.000501324
+      ],
+      [
+        "inson",
+        -0.00011725161
+      ],
+      [
+        "'s",
+        -6.337155e-05
+      ],
+      [
+        " disease",
+        -0.006017437
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This organ is attached to the abdominal wall by the falciform ligament, and has macrophages called Kupffer cells. Blood is supplied by the portal vein to this organ, which stores glycogen and secretes bile.": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.0073251287
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0034810398
+      ],
+      [
+        "inson",
+        -1.5928495e-05
+      ],
+      [
+        "'s",
+        -2.868329e-05
+      ],
+      [
+        " disease",
+        -0.002776347
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes treated with L-dopa. For 10 points, name this neural disease that results in a loss of motor": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0008772778
+      ],
+      [
+        "inson",
+        -0.00017469678
+      ],
+      [
+        "'s",
+        -0.00010235115
+      ],
+      [
+        " disease",
+        -0.0083025005
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0010585333
+      ],
+      [
+        "inson",
+        -0.00010580806
+      ],
+      [
+        "'s",
+        -4.3583746e-05
+      ],
+      [
+        " disease",
+        -0.0030775294
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This organ is attached to the abdominal wall by the falciform ligament, and has macrophages called Kupffer": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "Liver",
+        -0.006699024
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0006092712
+      ],
+      [
+        "inson",
+        -7.362307e-05
+      ],
+      [
+        "'s",
+        -3.464347e-05
+      ],
+      [
+        " disease",
+        -0.0038175338
+      ]
+    ]
+  }
+}

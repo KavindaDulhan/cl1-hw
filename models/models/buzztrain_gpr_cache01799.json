@@ -1,0 +1,360 @@
+{
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while spurious products can be swamped out by ramping up the temperature in the \"touchdown\" variation. The MLPA procedure is used with multiple targets, and more widely used variants include the quantitative and real-time versions, which use fluorescent dyes. It begins with denaturation, which pries apart the template, followed by annealing, in which the primers attach. Taq polymerase then replicates the template, and the process repeats itself. FTP, name this technique invented by Kary Mullis that": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.0010790145
+      ],
+      [
+        "mer",
+        -3.368984e-05
+      ],
+      [
+        "ase",
+        -6.2729996e-06
+      ],
+      [
+        " chain",
+        -0.065449834
+      ],
+      [
+        " reaction",
+        -2.9994528e-05
+      ]
+    ]
+  },
+  "An error in the synthesis of this protein causes Ehlers-Danlos syndrome. Other than elastin, it is the only human protein to contain hydroxyproline. Every third amino acid in its main helix is a glycine.": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.00045771745
+      ],
+      [
+        "agen",
+        -0.00012415809
+      ]
+    ]
+  },
+  "The off-by-one error is commonly encountered when writing to these entities. Character strings can be": {
+    "guess": "Index (computer science)",
+    "confidence": [
+      [
+        "Index",
+        -1.3218255
+      ],
+      [
+        " (",
+        -0.22702089
+      ],
+      [
+        "computer",
+        -1.579265
+      ],
+      [
+        " science",
+        -0.0012795224
+      ],
+      [
+        ")",
+        -0.0002815968
+      ]
+    ]
+  },
+  "The off-by-one error is commonly encountered when writing to these entities. Character strings can be represented as these entities with a trailing null byte, and the lack of bound checking on these structures can result in the overwriting of memory addresses. In C and C++, these entities are defined": {
+    "guess": "String (computer science)",
+    "confidence": [
+      [
+        "String",
+        -1.1788635
+      ],
+      [
+        " (",
+        -0.04782546
+      ],
+      [
+        "computer",
+        -0.020934219
+      ],
+      [
+        " science",
+        -0.00011725161
+      ],
+      [
+        ")",
+        -3.070975e-05
+      ]
+    ]
+  },
+  "The off-by-one error is commonly encountered when writing to these entities. Character strings can be represented as these entities with a trailing null byte, and the lack of bound checking on these structures can result in the overwriting of memory addresses. In C and C++, these entities are defined using square brackets, and in most languages, their indices start at zero. For 10 points, name these data structures that contain elements of the same data type, which can be two-dimensional and are": {
+    "guess": "Array data type",
+    "confidence": [
+      [
+        "Array",
+        -0.050614554
+      ],
+      [
+        " data",
+        -0.012237199
+      ],
+      [
+        " type",
+        -0.016925534
+      ]
+    ]
+  },
+  "An error in the synthesis of this protein causes Ehlers-Danlos syndrome. Other than elastin, it is the only human protein to contain hydroxyproline. Every third amino acid in its main helix is a glycine. This protein forms a triple helix which then forms a fibrous structure in extra-cellular spaces.(*) Gelatin is made by hydrolyzing this protein. It is a major component of cartilage. It is the most abundant protein in the human body. For 10 points, name this protein found in the skin and the tendons.": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.0015828281
+      ],
+      [
+        "agen",
+        -0.00011856285
+      ]
+    ]
+  },
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while spurious products can be swamped out by ramping up the temperature in the \"touchdown\" variation. The": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.0026013416
+      ],
+      [
+        "mer",
+        -2.355753e-05
+      ],
+      [
+        "ase",
+        -6.9882217e-06
+      ],
+      [
+        " chain",
+        -0.015828824
+      ],
+      [
+        " reaction",
+        -1.831257e-05
+      ]
+    ]
+  },
+  "The off-by-one error is commonly encountered when writing to these entities. Character strings can be represented as these entities with a trailing null byte, and the lack of bound checking on these structures can result in the overwriting of memory addresses. In C and C++, these entities are defined using square brackets, and in most languages, their indices start at zero. For 10 points, name these data structures that contain elements of the same data type, which can be two-dimensional and are thus analogous to matrices.": {
+    "guess": "Array data structure",
+    "confidence": [
+      [
+        "Array",
+        -0.023436936
+      ],
+      [
+        " data",
+        -0.0074939965
+      ],
+      [
+        " structure",
+        -0.21242224
+      ]
+    ]
+  },
+  "The off-by-one error is commonly encountered when writing to these entities. Character strings can be represented as these entities with a trailing null byte, and the lack of bound checking on these structures can result in the overwriting of memory addresses. In C and C++, these entities are defined using square brackets, and in most languages, their indices start at zero. For 10 points, name these": {
+    "guess": "Array",
+    "confidence": [
+      [
+        "Array",
+        -0.14762025
+      ]
+    ]
+  },
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while spurious products can be swamped out by ramping up the temperature in the \"touchdown\" variation. The MLPA procedure is used with multiple targets, and more widely used variants include the quantitative and real-time versions, which use fluorescent dyes. It begins with denaturation, which pries apart the template, followed by annealing, in which the primers attach. Taq polymerase then replicates": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.0024373778
+      ],
+      [
+        "mer",
+        -5.6769813e-06
+      ],
+      [
+        "ase",
+        -1.7432603e-06
+      ],
+      [
+        " chain",
+        -0.00336177
+      ],
+      [
+        " reaction",
+        -1.6166903e-05
+      ]
+    ]
+  },
+  "An error in the synthesis of this protein causes Ehlers-Danlos syndrome. Other than elastin, it is the": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.00021676833
+      ],
+      [
+        "agen",
+        -0.00013285996
+      ]
+    ]
+  },
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.17094913
+      ],
+      [
+        "mer",
+        -5.4385737e-06
+      ],
+      [
+        "ase",
+        -2.4153549e-05
+      ],
+      [
+        " chain",
+        -0.035562914
+      ],
+      [
+        " reaction",
+        -0.0002609782
+      ]
+    ]
+  },
+  "An error in the synthesis of this protein causes Ehlers-Danlos syndrome. Other than elastin, it is the only human protein to contain hydroxyproline. Every third amino acid in its main helix is a glycine. This protein forms a triple helix which then forms a fibrous structure in extra-cellular spaces.(*)": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.0006394077
+      ],
+      [
+        "agen",
+        -0.00011617878
+      ]
+    ]
+  },
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while spurious products can be swamped out by ramping up the temperature in the \"touchdown\" variation. The MLPA procedure is used with multiple targets, and more widely used variants include the quantitative": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.28834862
+      ],
+      [
+        "mer",
+        -9.014684e-06
+      ],
+      [
+        "ase",
+        -1.4140442e-05
+      ],
+      [
+        " chain",
+        -0.0056490824
+      ],
+      [
+        " reaction",
+        -5.025915e-05
+      ]
+    ]
+  },
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while spurious products can be swamped out by ramping up the temperature in the \"touchdown\" variation. The MLPA procedure is used with multiple targets, and more widely used variants include the quantitative and real-time versions, which use fluorescent dyes. It begins with denaturation, which pries apart": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.012552746
+      ],
+      [
+        "mer",
+        -3.5835506e-05
+      ],
+      [
+        "ase",
+        -1.11603495e-05
+      ],
+      [
+        " chain",
+        -0.020207595
+      ],
+      [
+        " reaction",
+        -3.9888433e-05
+      ]
+    ]
+  },
+  "Errors in this procedure can be corrected by replacing one of the reagents with PfuUltra or Pfx, while spurious products can be swamped out by ramping up the temperature in the \"touchdown\" variation. The MLPA procedure is used with multiple targets, and more widely used variants include the quantitative and real-time versions, which use fluorescent dyes. It begins with denaturation, which pries apart the template, followed by annealing, in which the primers attach. Taq polymerase then replicates the template, and the process repeats itself. FTP, name this technique invented by Kary Mullis that amplifies a segment of DNA.": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.018658338
+      ],
+      [
+        "mer",
+        -3.7697225e-06
+      ],
+      [
+        "ase",
+        -5.2001665e-06
+      ],
+      [
+        " chain",
+        -0.004130169
+      ],
+      [
+        " reaction",
+        -1.1398757e-05
+      ]
+    ]
+  },
+  "An error in the synthesis of this protein causes Ehlers-Danlos syndrome. Other than elastin, it is the only human protein to contain hydroxyproline. Every third amino acid in its main helix is a glycine. This protein forms a triple helix which then forms a fibrous structure in extra-cellular spaces.(*) Gelatin is made by hydrolyzing this protein. It is a major component of cartilage. It is the most": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.002960704
+      ],
+      [
+        "agen",
+        -0.00023619852
+      ]
+    ]
+  },
+  "The off-by-one error is commonly encountered when writing to these entities. Character strings can be represented as these entities with a trailing null byte, and the lack of bound checking on these structures": {
+    "guess": "String (computer science)",
+    "confidence": [
+      [
+        "String",
+        -0.7440362
+      ],
+      [
+        " (",
+        -0.010842417
+      ],
+      [
+        "computer",
+        -0.0016717301
+      ],
+      [
+        " science",
+        -8.3278566e-05
+      ],
+      [
+        ")",
+        -9.2576454e-05
+      ]
+    ]
+  }
+}

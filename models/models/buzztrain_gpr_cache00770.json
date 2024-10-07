@@ -1,0 +1,430 @@
+{
+  "Cades Cove was a settlement in this mountain range before it was bought out by 1930, and Newfound Gap is a pass through a portion of these mountains. The northernmost mountains in this range are the Shickshocks": {
+    "guess": "Great Smoky Mountains",
+    "confidence": [
+      [
+        "Great",
+        -0.3964436
+      ],
+      [
+        " Sm",
+        -0.15619406
+      ],
+      [
+        "oky",
+        -8.180258e-06
+      ],
+      [
+        " Mountains",
+        -0.0002454854
+      ]
+    ]
+  },
+  "The cadenza from this composition's third movement is quoted in the fourth measure of melody in Chopin's": {
+    "guess": "Piano Concerto No. 1 (Chopin)",
+    "confidence": [
+      [
+        "P",
+        -0.35530084
+      ],
+      [
+        "iano",
+        -0.00042543162
+      ],
+      [
+        " Concert",
+        -0.41232574
+      ],
+      [
+        "o",
+        -0.0002478695
+      ],
+      [
+        " No",
+        -0.0035305826
+      ],
+      [
+        ".",
+        -7.350386e-05
+      ],
+      [
+        " ",
+        -0.004524585
+      ],
+      [
+        "1",
+        -0.12913589
+      ],
+      [
+        " (",
+        -0.024339842
+      ],
+      [
+        "Ch",
+        -0.01311634
+      ],
+      [
+        "op",
+        -1.9361265e-07
+      ],
+      [
+        "in",
+        -1.60477e-05
+      ],
+      [
+        ")",
+        -8.923875e-05
+      ]
+    ]
+  },
+  "The cadenza from this composition's third movement is quoted in the fourth measure of melody in Chopin's Fantasie Impromptu. This work's adagio sostenuto first movement contains the instruction for the sustain pedal to be held down continuously in its duration, and it was dedicated to the composer's pupil, Countess Julie Guicciardi. This C-sharp minor piece is its composer's fourteenth in a genre he heavily innovated. Originally called \"Quasi una fantasia,\" it was nicknamed by Ludwig Rellstab due to its evocation of Lake Lucerne at night. For 10 points, name this piano piece by Ludwig van Beethoven.": {
+    "guess": "Piano Sonata No. 14 (Beethoven)",
+    "confidence": [
+      [
+        "P",
+        -0.015055162
+      ],
+      [
+        "iano",
+        -1.147242e-06
+      ],
+      [
+        " Sonata",
+        -0.00023202639
+      ],
+      [
+        " No",
+        -2.6537622e-05
+      ],
+      [
+        ".",
+        -8.196733e-05
+      ],
+      [
+        " ",
+        -0.00043019242
+      ],
+      [
+        "14",
+        -0.00016659092
+      ],
+      [
+        " (",
+        -0.003248539
+      ],
+      [
+        "Be",
+        -6.289474e-05
+      ],
+      [
+        "ethoven",
+        -1.9027791e-05
+      ],
+      [
+        ")",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "The cadenza from this composition's third movement is quoted in the fourth measure of melody in Chopin's Fantasie Impromptu. This work's adagio sostenuto first movement contains the instruction for the sustain pedal to be held down continuously in its duration, and it was dedicated to the composer's pupil, Countess Julie Guicciardi. This C-sharp minor piece is its composer's fourteenth in a genre he heavily innovated. Originally called \"Quasi una fantasia,\" it was nicknamed by Ludwig Rellstab due": {
+    "guess": "Piano Sonata No. 14 (Beethoven)",
+    "confidence": [
+      [
+        "P",
+        -0.015879741
+      ],
+      [
+        "iano",
+        -2.220075e-06
+      ],
+      [
+        " Sonata",
+        -4.739826e-05
+      ],
+      [
+        " No",
+        -3.655073e-05
+      ],
+      [
+        ".",
+        -5.7292167e-05
+      ],
+      [
+        " ",
+        -0.00032080378
+      ],
+      [
+        "14",
+        -6.206032e-05
+      ],
+      [
+        " (",
+        -3.655073e-05
+      ],
+      [
+        "Be",
+        -3.650519e-06
+      ],
+      [
+        "ethoven",
+        -2.7133641e-05
+      ],
+      [
+        ")",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The cadenza from this composition's third movement is quoted in the fourth measure of melody in Chopin's Fantasie Impromptu. This work's adagio sostenuto first movement contains the instruction for the": {
+    "guess": "Piano Sonata No. 14 (Beethoven)",
+    "confidence": [
+      [
+        "P",
+        -0.010029351
+      ],
+      [
+        "iano",
+        -9.729906e-06
+      ],
+      [
+        " Sonata",
+        -0.0023983668
+      ],
+      [
+        " No",
+        -2.2961513e-05
+      ],
+      [
+        ".",
+        -6.313315e-05
+      ],
+      [
+        " ",
+        -0.00016671013
+      ],
+      [
+        "14",
+        -0.0010559146
+      ],
+      [
+        " (",
+        -1.7716551e-05
+      ],
+      [
+        "Be",
+        -5.080963e-06
+      ],
+      [
+        "ethoven",
+        -2.0815847e-05
+      ],
+      [
+        ")",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "Cades Cove was a settlement in this mountain range before it was bought out by 1930, and Newfound Gap is a pass through a portion of these mountains. The northernmost mountains in this range are the Shickshocks and the Notre- Dame Mountains, but the highest points in this mountain range can be found": {
+    "guess": "Appalachian Mountains",
+    "confidence": [
+      [
+        "App",
+        -0.0061234827
+      ],
+      [
+        "alach",
+        -0.00015217095
+      ],
+      [
+        "ian",
+        -2.9756122e-05
+      ],
+      [
+        " Mountains",
+        -5.0020742e-05
+      ]
+    ]
+  },
+  "The cadenza from this composition's third movement is quoted in the fourth measure of melody in Chopin's Fantasie Impromptu. This work's adagio sostenuto first movement contains the instruction for the sustain pedal to be held down continuously in its duration, and it was dedicated to the composer's pupil, Countess Julie Guicciardi. This C-sharp minor piece is its composer's fourteenth in a genre he": {
+    "guess": "Piano Sonata No. 14 (Beethoven)",
+    "confidence": [
+      [
+        "P",
+        -0.015776606
+      ],
+      [
+        "iano",
+        -3.1737043e-06
+      ],
+      [
+        " Sonata",
+        -6.122589e-05
+      ],
+      [
+        " No",
+        -4.441817e-05
+      ],
+      [
+        ".",
+        -4.501419e-05
+      ],
+      [
+        " ",
+        -0.00013190633
+      ],
+      [
+        "14",
+        -9.4960524e-05
+      ],
+      [
+        " (",
+        -9.150362e-05
+      ],
+      [
+        "Be",
+        -5.7961847e-06
+      ],
+      [
+        "ethoven",
+        -2.868329e-05
+      ],
+      [
+        ")",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "The cadenza from this composition's third movement is quoted in the fourth measure of melody in Chopin's Fantasie Impromptu. This work's adagio sostenuto first movement contains the instruction for the sustain pedal to be held down continuously in its duration, and it was dedicated to the composer's": {
+    "guess": "Piano Sonata No. 14 (Beethoven)",
+    "confidence": [
+      [
+        "P",
+        -0.09756102
+      ],
+      [
+        "iano",
+        -1.3544423e-05
+      ],
+      [
+        " Sonata",
+        -0.00010032469
+      ],
+      [
+        " No",
+        -4.7994283e-05
+      ],
+      [
+        ".",
+        -5.2643223e-05
+      ],
+      [
+        " ",
+        -0.00024335073
+      ],
+      [
+        "14",
+        -0.0007442336
+      ],
+      [
+        " (",
+        -7.9940866e-05
+      ],
+      [
+        "Be",
+        -5.7961847e-06
+      ],
+      [
+        "ethoven",
+        -2.7014437e-05
+      ],
+      [
+        ")",
+        -8.299462e-06
+      ]
+    ]
+  },
+  "Cades Cove was a settlement in this mountain range before it was bought out by 1930, and Newfound Gap is a pass through a portion of these mountains. The northernmost mountains in this range are the Shickshocks and the Notre- Dame Mountains, but the highest points in this mountain range can be found in its southern portion, including Clingman's Dome and its highest point, Mount Mitchell. Including": {
+    "guess": "Appalachian Mountains",
+    "confidence": [
+      [
+        "App",
+        -0.011959598
+      ],
+      [
+        "alach",
+        -0.00011105302
+      ],
+      [
+        "ian",
+        -1.0445127e-05
+      ],
+      [
+        " Mountains",
+        -7.851042e-05
+      ]
+    ]
+  },
+  "Cades Cove was a settlement in this mountain range before it was bought out by 1930, and Newfound Gap": {
+    "guess": "Great Smoky Mountains",
+    "confidence": [
+      [
+        "Great",
+        -0.40325502
+      ],
+      [
+        " Sm",
+        -0.00030495704
+      ],
+      [
+        "oky",
+        -2.6895234e-05
+      ],
+      [
+        " Mountains",
+        -0.00028266964
+      ]
+    ]
+  },
+  "Cades Cove was a settlement in this mountain range before it was bought out by 1930, and Newfound Gap is a pass through a portion of these mountains. The northernmost mountains in this range are the Shickshocks and the Notre- Dame Mountains, but the highest points in this mountain range can be found in its southern portion, including Clingman's Dome and its highest point, Mount Mitchell. Including the Blue Ridge and the White Mountains, For 10 points, name this Eastern North American mountain range": {
+    "guess": "Appalachian Mountains",
+    "confidence": [
+      [
+        "App",
+        -0.0040249685
+      ],
+      [
+        "alach",
+        -0.000156101
+      ],
+      [
+        "ian",
+        -8.537869e-06
+      ],
+      [
+        " Mountains",
+        -3.7981175e-05
+      ]
+    ]
+  },
+  "Cades Cove was a settlement in this mountain range before it was bought out by 1930, and Newfound Gap is a pass through a portion of these mountains. The northernmost mountains in this range are the Shickshocks and the Notre- Dame Mountains, but the highest points in this mountain range can be found in its southern portion, including Clingman's Dome and its highest point, Mount Mitchell. Including the Blue Ridge and the White Mountains, For 10 points, name this Eastern North American mountain range stretching from Georgia to Canada.": {
+    "guess": "Appalachian Mountains",
+    "confidence": [
+      [
+        "App",
+        -0.0040433756
+      ],
+      [
+        "alach",
+        -0.00022547018
+      ],
+      [
+        "ian",
+        -1.2233183e-05
+      ],
+      [
+        " Mountains",
+        -4.0961266e-05
+      ]
+    ]
+  }
+}

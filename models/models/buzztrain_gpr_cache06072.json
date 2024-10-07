@@ -1,0 +1,93 @@
+{
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping mission by the giants Otus and Ephialtes, who ended up leaving with Ares in a jar. One hero who tried to reach this location was lamed and doomed to wander the Plains of Aleion after a gadfly was sent to distract Pegasus. Heracles eventually settled here and married its cupbearer Hebe, while Hestia gave up her throne in this place to Dionysus. For 10 points, name this abode of the Greek gods,": {
+    "guess": "Mount Olympus",
+    "confidence": [
+      [
+        "Mount",
+        -0.07232366
+      ],
+      [
+        " Olympus",
+        -5.109358e-05
+      ]
+    ]
+  },
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping mission by the giants Otus and Ephialtes, who ended up leaving with Ares in a jar. One hero who tried to reach this location was lamed and doomed to wander the Plains of Aleion after a gadfly": {
+    "guess": "Mount Olympus",
+    "confidence": [
+      [
+        "Mount",
+        -0.08851459
+      ],
+      [
+        " Olympus",
+        -0.00050465803
+      ]
+    ]
+  },
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping": {
+    "guess": "Mount Olympus",
+    "confidence": [
+      [
+        "Mount",
+        -0.20320468
+      ],
+      [
+        " Olympus",
+        -0.0020129792
+      ]
+    ]
+  },
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping mission by the giants Otus and Ephialtes, who ended up leaving with Ares in a jar. One hero who tried to reach this location was lamed and doomed to wander the Plains of Aleion after a gadfly was sent to distract Pegasus. Heracles eventually settled here and married its cupbearer Hebe, while Hestia gave up her throne in this place to Dionysus. For 10 points, name this abode of the Greek gods, a mountain situated in northern Greece.": {
+    "guess": "Mount Olympus",
+    "confidence": [
+      [
+        "Mount",
+        -0.021938978
+      ],
+      [
+        " Olympus",
+        -1.867018e-05
+      ]
+    ]
+  },
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping mission by the giants Otus and Ephialtes, who ended up leaving with Ares in a jar. One hero who tried to reach this location was lamed and doomed to wander the Plains of Aleion after a gadfly was sent to distract Pegasus. Heracles eventually settled here and married its cupbearer Hebe, while": {
+    "guess": "Mount Olympus",
+    "confidence": [
+      [
+        "Mount",
+        -0.072822876
+      ],
+      [
+        " Olympus",
+        -0.00020461321
+      ]
+    ]
+  },
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands": {
+    "guess": "Heracles",
+    "confidence": [
+      [
+        "Her",
+        -0.44121268
+      ],
+      [
+        "acles",
+        -0.0032327326
+      ]
+    ]
+  },
+  "As punishment for sending a storm after Heracles on his return from Troy, Hera was hung by her hands from this location with two anvils at her feet. Two residents of this place were the targets of a kidnapping mission by the giants Otus and Ephialtes, who ended up leaving with Ares in a jar. One hero": {
+    "guess": "Mount Olympus",
+    "confidence": [
+      [
+        "Mount",
+        -0.024366016
+      ],
+      [
+        " Olympus",
+        -0.00014215785
+      ]
+    ]
+  }
+}

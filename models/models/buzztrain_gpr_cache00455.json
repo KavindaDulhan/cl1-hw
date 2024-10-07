@@ -1,0 +1,71 @@
+{
+  "In Beverly Hills Cop, Axel Foley uses one to incapacitate a police car. It is the Koran's forbidden fruit in Eden. Britain's oldest was found in a 500 -year-old Tudor rubbish pit and America's first were": {
+    "guess": "Forbidden fruit",
+    "confidence": [
+      [
+        "Forbidden",
+        -1.4527802
+      ],
+      [
+        " fruit",
+        -0.05568293
+      ]
+    ]
+  },
+  "In Beverly Hills Cop, Axel Foley uses one to incapacitate a police car. It is the Koran's forbidden fruit in Eden. Britain's oldest was found in a 500 -year-old Tudor rubbish pit and America's first were sold at the 1876 Centennial Exposition for 10 cents each. Its name is Portuguese from an African": {
+    "guess": "Pineapple",
+    "confidence": [
+      [
+        "P",
+        -1.1518636
+      ],
+      [
+        "ine",
+        -0.89572346
+      ],
+      [
+        "apple",
+        -0.002370178
+      ]
+    ]
+  },
+  "In Beverly Hills Cop, Axel Foley uses one to incapacitate a police car. It is the Koran's forbidden fruit in Eden. Britain's oldest was found in a 500 -year-old Tudor rubbish pit and America's first were sold at the 1876 Centennial Exposition for 10 cents each. Its name is Portuguese from an African root and India now grows the most. There are 300 kinds, but Musa sapientum is commonly eaten in America, and the Cavendish variety will soon go extinct. For ten points, name this curved yellow fruit.": {
+    "guess": "Banana",
+    "confidence": [
+      [
+        "Ban",
+        -0.0026198933
+      ],
+      [
+        "ana",
+        -0.0008151085
+      ]
+    ]
+  },
+  "In Beverly Hills Cop, Axel Foley uses one to incapacitate a police car. It is the Koran's forbidden fruit in Eden. Britain's oldest was found in a 500 -year-old Tudor rubbish pit and America's first were sold at the 1876 Centennial Exposition for 10 cents each. Its name is Portuguese from an African root and India now grows the most. There are 300 kinds, but Musa sapientum is commonly eaten in America,": {
+    "guess": "Banana",
+    "confidence": [
+      [
+        "Ban",
+        -0.017694108
+      ],
+      [
+        "ana",
+        -0.0034115587
+      ]
+    ]
+  },
+  "In Beverly Hills Cop, Axel Foley uses one to incapacitate a police car. It is the Koran's forbidden fruit": {
+    "guess": "Banana",
+    "confidence": [
+      [
+        "Ban",
+        -0.4233289
+      ],
+      [
+        "ana",
+        -0.0029311068
+      ]
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is": {
+    "guess": "Isotope effect",
+    "confidence": [
+      [
+        "Is",
+        -0.6622042
+      ],
+      [
+        "otope",
+        -0.07433095
+      ],
+      [
+        " effect",
+        -0.053417277
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it is destroyed by thermonuclear reactions, there is surprisingly little of it in the interior of the sun.  Discovered spectroscopically by Harold Urey, for 10 points, what is this isotope of hydrogen consisting of one proton and one neutron?": {
+    "guess": "Protium",
+    "confidence": [
+      [
+        "Prot",
+        -0.21876037
+      ],
+      [
+        "ium",
+        -0.00029947367
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it is destroyed by thermonuclear reactions, there is surprisingly little of it in the interior of the": {
+    "guess": "Deuterium",
+    "confidence": [
+      [
+        "De",
+        -0.13171071
+      ],
+      [
+        "uter",
+        -0.00091765117
+      ],
+      [
+        "ium",
+        -0.0009810051
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it": {
+    "guess": "Deuterium",
+    "confidence": [
+      [
+        "De",
+        -0.34678268
+      ],
+      [
+        "uter",
+        -0.0021676288
+      ],
+      [
+        "ium",
+        -0.0008582198
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than": {
+    "guess": "Activation Energy",
+    "confidence": [
+      [
+        "Activation",
+        -1.260227
+      ],
+      [
+        " Energy",
+        -0.539844
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that": {
+    "guess": "Isotope fractionation",
+    "confidence": [
+      [
+        "Is",
+        -0.47833374
+      ],
+      [
+        "otope",
+        -0.167885
+      ],
+      [
+        " fraction",
+        -1.4319798
+      ],
+      [
+        "ation",
+        -0.0007721053
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it is destroyed by thermonuclear reactions, there is surprisingly little of it in the interior of the sun.  Discovered spectroscopically by Harold Urey, for 10 points, what is this isotope of hydrogen": {
+    "guess": "Tritium",
+    "confidence": [
+      [
+        "T",
+        -0.05626186
+      ],
+      [
+        "rit",
+        -6.392203e-06
+      ],
+      [
+        "ium",
+        -0.00044628125
+      ]
+    ]
+  }
+}

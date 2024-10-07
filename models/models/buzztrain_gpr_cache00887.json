@@ -1,0 +1,152 @@
+{
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring systems were being hacked by Iraqi insurgents using the program SkyGrabber, which is sold to the public": {
+    "guess": "Unmanned aerial vehicle",
+    "confidence": [
+      [
+        "Un",
+        -0.4465672
+      ],
+      [
+        "m",
+        -0.00067026314
+      ],
+      [
+        "anned",
+        -6.2729996e-06
+      ],
+      [
+        " aerial",
+        -0.12902136
+      ],
+      [
+        " vehicle",
+        -0.02422919
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring systems were being hacked by Iraqi insurgents using the program SkyGrabber, which is sold to the public for thirty dollars. For 10 points, an increasing number of aerial bombings by the U.S. military": {
+    "guess": "Drone attacks in Pakistan",
+    "confidence": [
+      [
+        "Dr",
+        -0.86815554
+      ],
+      [
+        "one",
+        -5.5122365e-07
+      ],
+      [
+        " attacks",
+        -0.31305575
+      ],
+      [
+        " in",
+        -0.0032857324
+      ],
+      [
+        " Pakistan",
+        -0.0032452052
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring": {
+    "guess": "Drone attacks in Pakistan",
+    "confidence": [
+      [
+        "Dr",
+        -0.4645074
+      ],
+      [
+        "one",
+        -9.0883464e-07
+      ],
+      [
+        " attacks",
+        -0.3892988
+      ],
+      [
+        " in",
+        -0.0067112283
+      ],
+      [
+        " Pakistan",
+        -0.004194387
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been": {
+    "guess": "CIA activities in Pakistan",
+    "confidence": [
+      [
+        "C",
+        -0.67487186
+      ],
+      [
+        "IA",
+        -0.00075209374
+      ],
+      [
+        " activities",
+        -0.343297
+      ],
+      [
+        " in",
+        -0.00085287035
+      ],
+      [
+        " Pakistan",
+        -0.008525684
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring systems were being hacked by Iraqi insurgents using the program SkyGrabber, which is sold to the public for thirty dollars. For 10 points, an increasing number of aerial bombings by the U.S. military are being conducted using what remotely controlled, pilot-less aircraft?": {
+    "guess": "Unmanned aerial vehicle",
+    "confidence": [
+      [
+        "Un",
+        -0.45177802
+      ],
+      [
+        "m",
+        -0.0007555469
+      ],
+      [
+        "anned",
+        -2.8160932e-06
+      ],
+      [
+        " aerial",
+        -0.04858033
+      ],
+      [
+        " vehicle",
+        -0.0016248336
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting": {
+    "guess": "Drone attacks in Pakistan",
+    "confidence": [
+      [
+        "Dr",
+        -0.27497545
+      ],
+      [
+        "one",
+        -4.3202e-07
+      ],
+      [
+        " attacks",
+        -0.27192494
+      ],
+      [
+        " in",
+        -0.07248899
+      ],
+      [
+        " Pakistan",
+        -0.00049119536
+      ]
+    ]
+  }
+}

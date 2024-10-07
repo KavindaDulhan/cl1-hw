@@ -1,0 +1,89 @@
+{
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle. This property of a black hole whose Compton wavelength and Schwarzschild radius are equal is named for Planck.  Using units where space and time are equal, the square of this property is equal to e squared minus p squared.  Particles are believed to gain this property through the Higgs boson. The gravitational force between two objects is proportional to the product of the objects' this.  For 10 points, name this quantity that is multiplied by acceleration to obtain force in Newton's Second Law": {
+    "guess": "Mass",
+    "confidence": [
+      [
+        "Mass",
+        -0.015201344
+      ]
+    ]
+  },
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle. This property of a black hole whose Compton wavelength and Schwarzschild radius are equal is named for Planck.  Using units where space and time are equal, the square of this property is equal to e squared": {
+    "guess": "Electric Charge",
+    "confidence": [
+      [
+        "Electric",
+        -0.11901417
+      ],
+      [
+        " Charge",
+        -0.49197263
+      ]
+    ]
+  },
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle. This property of a black hole whose Compton wavelength and Schwarzschild radius are equal is named for Planck.  Using units where space and time are equal, the square of this property is equal to e squared minus p squared.  Particles are believed to gain this property through the Higgs boson. The gravitational force between two objects is proportional to the product of the objects' this.  For 10 points, name this quantity that is multiplied by acceleration to obtain force in Newton's Second Law of Motion, a measure of the amount of matter in an object often measured in grams.": {
+    "guess": "Mass",
+    "confidence": [
+      [
+        "Mass",
+        -0.0022810998
+      ]
+    ]
+  },
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle. This property of a black hole whose Compton wavelength and Schwarzschild radius are equal is named for Planck.  Using units where space and time are equal, the square of this property is equal to e squared minus p squared.  Particles are believed to gain this property through the Higgs boson. The gravitational": {
+    "guess": "Electric Charge",
+    "confidence": [
+      [
+        "Electric",
+        -0.80484873
+      ],
+      [
+        " Charge",
+        -0.4999412
+      ]
+    ]
+  },
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle. This property of a black hole whose Compton wavelength and Schwarzschild radius are equal is named for Planck.  Using units where space and time are equal, the square of this property is equal to e squared minus p squared.  Particles are believed to gain this property through the Higgs boson. The gravitational force between two objects is proportional to the product of the objects' this.  For 10 points,": {
+    "guess": "Electric Charge",
+    "confidence": [
+      [
+        "Electric",
+        -0.8759869
+      ],
+      [
+        " Charge",
+        -0.61344093
+      ]
+    ]
+  },
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle.": {
+    "guess": "Electric charge",
+    "confidence": [
+      [
+        "Electric",
+        -0.30384278
+      ],
+      [
+        " charge",
+        -0.21839698
+      ]
+    ]
+  },
+  "The Yukawa interaction for a fermion is proportional to the square of this property of the particle. This property of a black hole whose Compton wavelength and Schwarzschild radius are equal is named for": {
+    "guess": "Compton wavelength",
+    "confidence": [
+      [
+        "Com",
+        -1.237094
+      ],
+      [
+        "pton",
+        -0.0037370182
+      ],
+      [
+        " wavelength",
+        -0.0014129737
+      ]
+    ]
+  }
+}

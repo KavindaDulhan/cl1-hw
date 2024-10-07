@@ -1,0 +1,126 @@
+{
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite of Madonna's this Polish art deco painter drew really cool pictures that contrasted powerful": {
+    "guess": "Tamara de Lempicka",
+    "confidence": [
+      [
+        "Tam",
+        -0.0017740693
+      ],
+      [
+        "ara",
+        -7.703444e-06
+      ],
+      [
+        " de",
+        -0.032976713
+      ],
+      [
+        " L",
+        -1.3544423e-05
+      ],
+      [
+        "emp",
+        -6.81397e-05
+      ],
+      [
+        "ick",
+        -3.631232e-05
+      ],
+      [
+        "a",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite of Madonna's this Polish art deco painter drew really cool pictures that contrasted powerful bodies against modern cityscapes in works like Adam and Eve, Portrait of Marjorie Ferry, and Self- Portrait": {
+    "guess": "Tamara de Lempicka",
+    "confidence": [
+      [
+        "Tam",
+        -0.00039754162
+      ],
+      [
+        "ara",
+        -4.246537e-06
+      ],
+      [
+        " de",
+        -0.0036702713
+      ],
+      [
+        " L",
+        -6.6306106e-06
+      ],
+      [
+        "emp",
+        -1.5570886e-05
+      ],
+      [
+        "ick",
+        -2.486877e-05
+      ],
+      [
+        "a",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite": {
+    "guess": "Frida Kahlo",
+    "confidence": [
+      [
+        "F",
+        -0.1813195
+      ],
+      [
+        "rid",
+        -0.00160056
+      ],
+      [
+        "a",
+        -3.650519e-06
+      ],
+      [
+        " Kah",
+        -0.00035941842
+      ],
+      [
+        "lo",
+        -1.378283e-05
+      ]
+    ]
+  },
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite of Madonna's this Polish art deco painter drew really cool pictures that contrasted powerful bodies against modern cityscapes in works like Adam and Eve, Portrait of Marjorie Ferry, and Self- Portrait in a Green Bugatti.": {
+    "guess": "Tamara de Lempicka",
+    "confidence": [
+      [
+        "Tam",
+        -0.00021974841
+      ],
+      [
+        "ara",
+        -6.1537958e-06
+      ],
+      [
+        " de",
+        -0.0035333207
+      ],
+      [
+        " L",
+        -1.0802739e-05
+      ],
+      [
+        "emp",
+        -3.9650025e-05
+      ],
+      [
+        "ick",
+        -6.6232446e-05
+      ],
+      [
+        "a",
+        -6.869018e-06
+      ]
+    ]
+  }
+}

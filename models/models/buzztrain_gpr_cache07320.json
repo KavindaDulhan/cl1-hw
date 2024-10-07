@@ -1,0 +1,257 @@
+{
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.0006900363
+      ],
+      [
+        "amm",
+        -1.2948405e-05
+      ],
+      [
+        "alia",
+        -0.0009646999
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right, reducing taxes would harder work and ultimately increase revenue.  First sketched out on a napkin, it was the graph of choice of the Reagan era.  FTP, what little bit of bullshit posited an inverse relationship between taxes and revenues?": {
+    "guess": "Laffer curve",
+    "confidence": [
+      [
+        "L",
+        -0.009397854
+      ],
+      [
+        "affer",
+        -5.800739e-05
+      ],
+      [
+        " curve",
+        -0.5792739
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although the platypus has the ZW system similar to that of birds. Except for the five species of monotremes, all organisms in this class give birth to live young. For 10 points, identify this class of vertebrate animals whose name comes from the specialized sweat glands that produce milk.": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.0017752614
+      ],
+      [
+        "amm",
+        -4.246537e-06
+      ],
+      [
+        "alia",
+        -0.012108239
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.0034945887
+      ],
+      [
+        "amm",
+        -1.735894e-05
+      ],
+      [
+        "alia",
+        -0.00090371893
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right,": {
+    "guess": "Deadweight loss",
+    "confidence": [
+      [
+        "Dead",
+        -1.0076267
+      ],
+      [
+        "weight",
+        -0.0020748407
+      ],
+      [
+        " loss",
+        -0.028845908
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes,": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Vert",
+        -0.16778916
+      ],
+      [
+        "e",
+        -2.2365493e-05
+      ],
+      [
+        "brate",
+        -0.014150465
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although the platypus has the ZW system similar to that of birds. Except for the five species of monotremes,": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.013135402
+      ],
+      [
+        "amm",
+        -0.00013107191
+      ],
+      [
+        "alia",
+        -0.013719492
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although the platypus has the ZW system similar to that of birds. Except for the five species of monotremes, all organisms in this class give birth to live young. For 10 points, identify this class of vertebrate": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.0013898775
+      ],
+      [
+        "amm",
+        -8.180258e-06
+      ],
+      [
+        "alia",
+        -0.015014886
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right, reducing taxes would harder work and ultimately increase revenue.  First sketched out on a napkin, it was the graph of choice of the Reagan era.  FTP, what little bit of bullshit posited an inverse": {
+    "guess": "Laffer curve",
+    "confidence": [
+      [
+        "L",
+        -0.024118422
+      ],
+      [
+        "affer",
+        -8.5543434e-05
+      ],
+      [
+        " curve",
+        -0.1063825
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right, reducing taxes would harder work and ultimately increase revenue.  First sketched out on a napkin,": {
+    "guess": "Laffer curve",
+    "confidence": [
+      [
+        "L",
+        -0.0030945314
+      ],
+      [
+        "affer",
+        -8.061054e-06
+      ],
+      [
+        " curve",
+        -0.095478125
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Vert",
+        -0.68463385
+      ],
+      [
+        "e",
+        -1.1756368e-05
+      ],
+      [
+        "brate",
+        -0.030500023
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes, Chondricthyes and Osteicthyes. FTP, identify this sub-phylum, home to the classes Aves and Mammalia, named for its possession of a spinal column, which shares its name with the series of bones that": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Vert",
+        -0.01917257
+      ],
+      [
+        "e",
+        -0.001099015
+      ],
+      [
+        "brate",
+        -0.5436589
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.08199279
+      ],
+      [
+        "amm",
+        -0.00067074
+      ],
+      [
+        "alia",
+        -0.007848883
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes, Chondricthyes and Osteicthyes. FTP, identify this sub-phylum, home to the classes Aves and Mammalia,": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Vert",
+        -0.012623365
+      ],
+      [
+        "e",
+        -0.00035357746
+      ],
+      [
+        "brate",
+        -0.5934634
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes, Chondricthyes and Osteicthyes. FTP, identify this sub-phylum, home to the classes Aves and Mammalia, named for its possession of a spinal column, which shares its name with the series of bones that make up that column, which come in cervical, thoracic, and lumbar types.": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Vert",
+        -0.024538882
+      ],
+      [
+        "e",
+        -0.00018935515
+      ],
+      [
+        "brate",
+        -0.5679807
+      ]
+    ]
+  }
+}

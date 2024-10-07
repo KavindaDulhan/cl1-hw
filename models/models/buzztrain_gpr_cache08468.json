@@ -1,0 +1,112 @@
+{
+  "Wanted by the police on charges of killing a trooper named Fitzpatrick shortly after his release from": {
+    "guess": "Tom Jones (character)",
+    "confidence": [
+      [
+        "Tom",
+        -1.6664506
+      ],
+      [
+        " Jones",
+        -0.25436285
+      ],
+      [
+        " (",
+        -0.7127063
+      ],
+      [
+        "character",
+        -0.7013455
+      ],
+      [
+        ")",
+        -0.00013500563
+      ]
+    ]
+  },
+  "Wanted by the police on charges of killing a trooper named Fitzpatrick shortly after his release from a three year jail term for horse-stealing, this man joined his brother Dan, Steve Hart, and Joe Byrne in hiding, and soon killed three policemen at Stringybark Creek. The son of an Irish convict, after robbing banks at Euroa and Jerilderee, he and his gang were trapped after a failed scheme to derail a police train at Glenrowan, leading to his arrest and hanging. FTP, who is this legendary Australian bushranger?": {
+    "guess": "Ned Kelly",
+    "confidence": [
+      [
+        "N",
+        -0.0089086965
+      ],
+      [
+        "ed",
+        -1.3067608e-05
+      ],
+      [
+        " Kelly",
+        -0.0020597347
+      ]
+    ]
+  },
+  "Wanted by the police on charges of killing a trooper named Fitzpatrick shortly after his release from a three year jail term for horse-stealing, this man joined his brother Dan, Steve Hart, and Joe Byrne in hiding, and soon killed three policemen at Stringybark Creek. The son of an Irish convict, after robbing banks at Euroa and Jerilderee, he and his gang were trapped after a failed scheme to derail a police train at Glenrowan, leading to his arrest and hanging. FTP, who is this legendary Australian": {
+    "guess": "Ned Kelly",
+    "confidence": [
+      [
+        "N",
+        -0.0032190646
+      ],
+      [
+        "ed",
+        -1.0921943e-05
+      ],
+      [
+        " Kelly",
+        -0.002345323
+      ]
+    ]
+  },
+  "Wanted by the police on charges of killing a trooper named Fitzpatrick shortly after his release from a three year jail term for horse-stealing, this man joined his brother Dan, Steve Hart, and Joe Byrne": {
+    "guess": "Ned Kelly",
+    "confidence": [
+      [
+        "N",
+        -0.12463429
+      ],
+      [
+        "ed",
+        -4.1273333e-06
+      ],
+      [
+        " Kelly",
+        -0.0004371062
+      ]
+    ]
+  },
+  "Wanted by the police on charges of killing a trooper named Fitzpatrick shortly after his release from a three year jail term for horse-stealing, this man joined his brother Dan, Steve Hart, and Joe Byrne in hiding, and soon killed three policemen at Stringybark Creek. The son of an Irish convict, after": {
+    "guess": "Ned Kelly",
+    "confidence": [
+      [
+        "N",
+        -0.025497498
+      ],
+      [
+        "ed",
+        -2.3676734e-05
+      ],
+      [
+        " Kelly",
+        -0.0020423676
+      ]
+    ]
+  },
+  "Wanted by the police on charges of killing a trooper named Fitzpatrick shortly after his release from a three year jail term for horse-stealing, this man joined his brother Dan, Steve Hart, and Joe Byrne in hiding, and soon killed three policemen at Stringybark Creek. The son of an Irish convict, after robbing banks at Euroa and Jerilderee, he and his gang were trapped after a failed scheme to derail": {
+    "guess": "Ned Kelly",
+    "confidence": [
+      [
+        "N",
+        -0.023545349
+      ],
+      [
+        "ed",
+        -3.5716304e-05
+      ],
+      [
+        " Kelly",
+        -0.0072867926
+      ]
+    ]
+  }
+}

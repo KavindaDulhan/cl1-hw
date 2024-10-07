@@ -1,0 +1,402 @@
+{
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several politicians were killed in the February 26 Incident in this city, but the Prime Minister's brother-in-law was killed mistakenly instead of the Prime Minister. It was bombed several times during World": {
+    "guess": "Tokyo Bombing.",
+    "confidence": [
+      [
+        "Tok",
+        -0.6436478
+      ],
+      [
+        "yo",
+        -1.9743013e-05
+      ],
+      [
+        " Bomb",
+        -1.842134
+      ],
+      [
+        "ing",
+        -0.5652359
+      ],
+      [
+        ".",
+        -1.5625937
+      ]
+    ]
+  },
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several politicians were killed in the February 26 Incident in this city, but the Prime Minister's brother-in-law": {
+    "guess": "February 26 Incident",
+    "confidence": [
+      [
+        "February",
+        -0.70224816
+      ],
+      [
+        " ",
+        -0.0011071136
+      ],
+      [
+        "26",
+        -0.0025404668
+      ],
+      [
+        " Incident",
+        -0.08645239
+      ]
+    ]
+  },
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several": {
+    "guess": "Rice Riots",
+    "confidence": [
+      [
+        "R",
+        -0.6036808
+      ],
+      [
+        "ice",
+        -0.12756042
+      ],
+      [
+        " Ri",
+        -0.071769394
+      ],
+      [
+        "ots",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which was the focus of the 1903 Hay-Herbert Treaty. The Pig War arose from a dispute over whether the Haro or Rosario Strait was meant in a clause of the Pakenham Treaty concerning it. A 1908 treaty was challenged when Dennis Schornack was fired as U.S. Commissioner for this in 2007. It created the exclave Point Roberts, and a dispute over its western part led to the resolution of the Oregon Question.": {
+    "guess": "Oregon Treaty",
+    "confidence": [
+      [
+        "Oregon",
+        -0.1416971
+      ],
+      [
+        " Treaty",
+        -0.6602205
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which was the focus of the 1903 Hay-Herbert Treaty. The Pig War arose from a dispute over whether the": {
+    "guess": "Akwesasne Territory",
+    "confidence": [
+      [
+        "A",
+        -0.7316757
+      ],
+      [
+        "kw",
+        -0.030023655
+      ],
+      [
+        "es",
+        -0.00015896189
+      ],
+      [
+        "as",
+        -0.00012618455
+      ],
+      [
+        "ne",
+        -7.624555e-05
+      ],
+      [
+        " Territory",
+        -0.4230419
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which was the focus of the 1903 Hay-Herbert Treaty. The Pig War arose from a dispute over whether the Haro or Rosario Strait was meant in a clause of the Pakenham Treaty concerning it. A 1908 treaty was challenged when Dennis Schornack was fired as U.S. Commissioner for this in 2007. It created the exclave": {
+    "guess": "List of United States territorial disputes",
+    "confidence": [
+      [
+        "List",
+        -1.1931006
+      ],
+      [
+        " of",
+        -0.00019936825
+      ],
+      [
+        " United",
+        -1.1974717
+      ],
+      [
+        " States",
+        -0.00042495478
+      ],
+      [
+        " territorial",
+        -1.0663399
+      ],
+      [
+        " disputes",
+        -0.064353086
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which was the focus of the 1903 Hay-Herbert Treaty. The Pig War arose from a dispute over whether the Haro or Rosario Strait was meant in a clause of the Pakenham Treaty concerning it. A 1908 treaty was challenged when Dennis Schornack was fired as U.S. Commissioner for this in 2007. It created the exclave Point Roberts, and a dispute over its western part led to the resolution of the Oregon Question. For 10 points, name this political construct that often follows the forty-ninth parallel, through": {
+    "guess": "Oregon Treaty",
+    "confidence": [
+      [
+        "Oregon",
+        -1.016174
+      ],
+      [
+        " Treaty",
+        -0.8228761
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which was the focus of the 1903 Hay-Herbert Treaty. The Pig War arose from a dispute over whether the Haro or Rosario Strait was meant in a clause of the Pakenham Treaty concerning it. A 1908 treaty was challenged when Dennis Schornack was fired as U.S. Commissioner for this in 2007. It created the exclave Point Roberts, and a dispute over its western part led to the resolution of the Oregon Question. For 10 points, name this political construct that often follows the forty-ninth parallel, through which Americans cross to reach British Columbia or Quebec.": {
+    "guess": "International Boundary Commission",
+    "confidence": [
+      [
+        "International",
+        -1.1424398
+      ],
+      [
+        " Boundary",
+        -0.07222851
+      ],
+      [
+        " Commission",
+        -0.0403462
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which was the focus of the 1903 Hay-Herbert Treaty. The Pig War arose from a dispute over whether the Haro or Rosario Strait was meant in a clause of the Pakenham Treaty concerning it. A 1908 treaty was": {
+    "guess": "Pig War",
+    "confidence": [
+      [
+        "P",
+        -1.2536544
+      ],
+      [
+        "ig",
+        -0.013833778
+      ],
+      [
+        " War",
+        -0.00048799152
+      ]
+    ]
+  },
+  "A 1990 riot in the Akwesasne Territory led to questions regarding jurisdiction over this construct, which": {
+    "guess": "Akwesasne Territory",
+    "confidence": [
+      [
+        "A",
+        -0.80993557
+      ],
+      [
+        "kw",
+        -0.027918922
+      ],
+      [
+        "es",
+        -0.0002292847
+      ],
+      [
+        "as",
+        -8.9357956e-05
+      ],
+      [
+        "ne",
+        -0.00015193255
+      ],
+      [
+        " Territory",
+        -0.4923273
+      ]
+    ]
+  },
+  "Riots in Fort Chaffee in the wake of this event partially doomed Bill Clinton's gubernatorial re-election bid. This event began when Hector Sanyustiz drove a bus into the Peruvian Embassy in Miramar. The": {
+    "guess": "Mariel Boatlift",
+    "confidence": [
+      [
+        "Mari",
+        -0.017189791
+      ],
+      [
+        "el",
+        -1.5213274e-05
+      ],
+      [
+        " Boat",
+        -0.43450096
+      ],
+      [
+        "lift",
+        -0.00060295337
+      ]
+    ]
+  },
+  "Riots in Fort Chaffee in the wake of this event partially doomed Bill Clinton's gubernatorial re-election bid. This event began when Hector Sanyustiz drove a bus into the Peruvian Embassy in Miramar. The condition for those who participated in it was that someone pick them up in its namesake port, and Jimmy Carter was embarrassed when it became clear that prisoners and the mentally ill were flooding": {
+    "guess": "Mariel boatlift",
+    "confidence": [
+      [
+        "Mari",
+        -0.06052442
+      ],
+      [
+        "el",
+        -2.3319124e-05
+      ],
+      [
+        " boat",
+        -0.03361769
+      ],
+      [
+        "lift",
+        -0.0005456458
+      ]
+    ]
+  },
+  "Riots in Fort Chaffee in the wake of this event partially doomed Bill Clinton's gubernatorial re-election bid. This event began when Hector Sanyustiz drove a bus into the Peruvian Embassy in Miramar. The condition for those who participated in it was that someone pick them up in its namesake port, and Jimmy Carter was embarrassed when it became clear that prisoners and the mentally ill were flooding into the United States across the Straits of Florida. FTP, identify this 1980 period of mass migration": {
+    "guess": "Mariel boatlift",
+    "confidence": [
+      [
+        "Mari",
+        -0.07511635
+      ],
+      [
+        "el",
+        -2.7610455e-05
+      ],
+      [
+        " boat",
+        -0.06329656
+      ],
+      [
+        "lift",
+        -0.00048608426
+      ]
+    ]
+  },
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several politicians were killed in the February 26 Incident in this city, but the Prime Minister's brother-in-law was killed mistakenly instead of the Prime Minister. It was bombed several times during World War II, including Operation Meetinghouse in March 1945, which killed about one hundred thousand people. In 1995, a cult spread sarin nerve gas in its subway system. This city changed its name soon after visits to its bay by Americans James Biddle and Matthew Perry. Name this city established as a capital in 1603 by Tokugawa Ieyasu that had its name changed from Edo during the Meiji Restoration.": {
+    "guess": "Tokyo",
+    "confidence": [
+      [
+        "Tok",
+        -0.0013886855
+      ],
+      [
+        "yo",
+        -2.4272753e-05
+      ]
+    ]
+  },
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several politicians were killed in the February 26 Incident in this city, but the Prime Minister's brother-in-law was killed mistakenly instead of the Prime Minister. It was bombed several times during World War II, including Operation Meetinghouse in March 1945, which killed about one hundred thousand people. In 1995, a cult spread sarin nerve gas in its subway system. This city changed its name soon after visits to its bay by Americans James Biddle and Matthew Perry. Name this city established as a": {
+    "guess": "Tokyo",
+    "confidence": [
+      [
+        "Tok",
+        -0.0052114674
+      ],
+      [
+        "yo",
+        -1.4259645e-05
+      ]
+    ]
+  },
+  "Riots in Fort Chaffee in the wake of this event partially doomed Bill Clinton's gubernatorial re-election": {
+    "guess": "Mariel boatlift",
+    "confidence": [
+      [
+        "Mari",
+        -0.135215
+      ],
+      [
+        "el",
+        -4.370295e-05
+      ],
+      [
+        " boat",
+        -0.012525303
+      ],
+      [
+        "lift",
+        -0.00018530223
+      ]
+    ]
+  },
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several politicians were killed in the February 26 Incident in this city, but the Prime Minister's brother-in-law was killed mistakenly instead of the Prime Minister. It was bombed several times during World War II, including Operation Meetinghouse in March 1945, which killed about one hundred thousand people. In 1995, a cult spread sarin nerve gas in its subway system. This city changed its name soon": {
+    "guess": "Tokyo",
+    "confidence": [
+      [
+        "Tok",
+        -0.013643294
+      ],
+      [
+        "yo",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "Riots in Fort Chaffee in the wake of this event partially doomed Bill Clinton's gubernatorial re-election bid. This event began when Hector Sanyustiz drove a bus into the Peruvian Embassy in Miramar. The condition for those who participated in it was that someone pick them up in its namesake port, and Jimmy Carter was embarrassed when it became clear that prisoners and the mentally ill were flooding into the United States across the Straits of Florida. FTP, identify this 1980 period of mass migration in which 125,000 Cuban refugees found their way to Florida.": {
+    "guess": "Mariel boatlift",
+    "confidence": [
+      [
+        "Mari",
+        -0.012597124
+      ],
+      [
+        "el",
+        -1.0087517e-05
+      ],
+      [
+        " boat",
+        -0.08913555
+      ],
+      [
+        "lift",
+        -0.00076912885
+      ]
+    ]
+  },
+  "Riots in Fort Chaffee in the wake of this event partially doomed Bill Clinton's gubernatorial re-election bid. This event began when Hector Sanyustiz drove a bus into the Peruvian Embassy in Miramar. The condition for those who participated in it was that someone pick them up in its namesake port, and": {
+    "guess": "Mariel boatlift",
+    "confidence": [
+      [
+        "Mari",
+        -0.111670576
+      ],
+      [
+        "el",
+        -5.0378356e-05
+      ],
+      [
+        " boat",
+        -0.048804235
+      ],
+      [
+        "lift",
+        -0.00051931274
+      ]
+    ]
+  },
+  "A riot in this city started the Era of Popular Violence that ended in 1918 with the Rice Riots. Several politicians were killed in the February 26 Incident in this city, but the Prime Minister's brother-in-law was killed mistakenly instead of the Prime Minister. It was bombed several times during World War II, including Operation Meetinghouse in March 1945, which killed about one hundred thousand people.": {
+    "guess": "Bombing of Tokyo",
+    "confidence": [
+      [
+        "Bomb",
+        -0.35566768
+      ],
+      [
+        "ing",
+        -0.00045617513
+      ],
+      [
+        " of",
+        -0.00015908109
+      ],
+      [
+        " Tokyo",
+        -0.00014311148
+      ]
+    ]
+  }
+}

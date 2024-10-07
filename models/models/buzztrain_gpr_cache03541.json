@@ -1,0 +1,106 @@
+{
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against it in 1911 under the Sherman Anti-Trust Act, but a 1920 Supreme Court decision allowed it to maintain its monopolistic domination. _FOR 10 POINTS_\u2014name this company formed when Andrew Carnegie, John D. Rockefeller, and others were bought out by J.P. Morgan to form the first billion dollar corporation.": {
+    "guess": "United States Steel Corporation",
+    "confidence": [
+      [
+        "United",
+        -0.18762968
+      ],
+      [
+        " States",
+        -0.001092235
+      ],
+      [
+        " Steel",
+        -0.004437597
+      ],
+      [
+        " Corporation",
+        -0.34055358
+      ]
+    ]
+  },
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against": {
+    "guess": "Price controls",
+    "confidence": [
+      [
+        "Price",
+        -0.41522428
+      ],
+      [
+        " controls",
+        -0.5135832
+      ]
+    ]
+  },
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against it in 1911 under the Sherman Anti-Trust Act, but a 1920 Supreme Court decision allowed it to maintain": {
+    "guess": "Standard Oil Co. of New Jersey v. United States",
+    "confidence": [
+      [
+        "Standard",
+        -0.9141572
+      ],
+      [
+        " Oil",
+        -0.00016170357
+      ],
+      [
+        " Co",
+        -0.2276269
+      ],
+      [
+        ".",
+        -0.0026226242
+      ],
+      [
+        " of",
+        -0.08044579
+      ],
+      [
+        " New",
+        -0.0019304205
+      ],
+      [
+        " Jersey",
+        -0.00030733744
+      ],
+      [
+        " v",
+        -0.018957254
+      ],
+      [
+        ".",
+        -0.00059425883
+      ],
+      [
+        " United",
+        -0.0012994037
+      ],
+      [
+        " States",
+        -6.730528e-05
+      ]
+    ]
+  },
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against it in 1911 under the Sherman Anti-Trust Act, but a 1920 Supreme Court decision allowed it to maintain its monopolistic domination. _FOR 10 POINTS_\u2014name this company formed when Andrew Carnegie, John": {
+    "guess": "United States Steel Corporation",
+    "confidence": [
+      [
+        "United",
+        -0.5340723
+      ],
+      [
+        " States",
+        -0.00026288547
+      ],
+      [
+        " Steel",
+        -0.009961126
+      ],
+      [
+        " Corporation",
+        -0.13503817
+      ]
+    ]
+  }
+}

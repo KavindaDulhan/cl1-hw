@@ -1,0 +1,87 @@
+{
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment, and examples written by its \"king\" include \"Wine, Women, and Song\" and (*) \"Tales From The Vienna Woods\". For 10 points, name this Austrian dance associated with both the elder and younger Johann Strauss, the most famous of which is \"The Beautiful Blue Danube\".": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.0480642
+      ],
+      [
+        "alt",
+        -0.00016313401
+      ],
+      [
+        "z",
+        -0.0010507925
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment, and examples written by its \"king\" include \"Wine, Women, and Song\" and (*) \"Tales From The Vienna Woods\". For 10 points, name this Austrian dance associated with both the elder and younger Johann": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.049257807
+      ],
+      [
+        "alt",
+        -0.00084166887
+      ],
+      [
+        "z",
+        -0.0052069556
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment, and examples written by its \"king\" include \"Wine, Women, and Song\" and (*) \"Tales From The": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.4655768
+      ],
+      [
+        "alt",
+        -0.00044938055
+      ],
+      [
+        "z",
+        -0.013682579
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment,": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.263259
+      ],
+      [
+        "alt",
+        -5.8961017e-05
+      ],
+      [
+        "z",
+        -0.0012751155
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.011798675
+      ],
+      [
+        "alt",
+        -6.301394e-05
+      ],
+      [
+        "z",
+        -0.0035373517
+      ]
+    ]
+  }
+}

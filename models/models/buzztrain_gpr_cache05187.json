@@ -1,0 +1,92 @@
+{
+  "NMR-related imaging is based on the fact that resonant frequencies of nuclei experience the Larmor type of this and are proportional to magnetic field strength. For the torque-induced type, one can calculate velocity of this by dividing torque by spin angular momentum, a quantity often computed for the gyroscopic type and important in gyrocompasses. For 10 points, name this phenomenon where the axis": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.7959403
+      ],
+      [
+        "cession",
+        -0.0006710976
+      ]
+    ]
+  },
+  "NMR-related imaging is based on the fact that resonant frequencies of nuclei experience the Larmor type of this and are proportional to magnetic field strength. For the torque-induced type, one can calculate velocity of this by dividing torque by spin angular momentum, a quantity often computed for the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.80384356
+      ]
+    ]
+  },
+  "NMR-related imaging is based on the fact that resonant frequencies of nuclei experience the Larmor type of this and are proportional to magnetic field strength. For the torque-induced type, one can calculate": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.08595369
+      ],
+      [
+        "cession",
+        -9.186123e-05
+      ]
+    ]
+  },
+  "NMR-related imaging is based on the fact that resonant frequencies of nuclei experience the Larmor type": {
+    "guess": "Magnetic Resonance Imaging",
+    "confidence": [
+      [
+        "M",
+        -0.5621385
+      ],
+      [
+        "agnetic",
+        -0.00016790217
+      ],
+      [
+        " Res",
+        -0.5425951
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "ance",
+        -3.631232e-05
+      ],
+      [
+        " Imaging",
+        -3.1186566e-05
+      ]
+    ]
+  },
+  "NMR-related imaging is based on the fact that resonant frequencies of nuclei experience the Larmor type of this and are proportional to magnetic field strength. For the torque-induced type, one can calculate velocity of this by dividing torque by spin angular momentum, a quantity often computed for the gyroscopic type and important in gyrocompasses. For 10 points, name this phenomenon where the axis of a rotating object changes direction, which can be applied in astronomy to Earth's changing axis": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.024454547
+      ],
+      [
+        "cession",
+        -1.60477e-05
+      ]
+    ]
+  },
+  "NMR-related imaging is based on the fact that resonant frequencies of nuclei experience the Larmor type of this and are proportional to magnetic field strength. For the torque-induced type, one can calculate velocity of this by dividing torque by spin angular momentum, a quantity often computed for the gyroscopic type and important in gyrocompasses. For 10 points, name this phenomenon where the axis of a rotating object changes direction, which can be applied in astronomy to Earth's changing axis as it revolves and rotates.": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.008073234
+      ],
+      [
+        "cession",
+        -6.6306106e-06
+      ]
+    ]
+  }
+}

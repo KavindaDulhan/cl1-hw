@@ -1,0 +1,91 @@
+{
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\" types. This concept is contrasted with (*) fate, since it is created by humans' choices, and this concept drives the cycle of rebirth in Buddhism. For 10 points, name this concept in Indian religion,": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -0.0382501
+      ],
+      [
+        "arma",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\" types. This concept is contrasted with (*) fate, since it is created by humans' choices, and this concept drives the cycle of rebirth in Buddhism. For 10 points, name this concept in Indian religion, in which positive actions yield positive results.": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -0.0035276138
+      ],
+      [
+        "arma",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\" types. This concept is contrasted with (*) fate, since it is created by humans' choices, and this concept": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -0.015708433
+      ],
+      [
+        "arma",
+        -1.9504607e-05
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\"": {
+    "guess": "Karma in Jainism",
+    "confidence": [
+      [
+        "K",
+        -0.07079032
+      ],
+      [
+        "arma",
+        -0.10734375
+      ],
+      [
+        " in",
+        -0.0070761056
+      ],
+      [
+        " Jain",
+        -0.0010486469
+      ],
+      [
+        "ism",
+        -0.00040183295
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept": {
+    "guess": "Karma in Jainism",
+    "confidence": [
+      [
+        "K",
+        -0.05829659
+      ],
+      [
+        "arma",
+        -0.00040314416
+      ],
+      [
+        " in",
+        -0.009318609
+      ],
+      [
+        " Jain",
+        -0.08899825
+      ],
+      [
+        "ism",
+        -0.008531715
+      ]
+    ]
+  }
+}

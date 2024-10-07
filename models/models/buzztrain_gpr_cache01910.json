@@ -1,0 +1,117 @@
+{
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival": {
+    "guess": "Shavuot",
+    "confidence": [
+      [
+        "Sh",
+        -0.11356001
+      ],
+      [
+        "av",
+        -0.00071862683
+      ],
+      [
+        "u",
+        -3.7146747e-05
+      ],
+      [
+        "ot",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival may take part in the \"counting of the Omer,\" which continues after the conclusion of this festival. During one event at this festival, \"Dayenu\" is sung, the \"afikomen\" is hidden, and participating children": {
+    "guess": "Passover",
+    "confidence": [
+      [
+        "Pass",
+        -0.0066264393
+      ],
+      [
+        "over",
+        -9.729906e-06
+      ]
+    ]
+  },
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival may take part in the \"counting of the Omer,\" which continues after the conclusion of this festival.": {
+    "guess": "Shavuot",
+    "confidence": [
+      [
+        "Sh",
+        -0.44600806
+      ],
+      [
+        "av",
+        -5.6769813e-06
+      ],
+      [
+        "u",
+        -1.3306016e-05
+      ],
+      [
+        "ot",
+        0.0
+      ]
+    ]
+  },
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival may take part in the \"counting of the Omer,\" which continues after the conclusion of this festival. During one event at this festival, \"Dayenu\" is sung, the \"afikomen\" is hidden, and participating children are asked the \"four questions.\"  During the primary observance of this festival, the Haggadah": {
+    "guess": "Passover in Christianity",
+    "confidence": [
+      [
+        "Pass",
+        -0.0037386832
+      ],
+      [
+        "over",
+        -9.4914985e-06
+      ],
+      [
+        " in",
+        -0.572702
+      ],
+      [
+        " Christianity",
+        -1.0342085
+      ]
+    ]
+  },
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival may take part in the \"counting of the Omer,\" which continues after the conclusion of this festival. During one event at this festival, \"Dayenu\" is sung, the \"afikomen\" is hidden, and participating children are asked the \"four questions.\"  During the primary observance of this festival, the Haggadah is read. It commemorates some miracles including a plague of locusts and the death of the firstborn": {
+    "guess": "Passover",
+    "confidence": [
+      [
+        "Pass",
+        -0.0014603544
+      ],
+      [
+        "over",
+        -1.378283e-05
+      ]
+    ]
+  },
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival may take part in the \"counting of the Omer,\" which continues after the conclusion of this festival. During one event at this festival, \"Dayenu\" is sung, the \"afikomen\" is hidden, and participating children are asked the \"four questions.\"  During the primary observance of this festival, the Haggadah is read. It commemorates some miracles including a plague of locusts and the death of the firstborn of those without lamb's blood on their door. For 10 points, name this festival which has a namesake": {
+    "guess": "Passover",
+    "confidence": [
+      [
+        "Pass",
+        -0.004029838
+      ],
+      [
+        "over",
+        -2.5941605e-05
+      ]
+    ]
+  },
+  "During it, Ezekiel's vision of the valley of dry bones is read, and some participants in this festival may take part in the \"counting of the Omer,\" which continues after the conclusion of this festival. During one event at this festival, \"Dayenu\" is sung, the \"afikomen\" is hidden, and participating children are asked the \"four questions.\"  During the primary observance of this festival, the Haggadah is read. It commemorates some miracles including a plague of locusts and the death of the firstborn of those without lamb's blood on their door. For 10 points, name this festival which has a namesake \"Seder\" meal, prohibits the consumption of leavened bread, and commemorates the Exodus.": {
+    "guess": "Passover",
+    "confidence": [
+      [
+        "Pass",
+        -0.0046475227
+      ],
+      [
+        "over",
+        -2.355753e-05
+      ]
+    ]
+  }
+}

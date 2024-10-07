@@ -1,0 +1,115 @@
+{
+  "Aegeus arrives after the title character of this play has Pelias killed by his two daughters and reveals the prophecy of the birth of Theseus. Most of the action of it occurs in Corinth (*), where the": {
+    "guess": "Medea (play)",
+    "confidence": [
+      [
+        "Med",
+        -0.011868777
+      ],
+      [
+        "ea",
+        -0.000118086034
+      ],
+      [
+        " (",
+        -0.20042537
+      ],
+      [
+        "play",
+        -0.00081760803
+      ],
+      [
+        ")",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "Aegeus arrives after the title character of this play has Pelias killed by his two daughters and reveals the prophecy of the birth of Theseus. Most of the action of it occurs in Corinth (*), where the title character has been left in favor of Glauce, the daughter of Creon whom she later kills with a poisoned dress. FTP, identify this play by Euripedes about the niece of Circe and wife of Jason who": {
+    "guess": "Medea (play)",
+    "confidence": [
+      [
+        "Med",
+        -0.013379855
+      ],
+      [
+        "ea",
+        -4.477578e-05
+      ],
+      [
+        " (",
+        -0.017700898
+      ],
+      [
+        "play",
+        -0.00045402948
+      ],
+      [
+        ")",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "Aegeus arrives after the title character of this play has Pelias killed by his two daughters and reveals the prophecy of the birth of Theseus. Most of the action of it occurs in Corinth (*), where the title character has been left in favor of Glauce, the daughter of Creon whom she later kills with a": {
+    "guess": "Medea (play)",
+    "confidence": [
+      [
+        "Med",
+        -0.0010207825
+      ],
+      [
+        "ea",
+        -8.537869e-06
+      ],
+      [
+        " (",
+        -0.00013214473
+      ],
+      [
+        "play",
+        -2.0815847e-05
+      ],
+      [
+        ")",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Aegeus arrives after the title character of this play has Pelias killed by his two daughters and reveals the prophecy of the birth of Theseus. Most of the action of it occurs in Corinth (*), where the title character has been left in favor of Glauce, the daughter of Creon whom she later kills with a poisoned dress. FTP, identify this play by Euripedes about the niece of Circe and wife of Jason who kills her children to spite him.": {
+    "guess": "Medea (play)",
+    "confidence": [
+      [
+        "Med",
+        -0.0033277876
+      ],
+      [
+        "ea",
+        -4.2630116e-05
+      ],
+      [
+        " (",
+        -0.01346748
+      ],
+      [
+        "play",
+        -0.0002728986
+      ],
+      [
+        ")",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "Aegeus arrives after the title character of this play has Pelias killed by his two daughters and reveals": {
+    "guess": "Medea",
+    "confidence": [
+      [
+        "Med",
+        -0.022010582
+      ],
+      [
+        "ea",
+        -3.6908343e-05
+      ]
+    ]
+  }
+}

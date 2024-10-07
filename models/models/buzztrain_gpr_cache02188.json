@@ -1,0 +1,119 @@
+{
+  "The Frye-Edidin experiments can be rationalized by it as being the result of free diffusion, but one problem with it was discovered by Kusumi and concerned a \"skeleton fence.\" First developed in 1972 by Singer and Nicolson, it states, among other things, that lipids and proteins can rotate. In addition, it describes a certain structure as a functionally asymmetric lipid bilayer studded with embedded proteins that aid in transport. For 10 points, name this model used to conceptualize cell membranes.": {
+    "guess": "Fluid mosaic model",
+    "confidence": [
+      [
+        "Fluid",
+        -0.0032586383
+      ],
+      [
+        " mosaic",
+        -0.0003393959
+      ],
+      [
+        " model",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The Frye-Edidin experiments can be rationalized by it as being the result of free diffusion, but one problem with it was discovered by Kusumi and concerned a \"skeleton fence.\" First developed in 1972 by Singer and Nicolson, it states, among other things, that lipids and proteins can rotate. In addition, it describes a certain structure as a functionally asymmetric lipid bilayer studded with embedded": {
+    "guess": "Fluid mosaic model",
+    "confidence": [
+      [
+        "Fluid",
+        -0.0038923533
+      ],
+      [
+        " mosaic",
+        -0.0014833168
+      ],
+      [
+        " model",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "The Frye-Edidin experiments can be rationalized by it as being the result of free diffusion, but one problem with it was discovered by Kusumi and concerned a \"skeleton fence.\" First developed in 1972 by Singer and Nicolson, it states, among other things, that lipids and proteins can rotate. In addition,": {
+    "guess": "Fluid mosaic model",
+    "confidence": [
+      [
+        "Fluid",
+        -0.024866737
+      ],
+      [
+        " mosaic",
+        -0.02475836
+      ],
+      [
+        " model",
+        -6.408677e-05
+      ]
+    ]
+  },
+  "The Frye-Edidin experiments can be rationalized by it as being the result of free diffusion, but one problem with it was discovered by Kusumi and concerned a \"skeleton fence.\" First developed in 1972 by": {
+    "guess": "Frye-Edidin model",
+    "confidence": [
+      [
+        "F",
+        -1.3259041
+      ],
+      [
+        "ry",
+        -0.25875127
+      ],
+      [
+        "e",
+        -0.0027972723
+      ],
+      [
+        "-",
+        -0.08844465
+      ],
+      [
+        "Ed",
+        -0.0038763161
+      ],
+      [
+        "id",
+        -2.9994528e-05
+      ],
+      [
+        "in",
+        -0.0001039008
+      ],
+      [
+        " model",
+        -0.83806205
+      ]
+    ]
+  },
+  "The Frye-Edidin experiments can be rationalized by it as being the result of free diffusion, but one": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.43856102
+      ],
+      [
+        "uclear",
+        -0.00959388
+      ],
+      [
+        " Over",
+        -0.0569561
+      ],
+      [
+        "ha",
+        -9.150362e-05
+      ],
+      [
+        "user",
+        -2.8160932e-06
+      ],
+      [
+        " effect",
+        -0.018923681
+      ]
+    ]
+  }
+}

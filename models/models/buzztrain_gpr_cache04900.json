@@ -1,0 +1,107 @@
+{
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the Senegal River, Nouadhibou and the capital.  It is bordered to the northwest by the Western Sahara and": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "M",
+        -0.002716188
+      ],
+      [
+        "aur",
+        -2.129266e-05
+      ],
+      [
+        "it",
+        -5.3954464e-05
+      ],
+      [
+        "ania",
+        -7.159661e-05
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the Senegal River, Nouadhibou and the capital.  It is bordered to the northwest by the Western Sahara and to the northeast by Algeria.  FTP, name this western neighbor of Mali, and African nation on the": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "M",
+        -0.0038113534
+      ],
+      [
+        "aur",
+        -5.705376e-05
+      ],
+      [
+        "it",
+        -7.493431e-05
+      ],
+      [
+        "ania",
+        -0.00013691289
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "M",
+        -0.047694646
+      ],
+      [
+        "aur",
+        -0.000134052
+      ],
+      [
+        "it",
+        -3.523949e-05
+      ],
+      [
+        "ania",
+        -0.00012594614
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "M",
+        -0.056379493
+      ],
+      [
+        "aur",
+        -0.048670255
+      ],
+      [
+        "it",
+        -0.00011653639
+      ],
+      [
+        "ania",
+        -0.00068681774
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the Senegal River, Nouadhibou and the capital.  It is bordered to the northwest by the Western Sahara and to the northeast by Algeria.  FTP, name this western neighbor of Mali, and African nation on the Atlantic Ocean with its capital at Nouakchott.": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "M",
+        -0.0019411306
+      ],
+      [
+        "aur",
+        -7.612634e-05
+      ],
+      [
+        "it",
+        -7.362307e-05
+      ],
+      [
+        "ania",
+        -7.588794e-05
+      ]
+    ]
+  }
+}
