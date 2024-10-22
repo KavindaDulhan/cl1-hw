@@ -127,10 +127,10 @@ Your network needs to use the layers defined in the constructor:
  * `linear1 = nn.Linear`
  * `linear2 = nn.Linear`
 
-Between `linear1` and `linear2` you need to have a non-linear activation (the
-unit tests assume ReLU).  You *may* have a dropout anywhere you like in the
-network, but it must use the `nn_dropout` so we can turn it off for
-deterministic testing.
+Between `linear1` and `linear2` (but not after `linear2`) you need to have a
+non-linear activation (the unit tests assume ReLU).  You *may* have a dropout
+anywhere you like in the network, but it must use the `nn_dropout` so we can
+turn it off for deterministic testing.
 
 Loss function
 ---------------
@@ -160,7 +160,7 @@ What you have to do
 
 Coding:
 1. Understand the structure of the code.
-2. Write the data vectorize funtion.
+2. Understand the vectorize funtion.
 3. Write DAN model initialization `__init__` of `DanModel`: replace `self.network = None` with a real network.
 4. Write model forward function.
 5. Write the model training/testing function in `batch_step`. We don't have unit tests for this part, but to get reasonable performance, it's necessary to get it correct.
@@ -179,7 +179,7 @@ Inspecting Training
 To help you debug and to inspect how the representations evolve, we provide a
 utility to plot the internal representations.
 
-    ./venv/bin/python3 -i dan_guesser.py --secondary_questions mini-dev --questions mini-train --dan_guesser_plot_viz train --dan_guesser_hidden_units 2 --dan_guesser_num_workers 1 --dan_guesser_num_epochs 50 --dan_guesser_embed_dim 2 --dan_guesser_ans_min_freq=0 --dan_guesser_nn_dropout 0 --dan_guesser_vocab_size 20
+  ./venv/bin/python3 -i dan_guesser.py --secondary_questions mini-dev --questions mini-train --dan_guesser_plot_viz viz --dan_guesser_hidden_units 2 --dan_guesser_num_workers 1 --dan_guesser_num_epochs 50 --dan_guesser_embed_dim 2 --dan_guesser_ans_min_freq=0 --dan_guesser_nn_dropout 0 --dan_guesser_vocab_size 20
 
 Will show you the evolution in pdf files that start with ``train``.  For the data and
 parameter plots, however, it will only show you the first two dimensions.  If
@@ -217,7 +217,10 @@ What to turn in
 ----------------
 
 1. Submit your `dan_guesser.py` file and `parameter.py` file (if you change any defaults)
-2. Submit an analysis document if you did any of the extra credit (be sure to give full command line invocation and example outputs)
+2. Submit an analysis PDF document if you did any of the extra credit.  This document should contain:
+      * An explanation of what you did
+      * Your results on the full dataset (should be your accuracy given a given number of answer ... bigger the better)
+      * The full command line invocation and example outputs
 
 
 Grading
