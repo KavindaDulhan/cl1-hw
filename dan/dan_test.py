@@ -313,6 +313,8 @@ class DanTest(unittest.TestCase):
         # should get zero errors with right labels
         right_labels = ["pound", "rouble", "moscow", "london"]
         wrong_labels = ["london", "pound", "rouble", "moscow"]
+
+        print("###############################################################################")
         
         errors = number_errors(self.documents, self.length, right_labels,
                                self.full_data, self.mr_dan.dan_model)
