@@ -219,6 +219,7 @@ class DanModel(nn.Module):
         self.emb_dim = emb_dim
         self.n_hidden_units = n_hidden_units
         self.nn_dropout = nn_dropout
+        self.linear2 = nn.Linear(n_hidden_units, n_answers)
         self.criterion = criterion
         criterion_name = type(self.criterion).__name__
         
@@ -244,7 +245,12 @@ class DanModel(nn.Module):
         # layers / functions to consider are Dropout, ReLU.
         # For test cases, the network we consider is - linear1 -> ReLU() -> Dropout(0.5) -> linear2
 
-        self.network = None
+        self.network = nn.Sequential(
+            self.linear1,
+            activation,
+            nn.Dropout(self.nn_dropout),
+            self.linear2
+        )
         #### Your code here
 
         # To make this work on CUDA, you need to move it to the appropriate
@@ -252,19 +258,20 @@ class DanModel(nn.Module):
         if self.network:
             self.network = self.network.to(device)
 
-        self.initialize_parameters(initialization)
+        self.initialize_parameters(initialization, n_answers)
 
 
-    def initialize_parameters(self, initialization):
+    def initialize_parameters(self, initialization, n_answers):
         if initialization=="identity":
-            assert emb_dim==n_hidden_units, "Cannot initialize to identiy matrix if embedding dimension is not hidden dimension"
-            if loss == 'cross_entropy':
-                assert n_hidden_units == n_answers, "Cannot initialize to identity matrix if hidden dimension doesn't match the number of answers"            
+            assert self.emb_dim==self.n_hidden_units, "Cannot initialize to identiy matrix if embedding dimension is not hidden dimension"
+            criterion_name = type(self.criterion).__name__
+            if criterion_name == 'CrossEntropyLoss':
+                assert self.n_hidden_units == n_answers, "Cannot initialize to identity matrix if hidden dimension doesn't match the number of answers"            
             with torch.no_grad():
-                self.linear1.weight.data.copy_(torch.eye(n_hidden_units))
-                self.linear2.weight.data.copy_(torch.eye(n_hidden_units))
-                self.linear1.bias.data.copy_(torch.zeros(n_hidden_units))
-                self.linear2.bias.data.copy_(torch.zeros(n_hidden_units))                
+                self.linear1.weight.data.copy_(torch.eye(self.n_hidden_units))
+                self.linear2.weight.data.copy_(torch.eye(self.n_hidden_units))
+                self.linear1.bias.data.copy_(torch.zeros(self.n_hidden_units))
+                self.linear2.bias.data.copy_(torch.zeros(self.n_hidden_units))                
             
 
 
@@ -287,6 +294,12 @@ class DanModel(nn.Module):
         # dimensions match and to use the unit test to check your work.
         # In other words, we encourage you to use it.
 
+        # Sum over the time steps (words) and divide by the length to get the average
+        sum_embeddings = torch.sum(text_embeddings, dim=1)  # [batch_size x emb_dim]
+
+        # Average embeddings
+        average = sum_embeddings / text_len.view(-1, 1).float()  # [batch_size x emb_dim]
+
         return average
 
     def forward(self, input_text: Iterable[int], text_len: Tensor):
@@ -303,6 +316,15 @@ class DanModel(nn.Module):
         # Complete the forward funtion.  First look up the word embeddings.
           # Then average them
           # Before feeding them through the network
+
+        # Look up word embeddings
+        text_embeddings = self.embeddings(input_text)  # [batch_size x max_len x emb_dim]
+
+        # Average the word embeddings
+        avg_embeddings = self.average(text_embeddings, text_len)  # [batch_size x emb_dim]
+
+        # Pass through the network to get the final representation
+        representation = self.network(avg_embeddings)  # [batch_size x n_answers or n_hidden_units]
 
         return representation
 
@@ -759,14 +781,33 @@ class DanGuesser(Guesser):
         criterion = self.dan_model.criterion
 
         # Prepare the optimizer to ignore gradients and compute predictions
+        optimizer.zero_grad()
 
+        # Forward pass through the model
+        logits = model(example, example_length)
+
+        # Convert answers to tensor indices based on answer_lookup
+        answer_indices = [answer_lookup.index(answer) for answer in answers]
+        answers_tensor = torch.tensor(answer_indices, dtype=torch.long)
 
         # Compute the loss
         if type(criterion).__name__ == "MarginRankingLoss":
-              loss = None
+            pos_repr = model(positive, positive_length)
+            neg_repr = model(negative, negative_length)
+            loss = criterion(logits, pos_repr, neg_repr)
+            print("Margin losss",loss)
         elif type(criterion).__name__ == "CrossEntropyLoss":
-              loss = None
-              
+            loss = criterion(logits, answers_tensor)
+
+        # Backward pass
+        loss.backward()
+
+        # Optional gradient clipping
+        if grad_clip is not None:
+            torch.nn.utils.clip_grad_norm_(model.parameters(), grad_clip)
+
+        optimizer.step()
+
         return loss
 
 
@@ -838,11 +879,26 @@ def number_errors(question_text: torch.Tensor, question_len: torch.Tensor,
     # Call the model to get the representation
     # You'll need to update the code here
     #### Your code here
-    error = -1
+
+    # Call the model to get the representation
+    # with torch.no_grad():  # Disable gradient calculation for evaluation
+    logits = model(question_text, question_len)  # Get model predictions
+
+    error = 0
     if type(model.criterion).__name__ == "MarginRankingLoss":
-        None
+        answer_indices = np.char.lower(train_data.answer_indices)
+        for label in labels:
+            if label not in answer_indices:  # Ensure the label is valid
+                error += 1  # Increment error if label is invalid
+            else:
+                pass
     elif type(model.criterion).__name__ == "CrossEntropyLoss":
-        error = len(labels)        
+        label_indices = [train_data.answer_indices.index(label) for label in labels]
+        label_tensor = torch.tensor(label_indices, dtype=torch.long).to(logits.device)
+
+        # Compare model predictions with actual labels
+        predicted_indices = torch.argmax(logits, dim=1)  # Get predicted class indices
+        error = (label_tensor != predicted_indices).sum().item()  # Count mismatches
 
     return error
     
