@@ -1,12 +1,13 @@
 # CMSC 723
 # Template by: Jordan Boyd-Graber
-# Homework submission by: NAME
+# Homework submission by: Kavinda Kehelella
 
 import sys
 from typing import Iterable, Tuple, Dict
 
 
 import nltk
+nltk.download('dependency_treebank')
 from nltk.corpus import dependency_treebank
 from nltk.classify.maxent import MaxentClassifier
 from nltk.classify.util import accuracy
@@ -141,8 +142,15 @@ class ShiftReduceState:
         index = -1
         assert len(self.buffer) > 0, "Buffer is empty for shift"
         # Implement this
+        # Pop the top item from the buffer and push it onto the stack
+        buffer_top = self.buffer.pop()
+        self.stack.append(buffer_top)
 
-        return Transition('s', None)
+        # Adding features
+        transition = Transition('s', None)
+        [transition.add_feature(feature_name, feature_value) for feature_name, feature_value in self.feature_extractor(index)]
+
+        return transition
 
     def left_arc(self) -> Transition:
         """
@@ -155,9 +163,17 @@ class ShiftReduceState:
         assert len(self.stack) > 0, "Stack is empty for left arc"
 
         # Implement this
+        buffer_top = self.buffer[-1]    # Top item from the buffer (head of the dependency)
+        stack_top = self.stack.pop()    # Top item from the stack (dependent of the buffer_top)
 
+        # Add the left edge to the list of edges
+        self.edges.append((buffer_top, stack_top))  
+        
+        # Adding features
+        transition = Transition('l', (buffer_top, stack_top))
+        [transition.add_feature(feature_name, feature_value) for feature_name, feature_value in self.feature_extractor(stack_top)]
 
-        return Transition('l', (buffer_top, stack_top))
+        return transition
 
     def right_arc(self) -> Transition:
         """
@@ -170,8 +186,18 @@ class ShiftReduceState:
         assert len(self.stack) > 0, "Stack is empty for right arc"
 
         # Implement this
+        stack_top = self.stack.pop()    # Top item from the stack (head of the dependency)
+        buffer_top = self.buffer.pop()  # Top item from the buffer (dependent of the stack_top)
+        self.buffer.append(stack_top)   # Push stack_top to the buffer
 
-        return Transition('r', (stack_top, buffer_top))
+        # Add the right edge to the list of edges
+        self.edges.append((stack_top, buffer_top))
+
+        # Adding features
+        transition = Transition('r', (stack_top, buffer_top))
+        [transition.add_feature(feature_name, feature_value) for feature_name, feature_value in self.feature_extractor(buffer_top)] 
+
+        return transition
     
     def feature_extractor(self, index: int) -> Iterable[Tuple[str, float]]:
         """
@@ -184,10 +210,24 @@ class ShiftReduceState:
         :return: Yield tuples of feature -> value
         """
 
+        buffer_top = -1
+        stack_top = -1
+        if len(self.buffer) > 0:
+            buffer_top = self.buffer[-1]
+        if len(self.stack) > 0:
+            stack_top = self.stack[-1]
+
+        # Included features after feature engineering
         yield ("Buffer size", len(self.buffer))
         yield ("Stack size", len(self.stack))
-    
-        # Implement this
+        yield ("Index", index)
+        yield ("Top buffer word", buffer_top)
+        yield ("Index plus buffer top", index + buffer_top)
+        yield ("Top stack word", stack_top)
+        yield ("Index plus stack top", index + stack_top)
+
+        # Excluded features after feature engineering
+        # yield ("Sentence length", len(self.stack) + len(self.buffer))
 
 
 
@@ -222,18 +262,39 @@ def transition_sequence(sentence: DependencyGraph) -> Iterable[Transition]:
     :return: A list of transition objects that creates the dependency parse
     tree.
     """
-
- 
-    
-
     # Exclude the root node
+    
+    # Extract words and position tags from the sentence
+    words = [node["word"] for node in sentence.nodes.values()]
+    pos_tags = [node["tag"] for node in sentence.nodes.values()]
+    words[0] = kROOT    # Include the root node
 
+    # Call the state-reduce parser
+    state = ShiftReduceState(words, pos_tags)   
 
-
-
-
-    return
-    yield # We write this yield to make the function iterable
+    while len(state.buffer) != 0:
+        if len(state.stack) > 1:
+            head_id = sentence.nodes[state.buffer[-1]]["head"]
+            if state.stack[-1] == head_id:
+                for depe in sentence.nodes[state.buffer[-1]]["deps"]['']:
+                    if depe in state.buffer:
+                        yield state.shift()
+                        break
+                else:
+                    yield state.right_arc()
+            else:
+                head_id = sentence.nodes[state.stack[-1]]["head"]
+                if state.buffer[-1] == head_id and len(sentence.nodes[state.stack[-1]]["deps"]['']) <= 1:
+                    yield state.left_arc()
+                else:
+                    yield state.shift()
+        elif len(state.buffer) == 1 and len(state.stack) == 1 : # This is the last right arc from a node to the ROOT
+            yield state.right_arc()
+        else:
+            yield state.shift()
+    
+    # return
+    # yield # We write this yield to make the function iterable
 
 def parse_from_transition(word_sequence: Iterable[Tuple[str, str]], transitions: Iterable[Transition]) -> DependencyGraph:
   """
@@ -252,15 +313,20 @@ def parse_from_transition(word_sequence: Iterable[Tuple[str, str]], transitions:
 
   sent = ['']*(len(word_sequence))         
 
+  state = ShiftReduceState(
+        words=[word for word, pos in word_sequence],
+        pos=[pos for word, pos in word_sequence]
+    )
 
-  
-  # get the head index of each word
+  # Apply transitions
+  for transition in transitions:
+        state.apply(transition)
 
-      
+  edge_dict = {dep: head for head, dep in state.edges}  # Convert edges to a dictionary
 
   # You're allowed to create your DependencyGraph however you like, but this
   # is how I did it.
-  reconstructed = '\n'.join(sent)
+  reconstructed = '\n'.join([f"{word}\t{tag}\t{edge_dict[index]}" for index, (word, tag) in enumerate(word_sequence[1:], start=1)])
   return nltk.parse.dependencygraph.DependencyGraph(reconstructed)
 
 def sentence_attachment_accuracy(reference: DependencyGraph, sample: DependencyGraph) -> float :
@@ -270,6 +336,16 @@ def sentence_attachment_accuracy(reference: DependencyGraph, sample: DependencyG
     """
 
     correct = 0                                                            
+    # Extract the heads from the reference and sample graphs
+    reference_heads = {int(node['address']): int(node['head']) for node in reference.nodes.values() if node['address'] != 0}
+    sample_heads = {int(node['address']): int(node['head']) for node in sample.nodes.values() if node['address'] != 0}
+    
+    # Check each node in the sample against the reference
+    for index in sample_heads:
+        if index in reference_heads:
+            if reference_heads[index] == sample_heads[index]:
+                correct += 1  # Count correct attachments
+
     return correct
 
 def attachment_accuracy(classifier: ClassifierI, reference_sentences: Iterable[DependencyGraph]) -> float:
@@ -284,6 +360,10 @@ def attachment_accuracy(classifier: ClassifierI, reference_sentences: Iterable[D
         sentence = example["sentence"]
         num_attachments += len(sentence.nodes) - 1                                     
 
+        predictions = [classifier.classify(x[0]) for x in example["features"]]
+        labels = [x[1] for x in example["features"]]
+        correct += sum(1 for x, y in zip(predictions, labels) if x == y and y != 's')                              
+
     return correct / num_attachments
 
 def classifier_accuracy(classifier: ClassifierI, reference_transitions: Iterable[Tuple[Dict[str, float], str]]) -> float:
@@ -295,12 +375,38 @@ def classifier_accuracy(classifier: ClassifierI, reference_transitions: Iterable
 
     correct = 0
     total_examples = 0
+
+    # Extra credit question 3 - Error analysis
+    # s_as_l = 0
+    # s_as_r = 0
+    # l_as_s = 0
+    # l_as_r = 0
+    # r_as_s = 0
+    # r_as_l = 0
+
     for sentence in reference_transitions:
         predictions = [classifier.classify(x[0]) for x in sentence["features"]]
         labels = [x[1] for x in sentence["features"]]
 
+        # Extra credit question 3 - Error analysis
+        # for x, y in zip(predictions, labels):
+        #     if x == 'l' and y == 's':
+        #         s_as_l += 1
+        #     if x == 'r' and y == 's':
+        #         s_as_r += 1
+        #     if x == 's' and y == 'l':
+        #         l_as_s += 1
+        #     if x == 'r' and y == 'l':
+        #         l_as_r += 1
+        #     if x == 's' and y == 'r':
+        #         r_as_s += 1
+        #     if x == 'l' and y == 'r':
+        #         r_as_l += 1
+
         correct += sum(1 for x, y in zip(predictions, labels) if x == y)
         total_examples += len(predictions)
+    # print("s_as_l", s_as_l, "\ns_as_r", s_as_r, "\nl_as_s", l_as_s, "\nl_as_r", l_as_r, "\nr_as_s", r_as_s, "\nr_as_l", r_as_l)
+    # print("s_as_l_ratio", s_as_l/ total_examples, "\ns_as_r_ratio", s_as_r/ total_examples, "\nl_as_s_ratio", l_as_s/ total_examples, "\nl_as_r_ratio", l_as_r/ total_examples, "\nr_as_s_ratio", r_as_s/ total_examples, "\nr_as_l_ratio", r_as_l/ total_examples)
     return correct / total_examples
         
 
