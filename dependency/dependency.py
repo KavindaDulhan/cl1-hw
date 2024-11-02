@@ -185,7 +185,12 @@ class ShiftReduceState:
         assert len(self.buffer) > 0, "Buffer is empty for right arc"
         assert len(self.stack) > 0, "Stack is empty for right arc"
 
-        # Implement this
+        # Implement additional features.  Because the goal is to train
+        # a classifier to predict the type, you cannot use type itself
+        # as a feature (nor the identify of the words in the edge).
+        # However, you can (and should) inspect the buffer and the
+        # stack to extract features including the part of speech,
+        # word, depth in tree, etc.
         stack_top = self.stack.pop()    # Top item from the stack (head of the dependency)
         buffer_top = self.buffer.pop()  # Top item from the buffer (dependent of the stack_top)
         self.buffer.append(stack_top)   # Push stack_top to the buffer
@@ -417,13 +422,6 @@ if __name__ == "__main__":
     sent = nltk.parse.dependencygraph.DependencyGraph(kCORRECT)
     words = [x.split('\t')[0] for x in kCORRECT.split('\n')]
     words = [kROOT] + words
-
-    print(type(sent))
-
-    index = 1
-    for ii in sent.to_conll(4).split("\n"):
-        print("%i\t%s" % (index, ii))
-        index += 1
 
     for ii in transition_sequence(sent):
         print(ii.pretty_print(sent))
