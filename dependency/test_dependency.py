@@ -129,3 +129,29 @@ class TestStringMethods(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# # Error scenario
+
+# Sentence = "I will teach a class next Monday on Semantics."
+# kERROR = """I\SBJ\t3
+# will\tAUX\t3
+# teach\tPRED\t0
+# a\tDET\t5
+# class\tOBJ\t3
+# next\tatt\t7
+# Monday\tATT\t3
+# on\tatt\t9
+# Semantics\tPC\t5
+# .\tPU\t9"""
+
+# [{"stack": [0], "buffer": [10, 9, 8, 7, 6, 5, 4, 3, 2, 1], "edges": []},                     #1: shift
+# {"stack": [0, 1], "buffer": [10, 9, 8, 7, 6, 5, 4, 3, 2], "edges": [(3,1)]},                #2: left
+# {"stack": [0], "buffer": [10, 9, 8, 7, 6, 5, 4, 3, 2], "edges": [(3,1)]},                   #3: shift
+# {"stack": [0, 2], "buffer": [10, 9, 8, 7, 6, 5, 4, 3], "edges": [(3,1), (3,2)]},            #4: left
+# {"stack": [0], "buffer": [10, 9, 8, 7, 6, 5, 4, 3], "edges": [(3,1), (3,2)]},               #5: shift
+# {"stack": [0, 3], "buffer": [10, 9, 8, 7, 6, 5, 4], "edges": [(3,1), (3,2)]},        #6: shift
+# {"stack": [0, 3, 4], "buffer": [10, 9, 8, 7, 6, 5], "edges": [(3,1), (3,2)]},        #7: shift
+# {"stack": [0], "buffer": [3], "edges": [(3,1), (3,2), (3,4), (0,3)]},    #7: right
+# {"stack": [], "buffer": [0], "edges": [(3,1), (3,2), (3,4), (0,3)]},     #8: shift
+# {"stack": [0], "buffer": [], "edges": [(3,1), (3,2), (3,4), (0,3)]}      #9: null
+# ] 
