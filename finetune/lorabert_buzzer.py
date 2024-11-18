@@ -21,6 +21,8 @@ def initialize_base_model(helper_function=AutoModelForSequenceClassification,
     model = helper_function.from_pretrained(model_name, num_labels=2)
 
     # Freeze the model parameters
+    for param in model.base_model.parameters():
+        param.requires_grad = False
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     return model, tokenizer
@@ -32,8 +34,8 @@ class LoRALayer(torch.nn.Module):
         """
         super().__init__()
 
-        self.A = None
-        self.B = None
+        self.A = torch.nn.Parameter(torch.randn(in_dim, rank) * 0.01)
+        self.B = torch.nn.Parameter(torch.randn(rank, out_dim) * 0.01)
         self.alpha = 0
 
         self.in_dim = in_dim
@@ -41,6 +43,7 @@ class LoRALayer(torch.nn.Module):
 
         # Complete the initialization of the two weight matrices
         self.alpha = alpha
+        self.rank = rank
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -56,6 +59,9 @@ class LoRALayer(torch.nn.Module):
             output_dimension = torch.Size((x.shape[0], self.out_dim))
 
         # Compute the low-rank delta
+        if self.rank > 0:
+            # Compute the low-rank delta
+            delta =  x @ self.A @ self.B * self.alpha
 
         assert delta.shape == output_dimension, "Delta size %s inconsistent with output dimension %i" % (str(delta.shape), self.out_dim)
         return delta
@@ -70,6 +76,8 @@ class LinearLoRA(torch.nn.Module):
         self.linear = linear
 
         # Initialize the LoRA layer
+        self.lora = LoRALayer(linear.in_features, linear.out_features, rank, alpha)
+
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -78,7 +86,8 @@ class LinearLoRA(torch.nn.Module):
         result = self.linear(x)
 
         # Add the LoRA delta
-        return result
+        delta = self.lora(x)
+        return result + delta
 
 # TODO(jbg): Get rid of the hardcoded modules so that it generalizes to other models
 def add_lora(model: torch.nn.Module, rank: int, alpha: float, 
@@ -93,6 +102,13 @@ def add_lora(model: torch.nn.Module, rank: int, alpha: float,
         modules_to_adapt: The key of the dictionary is the model component to adapt (e.g., "attention" or "ffn"), and the values are specific linear layers in that component to adapt.  Anything in this dictionary will be adapted, but anything else will remain frozen.
     """
     
+    for layer in model.layer:
+        for module_name in modules_to_adapt:
+            module = getattr(layer, module_name)
+            for layer_name in modules_to_adapt[module_name]:
+                linear_layer = getattr(module, layer_name)
+                lora_layer = LinearLoRA(linear_layer, rank, alpha)
+                setattr(module, layer_name, lora_layer)
 
     return model
                 
